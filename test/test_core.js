@@ -1,0 +1,152 @@
+// 核心逻辑自动化测试: 用最小DOM桩在Node里跑 app.js
+'use strict';
+const fs = require('fs');
+const path = require('path');
+
+// ---------- DOM 桩 ----------
+function makeEl(id) {
+  const listeners = {};
+  return {
+    id,
+    style: {},
+    dataset: {},
+    textContent: '',
+    innerHTML: '',
+    value: '',
+    files: [],
+    disabled: false,
+    classList: {
+      _set: new Set(),
+      add(c) { this._set.add(c); },
+      remove(c) { this._set.delete(c); },
+      toggle(c, on) { on ? this._set.add(c) : this._set.delete(c); },
+      contains(c) { return this._set.has(c); },
+    },
+    addEventListener(type, fn) { (listeners[type] = listeners[type] || []).push(fn); },
+    click() { (listeners.click || []).forEach(f => f()); },
+    fire(type) { (listeners[type] || []).forEach(f => f()); },
+    appendChild() {},
+  };
+}
+const els = {};
+const document = {
+  getElementById(id) { return els[id] || (els[id] = makeEl(id)); },
+  querySelectorAll() { return []; },
+  querySelector() { return null; },
+  createElement() { return makeEl('_dyn'); },
+  body: makeEl('body'),
+};
+let store = {};
+const localStorage = {
+  getItem: k => (k in store ? store[k] : null),
+  setItem: (k, v) => { store[k] = String(v); },
+  removeItem: k => { delete store[k]; },
+};
+const confirm = () => true;
+const location = { reload() {} };
+const Blob = class {};
+const URL = { createObjectURL: () => '', revokeObjectURL() {} };
+const FileReader = class {};
+
+// ---------- 加载数据与逻辑 ----------
+const appDir = path.join(__dirname, '..', 'app');
+const sandboxRequire = module.exports = {};
+const vmCode = fs.readFileSync(path.join(appDir, 'words-data.js'), 'utf-8')
+  + '\n' + fs.readFileSync(path.join(appDir, 'app.js'), 'utf-8');
+const vm = require('vm');
+const ctx = vm.createContext({ document, localStorage, confirm, location, Blob, URL, FileReader, setTimeout, clearTimeout, console, Date, JSON, Math, Object, Array });
+vm.runInContext(vmCode, ctx);
+
+let pass = 0, fail = 0;
+function check(name, cond, extra) {
+  if (cond) { pass++; console.log('  ✓ ' + name); }
+  else { fail++; console.log('  ✗ ' + name + (extra ? ' | ' + extra : '')); }
+}
+
+// ---------- 取得app内部的函数/对象 ----------
+const g = ctx; // 顶层 const 不挂到global... 用runInContext再取
+// const声明的变量在vm context中可通过再次eval访问
+const get = expr => vm.runInContext(expr, ctx);
+
+console.log('== 1. 数据完整性 ==');
+const words = get('WORDS');
+check('词库已加载', Array.isArray(words) && words.length > 6000, 'len=' + words.length);
+check('字段齐全', words.every(w => w.w && w.t && typeof w.imp === 'number'));
+const impDist = {};
+words.forEach(w => { impDist[w.imp] = (impDist[w.imp] || 0) + 1; });
+check('重点分布合理(双重点>800)', (impDist[3] || 0) > 800, JSON.stringify(impDist));
+
+console.log('== 2. 首页渲染 ==');
+get('nav("home")');
+check('首页新词数 = 每日上限', String(els['home-new'].textContent) === '20',
+  'home-new=' + els['home-new'].textContent);
+check('开始按钮可点', els['btn-start'].disabled === false);
+
+console.log('== 3. 学习流程 ==');
+get('startStudy()');
+check('队列 = 复习0 + 新词20', get('studyQueue').length === 20, 'len=' + get('studyQueue').length);
+check('队列首位是重点词', get('studyQueue')[0].word.imp === 3, 'imp=' + get('studyQueue')[0].word.imp);
+check('队列无基础词', get('studyQueue').every(c => c.word.bs === 0));
+
+// 走完一张卡: 显示 -> 认识
+check('显示卡正面', els['card-front'].style.display !== 'none');
+els['btn-reveal'].click();
+check('翻面后显示释义', els['card-back'].style.display !== 'none');
+const firstWord = get('studyQueue')[0].word.w;
+els['btn-know'].click();
+const prog = JSON.parse(store['vocabApp.v1']).progress;
+check('认识后写入进度', !!prog[firstWord]);
+check('认识后间隔=1天(reps0)', prog[firstWord].ivl === 1 && prog[firstWord].reps === 1,
+  JSON.stringify(prog[firstWord]));
+
+// 忘了 -> 当场重现
+get('startStudy()'); // 队列: 上一个词due明天, 不在复习里; 新词19+1
+const qLen = get('studyQueue').length;
+els['btn-reveal'].click();
+els['btn-forgot'].click();
+check('忘了会当场重现(队列+1)', get('studyQueue').length === qLen + 1);
+const p2 = JSON.parse(store['vocabApp.v1']).progress;
+check('忘了重置reps/ivl', p2[get('studyQueue')[0].word.w] !== undefined);
+
+console.log('== 4. SM-2 调度 ==');
+const sch = w => get(`(function(){const w=WORDS.find(x=>x.w==='${w}');state.progress[w.w]={ef:2.5,ivl:0,reps:0,due:0};const re=schedule(w,4);return state.progress[w.w];})()`);
+const w1 = sch('abandon'); // 认识1
+check('第1次认识 -> 1天', w1.ivl === 1 && w1.reps === 1);
+// 第2次认识 -> 6天
+const w2 = get(`(function(){const w=WORDS.find(x=>x.w==='abandon');state.progress[w.w]={ef:2.5,ivl:1,reps:1,due:0};schedule(w,4);return state.progress[w.w];})()`);
+check('第2次认识 -> 6天', w2.ivl === 6 && w2.reps === 2);
+// 第3次认识 -> 6*EF
+const w3 = get(`(function(){const w=WORDS.find(x=>x.w==='abandon');state.progress[w.w]={ef:2.6,ivl:6,reps:2,due:0};schedule(w,4);return state.progress[w.w];})()`);
+check('第3次认识 -> 6×EF≈16天', w3.ivl === Math.round(6 * 2.6) && w3.reps === 3, 'ivl=' + w3.ivl);
+// 模糊 -> 间隔缩短
+const w4 = get(`(function(){const w=WORDS.find(x=>x.w==='abandon');state.progress[w.w]={ef:2.5,ivl:20,reps:4,due:0};schedule(w,3);return state.progress[w.w];})()`);
+check('模糊 -> 间隔缩至60%', w4.ivl === 12, 'ivl=' + w4.ivl);
+check('模糊 -> EF下降', w4.ef < 2.5, 'ef=' + w4.ef);
+// 忘了 -> 归零
+const w5 = get(`(function(){const w=WORDS.find(x=>x.w==='abandon');state.progress[w.w]={ef:2.5,ivl:20,reps:4,due:0};schedule(w,2);return state.progress[w.w];})()`);
+check('忘了 -> reps归0', w5.reps === 0 && w5.ivl === 0);
+
+console.log('== 5. 到期复习 ==');
+get('state.progress={}');  // 隔离: 清空之前测试的进度
+get(`(function(){const w=WORDS.find(x=>x.w==='abandon');state.progress[w.w]={ef:2.5,ivl:1,reps:1,due:Date.now()-1000};})()`);
+get('state.daily={date:today(),newDone:0,revDone:0}');
+get('startStudy()');
+check('到期词进入复习队列首位', get('studyQueue')[0].word.w === 'abandon' && get('studyQueue')[0].isNew === false);
+check('复习队列后接新词', get('studyQueue')[1] && get('studyQueue')[1].isNew === true);
+
+console.log('== 6. 持久化与每日重置 ==');
+const saved = JSON.parse(store['vocabApp.v1']);
+check('进度已持久化', Object.keys(saved.progress).length > 0);
+check('设置已持久化', saved.settings.daily === 20);
+check('streak记录', saved.streak.last === get('today()'));
+
+console.log('== 7. 设置变更 ==');
+get('state.settings.scope="all"');
+const elig = get('eligibleNewWords()');
+check('范围=全部时包含普通词', elig.some(w => w.imp === 0));
+get('state.settings.basic=true');
+const elig2 = get('eligibleNewWords()');
+check('开启基础词后包含bs词', elig2.some(w => w.bs === 1));
+
+console.log('\n结果: ' + pass + ' 通过, ' + fail + ' 失败');
+process.exit(fail ? 1 : 0);

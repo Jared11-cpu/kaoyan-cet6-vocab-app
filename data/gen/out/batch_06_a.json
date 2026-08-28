@@ -1,0 +1,658 @@
+[
+  {
+    "w": "classical",
+    "r": "class(等级、类别) + -ical(形容词后缀，与…有关的) → 属于最高等级的 → 古典的"
+  },
+  {
+    "w": "classification",
+    "r": "class(类别) + -ify(使成为) + -ication(名词后缀，行为或结果) → 分门别类的行为 → 分类",
+    "c": [
+      "Biologists use a standard system for the classification of living organisms.",
+      "生物学家使用一套标准系统对生物进行分类。"
+    ]
+  },
+  {
+    "w": "classify",
+    "r": "class(类别) + -ify(使成为) → 使归入某类别 → 分类"
+  },
+  {
+    "w": "classmate",
+    "r": "复合: class(班级) + mate(伙伴) → 同一班级的伙伴 → 同学"
+  },
+  {
+    "w": "classroom",
+    "r": "复合: class(班级、上课) + room(房间) → 上课的房间 → 教室"
+  },
+  {
+    "w": "clatter",
+    "r": "联想: clat 拟声「咔嗒」+ -er(表反复) → 连续的咔嗒声 → 得得声，卡嗒声",
+    "c": [
+      "The clatter of keyboard keys filled the open-plan office throughout the morning.",
+      "整个上午，敲击键盘的咔嗒声充斥着开放式办公室。"
+    ]
+  },
+  {
+    "w": "clause",
+    "r": "联想: 来自拉丁语 claudere「关闭」，原指合同中封闭的一段 → 条款",
+    "c": [
+      "The contract includes a clause that prohibits unauthorized disclosure of sensitive data.",
+      "合同中包含一项禁止未经授权披露敏感数据的条款。"
+    ]
+  },
+  {
+    "w": "claw",
+    "r": "联想: 拟声词根，指甲抓挠之声 → 爪",
+    "c": [
+      "The eagle used its sharp claw to grasp the fish from the surface of the lake.",
+      "雄鹰用锋利的爪子从湖面抓起了那条鱼。"
+    ]
+  },
+  {
+    "w": "clay",
+    "r": "联想: 与 cling(粘) 同源，有黏性的土 → 黏土",
+    "c": [
+      "Potters shape wet clay on a wheel to create bowls, vases, and other vessels.",
+      "陶工在转轮上塑形湿黏土，制作碗、花瓶及其他器皿。"
+    ]
+  },
+  {
+    "w": "clean",
+    "r": "联想: 来自古英语 clǣne「纯洁、干净」，与 clear 同源 → 干净的"
+  },
+  {
+    "w": "cleanliness",
+    "r": "clean(干净的) + -li- + -ness(名词后缀，状态) → 干净的状态 → 清洁",
+    "c": [
+      "Regular hand washing is essential to maintain personal cleanliness and prevent infection.",
+      "勤洗手对保持个人清洁和预防感染至关重要。"
+    ]
+  },
+  {
+    "w": "clear",
+    "r": "联想: 来自拉丁语 clarus「明亮、清楚」，与 clarify 同源 → 清楚的"
+  },
+  {
+    "w": "clearance",
+    "r": "clear(清除、清楚) + -ance(名词后缀，行为或状态) → 清除的行为；通过许可 → 净空；许可；清算",
+    "c": [
+      "The project requires official clearance from the environmental protection agency before construction.",
+      "该项目在施工前需要获得环保部门的正式许可。"
+    ]
+  },
+  {
+    "w": "clearing",
+    "r": "clear(清除) + -ing(名词后缀，动作或结果) → 清除树木后的空地 → （森林中的）空旷地",
+    "c": [
+      "They set up camp in a small clearing surrounded by tall pine trees.",
+      "他们在一片被高大松树环绕的小型林中空地上搭起了营地。"
+    ]
+  },
+  {
+    "w": "clergy",
+    "r": "联想: 来自希腊语 kleros「命运、份额」，原指神职人员的神召 → 神职人员",
+    "c": [
+      "The local clergy organized a series of community events to support vulnerable families.",
+      "当地神职人员组织了一系列社区活动以扶助困难家庭。"
+    ]
+  },
+  {
+    "w": "clerk",
+    "r": "联想: 来自拉丁语 clericus「神职人员」，后指文书、职员 → 职员",
+    "c": [
+      "The bank clerk helped the customer open a new savings account within ten minutes.",
+      "银行职员在十分钟内帮客户开立了一个新的储蓄账户。"
+    ]
+  },
+  {
+    "w": "clever",
+    "r": "联想: 来自古英语 clifer「爪子」，原指手巧、善用爪 → 聪明的",
+    "c": [
+      "Clever students often design their own experiments to test hypotheses beyond the textbook.",
+      "聪明的学生常常自行设计实验，以检验课本之外的假设。"
+    ]
+  },
+  {
+    "w": "click",
+    "r": "联想: 拟声词，模仿硬物相击的「咔嗒」声 → 点击"
+  },
+  {
+    "w": "client",
+    "r": "联想: 来自拉丁语 cliens「听从、依附者」，原指依附贵族的门客 → 顾客、委托人"
+  },
+  {
+    "w": "cliff",
+    "r": "联想: 来自古英语 clif「陡坡、岩石」，与 climb 同源 → 悬崖",
+    "c": [
+      "Seabirds build their nests on the steep cliff faces above the crashing ocean waves.",
+      "海鸟在惊涛骇浪之上的陡峭悬崖壁上筑巢。"
+    ]
+  },
+  {
+    "w": "climate",
+    "r": "联想: 来自希腊语 klima「倾斜、地带」，原指地球倾斜造成的气候带 → 气候"
+  },
+  {
+    "w": "climax",
+    "r": "clim-(=ladder 梯子，来自希腊语 klimax) + -ax → 梯子的最高一级 → 高潮",
+    "c": [
+      "The film reaches its emotional climax when the protagonist confronts her past.",
+      "当主人公直面自己的过去时，影片达到了情感高潮。"
+    ]
+  },
+  {
+    "w": "climb",
+    "r": "联想: 来自古英语 climban「攀爬」，与 cliff 同源 → 攀爬"
+  },
+  {
+    "w": "cling",
+    "r": "联想: 来自古英语 clingan「粘住、紧握」，与 clay 同源 → 紧贴、坚持"
+  },
+  {
+    "w": "clinic",
+    "r": "联想: 来自希腊语 klinē「床」，原指在病床边教学的医学 → 诊所"
+  },
+  {
+    "w": "clip",
+    "r": "联想: 来自古英语 clyppan「拥抱、夹住」，后指夹子、修剪 → 修剪、夹子"
+  },
+  {
+    "w": "cloak",
+    "r": "联想: 来自古法语 cloque「钟形罩」，像钟一样罩住身体 → 外衣；遮掩",
+    "c": [
+      "The politician used charitable donations as a cloak to conceal his corrupt business dealings.",
+      "这位政客以慈善捐款为外衣，掩盖其腐败的商业交易。"
+    ]
+  },
+  {
+    "w": "clock",
+    "r": "联想: 来自中古拉丁语 clocca「钟」，拟声词 → 时钟、计时",
+    "c": [
+      "Scientists often clock the reaction time of participants to measure cognitive processing speed.",
+      "科学家常常计时参与者的反应速度，以衡量认知处理速率。"
+    ]
+  },
+  {
+    "w": "clockwise",
+    "r": "复合: clock(时钟) + wise(方式、方向) → 按时钟指针转动的方向 → 顺时针方向地",
+    "c": [
+      "Turn the knob clockwise to increase the temperature of the laboratory heating system.",
+      "顺时针旋转旋钮以提高实验室供暖系统的温度。"
+    ]
+  },
+  {
+    "w": "clone",
+    "r": "联想: 来自希腊语 klon「嫩枝」，用枝条扦插繁殖 → 克隆",
+    "c": [
+      "Researchers successfully clone the gene responsible for producing a key medicinal protein.",
+      "研究人员成功克隆了负责产生一种关键药用蛋白质的基因。"
+    ]
+  },
+  {
+    "w": "close",
+    "r": "联想: 来自拉丁语 claudere「关闭」，与 clause 同源 → 关闭、近"
+  },
+  {
+    "w": "closet",
+    "r": "close(关闭) + -et(指小后缀) → 关起来的小空间 → 壁橱",
+    "c": [
+      "She stored her winter coats in the back of the hallway closet to save bedroom space.",
+      "她把冬季外套存放在走廊壁橱深处，以节省卧室空间。"
+    ]
+  },
+  {
+    "w": "cloth",
+    "r": "联想: 来自古英语 clāþ「布、织物」，与 clothe 同源 → 布",
+    "c": [
+      "The tailor selected a fine woolen cloth for the custom-made business suit.",
+      "裁缝为定制西装挑选了一块优质毛料。"
+    ]
+  },
+  {
+    "w": "clothe",
+    "r": "联想: 来自古英语 clēthian「穿衣」，名词 cloth 的动词形式 → 给穿衣"
+  },
+  {
+    "w": "clothes",
+    "r": "联想: cloth(布) 的复数形式，由布制成之物 → 衣服",
+    "c": [
+      "Many consumers now prefer clothes made from sustainable and eco-friendly materials.",
+      "如今许多消费者更青睐由可持续环保材料制成的衣物。"
+    ]
+  },
+  {
+    "w": "clothing",
+    "r": "cloth(布) + -ing(名词后缀，总称) → 布制物品的总称 → 衣物",
+    "c": [
+      "Outdoor workers require protective clothing to withstand extreme weather conditions.",
+      "户外工作者需要防护服来抵御极端天气条件。"
+    ]
+  },
+  {
+    "w": "cloud",
+    "r": "联想: 来自古英语 clūd「岩石、山丘」，因云形似山丘而得名 → 云"
+  },
+  {
+    "w": "cloudy",
+    "r": "cloud(云) + -y(形容词后缀，充满…的) → 充满云的 → 多云的",
+    "c": [
+      "On cloudy days, solar panels generate significantly less electricity than in direct sunlight.",
+      "在多云天气里，太阳能电池板的发电量远低于阳光直射时。"
+    ]
+  },
+  {
+    "w": "clown",
+    "r": "联想: 来自北欧语 klunni「笨拙的人」，丑角常以笨拙逗乐 → 小丑",
+    "c": [
+      "The circus clown entertained children with colorful tricks and exaggerated facial expressions.",
+      "马戏团小丑用缤纷的戏法和夸张的表情逗乐了孩子们。"
+    ]
+  },
+  {
+    "w": "club",
+    "r": "联想: 来自古挪威语 klubba「棍棒」，后指俱乐部（聚集的团体）→ 俱乐部",
+    "c": [
+      "The debate club meets every Friday to discuss current social and political issues.",
+      "辩论俱乐部每周五聚会，讨论当前的社会和政治议题。"
+    ]
+  },
+  {
+    "w": "clue",
+    "r": "联想: 来自古英语 clew「线团」，希腊神话中用线团走出迷宫 → 线索"
+  },
+  {
+    "w": "clumsy",
+    "r": "联想: 来自古挪威语 klumsa「使麻木」，手脚麻木显得笨拙 → 笨拙的",
+    "c": [
+      "His clumsy attempt to repair the laptop only made the technical problem worse.",
+      "他笨拙地试图修理笔记本电脑，结果只会使技术问题变得更糟。"
+    ]
+  },
+  {
+    "w": "cluster",
+    "r": "联想: 来自古英语 clyster「串、束」，聚集在一起的事物 → 群",
+    "c": [
+      "A dense cluster of stars appears as a faint smudge of light in the night sky.",
+      "密集的星团在夜空中呈现为一抹微弱的光斑。"
+    ]
+  },
+  {
+    "w": "clutch",
+    "r": "联想: 来自古英语 clyccan「紧握」，拟声词根，模仿抓握 → 抓住、离合器",
+    "c": [
+      "Drivers learn to smoothly engage the clutch when shifting gears in a manual transmission car.",
+      "驾驶员学习在驾驶手动挡汽车换挡时平稳地接合离合器。"
+    ]
+  },
+  {
+    "w": "coach",
+    "r": "联想: 来自匈牙利语 kocsi「马车」，原指马车，引申为指导者 → 教练",
+    "c": [
+      "The national team hired a foreign coach to improve its performance in international tournaments.",
+      "国家队聘请了一位外籍教练，以提升其在国际赛事中的表现。"
+    ]
+  },
+  {
+    "w": "coal",
+    "r": "联想: 来自古英语 col「炭、煤」，与 collier(煤矿工) 同源 → 煤"
+  },
+  {
+    "w": "coalition",
+    "r": "co-(共同) + alit-(=grow 生长，来自拉丁语 alere) + -ion(名词后缀) → 共同生长在一起 → 联合",
+    "c": [
+      "The three opposition parties formed a coalition to challenge the ruling government.",
+      "三个反对党组建了一个联盟以挑战执政党政府。"
+    ]
+  },
+  {
+    "w": "coarse",
+    "r": "联想: 来自拉丁语 coarsus「粗糙的」，与 course(进程) 同源，原指粗糙的 → 粗糙的",
+    "c": [
+      "The coarse texture of the stone surface made it ideal for grinding wheat into flour.",
+      "石面粗糙的质地使其非常适合将小麦磨成面粉。"
+    ]
+  },
+  {
+    "w": "coast",
+    "r": "联想: 来自拉丁语 costa「肋骨、边」，引申为海岸 → 海岸、沿岸航行"
+  },
+  {
+    "w": "coastal",
+    "r": "coast(海岸) + -al(形容词后缀，与…有关的) → 与海岸有关的 → 海滨的"
+  },
+  {
+    "w": "coat",
+    "r": "联想: 来自古法语 cote「外衣」，与 cotton(棉) 可能相关 → 外套",
+    "c": [
+      "Scientists wear a white lab coat to protect their clothes from chemical spills and stains.",
+      "科学家穿着白色实验服，以保护衣物免受化学品溅洒和污染。"
+    ]
+  },
+  {
+    "w": "cocaine",
+    "r": "coca(古柯植物) + -ine(名词后缀，化学物质) → 从古柯中提取的物质 → 可卡因",
+    "c": [
+      "Possession and distribution of cocaine carry severe legal penalties in most countries.",
+      "在大多数国家，持有和贩卖可卡因都将受到严厉的法律制裁。"
+    ]
+  },
+  {
+    "w": "cock",
+    "r": "联想: 来自古英语 coc「公鸡」，拟声词，模仿鸡鸣 → 公鸡",
+    "c": [
+      "The rooster, or male cock, crows at dawn to mark its territory and wake the flock.",
+      "公鸡在黎明时分啼叫，以标示领地并唤醒鸡群。"
+    ]
+  },
+  {
+    "w": "cocktail",
+    "r": "复合: cock(公鸡) + tail(尾巴) → 原指尾巴翘起的马，后指混合酒 → 鸡尾酒；混合物",
+    "c": [
+      "The bartender prepared a classic cocktail using vodka, tomato juice, and various spices.",
+      "调酒师用伏特加、番茄汁和多种香料调制了一杯经典鸡尾酒。"
+    ]
+  },
+  {
+    "w": "code",
+    "r": "联想: 来自拉丁语 codex「树干、书板」，原指刻写法律的木板 → 法典；代码",
+    "c": [
+      "Programmers must write clean and well-documented code to ensure long-term maintainability.",
+      "程序员必须编写清晰且文档完备的代码，以确保长期可维护性。"
+    ]
+  },
+  {
+    "w": "coefficient",
+    "r": "co-(共同) + efficient(有效的) → 共同起作用的因素 → 系数；协同因素",
+    "c": [
+      "The coefficient of friction between two surfaces determines how much force is needed to slide them.",
+      "两个表面之间的摩擦系数决定了使它们相对滑动所需的力。"
+    ]
+  },
+  {
+    "w": "coffee",
+    "r": "联想: 来自阿拉伯语 qahwah「咖啡」，经土耳其语传入欧洲 → 咖啡",
+    "c": [
+      "Many office workers rely on a morning cup of coffee to boost their focus and productivity.",
+      "许多上班族依赖早晨一杯咖啡来提高注意力和工作效率。"
+    ]
+  },
+  {
+    "w": "coffin",
+    "r": "联想: 来自拉丁语 cophinus「篮子」，原指用枝条编的棺 → 棺材，灵柩",
+    "c": [
+      "A wooden coffin was carried to the cemetery by family members and close friends.",
+      "家人和密友将一口木棺护送至墓地。"
+    ]
+  },
+  {
+    "w": "cognitive",
+    "r": "cogn-(=know 知道，来自拉丁语 cognoscere) + -itive(形容词后缀，有…性质的) → 与认识有关的 → 认知的"
+  },
+  {
+    "w": "coherent",
+    "r": "co-(共同) + her(=stick 粘，拉丁语 haerere) + -ent(形容词后缀) → 粘在一起的 → 一致的、连贯的",
+    "c": [
+      "A coherent argument requires clear logic and supporting evidence from reliable sources.",
+      "一篇连贯的论证需要清晰的逻辑以及来自可靠来源的支持证据。"
+    ]
+  },
+  {
+    "w": "cohesive",
+    "r": "co-(共同) + hes(=stick 粘，拉丁语 haerere) + -ive(形容词后缀，有…性质的) → 粘在一起的 → 团结的、粘性的",
+    "c": [
+      "A cohesive team can achieve more than individual members working separately on complex projects.",
+      "一个有凝聚力的团队比成员各自为战更能完成复杂的项目。"
+    ]
+  },
+  {
+    "w": "coil",
+    "r": "联想: 来自拉丁语 colligere「收集、卷起」，与 collect 同源 → 圈、线圈",
+    "c": [
+      "A copper coil inside the generator spins rapidly to produce an electric current.",
+      "发电机内部的铜线圈快速旋转以产生电流。"
+    ]
+  },
+  {
+    "w": "coin",
+    "r": "联想: 来自拉丁语 cuneus「楔子」，古钱币形似楔子 → 硬币"
+  },
+  {
+    "w": "coincide",
+    "r": "co-(共同) + in-(=on 在…上) + cide(=fall 落下，拉丁语 cadere) → 同时落下 → 一致",
+    "c": [
+      "The results of the two studies coincide, providing strong support for the same conclusion.",
+      "两项研究的结果一致，为同一结论提供了有力支持。"
+    ]
+  },
+  {
+    "w": "coincidence",
+    "r": "co-(共同) + in-(在…上) + cid(=fall 落下) + -ence(名词后缀) → 同时发生的事 → 巧合",
+    "c": [
+      "It is more than mere coincidence that the two theories emerged at nearly the same time.",
+      "两种理论几乎同时出现，这不仅仅是纯粹的巧合。"
+    ]
+  },
+  {
+    "w": "coke",
+    "r": "联想: coal(煤) 的变体，经干馏后的煤 → 焦炭",
+    "c": [
+      "Steel production requires large quantities of coke to fuel the high-temperature blast furnaces.",
+      "钢铁生产需要大量焦炭为高温高炉提供燃料。"
+    ]
+  },
+  {
+    "w": "cold",
+    "r": "联想: 来自古英语 cald「冷的」，与 cool 同源 → 冷的",
+    "c": [
+      "Prolonged exposure to cold temperatures can lead to hypothermia and other health risks.",
+      "长时间暴露在寒冷温度下可能导致体温过低及其他健康风险。"
+    ]
+  },
+  {
+    "w": "collaborate",
+    "r": "col-(=together 共同) + labor(劳动) + -ate(动词后缀) → 共同劳动 → 合作",
+    "c": [
+      "Researchers from three universities collaborate to investigate the effects of urban air pollution.",
+      "来自三所大学的研究人员合作研究城市空气污染的影响。"
+    ]
+  },
+  {
+    "w": "collaboration",
+    "r": "col-(共同) + labor(劳动) + -ation(名词后缀) → 共同劳动的行为 → 合作"
+  },
+  {
+    "w": "collaborative",
+    "r": "col-(共同) + labor(劳动) + -ative(形容词后缀，有…性质的) → 共同劳动的 → 合作的"
+  },
+  {
+    "w": "collapse",
+    "r": "col-(完全) + lapse(滑落、失败) → 完全滑落倒下 → 倒塌",
+    "c": [
+      "The old bridge could collapse under the weight of heavy traffic if not repaired promptly.",
+      "如果不及时修缮，这座旧桥可能在繁重交通的重压下坍塌。"
+    ]
+  },
+  {
+    "w": "collar",
+    "r": "联想: 来自拉丁语 collum「脖子」，围在脖子上之物 → 衣领",
+    "c": [
+      "He adjusted the collar of his shirt before entering the conference room for the interview.",
+      "他在进入会议室参加面试前整理了一下衬衫领子。"
+    ]
+  },
+  {
+    "w": "colleague",
+    "r": "col-(共同) + league(=choose 选择，拉丁语 legere) → 一同被选中的人 → 同事"
+  },
+  {
+    "w": "collect",
+    "r": "col-(共同) + lect(=gather 收集，拉丁语 legere) → 收集到一起 → 收集"
+  },
+  {
+    "w": "collection",
+    "r": "col-(共同) + lect(收集) + -ion(名词后缀，行为或结果) → 收集的结果 → 收藏"
+  },
+  {
+    "w": "collective",
+    "r": "col-(共同) + lect(收集) + -ive(形容词后缀) → 收集到一起的 → 集体的、共同的"
+  },
+  {
+    "w": "college",
+    "r": "col-(共同) + leg(=choose 选择) + -e → 共同选择的学习团体 → 大学"
+  },
+  {
+    "w": "collide",
+    "r": "col-(共同) + lide(=strike 打，来自拉丁语 laedere) → 撞到一起 → 碰撞",
+    "c": [
+      "Two cargo ships collide in the busy shipping lane, causing a major oil spill.",
+      "两艘货轮在繁忙航道上相撞，造成了严重的石油泄漏。"
+    ]
+  },
+  {
+    "w": "collision",
+    "r": "col-(共同) + lis(=strike 打) + -ion(名词后缀) → 相撞的行为 → 碰撞",
+    "c": [
+      "The head-on collision between the two vehicles resulted in multiple serious injuries.",
+      "两辆车的迎面相撞造成多人重伤。"
+    ]
+  },
+  {
+    "w": "colonel",
+    "r": "联想: 来自意大利语 colonnella「纵队司令」，与 column(纵队) 同源 → 上校",
+    "c": [
+      "The army colonel commanded a regiment of soldiers during the military training exercise.",
+      "陆军上校在军事演习中指挥一个团的士兵。"
+    ]
+  },
+  {
+    "w": "colonial",
+    "r": "colon-(=colony 殖民地) + -ial(形容词后缀，与…有关的) → 殖民地的",
+    "c": [
+      "Many colonial powers exploited the natural resources of the regions they controlled.",
+      "许多殖民列强剥削了它们所控制地区的自然资源。"
+    ]
+  },
+  {
+    "w": "colonist",
+    "r": "colon-(殖民地) + -ist(名词后缀，做…的人) → 在殖民地居住的人 → 移民；殖民地居民",
+    "c": [
+      "The early colonist faced harsh winters and limited food supplies in the new settlement.",
+      "早期的殖民地居民在新定居点面临严冬和有限的食物供应。"
+    ]
+  },
+  {
+    "w": "colony",
+    "r": "联想: 来自拉丁语 colonia「农场、定居地」，来自 colere「耕种」→ 殖民地",
+    "c": [
+      "The ancient colony traded grain and timber with cities across the Mediterranean Sea.",
+      "这个古代殖民地与地中海沿岸各城市进行谷物和木材贸易。"
+    ]
+  },
+  {
+    "w": "color",
+    "r": "联想: 来自拉丁语 color「颜色」，与 conceal 可能同源（遮盖之意）→ 颜色",
+    "c": [
+      "The color of a butterfly's wings serves both as camouflage and a signal to potential mates.",
+      "蝴蝶翅膀的颜色既有伪装作用，也向潜在配偶发出信号。"
+    ]
+  },
+  {
+    "w": "column",
+    "r": "联想: 来自拉丁语 columna「柱子、纵队」，与 colere(耕种) 同源 → 列",
+    "c": [
+      "Each column in the spreadsheet represents a different variable measured during the experiment.",
+      "电子表格中的每一列代表实验期间测量的一个不同变量。"
+    ]
+  },
+  {
+    "w": "comb",
+    "r": "联想: 来自古英语 camb「梳子」，与 tooth(齿) 同源 → 梳子",
+    "c": [
+      "Archaeologists found a carved bone comb at the site of the ancient Roman settlement.",
+      "考古学家在古罗马定居点遗址发现了一把雕花骨梳。"
+    ]
+  },
+  {
+    "w": "combat",
+    "r": "com-(共同) + bat(=beat 打，来自拉丁语 battuere) → 共同打击 → 战斗",
+    "c": [
+      "The government launched a nationwide campaign to combat the spread of misinformation online.",
+      "政府发起了一场全国性运动，以打击网络错误信息的传播。"
+    ]
+  },
+  {
+    "w": "combination",
+    "r": "com-(共同) + bin(=two 二，拉丁语 bini) + -ation(名词后缀) → 两两结合的行为 → 结合"
+  },
+  {
+    "w": "combine",
+    "r": "com-(共同) + bin(=two 二) + -e → 把两样合在一起 → 结合"
+  },
+  {
+    "w": "combustion",
+    "r": "com-(完全) + bust(=burn 燃烧，拉丁语 urere) + -ion(名词后缀) → 完全燃烧 → 燃烧",
+    "c": [
+      "Internal combustion engines convert the energy released from burning fuel into mechanical power.",
+      "内燃机将燃料燃烧释放的能量转化为机械能。"
+    ]
+  },
+  {
+    "w": "come",
+    "r": "联想: 来自古英语 cuman「来」，与 become 同源 → 来"
+  },
+  {
+    "w": "comedy",
+    "r": "com-(=revel 狂欢，来自希腊语 komos) + -edy(名词后缀) → 狂欢的表演 → 喜剧",
+    "c": [
+      "Shakespeare's comedy explores themes of love and mistaken identity with witty dialogue.",
+      "莎士比亚的喜剧以诙谐的对白探讨爱情与身份误认的主题。"
+    ]
+  },
+  {
+    "w": "comet",
+    "r": "联想: 来自希腊语 kometes「长发的」，彗星有长尾巴像长发 → 彗星",
+    "c": [
+      "A comet becomes visible to the naked eye only when it passes close to the sun.",
+      "彗星只有在靠近太阳运行时才能用肉眼看到。"
+    ]
+  },
+  {
+    "w": "comfort",
+    "r": "com-(加强) + fort(=strong 强壮，拉丁语 fortis) → 使变强、安慰 → 舒适、安慰"
+  },
+  {
+    "w": "comic",
+    "r": "com-(狂欢) + -ic(形容词后缀，与…有关的) → 与狂欢表演有关的 → 喜剧演员、滑稽的",
+    "c": [
+      "The comic novel uses exaggerated characters and absurd situations to satirize modern society.",
+      "这部喜剧小说运用夸张的人物和荒诞的情节讽刺现代社会。"
+    ]
+  },
+  {
+    "w": "command",
+    "r": "com-(加强) + mand(=order 命令，拉丁语 mandare) → 命令"
+  },
+  {
+    "w": "commemorate",
+    "r": "com-(加强) + memor(=mindful 记住的，拉丁语 memoria) + -ate(动词后缀) → 使记住 → 纪念",
+    "c": [
+      "The city built a museum to commemorate the victims of the devastating earthquake.",
+      "该市建造了一座博物馆以纪念那场毁灭性地震的遇难者。"
+    ]
+  },
+  {
+    "w": "commence",
+    "r": "com-(加强) + mence(=begin 开始，来自拉丁语 initiare) → 开始",
+    "c": [
+      "The conference will commence with a keynote speech by a leading researcher in robotics.",
+      "会议将以机器人学领域一位顶尖研究员的主旨演讲拉开序幕。"
+    ]
+  },
+  {
+    "w": "commend",
+    "r": "com-(加强) + mend(=entrust 委托，拉丁语 mandare) → 委托、推荐 → 推荐"
+  },
+  {
+    "w": "comment",
+    "r": "com-(共同) + ment(=mind 思维，拉丁语 mens) → 共同思考、评论 → 评论"
+  }
+]

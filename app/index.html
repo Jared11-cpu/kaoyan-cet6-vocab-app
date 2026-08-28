@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>背单词 · 考研×六级</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ============ 首页 ============ -->
+<div id="scr-home" class="screen">
+  <header class="topbar">
+    <div class="brand">背单词</div>
+    <div class="topbar-actions">
+      <button class="icon-btn" data-nav="stats" title="统计">📊</button>
+      <button class="icon-btn" data-nav="settings" title="设置">⚙️</button>
+    </div>
+  </header>
+
+  <main class="home-main">
+    <div class="date-line" id="home-date"></div>
+    <div class="today-card">
+      <div class="today-title">今日任务</div>
+      <div class="today-nums">
+        <div class="tn-item">
+          <div class="tn-num" id="home-new">0</div>
+          <div class="tn-label">新词</div>
+        </div>
+        <div class="tn-sep"></div>
+        <div class="tn-item">
+          <div class="tn-num" id="home-review">0</div>
+          <div class="tn-label">复习</div>
+        </div>
+      </div>
+      <div class="today-done" id="home-done">已完成 0</div>
+      <button class="start-btn" id="btn-start">开始学习</button>
+    </div>
+
+    <div class="range-info" id="home-range"></div>
+    <div class="overall-info" id="home-overall"></div>
+  </main>
+</div>
+
+<!-- ============ 学习 ============ -->
+<div id="scr-study" class="screen">
+  <header class="topbar">
+    <button class="icon-btn" id="btn-exit" title="退出">✕</button>
+    <div class="study-progress" id="study-progress">0 / 0</div>
+    <div class="study-countdown" id="study-type"></div>
+  </header>
+  <div class="progressbar"><div class="progressbar-fill" id="study-bar"></div></div>
+
+  <main class="study-main" id="study-main">
+    <!-- 卡片正面 -->
+    <div class="card-front" id="card-front">
+      <div class="word-tags" id="word-tags"></div>
+      <div class="word" id="word-text"></div>
+      <div class="freq-line" id="word-freq"></div>
+      <div class="tap-hint">点击查看释义</div>
+    </div>
+    <!-- 卡片背面 -->
+    <div class="card-back" id="card-back">
+      <div class="word-small" id="word-text2"></div>
+      <div class="def" id="word-def"></div>
+      <div class="divider"></div>
+      <div class="section-label">词根词缀</div>
+      <div class="root-line" id="word-root"></div>
+      <div class="section-label">情景例句</div>
+      <div class="example" id="word-example"></div>
+      <div class="example-zh" id="word-example-zh"></div>
+    </div>
+  </main>
+
+  <footer class="answer-bar" id="answer-bar">
+    <button class="ans-btn ans-forgot" id="btn-forgot">忘了</button>
+    <button class="ans-btn ans-fuzzy" id="btn-fuzzy">模糊</button>
+    <button class="ans-btn ans-know" id="btn-know">认识</button>
+  </footer>
+  <footer class="reveal-bar" id="reveal-bar">
+    <button class="reveal-btn" id="btn-reveal">显示释义</button>
+  </footer>
+</div>
+
+<!-- ============ 设置 ============ -->
+<div id="scr-settings" class="screen">
+  <header class="topbar">
+    <button class="icon-btn" data-nav="home" title="返回">←</button>
+    <div class="brand">设置</div>
+    <div class="topbar-actions"></div>
+  </header>
+  <main class="settings-main">
+    <div class="setting-row">
+      <div class="setting-label">每日新词</div>
+      <div class="stepper">
+        <button class="step-btn" data-step="-5">−</button>
+        <span class="step-val" id="set-daily">20</span>
+        <button class="step-btn" data-step="5">＋</button>
+      </div>
+    </div>
+    <div class="setting-row">
+      <div class="setting-label">学习范围</div>
+      <div class="seg">
+        <button class="seg-btn" data-scope="key">重点词优先</button>
+        <button class="seg-btn" data-scope="all">全部词汇</button>
+      </div>
+    </div>
+    <div class="setting-row">
+      <div class="setting-label">包含初中基础词<br><span class="sub">the、apple 这类过简单的词</span></div>
+      <button class="toggle" id="set-basic"></button>
+    </div>
+    <div class="setting-divider"></div>
+    <button class="wide-btn" id="btn-export">导出学习记录</button>
+    <button class="wide-btn" id="btn-import">导入学习记录</button>
+    <button class="wide-btn danger" id="btn-reset">清空学习记录</button>
+    <input type="file" id="import-file" accept=".json" hidden>
+  </main>
+</div>
+
+<!-- ============ 统计 ============ -->
+<div id="scr-stats" class="screen">
+  <header class="topbar">
+    <button class="icon-btn" data-nav="home" title="返回">←</button>
+    <div class="brand">统计</div>
+    <div class="topbar-actions"></div>
+  </header>
+  <main class="stats-main">
+    <div class="stat-grid">
+      <div class="stat-cell"><div class="stat-num" id="st-learned">0</div><div class="stat-label">已学</div></div>
+      <div class="stat-cell"><div class="stat-num" id="st-reviewing">0</div><div class="stat-label">复习中</div></div>
+      <div class="stat-cell"><div class="stat-num" id="st-mastered">0</div><div class="stat-label">已掌握</div></div>
+    </div>
+    <div class="stat-grid">
+      <div class="stat-cell"><div class="stat-num" id="st-streak">0</div><div class="stat-label">连续天数</div></div>
+      <div class="stat-cell"><div class="stat-num" id="st-total">0</div><div class="stat-label">词库总量</div></div>
+      <div class="stat-cell"><div class="stat-num" id="st-today">0</div><div class="stat-label">今日已学</div></div>
+    </div>
+    <div class="vocab-breakdown" id="st-breakdown"></div>
+    <div class="search-box">
+      <input type="text" id="search-input" placeholder="查词（输入英文）">
+      <div class="search-result" id="search-result"></div>
+    </div>
+  </main>
+</div>
+
+<script src="words-data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
