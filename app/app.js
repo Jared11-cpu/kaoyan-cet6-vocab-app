@@ -150,34 +150,70 @@ function renderHome() {
 /* ================= 发音 (美音) ================= */
 const hasTTS = typeof speechSynthesis !== 'undefined'
   && typeof SpeechSynthesisUtterance !== 'undefined';
-let usVoice = undefined;   // undefined=未选, null=无可用美音
+let usVoice = undefined;      // undefined=未选, null=无可用美音
+let voicesReady = false;      // 声音列表是否已加载(Chrome首次为空)
+let speakTimer = null;        // cancel->speak 延迟定时器(规避Chrome竞态)
+let pendingSpeak = null;      // 声音未就绪时暂存的待读内容
+let warnedTTS = false;        // 只提示一次错误
 
 function pickVoice() {
   if (!hasTTS) return null;
-  if (usVoice !== undefined) return usVoice;
   const vs = speechSynthesis.getVoices() || [];
+  if (vs.length) voicesReady = true;
+  if (usVoice !== undefined && voicesReady) return usVoice;
   const us = vs.filter(v => (v.lang || '').replace('_', '-').toLowerCase().startsWith('en-us'));
   // 优先自然语音, 其次Google/Microsoft系统语音
   usVoice = us.find(v => /natural|neural|online/i.test(v.name))
-    || us.find(v => /google/i.test(v.name))
+    || us.find(v => /google|microsoft/i.test(v.name))
     || us[0] || null;
   return usVoice;
 }
 if (hasTTS) {
-  speechSynthesis.onvoiceschanged = () => { usVoice = undefined; pickVoice(); };
-  pickVoice(); // 部分浏览器同步即有
+  speechSynthesis.onvoiceschanged = () => {
+    usVoice = undefined;
+    pickVoice();
+    // 声音列表加载完成, 补读之前被暂存的内容
+    if (pendingSpeak) { const p = pendingSpeak; pendingSpeak = null; doSpeak(p.text, p.rate); }
+  };
+  pickVoice();
 }
 
 function speak(text, rate) {
   if (!hasTTS || !text) return;
+  pickVoice(); // 顺便刷新声音列表
+  if (!voicesReady) {
+    // Chrome刚打开页面时声音列表为空, 此时speak()会静默失败
+    // 暂存等 voiceschanged 触发后补读; 800ms兜底防止事件不触发
+    pendingSpeak = { text: text, rate: rate };
+    setTimeout(() => {
+      if (pendingSpeak) { const p = pendingSpeak; pendingSpeak = null; doSpeak(p.text, p.rate); }
+    }, 800);
+    return;
+  }
+  doSpeak(text, rate);
+}
+
+function doSpeak(text, rate) {
   try {
-    speechSynthesis.cancel();
     const u = new SpeechSynthesisUtterance(text);
     u.lang = 'en-US';
     u.rate = rate || 0.92;
+    u.volume = 1;
     const v = pickVoice();
     if (v) u.voice = v;
-    speechSynthesis.speak(u);
+    u.onerror = ev => {
+      // interrupted/canceled 是正常的中断, 其余错误提示一次
+      if (ev.error && ev.error !== 'interrupted' && ev.error !== 'canceled' && !warnedTTS) {
+        warnedTTS = true;
+        toast('朗读失败(' + ev.error + '), 请检查浏览器语音设置');
+      }
+    };
+    // cancel()后立即speak()在Chrome有竞态会被吞掉, 延迟一拍再读
+    clearTimeout(speakTimer);
+    speechSynthesis.cancel();
+    speakTimer = setTimeout(() => {
+      try { speechSynthesis.speak(u); } catch (e) { /* 个别浏览器拒绝合成 */ }
+    }, 50);
   } catch (e) { /* 个别浏览器拒绝合成 */ }
 }
 
@@ -318,6 +354,11 @@ document.getElementById('set-basic').addEventListener('click', () => {
 document.getElementById('set-autospeak').addEventListener('click', () => {
   state.settings.autoSpeak = !state.settings.autoSpeak;
   saveState(); renderSettings();
+});
+
+document.getElementById('btn-voice-test').addEventListener('click', () => {
+  speak('This is an American English pronunciation test.', 0.9);
+  toast('若听不到声音, 请检查系统音量或浏览器语音设置');
 });
 
 document.getElementById('btn-export').addEventListener('click', () => {
