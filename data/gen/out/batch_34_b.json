@@ -1,0 +1,694 @@
+[
+  {
+    "w": "whisky",
+    "r": "来自苏格兰盖尔语uisge beatha(生命之水), 缩写为whisky -> 威士忌酒",
+    "c": null
+  },
+  {
+    "w": "whisper",
+    "r": "来自古英语hwisprian(低声说), 拟声词, 模仿低声耳语的声音 -> 低声说",
+    "c": [
+      "During the lecture, students had to whisper to each other to avoid disturbing the speaker.",
+      "讲座期间, 学生们不得不低声交谈以免打扰演讲者。"
+    ]
+  },
+  {
+    "w": "whistle",
+    "r": "来自古英语hwistlian(吹口哨), 拟声词, 模仿尖锐的哨声 -> 口哨",
+    "c": [
+      "The referee blew a whistle to signal the end of the intense basketball match.",
+      "裁判吹哨示意这场激烈的篮球比赛结束。"
+    ]
+  },
+  {
+    "w": "white",
+    "r": "来自古英语hwit(白色的), 日耳曼语共同颜色词 -> 白色的",
+    "c": [
+      "The whiteboard in every classroom allows professors to write and erase notes easily.",
+      "每间教室的白板都让教授可以轻松书写和擦除笔记。"
+    ]
+  },
+  {
+    "w": "whitewash",
+    "r": "复合: white(白色) + wash(洗/涂) -> 涂白 -> 石灰水、粉饰",
+    "c": [
+      "Critics accused the company of trying to whitewash the scandal with a public apology.",
+      "批评者指责该公司试图用公开道歉来粉饰这桩丑闻。"
+    ]
+  },
+  {
+    "w": "who",
+    "r": "来自古英语hwa(谁), 最古老的疑问代词之一 -> 谁",
+    "c": [
+      "Who is responsible for ensuring academic integrity across all university departments?",
+      "谁负责确保所有大学院系的学术诚信？"
+    ]
+  },
+  {
+    "w": "whoever",
+    "r": "复合: who(谁) + ever(任何) -> 任何人、不管谁",
+    "c": [
+      "Whoever wins the essay contest will receive a full scholarship for next semester.",
+      "无论谁赢得作文比赛, 都将获得下学期的全额奖学金。"
+    ]
+  },
+  {
+    "w": "whole",
+    "r": "来自古英语hal(完整的, 健康的), 与heal和holy同源 -> 全部的",
+    "c": null
+  },
+  {
+    "w": "wholesome",
+    "r": "whole(完整的) + -some(形容词后缀, 有…性质的) -> 保持完整健康的 -> 有益健康的",
+    "c": null
+  },
+  {
+    "w": "wholly",
+    "r": "whole(全部的) + -ly(副词后缀) -> 完全地",
+    "c": [
+      "The university's decision was wholly based on evidence from the independent investigation.",
+      "大学的决定完全基于独立调查的证据。"
+    ]
+  },
+  {
+    "w": "whom",
+    "r": "来自古英语hwam(谁, 宾格), who的宾格形式 -> 谁、哪个人",
+    "c": [
+      "Whom should students contact regarding financial aid and scholarship opportunities?",
+      "学生应该联系谁咨询助学金和奖学金机会？"
+    ]
+  },
+  {
+    "w": "whose",
+    "r": "来自古英语hwæs(谁的, 所有格), who的所有格形式 -> 谁的",
+    "c": [
+      "The student whose research paper was published received high praise from the faculty.",
+      "其研究论文被发表的那位学生获得了教职员工的高度赞扬。"
+    ]
+  },
+  {
+    "w": "why",
+    "r": "来自古英语hwi(为什么), 最古老的疑问词之一 -> 为什么",
+    "c": [
+      "Why do so many students struggle with time management during their first semester?",
+      "为什么这么多学生在第一学期会在时间管理上遇到困难？"
+    ]
+  },
+  {
+    "w": "wicked",
+    "r": "来自古英语wicca(巫师), 与witch同源, 原指与巫术相关的 -> 邪恶的",
+    "c": [
+      "The wicked villain in the novel represented the corruption of absolute power.",
+      "小说中邪恶的反派代表了绝对权力的腐化。"
+    ]
+  },
+  {
+    "w": "wide",
+    "r": "来自古英语wid(宽的, 远的), 日耳曼语共同形容词 -> 广泛的、宽的",
+    "c": null
+  },
+  {
+    "w": "widely",
+    "r": "wide(宽的) + -ly(副词后缀) -> 广泛地、大大地",
+    "c": [
+      "Digital learning platforms are now widely used in universities across the country.",
+      "数字学习平台如今在全国大学中被广泛使用。"
+    ]
+  },
+  {
+    "w": "widen",
+    "r": "wide(宽的) + -en(动词后缀,使…) -> 使变宽 -> 拓宽",
+    "c": null
+  },
+  {
+    "w": "widespread",
+    "r": "复合: wide(宽的) + spread(传播) -> 广泛传播的 -> 遍布的",
+    "c": null
+  },
+  {
+    "w": "widow",
+    "r": "来自古英语widwe(寡妇), 与拉丁语vidua(寡妇)同源 -> 寡妇",
+    "c": [
+      "The charity organization provides financial support to widows and their children.",
+      "这个慈善组织为寡妇及其子女提供经济支持。"
+    ]
+  },
+  {
+    "w": "width",
+    "r": "wid(e)(宽的) + -th(名词后缀,表度量) -> 宽度",
+    "c": [
+      "The architect measured the width of each room before drafting the renovation plans.",
+      "建筑师在起草翻修方案前测量了每个房间的宽度。"
+    ]
+  },
+  {
+    "w": "wield",
+    "r": "来自古英语wieldan(统治, 挥动), 与wheel和whip同源 -> 挥剑、行使",
+    "c": null
+  },
+  {
+    "w": "wife",
+    "r": "来自古英语wif(妻子, 女人), 日耳曼语共同词根 -> 妻子",
+    "c": [
+      "Many university graduates balance their career ambitions with responsibilities as a wife and mother.",
+      "许多大学毕业生在职业抱负与作为妻子和母亲的责任之间寻求平衡。"
+    ]
+  },
+  {
+    "w": "wild",
+    "r": "来自古英语wilde(野生的, 未驯服的) -> 野生的",
+    "c": null
+  },
+  {
+    "w": "wildfire",
+    "r": "复合: wild(野生的/猛烈的) + fire(火) -> 野火",
+    "c": [
+      "Climate change has increased the frequency and intensity of wildfire outbreaks worldwide.",
+      "气候变化增加了全球野火爆发的频率和强度。"
+    ]
+  },
+  {
+    "w": "wildlife",
+    "r": "复合: wild(野生的) + life(生命) -> 野生动物",
+    "c": null
+  },
+  {
+    "w": "will",
+    "r": "动词义来自古英语wyllan(愿意); 名词义来自will(意志) -> 将、会",
+    "c": [
+      "Students will need to complete all prerequisite courses before enrolling in advanced seminars.",
+      "学生需要先完成所有先修课程才能注册高级研讨班。"
+    ]
+  },
+  {
+    "w": "willful",
+    "r": "will(意志/意愿) + -ful(形容词后缀,充满…的) -> 充满主观意愿的 -> 故意的",
+    "c": [
+      "The professor warned against willful plagiarism, which can result in immediate expulsion.",
+      "教授警告不要故意抄袭, 这可能导致立即被开除。"
+    ]
+  },
+  {
+    "w": "willing",
+    "r": "will(愿意) + -ing(形容词后缀) -> 情愿的",
+    "c": [
+      "Many students are willing to volunteer for community service programs on weekends.",
+      "许多学生愿意在周末参加社区服务项目做志愿者。"
+    ]
+  },
+  {
+    "w": "willow",
+    "r": "来自古英语welig(柳树), 与weld(焊接)和whip同源, 指柔韧的树 -> 柳树",
+    "c": [
+      "The willow trees along the riverbank gently swayed in the warm summer breeze.",
+      "河岸边的柳树在温暖的夏日微风中轻轻摇曳。"
+    ]
+  },
+  {
+    "w": "win",
+    "r": "来自古英语winnan(奋斗, 战胜), 与wage同源 -> 赢",
+    "c": null
+  },
+  {
+    "w": "wind",
+    "r": "来自古英语wind(风), 日耳曼语共同气象词 -> 风",
+    "c": null
+  },
+  {
+    "w": "winding",
+    "r": "wind(蜿蜒/缠绕) + -ing(形容词/名词后缀) -> 蜿蜒曲折的",
+    "c": [
+      "The winding mountain road required careful driving during the rainy season.",
+      "蜿蜒的山路在雨季需要小心驾驶。"
+    ]
+  },
+  {
+    "w": "windmill",
+    "r": "复合: wind(风) + mill(磨坊) -> 风力磨坊 -> 风车",
+    "c": [
+      "Traditional Dutch windmills were originally used to pump water and grind grain into flour.",
+      "传统的荷兰风车最初被用来抽水和将谷物磨成面粉。"
+    ]
+  },
+  {
+    "w": "window",
+    "r": "来自古挪威语vindauga(风眼), vindr(风) + auga(眼) -> 窗户",
+    "c": null
+  },
+  {
+    "w": "windy",
+    "r": "wind(风) + -y(形容词后缀,有…的) -> 多风的",
+    "c": [
+      "The windy weather conditions forced the university to cancel all outdoor sports activities.",
+      "多风的天气迫使大学取消了所有户外运动活动。"
+    ]
+  },
+  {
+    "w": "wine",
+    "r": "来自拉丁语vinum(葡萄酒), 经由古英语win -> 酒",
+    "c": null
+  },
+  {
+    "w": "wing",
+    "r": "来自古挪威语vaengr(翼), 与wind同源, 指乘风的结构 -> 翼",
+    "c": null
+  },
+  {
+    "w": "wink",
+    "r": "来自古英语wincian(眨眼), 与wind(弯曲、蜿蜒)同源 -> 眨眼",
+    "c": [
+      "She gave her friend a playful wink before walking onto the stage to give her speech.",
+      "在走上台发表演讲之前, 她调皮地向朋友眨了眨眼。"
+    ]
+  },
+  {
+    "w": "winter",
+    "r": "来自古英语winter(冬天), 日耳曼语共同季节词 -> 冬季",
+    "c": [
+      "Many universities offer winter break programs for students who want to study abroad.",
+      "许多大学为想出国留学的学生提供寒假项目。"
+    ]
+  },
+  {
+    "w": "wipe",
+    "r": "来自古英语wipian(擦), 与whip和wave同源 -> 擦除",
+    "c": null
+  },
+  {
+    "w": "wire",
+    "r": "来自古英语wir(金属丝), 可能与wield(行使)同源 -> 电线",
+    "c": null
+  },
+  {
+    "w": "wisdom",
+    "r": "wis(聪明, 来自wise) + -dom(名词后缀,表状态/领域) -> 智慧",
+    "c": null
+  },
+  {
+    "w": "wise",
+    "r": "来自古英语wis(有智慧的), 与wit同源, 原意为知道的 -> 有智慧的",
+    "c": [
+      "Wise students seek advice from their professors when choosing research topics.",
+      "聪明的学生在选择研究课题时会向教授寻求建议。"
+    ]
+  },
+  {
+    "w": "wish",
+    "r": "来自古英语wiscan(希望, 祝愿), 与will同源 -> 希望",
+    "c": null
+  },
+  {
+    "w": "wishful",
+    "r": "wish(希望) + -ful(形容词后缀,充满…的) -> 充满希望的、一厢情愿的",
+    "c": [
+      "Students should avoid wishful thinking and prepare realistically for final examinations.",
+      "学生应避免一厢情愿的想法, 实事求是地为期末考试做准备。"
+    ]
+  },
+  {
+    "w": "wit",
+    "r": "来自古英语wit(智慧, 理智), 与wise同源, 原意为知道 -> 机智、才智",
+    "c": [
+      "The professor's lecture was delivered with wit and humor, engaging every student in attendance.",
+      "教授的讲座充满机智和幽默, 吸引了在场的每一位学生。"
+    ]
+  },
+  {
+    "w": "witch",
+    "r": "来自古英语wicca(男巫)的阴性形式wicce -> 女巫",
+    "c": null
+  },
+  {
+    "w": "with",
+    "r": "来自古英语with(伴随, 反对), 日耳曼语共同介词 -> 伴随",
+    "c": [
+      "Students with strong analytical skills tend to perform well in scientific research.",
+      "具有较强分析能力的学生往往在科学研究中表现出色。"
+    ]
+  },
+  {
+    "w": "withdraw",
+    "r": "with-(向后, 相反) + draw(拉) -> 向后拉 -> 退出、撤退",
+    "c": null
+  },
+  {
+    "w": "wither",
+    "r": "来自古英语witherian(枯萎), 与weather(经受风吹雨打)同源 -> 枯萎",
+    "c": [
+      "Without proper watering, the plants in the campus garden began to wither during the heatwave.",
+      "如果没有适当浇水, 校园花园里的植物在热浪期间开始枯萎。"
+    ]
+  },
+  {
+    "w": "withhold",
+    "r": "with-(向后) + hold(持有) -> 向后持着 -> 保留、扣留",
+    "c": [
+      "The committee decided to withhold the final results until all applicants were interviewed.",
+      "委员会决定在所有申请人接受面试之前保留最终结果。"
+    ]
+  },
+  {
+    "w": "within",
+    "r": "复合: with(在…里) + in(内) -> 在内部",
+    "c": [
+      "All students must complete their degree requirements within four academic years.",
+      "所有学生必须在四个学年内完成学位要求。"
+    ]
+  },
+  {
+    "w": "without",
+    "r": "复合: with(伴随) + out(外) -> 没有…伴随 -> 没有",
+    "c": [
+      "It is impossible to achieve academic success without consistent effort and dedication.",
+      "没有持续的努力和奉献, 就不可能取得学业成功。"
+    ]
+  },
+  {
+    "w": "withstand",
+    "r": "with-(反对) + stand(站立) -> 站着反对 -> 承受",
+    "c": [
+      "The building was designed to withstand strong earthquakes and extreme weather conditions.",
+      "这座建筑的设计能够承受强烈地震和极端天气条件。"
+    ]
+  },
+  {
+    "w": "witness",
+    "r": "wit(知道) + -ness(名词后缀) -> 知道的人 -> 目击、见证",
+    "c": null
+  },
+  {
+    "w": "witty",
+    "r": "wit(机智) + -ty(形容词后缀,有…性质的) -> 有机智的 -> 机智的",
+    "c": null
+  },
+  {
+    "w": "woe",
+    "r": "来自古英语wa(悲痛), 感叹词转化而来, 表达痛苦 -> 悲哀、苦恼",
+    "c": [
+      "Economic recessions bring woe to families struggling with unemployment and debt.",
+      "经济衰退给挣扎在失业和债务中的家庭带来苦难。"
+    ]
+  },
+  {
+    "w": "wolf",
+    "r": "来自古英语wulf(狼), 日耳曼语共同动物词 -> 狼",
+    "c": [
+      "The lone wolf is a common symbol of independence and self-reliance in literature.",
+      "独狼是文学中独立和自力更生的常见象征。"
+    ]
+  },
+  {
+    "w": "woman",
+    "r": "来自古英语wimman(女人), 可能是wifmann(女人+人)的缩写 -> 女人",
+    "c": [
+      "More woman engineers are entering the technology industry than ever before in history.",
+      "历史上从未有过这么多女性工程师进入科技行业。"
+    ]
+  },
+  {
+    "w": "wonder",
+    "r": "来自古英语wundor(奇迹, 惊奇) -> 好奇、奇观",
+    "c": null
+  },
+  {
+    "w": "wonderful",
+    "r": "wonder(奇迹) + -ful(形容词后缀,充满…的) -> 充满奇迹的 -> 精彩的",
+    "c": [
+      "The wonderful performance by the student orchestra received a standing ovation from the audience.",
+      "学生管弦乐团精彩的演出赢得了观众的起立鼓掌。"
+    ]
+  },
+  {
+    "w": "wood",
+    "r": "来自古英语wudu(木头, 森林), 日耳曼语共同词根 -> 木头、森林",
+    "c": [
+      "The ancient wood furniture in the library adds a warm, traditional atmosphere to the reading room.",
+      "图书馆里的古木家具为阅览室增添了温暖的传统氛围。"
+    ]
+  },
+  {
+    "w": "wooden",
+    "r": "wood(木头) + -en(形容词后缀,由…制成的) -> 木制的",
+    "c": [
+      "The laboratory stores chemicals on sturdy wooden shelves along the back wall.",
+      "实验室将化学品存放在后墙坚固的木制架子上。"
+    ]
+  },
+  {
+    "w": "woodpecker",
+    "r": "复合: wood(木头) + pecker(啄者) -> 啄木头的鸟 -> 啄木鸟",
+    "c": [
+      "The woodpecker uses its strong beak to drill holes in tree trunks in search of insects.",
+      "啄木鸟用它坚固的喙在树干上钻孔寻找昆虫。"
+    ]
+  },
+  {
+    "w": "wool",
+    "r": "来自古英语wull(羊毛), 日耳曼语共同纺织材料词 -> 羊毛",
+    "c": [
+      "Wool sweaters are prized for their warmth and natural insulation during cold winters.",
+      "羊毛衫因其保暖性和天然隔热性而在寒冷的冬天备受推崇。"
+    ]
+  },
+  {
+    "w": "word",
+    "r": "来自古英语word(单词, 言语), 日耳曼语共同词根 -> 单词",
+    "c": null
+  },
+  {
+    "w": "work",
+    "r": "来自古英语weorc(工作, 作品), 日耳曼语共同词根 -> 工作",
+    "c": null
+  },
+  {
+    "w": "worker",
+    "r": "work(工作) + -er(人) -> 工作的人 -> 工人",
+    "c": null
+  },
+  {
+    "w": "workload",
+    "r": "复合: work(工作) + load(负荷) -> 工作的负荷 -> 工作量",
+    "c": [
+      "Professors often assign a heavy workload to prepare students for professional challenges.",
+      "教授们经常布置繁重的学业任务以让学生为职业挑战做好准备。"
+    ]
+  },
+  {
+    "w": "workout",
+    "r": "复合: work(工作) + out(出) -> 出力锻炼 -> 锻炼",
+    "c": null
+  },
+  {
+    "w": "workpiece",
+    "r": "复合: work(工作) + piece(件) -> 工作的物件 -> 工件",
+    "c": [
+      "Each workpiece must be inspected carefully for defects before leaving the factory.",
+      "每个工件在出厂前都必须仔细检查是否有缺陷。"
+    ]
+  },
+  {
+    "w": "workshop",
+    "r": "复合: work(工作) + shop(场所) -> 工作的场所 -> 车间",
+    "c": [
+      "The engineering department organized a workshop on sustainable building materials last month.",
+      "工程系上个月组织了一场关于可持续建筑材料的研讨会。"
+    ]
+  },
+  {
+    "w": "world",
+    "r": "来自古英语weorold(时代, 人世), 原为人的年龄/生命 -> 世界",
+    "c": null
+  },
+  {
+    "w": "worldly",
+    "r": "world(世界/尘世) + -ly(形容词后缀,像…的) -> 世间的、尘世的",
+    "c": [
+      "Many philosophers have debated the value of worldly success versus spiritual fulfillment.",
+      "许多哲学家辩论过世俗成功与精神满足的价值。"
+    ]
+  },
+  {
+    "w": "worldwide",
+    "r": "复合: world(世界) + wide(宽的) -> 全世界的",
+    "c": null
+  },
+  {
+    "w": "worm",
+    "r": "来自古英语wyrm(蠕虫, 蛇), 日耳曼语共同词根 -> 虫",
+    "c": [
+      "The biology students observed how worm movement helps aerate soil in the ecosystem.",
+      "生物学学生观察了蠕虫的运动如何帮助生态系统中土壤的通风。"
+    ]
+  },
+  {
+    "w": "worry",
+    "r": "来自古英语wyrgan(扼杀, 使烦恼), 原指被掐住喉咙 -> 担心",
+    "c": null
+  },
+  {
+    "w": "worse",
+    "r": "来自古英语wyrsa(更坏的), bad的比较级形式 -> 更坏",
+    "c": [
+      "The situation in the region grew worse as the environmental crisis continued to escalate.",
+      "随着环境危机持续升级, 该地区的形势变得更糟。"
+    ]
+  },
+  {
+    "w": "worship",
+    "r": "来自古英语weorðscipe(荣誉, 尊敬), weorð(值得) + scipe(状态) -> 崇拜",
+    "c": [
+      "Many ancient cultures built magnificent temples to worship their gods and goddesses.",
+      "许多古代文明建造宏伟的神庙来崇拜他们的神灵和女神。"
+    ]
+  },
+  {
+    "w": "worst",
+    "r": "来自古英语wyrsta(最坏的), bad的最高级形式 -> 最坏",
+    "c": [
+      "The worst performing students were offered extra tutoring sessions during spring break.",
+      "成绩最差的学生在春假期间获得了额外的辅导课程。"
+    ]
+  },
+  {
+    "w": "worth",
+    "r": "来自古英语weorð(价值, 价格), 与ward(看守)同源 -> 值得",
+    "c": null
+  },
+  {
+    "w": "worthwhile",
+    "r": "复合: worth(值得) + while(时间) -> 值得花时间的 -> 值得的",
+    "c": [
+      "Pursuing a graduate degree can be worthwhile for students seeking advanced career opportunities.",
+      "对于寻求高级职业机会的学生来说, 攻读研究生学位可能是值得的。"
+    ]
+  },
+  {
+    "w": "worthy",
+    "r": "worth(价值) + -y(形容词后缀,有…性质的) -> 有价值的、值得的",
+    "c": null
+  },
+  {
+    "w": "would",
+    "r": "来自古英语wolde(会, 愿), will的过去式 -> 愿意、会",
+    "c": [
+      "Without proper guidance, many students would struggle to navigate the complex university system.",
+      "如果没有适当的指导, 许多学生会在复杂的大学体系中感到困惑。"
+    ]
+  },
+  {
+    "w": "wound",
+    "r": "来自古英语wund(伤口), 与win(战胜)同源, 原指战伤 -> 受伤的",
+    "c": [
+      "The nurse carefully cleaned and dressed the wound on the athlete's injured leg.",
+      "护士仔细清洗并包扎了运动员受伤腿上的伤口。"
+    ]
+  },
+  {
+    "w": "wrap",
+    "r": "来自古英语wrappen(包裹), 与warp(弯曲)同源 -> 包裹",
+    "c": null
+  },
+  {
+    "w": "wrath",
+    "r": "来自古英语wræð(愤怒), 与writhe(扭动)同源, 原指愤怒时身体扭曲 -> 暴怒",
+    "c": [
+      "The public expressed widespread wrath over the government's decision to raise tuition fees.",
+      "公众对政府提高学费的决定表达了普遍的愤怒。"
+    ]
+  },
+  {
+    "w": "wreck",
+    "r": "来自古英语wrecan(驱逐, 破坏), 与wretch同源 -> 残骸、破坏",
+    "c": [
+      "The storm caused severe wreck to coastal towns, destroying homes and infrastructure.",
+      "风暴对沿海城镇造成了严重破坏, 摧毁了房屋和基础设施。"
+    ]
+  },
+  {
+    "w": "wrench",
+    "r": "来自古英语wrencan(扭转), 与wreck同源, 原指扭断 -> 猛扭、痛苦",
+    "c": [
+      "The sudden loss of funding delivered a wrench to the ongoing research project.",
+      "资金的突然中断给正在进行的研究项目带来了痛苦的打击。"
+    ]
+  },
+  {
+    "w": "wrestle",
+    "r": "来自古英语wraestlian(摔跤), 与wrench同源, 指扭打 -> 摔跤、斗争",
+    "c": [
+      "Many students wrestle with the decision of whether to study abroad after graduation.",
+      "许多学生在毕业后是否出国留学的决定上纠结不已。"
+    ]
+  },
+  {
+    "w": "wretched",
+    "r": "来自古英语wrecce(悲惨的人), 与wreck同源 -> 可怜的、讨厌的",
+    "c": [
+      "The wretched living conditions in the refugee camp shocked international aid workers.",
+      "难民营里恶劣的生活条件震惊了国际援助工作者。"
+    ]
+  },
+  {
+    "w": "wring",
+    "r": "来自古英语wringan(拧, 扭), 与wrench和wrinkle同源 -> 拧、挤",
+    "c": [
+      "She had to wring out the wet clothes before hanging them on the line to dry.",
+      "她不得不把湿衣服拧干, 然后挂在绳子上晾干。"
+    ]
+  },
+  {
+    "w": "wrinkle",
+    "r": "来自古英语wrinclian(起皱), 与wring(拧)同源, 指拧成的褶 -> 皱纹",
+    "c": [
+      "Advanced skincare products claim to reduce facial wrinkles and slow the aging process.",
+      "高级护肤产品声称可以减少面部皱纹并延缓衰老过程。"
+    ]
+  },
+  {
+    "w": "wrist",
+    "r": "来自古英语wrist(手腕), 与writhe(扭动)同源, 指可转动的关节 -> 手腕",
+    "c": [
+      "The pianist's swift wrist movements amazed the audience during the solo performance.",
+      "在独奏表演中, 钢琴家敏捷的手腕动作令观众惊叹不已。"
+    ]
+  },
+  {
+    "w": "write",
+    "r": "来自古英语writan(刻, 写), 原指在木头或石头上刻字 -> 写",
+    "c": null
+  },
+  {
+    "w": "writer",
+    "r": "write(写) + -er(人) -> 写作的人 -> 作家",
+    "c": null
+  },
+  {
+    "w": "wrong",
+    "r": "来自古英语wrong(扭曲的, 错误的), 与wring同源 -> 错误的",
+    "c": null
+  },
+  {
+    "w": "x-ray",
+    "r": "复合: X(未知的) + ray(射线) -> X射线(因最初性质未知而得名)",
+    "c": [
+      "Doctors use x-ray technology to diagnose bone fractures and internal injuries accurately.",
+      "医生使用X光技术准确诊断骨折和内部损伤。"
+    ]
+  },
+  {
+    "w": "xerox",
+    "r": "来自品牌名Xerox, 源自希腊语xeros(干的), 因干法复印技术得名 -> 用静电复印",
+    "c": [
+      "Students often xerox their class notes to share with classmates who miss lectures.",
+      "学生们经常复印课堂笔记分享给缺课的同学。"
+    ]
+  },
+  {
+    "w": "yacht",
+    "r": "来自荷兰语jacht(快艇, 猎船), 原指快速追击的船 -> 快艇、游艇",
+    "c": [
+      "The wealthy entrepreneur purchased a luxury yacht for international business travel.",
+      "这位富有的企业家购买了一艘豪华游艇用于国际商务旅行。"
+    ]
+  }
+]

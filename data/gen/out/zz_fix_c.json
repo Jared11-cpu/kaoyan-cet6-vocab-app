@@ -1,0 +1,746 @@
+[
+  {
+    "w": "a",
+    "r": "联想: 最基础的不定冠词，表示「一、每一」，源自古英语 ān（一）",
+    "c": [
+      "A college student should develop a strong sense of social responsibility.",
+      "一个大学生应当培养强烈的社会责任感。"
+    ]
+  },
+  {
+    "w": "abandonment",
+    "r": "abandon(抛弃) + -ment(名词后缀) → 抛弃的行为 → 放弃",
+    "c": [
+      "The abandonment of traditional values has sparked heated debate on campus.",
+      "传统价值观的放弃在校园里引发了激烈的争论。"
+    ]
+  },
+  {
+    "w": "abbreviation",
+    "r": "ab-(短) + brev(短，源自拉丁语 brevis) + -ation(名词后缀) → 缩短的行为 → 缩写",
+    "c": [
+      "The abbreviation AI stands for artificial intelligence in academic writing.",
+      "在学术写作中，缩写AI代表人工智能。"
+    ]
+  },
+  {
+    "w": "abdomen",
+    "r": "ab-(离开、下部) + dom(隐藏、覆盖) + -en → 身体下部隐藏内脏之处 → 腹部",
+    "c": [
+      "The doctor gently pressed the patient's abdomen to check for any pain.",
+      "医生轻轻按压病人的腹部以检查是否有疼痛感。"
+    ]
+  },
+  {
+    "w": "abide",
+    "r": "a-(加强) + bide(停留，等待，源自古英语 bīdan) → 坚定地停留 → 遵守，忍受",
+    "c": [
+      "All students must abide by the university rules and regulations on campus.",
+      "所有学生都必须遵守校园里的大学规章制度。"
+    ]
+  },
+  {
+    "w": "able",
+    "r": "联想: 源自拉丁语 habilis(能…的，灵巧的)，与 habit(习惯)同根 → 有能力的",
+    "c": [
+      "She is able to solve complex math problems within a very short time.",
+      "她能够在很短时间内解决复杂的数学问题。"
+    ]
+  },
+  {
+    "w": "abnormal",
+    "r": "ab-(离开，偏离) + norm(标准，规则) + -al(形容词后缀) → 偏离标准的 → 不正常的",
+    "c": [
+      "The abnormal weather pattern has raised concerns among climate scientists.",
+      "反常的天气模式引起了气候科学家的关注。"
+    ]
+  },
+  {
+    "w": "abnormally",
+    "r": "abnormal(不正常的) + -ly(副词后缀) → 不正常地",
+    "c": [
+      "The lab results showed abnormally high levels of sugar in his blood.",
+      "实验室结果显示他血液中的糖分异常偏高。"
+    ]
+  },
+  {
+    "w": "aboard",
+    "r": "a-(在…之上) + board(木板，船板) → 在船板上 → 在船上",
+    "c": [
+      "All passengers went aboard the ship before it set sail at dawn.",
+      "所有乘客在黎明船起航之前都登上了船。"
+    ]
+  },
+  {
+    "w": "abolish",
+    "r": "a-(去) + bol(=abol 生长，毁灭) + -ish(动词后缀) → 使毁灭 → 废除",
+    "c": [
+      "Many activists demand that the government abolish the outdated policy.",
+      "许多活动人士要求政府废除这项过时的政策。"
+    ]
+  },
+  {
+    "w": "abortion",
+    "r": "a-(离开) + bort(出生，发芽) + -ion(名词后缀) → 提前离开孕育 → 流产",
+    "c": [
+      "The debate over abortion involves complex ethical and legal questions.",
+      "关于堕胎的争论涉及复杂的伦理和法律问题。"
+    ]
+  },
+  {
+    "w": "abound",
+    "r": "ab-(丰富，加强) + ound(=und 波浪，流动) → 如波浪般涌出 → 充满",
+    "c": [
+      "Opportunities for internships abound in this city's high-tech district.",
+      "这座城市的高科技区充满了实习机会。"
+    ]
+  },
+  {
+    "w": "about",
+    "r": "a-(在) + bout(周围，环绕，源自古英语 būtan) → 在周围 → 关于",
+    "c": [
+      "The professor gave a lecture about the future of renewable energy today.",
+      "教授今天做了一场关于可再生能源未来的讲座。"
+    ]
+  },
+  {
+    "w": "above",
+    "r": "a-(在) + bove(=of 上面，源自古英语 on būfan) → 在上面 → 在…上面",
+    "c": [
+      "The library is located on the floor above the student cafeteria.",
+      "图书馆位于学生食堂上面的那一层。"
+    ]
+  },
+  {
+    "w": "abrupt",
+    "r": "ab-(离开) + rupt(断裂，源自拉丁语 rumpere) → 突然断开的 → 突然的",
+    "c": [
+      "His abrupt departure from the meeting surprised everyone in the room.",
+      "他突然离开会议让房间里的每个人都感到惊讶。"
+    ]
+  },
+  {
+    "w": "absent",
+    "r": "ab-(离开) + sent(=sent 存在，源自拉丁语 esse) → 离开存在的 → 不在场的",
+    "c": [
+      "Three students were absent from class because of a flu outbreak.",
+      "由于流感爆发，有三名学生缺席了课程。"
+    ]
+  },
+  {
+    "w": "absolute",
+    "r": "ab-(离开，表加强) + solut(松开，解除，源自拉丁语 solvere) + -e → 完全松开不受限制的 → 绝对的",
+    "c": [
+      "The judge emphasized the absolute importance of evidence in court.",
+      "法官强调了证据在法庭上的绝对重要性。"
+    ]
+  },
+  {
+    "w": "absolutely",
+    "r": "absolute(绝对的) + -ly(副词后缀) → 当然，绝对地",
+    "c": [
+      "I absolutely agree with your view on environmental protection.",
+      "我完全同意你关于环境保护的观点。"
+    ]
+  },
+  {
+    "w": "absorption",
+    "r": "ab-(向内) + sorpt(=absorb 吸收) + -ion(名词后缀) → 吸收",
+    "c": [
+      "The absorption of new knowledge takes time and consistent effort.",
+      "吸收新知识需要时间和持续不断的努力。"
+    ]
+  },
+  {
+    "w": "abstract",
+    "r": "abs-(=ab 离开，抽出) + tract(拉，拖，源自拉丁语 trahere) → 从具体中抽出来 → 抽象的；摘要",
+    "c": [
+      "Students often find abstract concepts in philosophy hard to grasp.",
+      "学生们常常觉得哲学中的抽象概念难以理解。"
+    ]
+  },
+  {
+    "w": "abundant",
+    "r": "ab-(丰富) + und(波浪) + -ant(形容词后缀) → 波浪般充足的 → 丰富的",
+    "c": [
+      "The country has abundant natural resources such as oil and minerals.",
+      "这个国家拥有丰富的自然资源，比如石油和矿产。"
+    ]
+  },
+  {
+    "w": "abuse",
+    "r": "ab-(离开，错误) + use(使用) → 错误地使用 → 滥用",
+    "c": [
+      "Drug abuse remains a serious social problem in many large cities.",
+      "药物滥用在许多大城市仍然是一个严重的社会问题。"
+    ]
+  },
+  {
+    "w": "acceptance",
+    "r": "accept(接受) + -ance(名词后缀) → 接受",
+    "c": [
+      "Her acceptance into the top university made her whole family proud.",
+      "她被那所顶尖大学录取让全家人都感到骄傲。"
+    ]
+  },
+  {
+    "w": "accessory",
+    "r": "ac-(=ad 去，向) + cess(走) + -ory(名词后缀，表附属物) → 跟在旁边走的东西 → 配件",
+    "c": [
+      "The phone case is a popular accessory among young college students.",
+      "手机壳是年轻大学生中很受欢迎的配件。"
+    ]
+  },
+  {
+    "w": "accidentally",
+    "r": "accidental(偶然的) + -ly(副词后缀) → 偶然地",
+    "c": [
+      "He accidentally deleted his term paper file before the deadline.",
+      "他在截止日期前不小心删除了自己的学期论文文件。"
+    ]
+  },
+  {
+    "w": "accommodation",
+    "r": "accommodate(适应，容纳) + -ion(名词后缀) → 住处，和解",
+    "c": [
+      "The university provides accommodation for first-year international students.",
+      "这所大学为一年级国际学生提供住宿。"
+    ]
+  },
+  {
+    "w": "accordance",
+    "r": "accord(一致) + -ance(名词后缀) → 符合，一致",
+    "c": [
+      "All decisions are made in accordance with the university's official policy.",
+      "所有决定都是根据大学的官方政策做出的。"
+    ]
+  },
+  {
+    "w": "accordingly",
+    "r": "according(相应的) + -ly(副词后缀) → 相应地，因此",
+    "c": [
+      "The weather forecast changed; accordingly, we canceled the outdoor event.",
+      "天气预报变了，因此我们取消了户外活动。"
+    ]
+  },
+  {
+    "w": "accountant",
+    "r": "account(账户，计算) + -ant(表人) → 算账的人 → 会计师",
+    "c": [
+      "The company hired a certified accountant to manage its annual budget.",
+      "公司聘请了一位注册会计师来管理年度预算。"
+    ]
+  },
+  {
+    "w": "accrue",
+    "r": "ac-(=ad 加强) + crue(生长，增加，源自拉丁语 crescere) → 不断生长增加 → 积累",
+    "c": [
+      "Interest will accrue on your savings account every single month.",
+      "你的储蓄账户每个月都会产生利息。"
+    ]
+  },
+  {
+    "w": "accumulate",
+    "r": "ac-(=ad 加强) + cumul(堆积，堆，源自拉丁语 cumulus) + -ate(动词后缀) → 堆起来 → 积累",
+    "c": [
+      "Students should accumulate reading experience throughout their college years.",
+      "学生们应该在整个大学期间积累阅读经验。"
+    ]
+  },
+  {
+    "w": "accustomed",
+    "r": "accustom(使习惯) + -ed(形容词后缀) → 习惯的",
+    "c": [
+      "She soon became accustomed to the fast pace of university life.",
+      "她很快就习惯了大学生活的快节奏。"
+    ]
+  },
+  {
+    "w": "ache",
+    "r": "联想: 源自古英语 æcan，疼痛的感觉如同在咬(ac音似「哎」)一样难受 → 疼",
+    "c": [
+      "After studying for hours, she felt a dull ache in her head.",
+      "学习了几个小时后，她感到头部隐隐作痛。"
+    ]
+  },
+  {
+    "w": "acid",
+    "r": "acid(酸的，尖的，源自拉丁语 acidus) → 酸",
+    "c": [
+      "The chemistry teacher warned students about the dangers of strong acid.",
+      "化学老师警告学生们强酸的危险性。"
+    ]
+  },
+  {
+    "w": "acquaintance",
+    "r": "acquaint(告知，使熟悉) + -ance(名词后缀) → 相识的人",
+    "c": [
+      "She is just an acquaintance from my first-year literature class.",
+      "她只是我一年级文学课上认识的一个熟人。"
+    ]
+  },
+  {
+    "w": "acre",
+    "r": "联想: 源自古英语 æcer(田地)，与农业(agri)相关，指一块耕地面积 → 英亩",
+    "c": [
+      "The university campus covers more than one thousand acres of land.",
+      "这所大学校园占地超过一千英亩。"
+    ]
+  },
+  {
+    "w": "across",
+    "r": "a-(=on 在) + cross(十字，穿过) → 呈十字穿过 → 穿过",
+    "c": [
+      "The new library is just across the street from the main gate.",
+      "新图书馆就在大门对面的街道另一边。"
+    ]
+  },
+  {
+    "w": "acute",
+    "r": "ac-(尖) + ute(源自拉丁语 acutus) → 针尖般的 → 敏锐的，严重的",
+    "c": [
+      "The country is facing an acute shortage of skilled medical workers.",
+      "这个国家正面临熟练医护人员严重短缺的问题。"
+    ]
+  },
+  {
+    "w": "acutely",
+    "r": "acute(敏锐的，严重的) + -ly(副词后缀) → 强烈地",
+    "c": [
+      "She felt acutely aware of her lack of experience in the field.",
+      "她强烈地意识到自己在这个领域缺乏经验。"
+    ]
+  },
+  {
+    "w": "adhere",
+    "r": "ad-(去，向) + here(粘，附着，源自拉丁语 haerere) → 粘上去 → 坚持，粘附",
+    "c": [
+      "All team members must adhere to the project schedule strictly.",
+      "所有团队成员都必须严格遵守项目时间表。"
+    ]
+  },
+  {
+    "w": "adjective",
+    "r": "ad-(去，向) + ject(投，扔，源自拉丁语 jacere) + -ive(名词后缀) → 加在名词旁的词 → 形容词",
+    "c": [
+      "The teacher asked students to identify each adjective in the sentence.",
+      "老师要求学生们找出句子中的每一个形容词。"
+    ]
+  },
+  {
+    "w": "adjoin",
+    "r": "ad-(靠近，向) + join(连接，结合) → 靠近并连接 → 贴近，毗连",
+    "c": [
+      "The lecture hall adjoins the main library building on the east side.",
+      "演讲厅在东侧与图书馆主楼相连。"
+    ]
+  },
+  {
+    "w": "adjustable",
+    "r": "adjust(调整) + -able(可…的) → 可调整的",
+    "c": [
+      "The office chair comes with an adjustable back and armrests.",
+      "这把办公椅配有可调节的靠背和扶手。"
+    ]
+  },
+  {
+    "w": "administer",
+    "r": "ad-(去，向) + minister(仆人，大臣，源自拉丁语 minus 小的) → 作为管理者服务 → 管理",
+    "c": [
+      "The principal helps administer the school's daily operations smoothly.",
+      "校长协助管理学校的日常运作，使其顺利进行。"
+    ]
+  },
+  {
+    "w": "admiration",
+    "r": "admir(e)(钦佩) + -ation(名词后缀) → 钦佩，赞美",
+    "c": [
+      "The students looked at the Nobel Prize winner with deep admiration.",
+      "学生们怀着深深的钦佩望着那位诺贝尔奖得主。"
+    ]
+  },
+  {
+    "w": "admire",
+    "r": "ad-(加强) + mire(惊奇，看，源自拉丁语 mirari) → 惊奇地看 → 钦佩，欣赏",
+    "c": [
+      "I really admire her courage to speak up for those in need.",
+      "我非常钦佩她为有需要的人发声的勇气。"
+    ]
+  },
+  {
+    "w": "correct",
+    "r": "cor-(完全) + rect(正/直) → 完全正直 → 更正、纠正",
+    "c": [
+      "Please correct any grammar mistakes in your essay before submission.",
+      "请在提交之前更正你文章中的所有语法错误。"
+    ]
+  },
+  {
+    "w": "corresponding",
+    "r": "cor-(共同) + respond(回应) + -ing(形容词后缀) → 共同回应的 → 相应的",
+    "c": [
+      "Each chapter has a corresponding exercise at the back of the book.",
+      "每一章在书后都有相应的练习题。"
+    ]
+  },
+  {
+    "w": "cost",
+    "r": "联想: 「靠他」，做什么都靠他付出代价 → 花费",
+    "c": [
+      "The total cost of attending college has risen sharply in recent years.",
+      "上大学的总费用近年来急剧上升。"
+    ]
+  },
+  {
+    "w": "could",
+    "r": "联想: can的过去式，「能够」，基础情态动词",
+    "c": [
+      "If you tried harder, you could improve your English quickly.",
+      "如果你更努力一点，你就能很快提高英语水平。"
+    ]
+  },
+  {
+    "w": "counter",
+    "r": "count(计算) + -er(名词后缀) → 计算的地方 → 柜台",
+    "c": [
+      "Please pay at the counter before you leave the bookstore.",
+      "请在离开书店前到柜台付款。"
+    ]
+  },
+  {
+    "w": "court",
+    "r": "联想: 「考他」，法庭上考他的证词 → 法庭",
+    "c": [
+      "The court ruled in favor of the student who was unfairly dismissed.",
+      "法庭裁定那位被不公平开除的学生胜诉。"
+    ]
+  },
+  {
+    "w": "cousin",
+    "r": "联想: 「卡人」，堂兄弟姐妹之间卡住年龄差 → 堂兄弟姐妹",
+    "c": [
+      "My cousin is studying engineering at a well-known university in Beijing.",
+      "我的表兄在北京一所知名大学学习工程学。"
+    ]
+  },
+  {
+    "w": "designate",
+    "r": "de-(向下) + sign(标记) + -ate(动词后缀) -> 标记出来 -> 指定;指派",
+    "c": [
+      "The school decided to designate Monday as a campus cleaning day.",
+      "学校决定将星期一定为校园清洁日。"
+    ]
+  },
+  {
+    "w": "do",
+    "r": "联想: 最基础的动作动词，源自古英语don，表「做、执行」",
+    "c": [
+      "What do you usually do during your free time on weekends?",
+      "你周末空闲时间通常都做些什么？"
+    ]
+  },
+  {
+    "w": "dog",
+    "r": "联想: 最基础的动物词，源自古英语docga",
+    "c": [
+      "A friendly dog followed the students all the way back to campus.",
+      "一只友好的狗跟着学生们一路回到了校园。"
+    ]
+  },
+  {
+    "w": "down",
+    "r": "联想: 最基础的方位词，古英语adown",
+    "c": [
+      "Please write down your name and student ID on the answer sheet.",
+      "请在答题纸上写下你的姓名和学号。"
+    ]
+  },
+  {
+    "w": "dream",
+    "r": "联想: 古英语dream，梦、梦想",
+    "c": [
+      "Many young people dream of studying abroad after they graduate.",
+      "许多年轻人梦想毕业后出国留学。"
+    ]
+  },
+  {
+    "w": "during",
+    "r": "dur(持久) + -ing(在…期间) -> 在…期间",
+    "c": [
+      "During the semester, students must attend at least ninety percent of classes.",
+      "在学期期间，学生必须至少参加百分之九十的课程。"
+    ]
+  },
+  {
+    "w": "each",
+    "r": "联想: 古英语aelc，每个",
+    "c": [
+      "Each student in the class received a copy of the new textbook.",
+      "班上的每个学生都收到了一本新课本。"
+    ]
+  },
+  {
+    "w": "ear",
+    "r": "联想: 古英语eare，耳朵",
+    "c": [
+      "The sound of the campus bell rang pleasantly in her ear this morning.",
+      "今早校园的铃声在她耳边悦耳地响起。"
+    ]
+  },
+  {
+    "w": "early",
+    "r": "联想: 古英语aerlic，早期的",
+    "c": [
+      "It is never too early to start preparing for the final examination.",
+      "开始准备期末考试永远都不会太早。"
+    ]
+  },
+  {
+    "w": "easy",
+    "r": "联想: 来自拉丁语adiuvare(帮助)，容易的",
+    "c": [
+      "The first chapter of the textbook is fairly easy for most students.",
+      "课本的第一章对大多数学生来说相当容易。"
+    ]
+  },
+  {
+    "w": "educate",
+    "r": "e-(出) + duc(引导) + -ate(动词后缀) -> 引导出来 -> 教育",
+    "c": [
+      "The goal of college is to educate students to think independently.",
+      "大学的目标是教育学生独立思考。"
+    ]
+  },
+  {
+    "w": "egg",
+    "r": "联想: 古英语aeg，蛋",
+    "c": [
+      "She usually eats a boiled egg and toast for breakfast on weekdays.",
+      "工作日她早餐通常吃一个煮鸡蛋和烤面包。"
+    ]
+  },
+  {
+    "w": "enemy",
+    "r": "联想: en(使) + emy(音似「挨骂」) -> 使人挨骂的人 -> 敌人",
+    "c": [
+      "Poverty remains the greatest enemy of educational equality worldwide.",
+      "贫困仍然是全世界教育平等的最大敌人。"
+    ]
+  },
+  {
+    "w": "engineering",
+    "r": "engineer(工程) + -ing(名词/形容词后缀) -> 工程学",
+    "c": [
+      "He is majoring in software engineering at a top technical university.",
+      "他在一所顶尖理工大学主修软件工程。"
+    ]
+  },
+  {
+    "w": "enough",
+    "r": "联想: en(使) + ough(音似「够」) -> 足够",
+    "c": [
+      "There is not enough time to finish all the homework before class.",
+      "上课前没有足够的时间完成所有作业。"
+    ]
+  },
+  {
+    "w": "environment",
+    "r": "en-(=in,在…周围) + viron(圈,环绕) + -ment(名词后缀) -> 周围的事物 -> 环境",
+    "c": [
+      "Protecting the natural environment is the responsibility of every citizen.",
+      "保护自然环境是每个公民的责任。"
+    ]
+  },
+  {
+    "w": "essay",
+    "r": "es-(=ex,出) + say(说,试) -> 试说出来的文章 -> 论文；散文",
+    "c": [
+      "The professor asked students to write a five-page essay on climate change.",
+      "教授要求学生写一篇五页的关于气候变化的论文。"
+    ]
+  },
+  {
+    "w": "estimate",
+    "r": "estim(价值,评价) + -ate(动词后缀) -> 估价 -> 估计",
+    "c": [
+      "Scientists estimate that sea levels will rise significantly this century.",
+      "科学家估计本世纪海平面将显著上升。"
+    ]
+  },
+  {
+    "w": "evening",
+    "r": "even(傍晚的) + -ing(名词后缀) -> 傍晚",
+    "c": [
+      "In the evening, many students study together in the university library.",
+      "傍晚时分，许多学生在大学图书馆一起学习。"
+    ]
+  },
+  {
+    "w": "event",
+    "r": "e-(出) + vent(来) -> 到来的事 -> 事件",
+    "c": [
+      "The annual sports meeting is the most exciting event on campus.",
+      "一年一度的运动会是校园里最令人激动的活动。"
+    ]
+  },
+  {
+    "w": "eventually",
+    "r": "event(事件,结果) + -ual(形容词后缀) + -ly(副词后缀) -> 最终",
+    "c": [
+      "After many failed attempts, he eventually passed the driving test.",
+      "经过多次失败的尝试后，他最终通过了驾照考试。"
+    ]
+  },
+  {
+    "w": "ever",
+    "r": "联想: for ever 永远 -> 从来；曾经",
+    "c": [
+      "Have you ever visited the new museum downtown with your classmates?",
+      "你曾经和同学一起去过市中心的新博物馆吗？"
+    ]
+  },
+  {
+    "w": "every",
+    "r": "复合: ever(永远) + y -> 每一个都 -> 每个",
+    "c": [
+      "Every student must complete the online survey before the deadline.",
+      "每个学生都必须在截止日期前完成在线调查。"
+    ]
+  },
+  {
+    "w": "everything",
+    "r": "every(每个) + thing(事物) -> 每件事",
+    "c": [
+      "Everything in the dormitory was neatly arranged before inspection.",
+      "宿舍里的一切在检查前都摆放得整整齐齐。"
+    ]
+  },
+  {
+    "w": "evil",
+    "r": "联想: live(生活)反过来就是evil，生活颠倒就是邪恶 -> 邪恶的",
+    "c": [
+      "The novel explores the struggle between good and evil in human nature.",
+      "这部小说探讨了人性中善与恶的斗争。"
+    ]
+  },
+  {
+    "w": "examination",
+    "r": "examine(检查) + -ation(名词后缀) -> 考试；检查",
+    "c": [
+      "The final examination will cover all chapters we studied this semester.",
+      "期末考试将涵盖我们本学期学习的所有章节。"
+    ]
+  },
+  {
+    "w": "except",
+    "r": "ex-(出) + cept(拿,抓) -> 拿出去 -> 除了……之外",
+    "c": [
+      "Everyone in class went hiking except Tom, who had a bad cold.",
+      "除了汤姆得了重感冒，班上所有人都去远足了。"
+    ]
+  },
+  {
+    "w": "exciting",
+    "r": "excite(使兴奋) + -ing(形容词后缀) -> 令人兴奋的",
+    "c": [
+      "Winning the national debate competition was an exciting moment for the team.",
+      "赢得全国辩论赛对团队来说是一个激动人心的时刻。"
+    ]
+  },
+  {
+    "w": "execution",
+    "r": "execute(执行) + -ion(名词后缀) -> 死刑；实行，执行；演奏",
+    "c": [
+      "The execution of the project plan required close teamwork and coordination.",
+      "项目计划的执行需要紧密的团队合作与协调。"
+    ]
+  },
+  {
+    "w": "fairly",
+    "r": "fair(公平的) + -ly(副词后缀) -> 公正地；相当地",
+    "c": [
+      "The teacher fairly graded every paper without any personal preference.",
+      "老师公正地批改了每一份试卷，没有任何个人偏好。"
+    ]
+  },
+  {
+    "w": "famous",
+    "r": "fam(=fame名声) + -ous(形容词后缀) -> 有名的",
+    "c": [
+      "The famous professor will give a public lecture on AI next week.",
+      "那位著名教授下周将就人工智能发表一场公开演讲。"
+    ]
+  },
+  {
+    "w": "fat",
+    "r": "联想: fat胖的、脂肪，吃太fat的cat会变fat",
+    "c": [
+      "Doctors advise people to avoid eating too much fat in their daily diet.",
+      "医生建议人们在日常饮食中避免摄入过多脂肪。"
+    ]
+  },
+  {
+    "w": "father",
+    "r": "联想: father父亲，papa和father都是p/f开头的同源词",
+    "c": [
+      "Her father works as a professor at a well-known medical school.",
+      "她的父亲在一所知名医学院担任教授。"
+    ]
+  },
+  {
+    "w": "fearlessly",
+    "r": "fearless(无畏的) + -ly(副词后缀) -> 无畏地；大胆地",
+    "c": [
+      "She fearlessly expressed her opinion during the heated class discussion.",
+      "在激烈的课堂讨论中，她无畏地表达了自己的观点。"
+    ]
+  },
+  {
+    "w": "few",
+    "r": "联想: few很少，fewer更少，a few几个",
+    "c": [
+      "Only a few students managed to finish the difficult exam on time.",
+      "只有少数学生设法按时完成了这场困难的考试。"
+    ]
+  },
+  {
+    "w": "fifteen",
+    "r": "复合: five(五) + -teen(十) -> 十五",
+    "c": [
+      "The library is open from eight in the morning until fifteen past nine.",
+      "图书馆从早上八点开放到九点十五分。"
+    ]
+  },
+  {
+    "w": "fifty",
+    "r": "复合: five(五) + -ty(十) -> 五十",
+    "c": [
+      "There are about fifty students in each freshman English class this year.",
+      "今年每个新生英语班大约有五十名学生。"
+    ]
+  },
+  {
+    "w": "first",
+    "r": "联想: first第一，for最前面的 -> 第一",
+    "c": [
+      "The first step to mastering English is building a solid vocabulary base.",
+      "掌握英语的第一步是打下扎实的词汇基础。"
+    ]
+  },
+  {
+    "w": "flat",
+    "r": "联想: flat平的，公寓flat在flat的楼里",
+    "c": [
+      "They rented a small flat near the campus for their senior year.",
+      "他们在校园附近租了一套小公寓供大四居住。"
+    ]
+  },
+  {
+    "w": "flavour",
+    "r": "flav(=flavor风味) + -our(英式拼写) -> 给…调味",
+    "c": [
+      "You can flavour the soup with fresh herbs from the garden.",
+      "你可以用花园里的新鲜香草给汤调味。"
+    ]
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "w": "till",
+    "r": "来自古英语til(直到,到), 与古挪威语til同源 -> 直到……为止",
+    "c": [
+      "She worked in the lab from dawn till dusk to finish her research paper.",
+      "她在实验室里从早到晚工作以完成她的研究论文。"
+    ]
+  },
+  {
+    "w": "tilt",
+    "r": "词源: 来自古英语tealt(不稳的, 摇摆的), 可能与古高地德语zelz有关 -> 倾斜",
+    "c": [
+      "Many students tilt their heads when trying to solve a difficult math problem.",
+      "许多学生在试图解决一道难题时会歪着头。"
+    ]
+  },
+  {
+    "w": "timber",
+    "r": "词源: 来自古英语timber(木材, 建筑材料), 与德语Zimmer(房间)同源 -> 木材",
+    "c": null
+  },
+  {
+    "w": "time",
+    "r": "来自古英语tima(时间, 时期), 与古挪威语timi同源 -> 时间",
+    "c": [
+      "Time management is a crucial skill for college students to balance study and life.",
+      "时间管理是大学生平衡学习与生活的一项关键技能。"
+    ]
+  },
+  {
+    "w": "timely",
+    "r": "time(时间) + -ly(形容词后缀,表具有……性质的) -> 恰在时间上的 -> 及时的",
+    "c": [
+      "The professor gave a timely warning about the upcoming midterm exam.",
+      "教授及时提醒了即将到来的期中考试。"
+    ]
+  },
+  {
+    "w": "timid",
+    "r": "来自拉丁语timidus(害怕的), 源自timere(害怕, 恐惧) -> 胆怯的",
+    "c": null
+  },
+  {
+    "w": "tin",
+    "r": "来自古英语tin(锡), 与德语Zinn同源, 为古老金属名称 -> 锡",
+    "c": [
+      "The chemistry student carefully placed a small piece of tin into the test tube.",
+      "化学系学生小心翼翼地把一小块锡放进试管里。"
+    ]
+  },
+  {
+    "w": "tiny",
+    "r": "tin(锡) + -y(形容词后缀,表小的) -> 像锡粒一样小的 -> 极小的",
+    "c": null
+  },
+  {
+    "w": "tip",
+    "r": "联想: 顶端(top)的一点(pin) -> 末端; 另义小费来自古法语tippe(给, 支付)",
+    "c": [
+      "The tip of the pencil broke when the student pressed too hard on the paper.",
+      "学生用力过猛,铅笔尖断了。"
+    ]
+  },
+  {
+    "w": "tire",
+    "r": "词源: 来自古法语tire(带子, 箍), 原指轮胎是套在轮子上的箍带 -> 轮胎",
+    "c": null
+  },
+  {
+    "w": "tired",
+    "r": "tir-(来自古英语tyrion,使厌倦) + -ed(形容词后缀,表处于……状态) -> 疲惫的",
+    "c": [
+      "After pulling an all-nighter, the tired student fell asleep during the lecture.",
+      "熬了一整夜后,这个疲惫的学生在讲座上睡着了。"
+    ]
+  },
+  {
+    "w": "tiresome",
+    "r": "tire(使厌倦) + -some(形容词后缀,表引起……的) -> 引起厌倦的 -> 讨厌的",
+    "c": [
+      "Writing the same report five times was a tiresome task for the intern.",
+      "把同一份报告写五遍对实习生来说是件讨厌的事。"
+    ]
+  },
+  {
+    "w": "tissue",
+    "r": "来自古法语tissu(织物, 织品), 源自拉丁语texere(编织) -> 织物般薄的 -> 纸巾",
+    "c": null
+  },
+  {
+    "w": "title",
+    "r": "来自拉丁语titulus(铭文, 标题, 标签), 经由古法语title -> 标题",
+    "c": null
+  },
+  {
+    "w": "to",
+    "r": "来自古英语to(向, 到, 直到), 与德语zu同源 -> 目的、终点",
+    "c": [
+      "Many students go to the library every day to prepare for their final exams.",
+      "许多学生每天去图书馆准备期末考试。"
+    ]
+  },
+  {
+    "w": "toad",
+    "r": "来自古英语tadie(蟾蜍), 词源不详, 为古英语固有动物名称 -> 蟾蜍，癞蛤蟆",
+    "c": [
+      "The biology students observed a toad life cycle in the pond near campus.",
+      "生物系学生在校园附近的池塘里观察蟾蜍的生命周期。"
+    ]
+  },
+  {
+    "w": "toast",
+    "r": "来自古法语toster(烤, 烘), 源自拉丁语tostus(烤干的) -> 烤、烤面包",
+    "c": [
+      "Most college students grab a slice of toast and coffee before morning classes.",
+      "大多数大学生在早上上课前会吃一片吐司、喝杯咖啡。"
+    ]
+  },
+  {
+    "w": "tobacco",
+    "r": "来自西班牙语tabaco(烟草), 源自印第安语tabaco(烟草植物), 由哥伦布带回欧洲 -> 烟草",
+    "c": null
+  },
+  {
+    "w": "today",
+    "r": "复合: to(这, 此) + day(天) -> 这一天 -> 在今天、现今",
+    "c": [
+      "Today, artificial intelligence is transforming industries from healthcare to finance.",
+      "如今,人工智能正在改变从医疗到金融的各个行业。"
+    ]
+  },
+  {
+    "w": "toe",
+    "r": "来自古英语ta(脚趾), 与荷兰语teen、德语Zeh同源 -> 脚趾",
+    "c": [
+      "The student stubbed his toe on the chair leg while rushing to class.",
+      "学生赶去上课时,脚趾撞到了椅子腿。"
+    ]
+  },
+  {
+    "w": "together",
+    "r": "复合: to(向, 到) + gether(聚集, 集合) -> 聚集到一起 -> 一共",
+    "c": null
+  },
+  {
+    "w": "toil",
+    "r": "来自古法语toiler(劳作, 辛苦), 源自拉丁语tela(网, 织布机), 原指织布的苦工 -> 辛苦",
+    "c": [
+      "Years of academic toil finally paid off when she received her PhD degree.",
+      "多年的学术辛劳终于在她获得博士学位时得到了回报。"
+    ]
+  },
+  {
+    "w": "toilet",
+    "r": "来自古法语toilette(小布, 梳妆), 是toile(布)的指小词, 后引申为盥洗室 -> 厕所",
+    "c": [
+      "The dormitory bathroom has only one toilet shared by eight students.",
+      "宿舍浴室里只有一个厕所,供八名学生共用。"
+    ]
+  },
+  {
+    "w": "token",
+    "r": "来自古英语tacen(记号, 符号), 与古英语teon(教导, 指示)同源 -> 象征、象征性的",
+    "c": [
+      "A handshake is often a token of respect and trust in many cultures.",
+      "在许多文化中,握手往往是尊重与信任的象征。"
+    ]
+  },
+  {
+    "w": "tolerance",
+    "r": "toler(来自拉丁语tolerare,忍受) + -ance(名词后缀,表状态, 性质) -> 宽容、容忍",
+    "c": null
+  },
+  {
+    "w": "tolerant",
+    "r": "toler(忍受) + -ant(形容词后缀,表具有……性质的) -> 宽容的",
+    "c": [
+      "A tolerant attitude toward different opinions is essential for group discussions.",
+      "对不同意见持宽容态度是小组讨论必不可少的。"
+    ]
+  },
+  {
+    "w": "tolerate",
+    "r": "来自拉丁语tolerare(忍受, 容忍), 与拉丁语tollere(举起, 承受)同源 -> 容忍",
+    "c": [
+      "University professors cannot tolerate any form of cheating or plagiarism in student academic papers.",
+      "大学教授不能容忍学生学术论文中任何形式的作弊或抄袭行为。"
+    ]
+  },
+  {
+    "w": "toll",
+    "r": "来自古法语tol(税, 通行费), 源自古高地德语tol(税); 损失义由代价引申而来 -> 损失、通行费",
+    "c": [
+      "The high-speed highway toll adds a significant cost to weekend travel expenses.",
+      "高速公路通行费给周末出行增加了不小的开销。"
+    ]
+  },
+  {
+    "w": "tomato",
+    "r": "来自西班牙语tomate, 源自纳瓦特尔语(阿兹特克语)tomatl -> 西红柿",
+    "c": null
+  },
+  {
+    "w": "tomb",
+    "r": "来自拉丁语tumb(墓), 经由古法语tombe进入英语, 与希腊语tymbos(墓冢)同源 -> 坟墓",
+    "c": [
+      "Archaeology students visited an ancient tomb to learn about burial customs.",
+      "考古学专业的学生参观了一座古墓,了解丧葬习俗。"
+    ]
+  },
+  {
+    "w": "tomorrow",
+    "r": "复合: to(到, 向) + morrow(早晨, 次日) -> 到次日早晨 -> 明天、来日",
+    "c": [
+      "The research proposal must be submitted by noon tomorrow without any delay.",
+      "研究提案必须在明天中午之前提交,不得有任何延迟。"
+    ]
+  },
+  {
+    "w": "ton",
+    "r": "来自古法语tonne(大桶, 吨), 原指一个大桶的容量, 后用作重量单位 -> 吨、大量",
+    "c": null
+  },
+  {
+    "w": "tone",
+    "r": "来自希腊语tonos(音调, 紧张), 源自teinein(拉伸), 经由拉丁语tonus进入英语 -> 音调、腔调",
+    "c": null
+  },
+  {
+    "w": "tongue",
+    "r": "来自古英语tunge(舌头, 语言), 与德语Zunge同源, 为印欧语系古老词 -> 舌头",
+    "c": null
+  },
+  {
+    "w": "tonight",
+    "r": "复合: to(这, 此) + night(夜晚) -> 这一夜 -> 今晚",
+    "c": [
+      "The debate team is having a practice session tonight in the main auditorium.",
+      "辩论队今晚在大礼堂有一场练习赛。"
+    ]
+  },
+  {
+    "w": "too",
+    "r": "来自古英语to(也, 此外), 是to的强调形式, 后拼写分化为too -> 太…、也",
+    "c": null
+  },
+  {
+    "w": "tool",
+    "r": "来自古英语tol(工具, 器具), 与古挪威语tol(工具)同源 -> 工具",
+    "c": null
+  },
+  {
+    "w": "tooth",
+    "r": "来自古英语toth(牙齿), 与德语Zahn、希腊语odont-同源, 为印欧语系古老词 -> 牙齿",
+    "c": null
+  },
+  {
+    "w": "top",
+    "r": "来自古英语top(顶部, 顶端), 与古荷兰语top(尖端)同源 -> 顶端",
+    "c": null
+  },
+  {
+    "w": "topic",
+    "r": "来自希腊语topos(地方, 主题), 经由拉丁语topica(论题)进入英语 -> 话题",
+    "c": null
+  },
+  {
+    "w": "torch",
+    "r": "来自古法语torche(火炬, 火把), 源自拉丁语torquere(扭转), 因早期火把由扭曲的麻纤维制成 -> 火炬",
+    "c": [
+      "The opening ceremony of the sports meet featured a torch relay across campus.",
+      "运动会的开幕式上有一场穿越校园的火炬传递。"
+    ]
+  },
+  {
+    "w": "torment",
+    "r": "tor-(来自拉丁语torquere,扭转, 折磨) + -ment(名词后缀,表行为, 结果) -> 折磨",
+    "c": [
+      "The fear of failure can torment students long before the final exam results come out.",
+      "对失败的恐惧会在期末考试结果出来前很久就折磨着学生。"
+    ]
+  },
+  {
+    "w": "torpedo",
+    "r": "来自拉丁语torpedo(麻木, 电鳗), 源自torpere(麻木); 因鱼雷像电鳗一样从水中攻击得名 -> 鱼雷，水雷",
+    "c": [
+      "The naval history lecture explained how the torpedo changed modern naval warfare.",
+      "海军史讲座讲解了鱼雷如何改变了现代海战。"
+    ]
+  },
+  {
+    "w": "torque",
+    "r": "来自拉丁语torquere(扭转, 转动), 经由法语torque进入英语 -> 转（力）矩，扭（力）矩",
+    "c": [
+      "The physics professor explained how torque affects the rotation of a rigid body.",
+      "物理学教授讲解了扭矩如何影响刚体的转动。"
+    ]
+  },
+  {
+    "w": "torrent",
+    "r": "来自拉丁语torrens(燃烧的, 汹涌的), 源自torrere(燃烧, 烘干), 引申为激流 -> 激流",
+    "c": [
+      "After the heavy rain, a torrent of water rushed down the mountain path.",
+      "大雨过后,一股激流沿着山径奔涌而下。"
+    ]
+  },
+  {
+    "w": "torture",
+    "r": "tort-(来自拉丁语torquere,扭, 折磨) + -ure(名词后缀,表行为, 状态) -> 拷问",
+    "c": [
+      "Human rights activists strongly condemn the use of torture in any interrogation.",
+      "人权活动人士强烈谴责在任何审讯中使用酷刑。"
+    ]
+  },
+  {
+    "w": "toss",
+    "r": "词源: 来自中古英语tossen(抛, 掷), 可能与古诺斯语tosa(推, 拉)有关 -> 投掷、辗转",
+    "c": [
+      "When nervous before an exam, students may toss and turn in bed all night.",
+      "考试前紧张时,学生可能整夜辗转反侧。"
+    ]
+  },
+  {
+    "w": "total",
+    "r": "来自拉丁语totus(全部的, 整个的), 经由古法语total进入英语 -> 总共的",
+    "c": [
+      "The total number of students enrolled in the online course exceeded 500 this semester.",
+      "这学期选修这门在线课程的学生总数超过了500人。"
+    ]
+  },
+  {
+    "w": "touch",
+    "r": "来自古法语touchier(触摸), 与拉丁语toccare(敲击)有关 -> 触摸、感动",
+    "c": null
+  },
+  {
+    "w": "tough",
+    "r": "词源: 来自古英语toh(坚韧的, 不屈的), 与荷兰语taai、德语zäh同源 -> 艰难的",
+    "c": [
+      "Adjusting to college life can be tough for freshmen at first.",
+      "对新生来说,适应大学生活一开始可能会很艰难。"
+    ]
+  },
+  {
+    "w": "tour",
+    "r": "词源: 来自拉丁语tornus(车床,旋转), 经由古法语tour(转,圈) -> 转一圈 -> 旅行",
+    "c": null
+  },
+  {
+    "w": "tourist",
+    "r": "tour(旅行) + -ist(名词后缀,表人) -> 旅行的人 -> 旅行者",
+    "c": null
+  },
+  {
+    "w": "tow",
+    "r": "词源: 来自古英语togian(拉,拖), 与古英语teon(拉)同源 -> 拖",
+    "c": [
+      "The rescue boat had to tow the damaged ship back to the harbor.",
+      "救援船不得不把受损的船只拖回港口。"
+    ]
+  },
+  {
+    "w": "toward",
+    "r": "复合: to(向,到) + ward(方向) -> 朝向某个方向 -> 向、朝向",
+    "c": [
+      "Universities are moving toward more flexible admission policies for talented students.",
+      "各大高校正朝着对优秀学生实行更灵活的录取政策方向发展。"
+    ]
+  },
+  {
+    "w": "towards",
+    "r": "复合: to(向,到) + -wards(副词后缀,表方向) -> 朝着...方向 -> 用于，有助于",
+    "c": [
+      "The new policy works towards reducing the financial burden on low-income families.",
+      "这项新政策有助于减轻低收入家庭的经济负担。"
+    ]
+  },
+  {
+    "w": "towel",
+    "r": "词源: 来自古法语toaille(布,毛巾), 源自拉丁语thualea(洗浴用布) -> 毛巾",
+    "c": [
+      "Students in the dormitory often share a towel rack near the bathroom.",
+      "宿舍里的学生经常共用浴室附近的毛巾架。"
+    ]
+  },
+  {
+    "w": "tower",
+    "r": "词源: 来自古法语tur(塔), 源自拉丁语turris(塔) -> 塔",
+    "c": null
+  },
+  {
+    "w": "town",
+    "r": "词源: 来自古英语tun(围场,村庄,庄园), 原指围起来的聚居地 -> 城镇",
+    "c": null
+  },
+  {
+    "w": "toxic",
+    "r": "tox(毒,弓) + -ic(形容词后缀) -> 与毒药有关的 -> 有毒的",
+    "c": [
+      "Toxic chemicals in industrial waste pose a serious threat to the local ecosystem.",
+      "工业废料中的有毒化学物质对当地生态系统构成严重威胁。"
+    ]
+  },
+  {
+    "w": "toy",
+    "r": "词源: 来自中古英语toye(玩具,小玩意儿), 起源不明,一说来自荷兰语tuig(工具,装备) -> 玩具",
+    "c": null
+  },
+  {
+    "w": "trace",
+    "r": "词源: 来自拉丁语trahere(拉,拖), 经由古法语tracier(追踪,划出) -> 拉出的痕迹 -> 痕迹、微量",
+    "c": null
+  },
+  {
+    "w": "track",
+    "r": "词源: 来自古法语trac(轨迹,车辙), 可能源自日耳曼语,与drag(拖)同源 -> 追踪、足迹、痕迹",
+    "c": null
+  },
+  {
+    "w": "tract",
+    "r": "tract(拉,拖) -> 拉出来的一片(土地)或拉出来的文字 -> 大片; 传单，小册子",
+    "c": [
+      "A vast tract of forest was cleared to make way for the new industrial zone.",
+      "一大片森林被砍伐，为新的工业区让路。"
+    ]
+  },
+  {
+    "w": "tractor",
+    "r": "tract(拉,拖) + -or(名词后缀,表物) -> 拉东西的机器 -> 牵引车",
+    "c": [
+      "Modern tractors have greatly improved efficiency on large-scale agricultural farms.",
+      "现代拖拉机大大提高了大型农业农场的生产效率。"
+    ]
+  },
+  {
+    "w": "trade",
+    "r": "词源: 来自古英语trada(足迹,路径), 引申为商业路线,与tread(踏)同源 -> 交易",
+    "c": null
+  },
+  {
+    "w": "trade-off",
+    "r": "复合: trade(交易) + off(离开,交换) -> 用一物换另一物 -> 权衡，交易",
+    "c": [
+      "There is often a trade-off between academic performance and social life in college.",
+      "在大学里，学业成绩与社交生活之间常常需要权衡取舍。"
+    ]
+  },
+  {
+    "w": "trademark",
+    "r": "复合: trade(贸易,商业) + mark(标记) -> 商业上的标记 -> 商标",
+    "c": [
+      "Companies spend millions of dollars each year to protect their valuable trademarks.",
+      "公司每年花费数百万美元来保护其价值不菲的商标。"
+    ]
+  },
+  {
+    "w": "trader",
+    "r": "trade(交易,贸易) + -er(名词后缀,表人) -> 做交易的人 -> 商人",
+    "c": [
+      "Independent traders on Wall Street closely monitor market trends every single day.",
+      "华尔街的独立交易员每天都在密切关注市场走势。"
+    ]
+  },
+  {
+    "w": "tradesman",
+    "r": "复合: trades(手艺,行业) + man(人) -> 从事某行业的人 -> 商人，店主；手艺人",
+    "c": [
+      "The skilled tradesman repaired the old laboratory equipment with remarkable precision.",
+      "这位技艺精湛的手艺人以惊人的精确度修理了旧的实验设备。"
+    ]
+  },
+  {
+    "w": "tradition",
+    "r": "tradi(传递,交出,来自拉丁语tradere) + -tion(名词后缀) -> 代代相传的东西 -> 传统",
+    "c": null
+  },
+  {
+    "w": "traffic",
+    "r": "词源: 来自意大利语traffico(贸易,交通), 与动词trafficare(交易,经商)有关 -> 交通",
+    "c": [
+      "Heavy traffic congestion in big cities has become a major environmental and economic issue.",
+      "大城市的严重交通拥堵已成为一个重大的环境与经济问题。"
+    ]
+  },
+  {
+    "w": "tragedy",
+    "r": "trag(山羊,来自希腊语tragos) + -edy(歌,来自oide) -> 山羊之歌(古希腊悲剧起源) -> 悲剧",
+    "c": null
+  },
+  {
+    "w": "tragic",
+    "r": "trag(山羊,悲剧) + -ic(形容词后缀) -> 悲剧的 -> 悲惨的",
+    "c": [
+      "The tragic accident prompted the university to review its campus safety regulations.",
+      "这起悲惨的事故促使校方重新审视校园安全规定。"
+    ]
+  },
+  {
+    "w": "trail",
+    "r": "词源: 来自古法语trailler(拖,拉), 源自拉丁语tragula(拖网) -> 拖出来的痕迹 -> 小径、踪迹",
+    "c": [
+      "Researchers followed the trail of evidence to uncover the cause of the mysterious phenomenon.",
+      "研究人员循着证据的踪迹，揭开了这一神秘现象的成因。"
+    ]
+  },
+  {
+    "w": "train",
+    "r": "词源: 来自拉丁语trahere(拉,拖), 引申为被拉着走的一长串 -> 列车、行列",
+    "c": null
+  },
+  {
+    "w": "training",
+    "r": "train(训练,列车) + -ing(名词/动名词后缀) -> 系统性的培养过程 -> 训练",
+    "c": [
+      "Regular physical training is essential for students to maintain both mental and physical health.",
+      "规律的体育锻炼对学生保持身心健康至关重要。"
+    ]
+  },
+  {
+    "w": "trait",
+    "r": "词源: 来自拉丁语tractus(拉,拖,线条), 经由古法语trait(特征,一笔) -> 画出的特征线 -> 特征",
+    "c": null
+  },
+  {
+    "w": "tram",
+    "r": "词源: 来自低地德语tram(梁,轨道), 原指在轨道上运行的车 -> 有轨电车",
+    "c": [
+      "The new tram line connects the university campus with the downtown business district.",
+      "新的有轨电车线路连接了大学校园与市中心商业区。"
+    ]
+  },
+  {
+    "w": "tramp",
+    "r": "词源: 来自中古英语trampen(沉重地走,踩), 拟声词根,模仿重重脚步声 -> 以沉重的脚步走；跋涉",
+    "c": [
+      "The explorers had to tramp through muddy terrain for hours before reaching the research station.",
+      "探险者们在泥泞的地形中跋涉了好几个小时才到达研究站。"
+    ]
+  },
+  {
+    "w": "trample",
+    "r": "tramp(重踩,跋涉) + -le(动词后缀,表反复) -> 反复踩踏 -> 践踏，蹂躏",
+    "c": [
+      "The crowd began to trample the flower beds as they rushed toward the stadium entrance.",
+      "人群冲向体育场入口时开始践踏花坛。"
+    ]
+  },
+  {
+    "w": "tranquil",
+    "r": "trans-(穿过,完全) + quil(静,来自拉丁语quies) -> 完全安静的 -> 平静的；稳定的",
+    "c": [
+      "The tranquil atmosphere of the library helps students concentrate on their studies effectively.",
+      "图书馆宁静的氛围有助于学生高效地集中精力学习。"
+    ]
+  },
+  {
+    "w": "transaction",
+    "r": "trans-(穿过,转移) + act(做,行动) + -ion(名词后缀) -> 双方之间做的事 -> 交易、业务",
+    "c": null
+  },
+  {
+    "w": "transcend",
+    "r": "trans-(穿过,越过) + scend(爬,攀登) -> 爬过去,越过 -> 超越",
+    "c": [
+      "Great literature has the power to transcend cultural boundaries and touch readers worldwide.",
+      "伟大的文学作品有力量超越文化界限，打动全世界的读者。"
+    ]
+  },
+  {
+    "w": "transfer",
+    "r": "trans-(穿过,转移) + fer(带,拿) -> 从一处带到另一处 -> 转移、传输",
+    "c": null
+  },
+  {
+    "w": "transform",
+    "r": "trans-(穿过,转变) + form(形状) -> 改变形状 -> 改变",
+    "c": null
+  },
+  {
+    "w": "transient",
+    "r": "trans-(穿过,越过) + i(走,来自ire) + -ent(形容词后缀) -> 走过去的 -> 短暂的",
+    "c": [
+      "Transient feelings of anxiety are common among students before important examinations.",
+      "在重要考试之前，短暂的焦虑感在学生中很常见。"
+    ]
+  },
+  {
+    "w": "transistor",
+    "r": "trans-(转移) + istor(来自resistor电阻器) -> 转移电阻的器件 -> 晶体管",
+    "c": [
+      "The invention of the transistor revolutionized the entire electronics and computing industry.",
+      "晶体管的发明彻底改变了整个电子与计算机行业。"
+    ]
+  },
+  {
+    "w": "transit",
+    "r": "trans-(穿过,越过) + it(走) -> 走过去 -> 运输",
+    "c": [
+      "Public transit systems play a crucial role in reducing traffic congestion and air pollution.",
+      "公共交通系统在减少交通拥堵和空气污染方面发挥着关键作用。"
+    ]
+  },
+  {
+    "w": "transition",
+    "r": "trans-(穿过,越过) + it(走) + -ion(名词后缀) -> 走过去的过程 -> 过渡、转变",
+    "c": null
+  },
+  {
+    "w": "translate",
+    "r": "trans-(穿过,转移) + late(带来,携带,来自拉丁语latus) -> 把意思带过去 -> 解释、翻译、转变",
+    "c": [
+      "Language majors often translate academic articles between Chinese and English for research purposes.",
+      "语言专业的学生经常为科研目的在中英文之间翻译学术文章。"
+    ]
+  },
+  {
+    "w": "translation",
+    "r": "trans-(穿过,转移) + lat(带来) + -ion(名词后缀) -> 把意思转移过去的行为 -> 翻译",
+    "c": [
+      "Accurate translation of scientific papers requires deep understanding of both language and subject.",
+      "准确翻译科学论文需要对语言和专业内容都有深刻理解。"
+    ]
+  },
+  {
+    "w": "transmission",
+    "r": "trans-(穿过,转移) + miss(送,发) + -ion(名词后缀) -> 发送出去 -> 传输",
+    "c": [
+      "The transmission of data through fiber optic cables is much faster than through traditional copper wires.",
+      "通过光纤电缆的数据传输比传统铜线快得多。"
+    ]
+  },
+  {
+    "w": "transmit",
+    "r": "trans-(穿过,转移) + mit(送,发) -> 发送出去 -> 传送、发射",
+    "c": [
+      "Radio towers can transmit signals across thousands of kilometers to reach remote areas.",
+      "无线电发射塔可以将信号传送数千公里，到达偏远地区。"
+    ]
+  },
+  {
+    "w": "transparent",
+    "r": "trans-(穿过) + par(出现,显示) + -ent(形容词后缀) -> 能显现穿过去的 -> 透明的",
+    "c": null
+  },
+  {
+    "w": "transplant",
+    "r": "trans-(转移,穿过) + plant(种植) -> 移过去种植 -> 移植",
+    "c": null
+  },
+  {
+    "w": "transport",
+    "r": "trans-(穿过,转移) + port(携带,运送) -> 从一处运到另一处 -> 运输",
+    "c": null
+  },
+  {
+    "w": "transverse",
+    "r": "trans-(穿过,横过) + vers(转) + -e -> 转过去横放的 -> 横的",
+    "c": [
+      "The transverse beam supports the entire weight of the building upper floors.",
+      "横梁支撑着建筑上层的全部重量。"
+    ]
+  },
+  {
+    "w": "trap",
+    "r": "词源: 来自古英语træppe(陷阱), 与古英语treppan(踩踏)有关,原指踩上去触发的机关 -> 困住",
+    "c": null
+  },
+  {
+    "w": "trash",
+    "r": "词源: 来自中古英语trasch(碎屑,垃圾), 起源不明,可能与古北欧语tros(枯枝落叶)有关 -> 垃圾",
+    "c": [
+      "Universities are encouraging students to sort trash into recyclable and non-recyclable categories.",
+      "各高校正在鼓励学生将垃圾分为可回收和不可回收两类。"
+    ]
+  },
+  {
+    "w": "travel",
+    "r": "词源: 来自古法语travailler(辛苦劳动,折磨), 源自拉丁语trepalium(酷刑工具), 引申为艰难的旅程 -> 旅行",
+    "c": null
+  }
+]

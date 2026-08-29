@@ -1,0 +1,655 @@
+[
+  {
+    "w": "imagination",
+    "r": "imagin(想象,来自imagine) + -ation(名词后缀,行为/状态) -> 想象的行为 -> 想象",
+    "c": null
+  },
+  {
+    "w": "imaginative",
+    "r": "imagin(想象) + -ative(形容词后缀,有…性质的) -> 有想象力的 -> 富于想象力的",
+    "c": [
+      "The imaginative design of the campus library won several national architectural awards.",
+      "校园图书馆富有想象力的设计赢得了多项国家级建筑奖项。"
+    ]
+  },
+  {
+    "w": "imagine",
+    "r": "来自拉丁语imago(形象、图像), 在心中形成形象 -> 想象",
+    "c": null
+  },
+  {
+    "w": "imbalance",
+    "r": "im-(不,非) + balance(平衡) -> 不平衡的状态 -> 不平衡",
+    "c": [
+      "The growing imbalance between urban and rural development has attracted widespread academic attention.",
+      "城乡发展之间日益扩大的不平衡引起了学术界的广泛关注。"
+    ]
+  },
+  {
+    "w": "imitate",
+    "r": "来自拉丁语imitari(模仿、复制), 与image同源 -> 模仿、仿造",
+    "c": null
+  },
+  {
+    "w": "imitation",
+    "r": "imitat(模仿,来自imitate) + -ion(名词后缀) -> 模仿的行为 -> 模仿",
+    "c": null
+  },
+  {
+    "w": "immediate",
+    "r": "im-(不,无) + medi(中间, 来自拉丁语medius) + -ate(形容词后缀) -> 没有中间的 -> 立即的",
+    "c": null
+  },
+  {
+    "w": "immense",
+    "r": "im-(不) + mens(测量, 来自拉丁语mensus) + -e -> 不能测量的 -> 巨大的",
+    "c": null
+  },
+  {
+    "w": "immensely",
+    "r": "immense(巨大的) + -ly(副词后缀) -> 非常地、极大地",
+    "c": [
+      "Students benefited immensely from the exchange program designed by the international office.",
+      "学生们从国际办公室设计的交流项目中获益极大。"
+    ]
+  },
+  {
+    "w": "immerse",
+    "r": "im-(进入,向内) + merse(浸, 来自拉丁语mergere) -> 浸入里面 -> 浸",
+    "c": [
+      "Language learners are encouraged to immerse themselves in authentic English-speaking environments.",
+      "语言学习者被鼓励让自己沉浸在真实的英语环境中。"
+    ]
+  },
+  {
+    "w": "immersive",
+    "r": "immers(沉浸,来自immerse) + -ive(形容词后缀) -> 沉浸的、身临其境的",
+    "c": null
+  },
+  {
+    "w": "immigrant",
+    "r": "im-(进入,向内) + migr(迁移, 来自拉丁语migrare) + -ant(人) -> 迁入的人 -> 移民",
+    "c": null
+  },
+  {
+    "w": "immigrate",
+    "r": "im-(进入) + migr(迁移) + -ate(动词后缀) -> 迁入 -> (使)移居入境",
+    "c": [
+      "Many skilled professionals choose to immigrate to countries offering better research opportunities.",
+      "许多技术专业人士选择移民到能提供更好研究机会的国家。"
+    ]
+  },
+  {
+    "w": "immigration",
+    "r": "im-(进入) + migr(迁移) + -ation(名词后缀) -> 移民的行为 -> 移民",
+    "c": [
+      "Debates over immigration policy have intensified in many Western democracies in recent years.",
+      "近年来, 许多西方民主国家关于移民政策的辩论愈演愈烈。"
+    ]
+  },
+  {
+    "w": "imminent",
+    "r": "im-(在…上) + min(突出、悬, 来自拉丁语minere) + -ent(形容词后缀) -> 悬在上方的 -> 逼近的",
+    "c": [
+      "Scientists warn that an imminent climate disaster requires immediate global cooperation.",
+      "科学家警告说, 一场迫在眉睫的气候灾难需要立即的全球合作。"
+    ]
+  },
+  {
+    "w": "immortal",
+    "r": "im-(不) + mort(死, 来自拉丁语mors) + -al(形容词后缀) -> 不死的 -> 不朽的、永生的",
+    "c": [
+      "The philosopher's immortal works continue to influence intellectual thought across the globe.",
+      "这位哲学家不朽的著作继续影响着全球的思想界。"
+    ]
+  },
+  {
+    "w": "immune",
+    "r": "im-(不) + mun(服务、义务, 来自拉丁语munus) + -e -> 免除义务的 -> 免疫",
+    "c": null
+  },
+  {
+    "w": "impact",
+    "r": "im-(进入,加强) + pact(压紧, 来自拉丁语pactum) -> 压进去 -> 冲击",
+    "c": null
+  },
+  {
+    "w": "impair",
+    "r": "im-(加强) + pair(更差, 来自拉丁语pejor) -> 使变得更差 -> 损害",
+    "c": null
+  },
+  {
+    "w": "impart",
+    "r": "im-(进入,使) + part(部分) -> 使成为一部分 -> 传授",
+    "c": [
+      "Professors aim to impart critical thinking skills rather than just factual knowledge to students.",
+      "教授们旨在向学生传授批判性思维技能, 而不仅仅是事实性知识。"
+    ]
+  },
+  {
+    "w": "impartial",
+    "r": "im-(不) + parti(部分,偏向) + -al(形容词后缀) -> 不偏向任何一方的 -> 公正的、无偏见的",
+    "c": [
+      "An impartial judicial system is fundamental to maintaining social justice and the rule of law.",
+      "公正的司法体系是维护社会正义和法治的基础。"
+    ]
+  },
+  {
+    "w": "impatient",
+    "r": "im-(不) + patient(耐心的) -> 没有耐心的 -> 不耐烦的",
+    "c": [
+      "Impatient consumers often abandon online purchases if the checkout process takes too long.",
+      "如果结账流程耗时过长, 不耐烦的消费者常常会放弃在线购买。"
+    ]
+  },
+  {
+    "w": "imperative",
+    "r": "im-(加强) + per(命令, 来自拉丁语imperare) + -ative(形容词后缀) -> 必须命令的 -> 紧急的、祈使的",
+    "c": null
+  },
+  {
+    "w": "imperial",
+    "r": "imper(命令, 来自拉丁语imperium帝国) + -ial(形容词后缀) -> 帝国的、皇帝的",
+    "c": [
+      "The imperial palace complex attracts millions of tourists from around the world each year.",
+      "这座皇宫建筑群每年吸引来自世界各地数百万游客。"
+    ]
+  },
+  {
+    "w": "impetus",
+    "r": "im-(进入,向内) + pet(追求, 来自拉丁语petere) + -us(名词后缀) -> 向内追求的力 -> 推动力",
+    "c": [
+      "Technological innovation provides the primary impetus for economic growth in modern societies.",
+      "技术创新为现代社会的经济增长提供了主要推动力。"
+    ]
+  },
+  {
+    "w": "implement",
+    "r": "im-(加强) + ple(填满, 来自拉丁语plere) + -ment(名词/动词后缀) -> 把…填满/完成 -> 实施、工具",
+    "c": null
+  },
+  {
+    "w": "implication",
+    "r": "im-(向内) + plic(折叠, 来自拉丁语plicare) + -ation(名词后缀) -> 折叠在里面的东西 -> 后果、言下之意",
+    "c": [
+      "Researchers are still exploring the social implications of widespread artificial intelligence use.",
+      "研究人员仍在探索人工智能广泛使用的社会影响。"
+    ]
+  },
+  {
+    "w": "implicit",
+    "r": "im-(向内) + plic(折叠) + -it(形容词后缀) -> 折叠在里面的 -> 含蓄的、绝对的",
+    "c": [
+      "There is an implicit assumption in the study that all participants answered questions honestly.",
+      "这项研究中有一个隐含的假设, 即所有参与者都诚实回答了问题。"
+    ]
+  },
+  {
+    "w": "implore",
+    "r": "im-(加强) + plore(哭,恳求, 来自拉丁语plorare) -> 恳切恳求 -> 乞求、恳求",
+    "c": [
+      "Activists implore governments to take decisive action against worsening environmental pollution.",
+      "活动人士恳求各国政府对日益恶化的环境污染采取果断行动。"
+    ]
+  },
+  {
+    "w": "imply",
+    "r": "im-(向内) + ply(折叠, 来自拉丁语plicare) -> 折叠在里面 -> 暗示",
+    "c": null
+  },
+  {
+    "w": "import",
+    "r": "im-(进入) + port(搬运, 来自拉丁语portare) -> 搬运进来 -> 进口、进口商品",
+    "c": [
+      "Many developing countries import advanced technology to accelerate their industrial modernization.",
+      "许多发展中国家进口先进技术以加速其工业现代化。"
+    ]
+  },
+  {
+    "w": "importance",
+    "r": "import(重要,来自import) + -ance(名词后缀,性质) -> 重要的性质 -> 重要性",
+    "c": null
+  },
+  {
+    "w": "important",
+    "r": "im-(加强) + port(搬运) + -ant(形容词后缀) -> 必须搬进来的、有分量的 -> 重要的",
+    "c": null
+  },
+  {
+    "w": "impose",
+    "r": "im-(在…上) + pos(放置, 来自拉丁语ponere) + -e -> 放在…上面 -> 把…强加于",
+    "c": [
+      "Some critics argue that standardized tests impose unnecessary pressure on young students.",
+      "一些批评者认为标准化考试给年轻学生施加了不必要的压力。"
+    ]
+  },
+  {
+    "w": "impossible",
+    "r": "im-(不) + possible(可能的) -> 不可能的",
+    "c": null
+  },
+  {
+    "w": "impress",
+    "r": "im-(进入,向内) + press(压) -> 压入心中 -> 留下印象",
+    "c": null
+  },
+  {
+    "w": "impression",
+    "r": "impress(留下印象) + -ion(名词后缀) -> 印象",
+    "c": null
+  },
+  {
+    "w": "impressive",
+    "r": "impress(留下印象) + -ive(形容词后缀) -> 给人印象深刻的",
+    "c": null
+  },
+  {
+    "w": "imprison",
+    "r": "im-(进入,在内) + prison(监狱) -> 关入监狱 -> 监禁",
+    "c": null
+  },
+  {
+    "w": "improper",
+    "r": "im-(不) + proper(适当的) -> 不适当的、不合理的",
+    "c": [
+      "Improper use of social media can have serious consequences for students' academic performance.",
+      "不当使用社交媒体可能对学生的学业表现产生严重后果。"
+    ]
+  },
+  {
+    "w": "improve",
+    "r": "im-(加强) + prove(证明, 有利的) -> 使变得更好 -> 改进、提高",
+    "c": null
+  },
+  {
+    "w": "impulse",
+    "r": "im-(进入,加强) + puls(推, 来自拉丁语pellere) + -e -> 向内推动 -> 冲动",
+    "c": [
+      "Psychologists study how impulse buying behavior is influenced by marketing and social factors.",
+      "心理学家研究冲动购买行为如何受到营销和社会因素的影响。"
+    ]
+  },
+  {
+    "w": "impulsive",
+    "r": "im-(加强) + puls(推) + -ive(形容词后缀) -> 易冲动推动的 -> 冲动的",
+    "c": [
+      "Impulsive decision-making often leads to regrettable outcomes in both personal and professional life.",
+      "冲动的决策往往会在个人和职业生活中导致令人遗憾的结果。"
+    ]
+  },
+  {
+    "w": "impurity",
+    "r": "im-(不) + pur(纯洁, 来自拉丁语purus) + -ity(名词后缀) -> 不纯洁 -> 杂质、不纯",
+    "c": [
+      "The laboratory equipment is designed to detect even tiny traces of impurity in liquid samples.",
+      "这台实验室设备被设计用来检测液体样品中即使是微量的杂质。"
+    ]
+  },
+  {
+    "w": "in",
+    "r": "来自古英语in(在内,进入), 与拉丁语in同源 -> 在…内",
+    "c": [
+      "Students gathered in the library to prepare for their final examinations together.",
+      "学生们聚集在图书馆里一起准备期末考试。"
+    ]
+  },
+  {
+    "w": "inaccessible",
+    "r": "in-(不) + access(接近) + -ible(形容词后缀,可…的) -> 不可接近的 -> 达不到的、难接近的",
+    "c": [
+      "Many remote villages remain inaccessible during the rainy season due to poor road conditions.",
+      "由于道路条件恶劣, 许多偏远村庄在雨季仍然无法到达。"
+    ]
+  },
+  {
+    "w": "inaccurate",
+    "r": "in-(不) + accurate(精确的) -> 不精确的、不准确的",
+    "c": null
+  },
+  {
+    "w": "inaction",
+    "r": "in-(不) + action(行动) -> 不行动 -> 不作为",
+    "c": [
+      "Climate scientists warn that government inaction will have irreversible consequences for future generations.",
+      "气候科学家警告说, 政府的不作为将对后代产生不可逆转的后果。"
+    ]
+  },
+  {
+    "w": "inadequate",
+    "r": "in-(不) + adequate(充足的) -> 不充足的、不适当的",
+    "c": null
+  },
+  {
+    "w": "inanimate",
+    "r": "in-(不) + anim(生命, 灵魂, 来自拉丁语anima) + -ate(形容词后缀) -> 没有生命的",
+    "c": [
+      "Children often develop emotional attachments to inanimate objects like stuffed animals and blankets.",
+      "孩子们经常对毛绒玩具和毯子等无生命物体产生情感依恋。"
+    ]
+  },
+  {
+    "w": "inasmuch",
+    "r": "in-(在…方面) + as much(同样多) -> 在同样多的程度上 -> 因为、由于",
+    "c": [
+      "Inasmuch as the data is incomplete, researchers cannot draw definitive conclusions from the study.",
+      "由于数据不完整, 研究人员无法从该研究中得出明确结论。"
+    ]
+  },
+  {
+    "w": "inaugurate",
+    "r": "in-(进入,使) + augur(占卜,预示) + -ate(动词后缀) -> 以占卜开始 -> 开创、开始",
+    "c": [
+      "The new research center will inaugurate a series of interdisciplinary projects next semester.",
+      "新的研究中心将于下学期启动一系列跨学科项目。"
+    ]
+  },
+  {
+    "w": "incalculable",
+    "r": "in-(不) + calcul(计算, 来自拉丁语calculus) + -able(可…的) -> 不可计算的 -> 不可估量的",
+    "c": null
+  },
+  {
+    "w": "incapable",
+    "r": "in-(不) + cap(抓取,能力) + -able(可…的) -> 不能抓取的 -> 无能力的、无资格的",
+    "c": null
+  },
+  {
+    "w": "incense",
+    "r": "来自拉丁语incensum(焚烧物), 原指焚烧的祭品 -> 香、熏香、香气",
+    "c": [
+      "The scent of incense filled the ancient temple as visitors came to pay their respects.",
+      "当游客前来参拜时, 古老的寺庙里弥漫着香的气味。"
+    ]
+  },
+  {
+    "w": "incentive",
+    "r": "in-(进入,加强) + cent(唱, 来自拉丁语cantare) + -ive(名词/形容词后缀) -> 用歌声激励 -> 刺激、动机",
+    "c": null
+  },
+  {
+    "w": "inch",
+    "r": "来自古英语ynce(英寸), 源自拉丁语uncia(十二分之一) -> 英寸",
+    "c": [
+      "Engineers measure every component down to the last inch to ensure precise assembly.",
+      "工程师们将每个组件测量到最后一英寸以确保精确组装。"
+    ]
+  },
+  {
+    "w": "incidence",
+    "r": "in-(在…上) + cid(落下, 来自拉丁语cadere) + -ence(名词后缀) -> 落在…上的情况 -> 发生率",
+    "c": null
+  },
+  {
+    "w": "incident",
+    "r": "in-(在…上) + cid(落下) + -ent(名词后缀) -> 突然落下的事 -> 事件",
+    "c": null
+  },
+  {
+    "w": "incidentally",
+    "r": "incident(事件, 附带的) + -ally(副词后缀) -> 偶然地、附带地",
+    "c": [
+      "Incidentally, the professor mentioned that enrollment in computer science courses has doubled this year.",
+      "顺便提一下, 教授提到今年计算机科学课程的注册人数翻了一番。"
+    ]
+  },
+  {
+    "w": "inclination",
+    "r": "in-(向内,向) + clin(倾斜, 来自拉丁语clinare) + -ation(名词后缀) -> 倾斜的状态 -> 倾斜、点头、斜坡",
+    "c": null
+  },
+  {
+    "w": "incline",
+    "r": "in-(向) + clin(倾斜) + -e -> 向…倾斜 -> 倾斜、斜坡",
+    "c": [
+      "The steep incline of the mountain path requires hikers to exercise caution at all times.",
+      "山路的陡峭坡度要求徒步旅行者时刻保持警惕。"
+    ]
+  },
+  {
+    "w": "include",
+    "r": "in-(向内) + clud(关闭, 来自拉丁语claudere) + -e -> 关在里面 -> 包括",
+    "c": null
+  },
+  {
+    "w": "inclusive",
+    "r": "in-(向内) + clus(关闭) + -ive(形容词后缀) -> 包含在内的 -> 在内的、包罗广泛的",
+    "c": null
+  },
+  {
+    "w": "income",
+    "r": "in-(进入) + come(来) -> 进来的东西 -> 收入",
+    "c": null
+  },
+  {
+    "w": "incompatibility",
+    "r": "in-(不) + compat(相容, 来自拉丁语compati) + -ibility(名词后缀,性质) -> 不相容的性质 -> 不兼容",
+    "c": [
+      "Software incompatibility between different operating systems remains a major challenge for developers.",
+      "不同操作系统之间的软件不兼容仍然是开发人员面临的主要挑战。"
+    ]
+  },
+  {
+    "w": "incompatible",
+    "r": "in-(不) + compat(相容) + -ible(形容词后缀) -> 不相容的",
+    "c": [
+      "Their incompatible work schedules made it difficult for the couple to spend quality time together.",
+      "他们不相容的工作时间表使得这对夫妇很难共度美好时光。"
+    ]
+  },
+  {
+    "w": "incompetence",
+    "r": "in-(不) + compet(竞争, 胜任) + -ence(名词后缀) -> 不能胜任的状态 -> 无能",
+    "c": [
+      "Public outrage over administrative incompetence has led to widespread protests across the country.",
+      "公众对行政无能的愤怒引发了全国范围的广泛抗议。"
+    ]
+  },
+  {
+    "w": "incompetent",
+    "r": "in-(不) + compet(竞争, 胜任) + -ent(形容词后缀) -> 不胜任的",
+    "c": null
+  },
+  {
+    "w": "incomplete",
+    "r": "in-(不) + complete(完全的) -> 不完全的、未完成的",
+    "c": [
+      "The committee rejected the proposal due to incomplete data and insufficient supporting evidence.",
+      "由于数据不完整和支持证据不足, 委员会否决了该提案。"
+    ]
+  },
+  {
+    "w": "incorporate",
+    "r": "in-(进入) + corpor(身体, 团体, 来自拉丁语corpus) + -ate(动词后缀) -> 使加入团体 -> 合并",
+    "c": null
+  },
+  {
+    "w": "increase",
+    "r": "in-(加强) + crease(生长, 来自拉丁语crescere) -> 不断生长 -> 增加",
+    "c": null
+  },
+  {
+    "w": "increasingly",
+    "r": "increasing(增加的) + -ly(副词后缀) -> 不断增加地",
+    "c": [
+      "Universities are increasingly relying on online platforms to deliver courses to distant learners.",
+      "大学越来越多地依赖在线平台向远程学习者提供课程。"
+    ]
+  },
+  {
+    "w": "incredible",
+    "r": "in-(不) + cred(相信, 来自拉丁语credere) + -ible(形容词后缀) -> 不能相信的 -> 难以置信的",
+    "c": [
+      "The incredible speed of technological advancement has transformed nearly every aspect of daily life.",
+      "技术进步的惊人速度几乎改变了日常生活的方方面面。"
+    ]
+  },
+  {
+    "w": "incur",
+    "r": "in-(进入,遭到) + cur(跑, 来自拉丁语currere) -> 跑进去(遇到) -> 招致",
+    "c": null
+  },
+  {
+    "w": "indeed",
+    "r": "in-(加强) + deed(行为,事实) -> 事实上 -> 确实",
+    "c": [
+      "Indeed, recent studies confirm that regular exercise significantly improves both physical and mental health.",
+      "事实上, 近期研究证实规律锻炼能显著改善身心健康。"
+    ]
+  },
+  {
+    "w": "indefinite",
+    "r": "in-(不) + definite(确定的) -> 不确定的 -> 无限期的、模糊的",
+    "c": [
+      "The university has imposed an indefinite ban on large indoor gatherings due to public health concerns.",
+      "由于公共卫生担忧, 该大学对大型室内集会实施了无限期禁令。"
+    ]
+  },
+  {
+    "w": "independence",
+    "r": "in-(不) + depend(依赖) + -ence(名词后缀) -> 不依赖的状态 -> 独立",
+    "c": null
+  },
+  {
+    "w": "independent",
+    "r": "in-(不) + depend(依赖) + -ent(形容词后缀) -> 不依赖的 -> 独立的、私营的",
+    "c": null
+  },
+  {
+    "w": "index",
+    "r": "来自拉丁语index(指示者, 食指), 用于指东西 -> 索引",
+    "c": null
+  },
+  {
+    "w": "indicate",
+    "r": "in-(向) + dic(说, 表明, 来自拉丁语dicere) + -ate(动词后缀) -> 向…说明 -> 表明",
+    "c": null
+  },
+  {
+    "w": "indication",
+    "r": "indicat(表明,来自indicate) + -ion(名词后缀) -> 表明的东西 -> 迹象、指示",
+    "c": null
+  },
+  {
+    "w": "indicative",
+    "r": "indicat(表明) + -ive(形容词后缀) -> 表明的、指示的",
+    "c": [
+      "Rising unemployment rates are indicative of deeper structural problems within the national economy.",
+      "不断上升的失业率表明国民经济存在更深层次的结构性问题。"
+    ]
+  },
+  {
+    "w": "indifferent",
+    "r": "in-(不) + different(不同的, 特别的) -> 没有什么特别的、不在乎的 -> 漠不关心的",
+    "c": [
+      "Young voters have become increasingly indifferent to traditional political parties and their promises.",
+      "年轻选民对传统政党及其承诺变得越来越漠不关心。"
+    ]
+  },
+  {
+    "w": "indignant",
+    "r": "in-(不) + dign(值得, 尊严, 来自拉丁语dignus) + -ant(形容词后缀) -> 觉得不值得/受辱的 -> 愤慨的",
+    "c": [
+      "Local residents were indignant about the government's decision to build a factory near the residential area.",
+      "当地居民对政府在居民区附近建工厂的决定感到愤慨。"
+    ]
+  },
+  {
+    "w": "indignation",
+    "r": "in-(不) + dign(尊严) + -ation(名词后缀) -> 觉得尊严受损的情绪 -> 愤怒",
+    "c": [
+      "Public indignation over the corruption scandal eventually led to the resignation of several officials.",
+      "公众对腐败丑闻的愤怒最终导致几名官员辞职。"
+    ]
+  },
+  {
+    "w": "indiscriminately",
+    "r": "in-(不) + discrimin(区分, 来自拉丁语discriminare) + -ately(副词后缀) -> 不加区分地",
+    "c": [
+      "Dumping industrial waste indiscriminately into rivers causes severe pollution and ecological damage.",
+      "不加选择地将工业废物倾倒入河流会造成严重污染和生态破坏。"
+    ]
+  },
+  {
+    "w": "indispensable",
+    "r": "in-(不) + dispens(分发, 免除, 来自拉丁语dispensare) + -able(可…的) -> 不可免除的 -> 不可缺少的",
+    "c": null
+  },
+  {
+    "w": "individual",
+    "r": "in-(不) + divid(分割, 来自拉丁语dividere) + -ual(形容词后缀) -> 不可分割的 -> 个人的、独特的",
+    "c": null
+  },
+  {
+    "w": "indoor",
+    "r": "in-(在…内) + door(门, 代指空间) -> 在门内的 -> 室内的",
+    "c": null
+  },
+  {
+    "w": "induce",
+    "r": "in-(进入,使) + duc(引导, 来自拉丁语ducere) + -e -> 引导进来 -> 引诱、引起",
+    "c": [
+      "Researchers study how certain chemicals induce allergic reactions in sensitive populations.",
+      "研究人员研究某些化学物质如何在敏感人群中引起过敏反应。"
+    ]
+  },
+  {
+    "w": "induction",
+    "r": "in-(进入) + duct(引导) + -ion(名词后缀) -> 引导入门 -> 就职、归纳推理",
+    "c": [
+      "The induction ceremony for new faculty members will be held in the main auditorium next Monday.",
+      "新教师的入职仪式将于下周一在主礼堂举行。"
+    ]
+  },
+  {
+    "w": "indulge",
+    "r": "in-(进入,使) + dulge(顺从, 来自拉丁语indulgere) -> 使顺从欲望 -> 迁就、放任",
+    "c": null
+  },
+  {
+    "w": "industrial",
+    "r": "industri(工业, 来自拉丁语industria勤劳) + -al(形容词后缀) -> 工业的",
+    "c": null
+  },
+  {
+    "w": "industrialise",
+    "r": "industrial(工业的) + -ise(动词后缀,使…) -> 使工业化",
+    "c": [
+      "Many Asian countries began to industrialise rapidly in the late twentieth century.",
+      "许多亚洲国家在二十世纪末开始迅速工业化。"
+    ]
+  },
+  {
+    "w": "industrious",
+    "r": "industri(勤劳, 来自拉丁语industria) + -ous(形容词后缀) -> 勤劳的、勤奋的",
+    "c": [
+      "Industrious students often achieve better academic results through consistent effort and discipline.",
+      "勤奋的学生往往通过持续的努力和自律取得更好的学业成绩。"
+    ]
+  },
+  {
+    "w": "industry",
+    "r": "来自拉丁语industria(勤劳、勤奋), 后指生产性行业 -> 工业、行业",
+    "c": null
+  },
+  {
+    "w": "ineffective",
+    "r": "in-(不) + effective(有效的) -> 无效的",
+    "c": [
+      "Without proper evaluation, educational reforms often prove ineffective in improving student outcomes.",
+      "如果没有适当的评估, 教育改革往往在提高学生成绩方面证明是无效的。"
+    ]
+  },
+  {
+    "w": "inertia",
+    "r": "来自拉丁语inertia(无技能、懒惰), in-(不) + ers(技艺) -> 惯性",
+    "c": null
+  },
+  {
+    "w": "inescapable",
+    "r": "in-(不) + escap(逃脱) + -able(可…的) -> 不可逃脱的 -> 不可避免的",
+    "c": [
+      "The aging population is an inescapable reality that governments must address through policy reform.",
+      "人口老龄化是政府必须通过政策改革应对的一个不可回避的现实。"
+    ]
+  }
+]

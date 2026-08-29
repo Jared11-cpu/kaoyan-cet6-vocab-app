@@ -1,0 +1,691 @@
+[
+  {
+    "w": "nineteen",
+    "r": "nine(九) + -teen(后缀,表示十几) -> 十九",
+    "c": [
+      "The research team consists of nineteen graduate students from various academic disciplines.",
+      "这个研究团队由来自不同学科的十九名研究生组成。"
+    ]
+  },
+  {
+    "w": "ninety",
+    "r": "nine(九) + -ty(后缀,表示几十) -> 九十",
+    "c": [
+      "Ninety percent of the students reported satisfaction with the new online learning platform.",
+      "百分之九十的学生表示对新的在线学习平台感到满意。"
+    ]
+  },
+  {
+    "w": "nitrogen",
+    "r": "nitro(硝石,氮) + -gen(生成,产生) -> 生成硝石的元素 -> 氮",
+    "c": [
+      "Nitrogen is an essential element for plant growth and agricultural productivity.",
+      "氮是植物生长和农业生产力的基本元素。"
+    ]
+  },
+  {
+    "w": "no",
+    "r": "来自古英语na(不),由ne(不)+a(永远)组成 -> 否定",
+    "c": [
+      "There is no single solution to the complex social challenges facing modern cities.",
+      "对于现代城市面临的复杂社会挑战，没有单一的解决方案。"
+    ]
+  },
+  {
+    "w": "noble",
+    "r": "来自拉丁语nobilis(著名的,高贵的),源自noscere(知道) -> 贵族的",
+    "c": [
+      "The noble tradition of academic freedom is highly valued by universities worldwide.",
+      "学术自由的崇高传统受到全世界大学的高度重视。"
+    ]
+  },
+  {
+    "w": "nobody",
+    "r": "no(没有) + body(人) -> 没有人 -> 谁也不、小人物",
+    "c": null
+  },
+  {
+    "w": "nod",
+    "r": "来自古英语hnodian(点头),与德语nicken同源 -> 点头",
+    "c": [
+      "Students often nod in agreement when the professor explains a key concept clearly.",
+      "当教授清晰地解释一个关键概念时，学生们经常点头表示赞同。"
+    ]
+  },
+  {
+    "w": "noise",
+    "r": "来自拉丁语nausea(晕船,不适),经由古法语noise -> 噪音",
+    "c": null
+  },
+  {
+    "w": "noisy",
+    "r": "noise(噪音) + -y(形容词后缀,有…特征的) -> 有噪音特征的 -> 嘈杂的",
+    "c": null
+  },
+  {
+    "w": "nominal",
+    "r": "nomin(名字,名义) + -al(形容词后缀,与…有关的) -> 与名义有关的 -> 名义上的",
+    "c": [
+      "The club charges a nominal membership fee to cover basic administrative costs.",
+      "该俱乐部收取象征性的会员费以支付基本行政费用。"
+    ]
+  },
+  {
+    "w": "nominate",
+    "r": "nomin(名字) + -ate(动词后缀,使…) -> 使有名字 -> 提名",
+    "c": [
+      "The committee will nominate candidates for the prestigious research award next week.",
+      "委员会下周将提名享有盛誉的研究奖项候选人。"
+    ]
+  },
+  {
+    "w": "none",
+    "r": "来自古英语nan(没有一个),由ne(不)+an(一)组成 -> 没有",
+    "c": null
+  },
+  {
+    "w": "nonetheless",
+    "r": "none(没有一个) + the + less(更少) -> 尽管如此也不更少 -> 然而",
+    "c": [
+      "The results were unexpected; nonetheless, they have significant implications for future research.",
+      "结果出乎意料；然而，它们对未来研究具有重要意义。"
+    ]
+  },
+  {
+    "w": "nonsense",
+    "r": "non-(不,非) + sense(意义) -> 没有意义的话 -> 胡说",
+    "c": null
+  },
+  {
+    "w": "noodle",
+    "r": "来自德语nudel(面条),起源不明 -> 面条",
+    "c": [
+      "Many university students rely on instant noodles as a quick and affordable meal option.",
+      "许多大学生依赖方便面作为快速且经济的用餐选择。"
+    ]
+  },
+  {
+    "w": "noon",
+    "r": "来自拉丁语nona(第九),原指白天第九个小时(约下午三点),后移至正午 -> 中午",
+    "c": [
+      "Students typically gather in the campus cafeteria around noon for lunch and discussion.",
+      "学生们通常中午左右聚集在校园食堂吃午饭并讨论。"
+    ]
+  },
+  {
+    "w": "nor",
+    "r": "来自古英语ne(不)+or(或),与neither搭配使用 -> 也不",
+    "c": null
+  },
+  {
+    "w": "norm",
+    "r": "来自拉丁语norma(规则,标准),原指木匠的直角尺 -> 规范",
+    "c": [
+      "Social norms regarding gender roles have changed significantly in recent decades.",
+      "关于性别角色的社会规范在近几十年发生了重大变化。"
+    ]
+  },
+  {
+    "w": "normal",
+    "r": "norm(规范) + -al(形容词后缀,与…有关的) -> 符合规范的 -> 正常的",
+    "c": null
+  },
+  {
+    "w": "normalisation",
+    "r": "normal(正常的) + -is(e)(使…) + -ation(名词后缀) -> 使正常化的过程 -> 正常化",
+    "c": [
+      "The normalisation of diplomatic relations between the two countries took several years.",
+      "两国外交关系的正常化花了数年时间。"
+    ]
+  },
+  {
+    "w": "normalization",
+    "r": "normal(正常的) + -ize(使…) + -ation(名词后缀) -> 使正常化的过程 -> 正常化",
+    "c": [
+      "The normalization of remote work has transformed traditional office culture dramatically.",
+      "远程工作的常态化极大地改变了传统的办公文化。"
+    ]
+  },
+  {
+    "w": "north",
+    "r": "来自古英语north(北),与德语nord同源 -> 北、北方的",
+    "c": null
+  },
+  {
+    "w": "northeast",
+    "r": "复合: north(北) + east(东) -> 北和东之间 -> 东北",
+    "c": [
+      "The northeast region of the country is known for its heavy industry and rich mineral resources.",
+      "该国的东北地区以重工业和丰富的矿产资源而闻名。"
+    ]
+  },
+  {
+    "w": "northern",
+    "r": "north(北方) + -ern(形容词后缀,表方向) -> 北方的",
+    "c": [
+      "Northern universities often experience harsh winter conditions with heavy snowfall.",
+      "北方的大学经常经历严酷的冬季和大雪天气。"
+    ]
+  },
+  {
+    "w": "northwest",
+    "r": "复合: north(北) + west(西) -> 北和西之间 -> 西北",
+    "c": [
+      "The northwest region has become a popular destination for ecological tourism and research.",
+      "西北地区已成为生态旅游和研究的热门目的地。"
+    ]
+  },
+  {
+    "w": "nose",
+    "r": "来自古英语nosu(鼻子),与德语nase同源 -> 鼻子",
+    "c": [
+      "The human nose can distinguish between thousands of different chemical odors.",
+      "人的鼻子可以区分数千种不同的化学气味。"
+    ]
+  },
+  {
+    "w": "nostalgic",
+    "r": "nostalg(怀旧,nostos返回+algos痛苦) + -ic(形容词后缀) -> 思念故土的 -> 怀旧的",
+    "c": [
+      "Many graduates feel nostalgic when they revisit their university campus years later.",
+      "多年后重返大学校园时，许多毕业生都会感到怀旧。"
+    ]
+  },
+  {
+    "w": "not",
+    "r": "来自古英语naught(没有),nought的缩写形式 -> 不、没有",
+    "c": null
+  },
+  {
+    "w": "notable",
+    "r": "not(标记,注意,来自nota) + -able(形容词后缀,可…的) -> 值得注意的 -> 显赫的",
+    "c": null
+  },
+  {
+    "w": "notably",
+    "r": "notable(显著的) + -ly(副词后缀) -> 显著地",
+    "c": [
+      "Several universities, notably those in major cities, have expanded their online course offerings.",
+      "几所大学，尤其是大城市的大学，已经扩大了在线课程的开设。"
+    ]
+  },
+  {
+    "w": "notation",
+    "r": "not(标记) + -ation(名词后缀,行为/结果) -> 做标记的系统 -> 记号、标记法",
+    "c": [
+      "Students learn musical notation as a fundamental skill in the first year of music studies.",
+      "学生在音乐学习的第一年学习乐谱作为基本技能。"
+    ]
+  },
+  {
+    "w": "note",
+    "r": "来自拉丁语nota(标记,记号) -> 笔记",
+    "c": [
+      "Students are encouraged to take comprehensive notes during lectures for better retention.",
+      "鼓励学生在讲座期间做详细笔记以提高记忆效果。"
+    ]
+  },
+  {
+    "w": "notebook",
+    "r": "复合: note(笔记) + book(本子) -> 记笔记的本子 -> 笔记本",
+    "c": [
+      "Many students now use digital notebooks to organize their course materials and assignments.",
+      "现在许多学生使用数字笔记本整理课程资料和作业。"
+    ]
+  },
+  {
+    "w": "noted",
+    "r": "note(注意) + -ed(形容词后缀,被…的) -> 被注意到的 -> 著名的",
+    "c": [
+      "The noted physicist delivered a keynote speech at the annual science conference.",
+      "这位著名的物理学家在年度科学会议上发表了主旨演讲。"
+    ]
+  },
+  {
+    "w": "nothing",
+    "r": "no(没有) + thing(事物) -> 没有任何事物 -> 没有",
+    "c": [
+      "Nothing can replace the value of face-to-face communication in building strong relationships.",
+      "没有什么能取代面对面交流在建立牢固关系中的价值。"
+    ]
+  },
+  {
+    "w": "notice",
+    "r": "not(标记,注意) + -ice(名词后缀) -> 注意到的事物 -> 注意、通知",
+    "c": null
+  },
+  {
+    "w": "notification",
+    "r": "notif(=notify通知) + -ication(名词后缀,行为/结果) -> 通知的行为 -> 通知",
+    "c": [
+      "Students receive email notifications about important deadlines and campus events.",
+      "学生收到关于重要截止日期和校园活动的电子邮件通知。"
+    ]
+  },
+  {
+    "w": "notify",
+    "r": "not(标记,注意) + -ify(动词后缀,使…) -> 使注意到 -> 通知",
+    "c": [
+      "The registrar will notify students of their course registration results by email.",
+      "教务处将通过电子邮件通知学生课程注册结果。"
+    ]
+  },
+  {
+    "w": "notion",
+    "r": "not(标记,知道) + -ion(名词后缀,行为/结果) -> 头脑中的标记 -> 概念、见解、打算",
+    "c": null
+  },
+  {
+    "w": "notorious",
+    "r": "not(标记,知道) + -orious(形容词后缀,充满…的) -> 人人都知道的(贬义) -> 臭名昭著的",
+    "c": [
+      "The notorious case of academic fraud led to stricter regulations across universities.",
+      "这起臭名昭著的学术欺诈案件促使各大学加强了监管。"
+    ]
+  },
+  {
+    "w": "notoriously",
+    "r": "notorious(臭名昭著的) + -ly(副词后缀) -> 臭名昭著地",
+    "c": [
+      "Statistics courses are notoriously difficult for students without a math background.",
+      "众所周知，统计学课程对没有数学背景的学生来说非常难。"
+    ]
+  },
+  {
+    "w": "notwithstanding",
+    "r": "not(不) + with(和) + stand(站立) + -ing -> 不与之站在一起 -> 尽管",
+    "c": [
+      "Notwithstanding financial constraints, the university continued to invest in research facilities.",
+      "尽管资金有限，该大学继续投资于研究设施。"
+    ]
+  },
+  {
+    "w": "nought",
+    "r": "来自古英语nawiht(没有东西),ne(不)+wiht(事物) -> 无，零",
+    "c": [
+      "The old machine's efficiency was close to nought compared to modern technology.",
+      "与现代技术相比，这台旧机器的效率几乎为零。"
+    ]
+  },
+  {
+    "w": "noun",
+    "r": "来自拉丁语nomen(名字),经由古法语nom -> 名词",
+    "c": [
+      "In English grammar, a noun can function as the subject or object of a sentence.",
+      "在英语语法中，名词可以作句子的主语或宾语。"
+    ]
+  },
+  {
+    "w": "nourish",
+    "r": "来自拉丁语nutrire(喂养、滋养),经由古法语norir -> 滋养",
+    "c": null
+  },
+  {
+    "w": "nourishment",
+    "r": "nourish(滋养) + -ment(名词后缀,行为/结果) -> 滋养的结果 -> 食物；营养",
+    "c": null
+  },
+  {
+    "w": "novel",
+    "r": "来自拉丁语novus(新的),经由古法语novel -> 新颖的；长篇小说",
+    "c": null
+  },
+  {
+    "w": "novelty",
+    "r": "novel(新的) + -ty(名词后缀,性质/状态) -> 新颖的性质 -> 新奇的经验",
+    "c": null
+  },
+  {
+    "w": "november",
+    "r": "来自拉丁语novem(九),原指古罗马历的第九个月 -> 十一月",
+    "c": [
+      "The university's annual academic conference is scheduled for mid-November this year.",
+      "大学的年度学术会议定于今年十一月中旬举行。"
+    ]
+  },
+  {
+    "w": "now",
+    "r": "来自古英语nu(现在),与德语nun同源 -> 现在",
+    "c": [
+      "Students must now complete both online and offline assessments to pass the course.",
+      "学生现在必须完成线上和线下评估才能通过这门课程。"
+    ]
+  },
+  {
+    "w": "nowadays",
+    "r": "now(现在) + a(在) + day(天) + -s(副词后缀) -> 在当今的日子里 -> 现今",
+    "c": [
+      "Nowadays, universities increasingly emphasize interdisciplinary research to solve complex global problems.",
+      "现今，大学越来越强调跨学科研究以解决复杂的全球性问题。"
+    ]
+  },
+  {
+    "w": "nowhere",
+    "r": "no(没有) + where(地方) -> 没有任何地方 -> 无处",
+    "c": null
+  },
+  {
+    "w": "nuclear",
+    "r": "nucle(核,核心) + -ar(形容词后缀,与…有关的) -> 与核有关的 -> 原子的",
+    "c": null
+  },
+  {
+    "w": "nucleus",
+    "r": "nucle(核,核心) + -us(名词后缀,拉丁语指物) -> 核心部分 -> 核",
+    "c": [
+      "The nucleus of a cell contains genetic material that governs growth and reproduction.",
+      "细胞核包含控制生长和繁殖的遗传物质。"
+    ]
+  },
+  {
+    "w": "nuisance",
+    "r": "来自拉丁语nocere(伤害),经由古法语nuisance(伤害) -> 令人讨厌的人或事 -> 麻烦",
+    "c": [
+      "Noise pollution from construction sites has become a major nuisance for nearby residents.",
+      "建筑工地的噪音污染已成为附近居民的一大麻烦。"
+    ]
+  },
+  {
+    "w": "numb",
+    "r": "来自古英语niman(拿取),原指被拿走感觉 -> 麻木的",
+    "c": [
+      "After sitting in the same position for hours, her legs felt numb and unsteady.",
+      "保持同一姿势坐了几个小时后，她的双腿感到麻木不稳。"
+    ]
+  },
+  {
+    "w": "number",
+    "r": "来自拉丁语numerus(数),经由古法语nombre -> 数字",
+    "c": null
+  },
+  {
+    "w": "numerical",
+    "r": "numer(数字) + -ical(形容词后缀,与…有关的) -> 与数字有关的 -> 数字的",
+    "c": [
+      "The study presents numerical data on the correlation between sleep and academic performance.",
+      "该研究呈现了关于睡眠与学业表现之间相关性的数字数据。"
+    ]
+  },
+  {
+    "w": "numerous",
+    "r": "numer(数字) + -ous(形容词后缀,充满…的) -> 充满数量的 -> 许多的",
+    "c": [
+      "Numerous studies have confirmed the benefits of regular exercise for mental health.",
+      "大量研究证实了定期锻炼对心理健康的益处。"
+    ]
+  },
+  {
+    "w": "nun",
+    "r": "来自拉丁语nonna(修女),源自希腊语nonna(女修道院院长) -> 修女",
+    "c": [
+      "The young nun devoted her life to caring for the sick and homeless in the community.",
+      "这位年轻的修女毕生致力于照顾社区中的病人和无家可归者。"
+    ]
+  },
+  {
+    "w": "nurse",
+    "r": "来自拉丁语nutrire(喂养、滋养),经由古法语nourice -> 护士、护理",
+    "c": [
+      "Hospital nurses work long shifts to ensure patients receive timely and compassionate care.",
+      "医院护士长时间轮班以确保患者得到及时且充满关怀的护理。"
+    ]
+  },
+  {
+    "w": "nursery",
+    "r": "nurse(护理、哺育) + -ry(名词后缀,场所/行为) -> 哺育孩子的场所 -> 托儿所",
+    "c": null
+  },
+  {
+    "w": "nurture",
+    "r": "来自拉丁语nutrire(喂养、滋养),经由古法语norture -> 培育",
+    "c": null
+  },
+  {
+    "w": "nut",
+    "r": "来自古英语hnutu(坚果),与德语nuss同源 -> 坚果、螺母",
+    "c": null
+  },
+  {
+    "w": "nutrition",
+    "r": "nutri(滋养,喂养) + -tion(名词后缀,行为/状态) -> 滋养的过程 -> 营养",
+    "c": null
+  },
+  {
+    "w": "nutritious",
+    "r": "nutri(滋养) + -tious(形容词后缀,有…性质的) -> 有滋养性质的 -> 有营养的",
+    "c": [
+      "Parents are encouraged to prepare nutritious meals for children during their growth years.",
+      "鼓励家长在孩子成长期间准备有营养的膳食。"
+    ]
+  },
+  {
+    "w": "nylon",
+    "r": "词源: 由美国杜邦公司1938年创造的商标名,来源不明 -> 尼龙",
+    "c": [
+      "Nylon fabrics are widely used in outdoor clothing for their durability and water resistance.",
+      "尼龙面料因其耐用性和防水性被广泛用于户外服装。"
+    ]
+  },
+  {
+    "w": "o'clock",
+    "r": "复合: of(的) + clock(钟) -> of the clock的缩写 -> 点钟",
+    "c": [
+      "The morning lecture begins promptly at nine o'clock in the main auditorium.",
+      "上午的讲座九点整在主礼堂准时开始。"
+    ]
+  },
+  {
+    "w": "oak",
+    "r": "来自古英语ac(橡树),与德语eiche同源 -> 橡木",
+    "c": [
+      "The solid oak table in the library has been used by generations of university students.",
+      "图书馆里那张坚固的橡木桌已被几代大学生使用过。"
+    ]
+  },
+  {
+    "w": "oar",
+    "r": "来自古英语ar(桨),与德语ruder同源 -> 桨",
+    "c": [
+      "Each rower must coordinate their oar movements to maintain speed and balance in the boat.",
+      "每个划手必须协调桨的动作以保持船的速度和平衡。"
+    ]
+  },
+  {
+    "w": "oath",
+    "r": "来自古英语ath(誓言),与德语eid同源 -> 誓言",
+    "c": [
+      "Before taking office, the newly elected president must swear an oath to uphold the constitution.",
+      "就职前，新当选的总统必须宣誓维护宪法。"
+    ]
+  },
+  {
+    "w": "obedience",
+    "r": "obedi(服从,来自obedire服从) + -ence(名词后缀,状态/性质) -> 服从的状态 -> 服从",
+    "c": [
+      "Military training emphasizes strict obedience to orders as a fundamental principle.",
+      "军事训练强调严格服从命令是一项基本原则。"
+    ]
+  },
+  {
+    "w": "obedient",
+    "r": "obedi(服从) + -ent(形容词后缀,具有…性质的) -> 具有服从性质的 -> 顺从的",
+    "c": [
+      "The obedient student always follows the professor's instructions carefully during lab sessions.",
+      "这位顺从的学生在实验课上总是认真遵循教授的指示。"
+    ]
+  },
+  {
+    "w": "obesity",
+    "r": "obes(肥胖,来自拉丁语obesus吃胖的) + -ity(名词后缀,状态) -> 肥胖的状态 -> 肥胖",
+    "c": null
+  },
+  {
+    "w": "obey",
+    "r": "来自拉丁语obedire(服从),ob-(向)+audire(听) -> 听从于 -> 遵守、服从",
+    "c": null
+  },
+  {
+    "w": "object",
+    "r": "ob-(反对,相对) + ject(投掷) -> 投掷到对面的东西 -> 目标、物体",
+    "c": null
+  },
+  {
+    "w": "objection",
+    "r": "object(反对) + -ion(名词后缀,行为/结果) -> 反对的行为 -> 反对",
+    "c": [
+      "Several committee members raised strong objections to the proposed budget cuts in education.",
+      "几位委员会成员对教育预算削减提案提出了强烈反对。"
+    ]
+  },
+  {
+    "w": "objective",
+    "r": "object(目标) + -ive(形容词/名词后缀) -> 有目标的 -> 客观的、目的",
+    "c": [
+      "Researchers must remain objective when analyzing data to avoid biased conclusions.",
+      "研究人员在分析数据时必须保持客观以避免得出有偏见的结论。"
+    ]
+  },
+  {
+    "w": "obligation",
+    "r": "oblig(约束,来自obligare绑缚) + -ation(名词后缀,行为/状态) -> 被绑缚的状态 -> 义务",
+    "c": null
+  },
+  {
+    "w": "oblige",
+    "r": "ob-(加强) + lige(绑缚,来自ligare) -> 紧紧绑住 -> 强迫",
+    "c": [
+      "The new regulations oblige all students to complete an internship before graduation.",
+      "新规定要求所有学生在毕业前完成实习。"
+    ]
+  },
+  {
+    "w": "obscene",
+    "r": "ob-(在…前,越过) + scen(场景,来自scaena舞台) -> 越过舞台界限的 -> 淫秽的",
+    "c": [
+      "The university administration prohibits the display of obscene materials on campus grounds.",
+      "大学管理部门禁止在校园内展示淫秽材料。"
+    ]
+  },
+  {
+    "w": "obscure",
+    "r": "ob-(覆盖) + scure(遮盖,来自拉丁语scurus黑暗的) -> 被遮盖的 -> 不为人知、晦涩难懂",
+    "c": [
+      "Many students struggle to understand the obscure theories presented in advanced philosophy courses.",
+      "许多学生难以理解高级哲学课程中提出的晦涩理论。"
+    ]
+  },
+  {
+    "w": "obscurity",
+    "r": "obscur(=obscure晦涩的) + -ity(名词后缀,状态) -> 晦涩不明的状态 -> 默默无闻",
+    "c": [
+      "The talented poet lived in obscurity for decades before gaining critical recognition.",
+      "这位才华横溢的诗人数十年默默无闻，后来才获得评论界的认可。"
+    ]
+  },
+  {
+    "w": "observation",
+    "r": "ob-(加强) + serv(保持,注视) + -ation(名词后缀) -> 仔细注视的行为 -> 观察、言论",
+    "c": null
+  },
+  {
+    "w": "observe",
+    "r": "ob-(加强) + serve(保持,注视,来自拉丁语servare) -> 仔细注视 -> 观察",
+    "c": null
+  },
+  {
+    "w": "obsession",
+    "r": "ob-(加强) + sess(坐,来自sedere) + -ion(名词后缀) -> 一直坐着想 -> 困扰",
+    "c": [
+      "Social media obsession among teenagers has raised growing concerns among educators and parents.",
+      "青少年对社交媒体的沉迷引起了教育工作者和家长越来越多的关注。"
+    ]
+  },
+  {
+    "w": "obsolete",
+    "r": "ob-(离开) + solete(习惯,来自拉丁语solere习惯) -> 不再习惯使用的 -> 过时的",
+    "c": [
+      "Traditional teaching methods become obsolete as digital learning platforms gain popularity.",
+      "随着数字学习平台的普及，传统教学方法变得过时。"
+    ]
+  },
+  {
+    "w": "obstacle",
+    "r": "ob-(相对) + sta(站立,来自stare) + -cle(名词后缀,指小) -> 站在对面的东西 -> 障碍",
+    "c": null
+  },
+  {
+    "w": "obstinate",
+    "r": "ob-(加强) + stin(站立,来自stare) + -ate(形容词后缀) -> 坚持站着不动的 -> 固执的",
+    "c": [
+      "The obstinate student refused to change his opinion even when presented with contradictory evidence.",
+      "这位固执的学生即使面对相反的证据也拒绝改变自己的观点。"
+    ]
+  },
+  {
+    "w": "obstruct",
+    "r": "ob-(相对) + struct(建造,来自struere) -> 在对面建造 -> 妨碍",
+    "c": [
+      "Parked vehicles on narrow sidewalks obstruct pedestrian movement during rush hours.",
+      "狭窄人行道上停放的车辆在高峰时段妨碍行人通行。"
+    ]
+  },
+  {
+    "w": "obstruction",
+    "r": "obstruct(妨碍) + -ion(名词后缀,行为/结果) -> 妨碍的行为或结果 -> 障碍",
+    "c": [
+      "Lack of funding remains the main obstruction to completing the research project on schedule.",
+      "资金不足仍然是按时完成研究项目的主要障碍。"
+    ]
+  },
+  {
+    "w": "obtain",
+    "r": "ob-(加强) + tain(持有,来自tenere) -> 紧紧持有 -> 获得",
+    "c": null
+  },
+  {
+    "w": "obvious",
+    "r": "ob-(加强) + vi(路,来自via) + -ous(形容词后缀) -> 在路上的,一眼可见的 -> 明显的",
+    "c": [
+      "It is obvious that consistent practice leads to significant improvement in language proficiency.",
+      "显而易见，持续的练习会带来语言能力的显著提升。"
+    ]
+  },
+  {
+    "w": "occasion",
+    "r": "oc-(=ob-朝向) + cas(落下,发生,来自cadere) + -ion(名词后缀) -> 落到面前的事 -> 机会、重大活动",
+    "c": null
+  },
+  {
+    "w": "occasional",
+    "r": "occasion(偶然事件) + -al(形容词后缀,与…有关的) -> 偶然发生的",
+    "c": null
+  },
+  {
+    "w": "occupation",
+    "r": "oc-(=ob-加强) + cup(抓取,来自capere) + -ation(名词后缀) -> 抓住/占据的状态 -> 占领、职业",
+    "c": null
+  },
+  {
+    "w": "occupy",
+    "r": "oc-(=ob-加强) + cupy(抓取,来自capere) -> 牢牢抓住 -> 占据",
+    "c": null
+  },
+  {
+    "w": "occur",
+    "r": "oc-(=ob-加强) + cur(跑,发生,来自currere) -> 跑过来 -> 发生",
+    "c": null
+  },
+  {
+    "w": "occurrence",
+    "r": "occurr(=occur发生) + -ence(名词后缀,状态/事件) -> 发生的事件 -> 发生",
+    "c": [
+      "The frequent occurrence of extreme weather events highlights the urgency of climate action.",
+      "极端天气事件的频繁发生凸显了气候行动的紧迫性。"
+    ]
+  },
+  {
+    "w": "ocean",
+    "r": "来自希腊语okeanos(大洋),经由拉丁语oceanus -> 海洋",
+    "c": null
+  }
+]

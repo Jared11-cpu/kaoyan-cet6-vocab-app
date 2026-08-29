@@ -1,0 +1,646 @@
+[
+  {
+    "w": "do",
+    "r": "联想: 最基础的动作动词，源自古英语don，表「做、执行」"
+  },
+  {
+    "w": "dock",
+    "r": "联想: 音「道口」-> 码头就是船只进出的道口",
+    "c": [
+      "The cargo ship slowly approached the dock to unload its containers.",
+      "货船缓缓靠近码头以卸下集装箱。"
+    ]
+  },
+  {
+    "w": "doctor",
+    "r": "doc(教) + -tor(人) -> 教人的人 -> 医生(古代医生兼教师)"
+  },
+  {
+    "w": "doctrine",
+    "r": "doc(教) + -trine(名词后缀，表学说) -> 教导的内容 -> 学说、教义"
+  },
+  {
+    "w": "document",
+    "r": "doc(教) + -ument(名词后缀) -> 教导用的东西 -> 文档"
+  },
+  {
+    "w": "documentary",
+    "r": "document(文档) + -ary(形容词/名词后缀) -> 记录用的 -> 纪录片",
+    "c": [
+      "The award-winning documentary explores the impact of climate change on coastal communities.",
+      "这部获奖纪录片探讨了气候变化对沿海社区的影响。"
+    ]
+  },
+  {
+    "w": "dodge",
+    "r": "联想: 音「躲之」-> 闪身躲开",
+    "c": [
+      "She tried to dodge the reporter's questions about the upcoming merger.",
+      "她试图回避记者关于即将到来的合并的问题。"
+    ]
+  },
+  {
+    "w": "dog",
+    "r": "联想: 最基础的动物词，源自古英语docga"
+  },
+  {
+    "w": "dole",
+    "r": "联想: 音「兜了」-> 把救济金兜在手里发放",
+    "c": [
+      "Unemployed workers relied on the dole to cover their basic living expenses.",
+      "失业工人依靠救济金支付基本生活开支。"
+    ]
+  },
+  {
+    "w": "doll",
+    "r": "联想: 源自中古英语dolly，指玩具娃娃"
+  },
+  {
+    "w": "dollar",
+    "r": "联想: 源自德语thaler(塔勒银币)，后演变为美元"
+  },
+  {
+    "w": "dolphin",
+    "r": "dolph(希腊语delphis，海豚) + -in(名词后缀) -> 海豚",
+    "c": [
+      "Marine biologists have observed dolphins using complex communication systems in the wild.",
+      "海洋生物学家观察到野生海豚使用复杂的交流系统。"
+    ]
+  },
+  {
+    "w": "domain",
+    "r": "dom(家、统治) + -ain(名词后缀) -> 统治的范围 -> 领域"
+  },
+  {
+    "w": "dome",
+    "r": "dom(家、屋顶) + -e -> 圆屋顶(像家一样覆盖)",
+    "c": [
+      "The dome of the ancient cathedral dominates the city's skyline.",
+      "那座古老大教堂的圆顶在城市天际线上格外醒目。"
+    ]
+  },
+  {
+    "w": "domestic",
+    "r": "dom(家) + -estic(形容词后缀) -> 家里的 -> 家庭的"
+  },
+  {
+    "w": "dominant",
+    "r": "domin(统治) + -ant(形容词后缀) -> 统治的 -> 支配的",
+    "c": [
+      "The dominant theory in psychology has shifted significantly over the past two decades.",
+      "心理学中的主导理论在过去二十年中发生了显著变化。"
+    ]
+  },
+  {
+    "w": "dominate",
+    "r": "domin(统治) + -ate(动词后缀) -> 统治、支配"
+  },
+  {
+    "w": "donate",
+    "r": "don(给) + -ate(动词后缀) -> 给出去 -> 捐赠"
+  },
+  {
+    "w": "donation",
+    "r": "don(给) + -ation(名词后缀) -> 给出的东西 -> 捐款、捐赠物",
+    "c": [
+      "The charity received a record-breaking donation from an anonymous benefactor.",
+      "该慈善机构收到了一位匿名捐助者的创纪录捐款。"
+    ]
+  },
+  {
+    "w": "donkey",
+    "r": "联想: 源自古英语dunkey，指驴",
+    "c": [
+      "The stubborn donkey refused to move despite the farmer's repeated efforts.",
+      "尽管农夫反复努力，那头固执的驴还是不肯动。"
+    ]
+  },
+  {
+    "w": "donor",
+    "r": "don(给) + -or(人) -> 给予的人 -> 捐赠者",
+    "c": [
+      "Organ donor registration rates vary widely across different regions of the country.",
+      "器官捐赠者登记率在该国不同地区差异很大。"
+    ]
+  },
+  {
+    "w": "doom",
+    "r": "联想: 音「堵墓」-> 堵住坟墓，厄运难逃",
+    "c": [
+      "Many economists warn that excessive debt could spell doom for the nation's economy.",
+      "许多经济学家警告说，过度债务可能给国家经济带来厄运。"
+    ]
+  },
+  {
+    "w": "door",
+    "r": "联想: 最基础的名词，源自古英语dur"
+  },
+  {
+    "w": "doorway",
+    "r": "复合: door(门) + way(路) -> 门口",
+    "c": [
+      "She stood in the doorway, hesitating before entering the dimly lit room.",
+      "她站在门口，犹豫着要不要走进那间昏暗的房间。"
+    ]
+  },
+  {
+    "w": "dorm",
+    "r": "dorm(睡眠) -> 睡觉的地方 -> 宿舍(缩写)"
+  },
+  {
+    "w": "dormitory",
+    "r": "dorm(睡眠) + -itory(表场所的后缀) -> 睡觉的地方 -> 集体宿舍",
+    "c": [
+      "The university's new dormitory can accommodate up to five hundred students.",
+      "这所大学的新宿舍最多可容纳五百名学生。"
+    ]
+  },
+  {
+    "w": "dose",
+    "r": "联想: 源自希腊语dosis(给的量)，指药剂的量"
+  },
+  {
+    "w": "dot",
+    "r": "联想: 古英语dott，指小点、点缀"
+  },
+  {
+    "w": "double",
+    "r": "dou(二，来自拉丁语duo) + -ble(形容词后缀) -> 两倍的 -> 双的"
+  },
+  {
+    "w": "doubt",
+    "r": "dou(二) + bt -> 二心 -> 怀疑",
+    "c": [
+      "Skeptical researchers cast doubt on the validity of the experimental results.",
+      "持怀疑态度的研究人员对实验结果的有效性提出质疑。"
+    ]
+  },
+  {
+    "w": "doubtless",
+    "r": "doubt(怀疑) + -less(无…的) -> 无疑地",
+    "c": [
+      "This groundbreaking discovery will doubtless reshape our understanding of human evolution.",
+      "这一开创性发现无疑将重塑我们对人类进化的理解。"
+    ]
+  },
+  {
+    "w": "dove",
+    "r": "联想: 古英语dufe，指鸽子",
+    "c": [
+      "A white dove is often used as a universal symbol of peace and hope.",
+      "白鸽常被用作和平与希望的普遍象征。"
+    ]
+  },
+  {
+    "w": "down",
+    "r": "联想: 最基础的方位词，古英语adown"
+  },
+  {
+    "w": "downstairs",
+    "r": "复合: down(下) + stairs(楼梯) -> 楼下",
+    "c": [
+      "Residents gathered downstairs in the lobby when the fire alarm went off.",
+      "火灾警报响起时，居民们聚集在楼下大厅里。"
+    ]
+  },
+  {
+    "w": "downtown",
+    "r": "复合: down(下) + town(城) -> 市中心",
+    "c": [
+      "Many young professionals choose to live downtown for convenience and culture.",
+      "许多年轻职业人士为了便利和文化选择住在市中心。"
+    ]
+  },
+  {
+    "w": "downward",
+    "r": "down(下) + -ward(向…方向) -> 向下的",
+    "c": [
+      "The company has experienced a steady downward trend in sales since last quarter.",
+      "自上季度以来，该公司的销售额呈持续下降趋势。"
+    ]
+  },
+  {
+    "w": "doze",
+    "r": "联想: 音「盹着」-> 打瞌睡",
+    "c": [
+      "After lunch, she began to doze off during the tedious afternoon lecture.",
+      "午饭后，她在乏味的下午讲座中开始打瞌睡。"
+    ]
+  },
+  {
+    "w": "dozen",
+    "r": "联想: 来自拉丁语duodecim(十二)，即一打"
+  },
+  {
+    "w": "draft",
+    "r": "联想: 来自古英语dragan(拉、画)，起草就是拉出初稿"
+  },
+  {
+    "w": "drag",
+    "r": "联想: 古英语dragan，用力拉、拽",
+    "c": [
+      "Workers had to drag the heavy equipment up the steep mountain path.",
+      "工人们不得不把沉重的设备拖上陡峭的山路。"
+    ]
+  },
+  {
+    "w": "dragon",
+    "r": "联想: 来自希腊语drakon(巨蛇)，指龙",
+    "c": [
+      "The dragon is a mythical creature that appears in many ancient cultures worldwide.",
+      "龙是一种神话生物，出现在世界上许多古代文化中。"
+    ]
+  },
+  {
+    "w": "drain",
+    "r": "联想: 古英语dreahnian，排干水",
+    "c": [
+      "The city's aging drain system failed to handle the sudden heavy rainfall.",
+      "城市老化的排水系统未能应对突如其来的暴雨。"
+    ]
+  },
+  {
+    "w": "drainage",
+    "r": "drain(排水) + -age(名词后缀) -> 排水系统",
+    "c": [
+      "Poor drainage in rural areas often leads to widespread flooding during monsoon season.",
+      "农村地区排水不畅常常导致雨季大范围洪水。"
+    ]
+  },
+  {
+    "w": "drama",
+    "r": "drama(行动、做，来自希腊语) -> 表演的行动 -> 戏剧"
+  },
+  {
+    "w": "dramatic",
+    "r": "drama(戏剧) + -tic(形容词后缀) -> 戏剧的 -> 戏剧性的"
+  },
+  {
+    "w": "dramatically",
+    "r": "dramatic(戏剧性的) + -ally(副词后缀) -> 大幅度地",
+    "c": [
+      "Advances in artificial intelligence have dramatically transformed various industries.",
+      "人工智能的进步极大地改变了各个行业。"
+    ]
+  },
+  {
+    "w": "drastic",
+    "r": "drast(做、作用，来自希腊语) + -ic -> 作用强的 -> 激烈的"
+  },
+  {
+    "w": "drastically",
+    "r": "drastic(激烈的) + -ally(副词后缀) -> 激烈地",
+    "c": [
+      "The pandemic has drastically altered the way people work and communicate globally.",
+      "这场流行病极大地改变了全球人们工作和交流的方式。"
+    ]
+  },
+  {
+    "w": "draw",
+    "r": "联想: 古英语dragan，拉、画(画线就是拉笔)"
+  },
+  {
+    "w": "drawback",
+    "r": "复合: draw(拉) + back(回) -> 把人拉回来的东西 -> 缺点"
+  },
+  {
+    "w": "drawer",
+    "r": "draw(拉) + -er(表物) -> 可拉出的东西 -> 抽屉",
+    "c": [
+      "She rummaged through the top drawer looking for her passport and travel documents.",
+      "她翻遍了顶层抽屉寻找护照和旅行证件。"
+    ]
+  },
+  {
+    "w": "drawing",
+    "r": "draw(画) + -ing(名词后缀) -> 绘图",
+    "c": [
+      "Technical drawing requires precision and attention to every minute detail.",
+      "技术绘图要求精确并关注每一个微小细节。"
+    ]
+  },
+  {
+    "w": "dread",
+    "r": "联想: 古英语ondraedan，害怕",
+    "c": [
+      "Many patients dread the diagnosis process due to fear of receiving bad news.",
+      "由于害怕收到坏消息，许多患者惧怕诊断过程。"
+    ]
+  },
+  {
+    "w": "dreadful",
+    "r": "dread(恐惧) + -ful(充满…的) -> 可怕的",
+    "c": [
+      "The dreadful consequences of deforestation are becoming increasingly evident worldwide.",
+      "森林砍伐的可怕后果在全球范围内日益明显。"
+    ]
+  },
+  {
+    "w": "dream",
+    "r": "联想: 古英语dream，梦、梦想"
+  },
+  {
+    "w": "dress",
+    "r": "联想: 古英语dresan，穿衣服"
+  },
+  {
+    "w": "drift",
+    "r": "联想: 古英语drifan，漂浮、漂流",
+    "c": [
+      "Scientists study how icebergs drift across the ocean to monitor climate patterns.",
+      "科学家研究冰山如何在海洋中漂流以监测气候模式。"
+    ]
+  },
+  {
+    "w": "drill",
+    "r": "联想: 古英语drilian，钻孔、练习",
+    "c": [
+      "Military recruits underwent rigorous physical drill every morning before breakfast.",
+      "新兵每天早餐前都要进行严格的体能训练。"
+    ]
+  },
+  {
+    "w": "drink",
+    "r": "联想: 古英语drincan，喝"
+  },
+  {
+    "w": "drip",
+    "r": "联想: 古英语drypan，滴下",
+    "c": [
+      "The constant drip of the faucet kept him awake throughout the entire night.",
+      "水龙头不停滴水让他整夜都睡不着。"
+    ]
+  },
+  {
+    "w": "drive",
+    "r": "联想: 古英语drifan，驱使、驾驶"
+  },
+  {
+    "w": "driver",
+    "r": "drive(驾驶) + -er(人) -> 驾驶员"
+  },
+  {
+    "w": "drone",
+    "r": "联想: 古英语dran(雄蜂)，无人机像雄蜂一样嗡嗡飞",
+    "c": [
+      "Agricultural drone technology has greatly improved crop monitoring and pesticide application.",
+      "农业无人机技术极大地改善了作物监测和农药施用。"
+    ]
+  },
+  {
+    "w": "drop",
+    "r": "联想: 古英语dropa，滴、掉下"
+  },
+  {
+    "w": "dropout",
+    "r": "复合: drop(掉) + out(出) -> 掉出去的人 -> 辍学学生",
+    "c": [
+      "High school dropout rates remain a major concern for education policymakers.",
+      "高中辍学率仍然是教育政策制定者关注的主要问题。"
+    ]
+  },
+  {
+    "w": "drought",
+    "r": "dry(干)的名词形式 -> 干旱 -> 旱灾"
+  },
+  {
+    "w": "drown",
+    "r": "联想: 古英语druncnian，淹死、淹没",
+    "c": [
+      "Rising sea levels threaten to drown entire coastal cities within the next century.",
+      "海平面上升威胁着在下个世纪内淹没整个沿海城市。"
+    ]
+  },
+  {
+    "w": "drug",
+    "r": "联想: 古法语drogue，药、毒品",
+    "c": [
+      "The new drug has shown promising results in early clinical trials for cancer treatment.",
+      "这种新药在癌症治疗的早期临床试验中显示出令人鼓舞的结果。"
+    ]
+  },
+  {
+    "w": "drum",
+    "r": "联想: 古英语drum，鼓",
+    "c": [
+      "The rhythm of the traditional drum dance reflects the cultural heritage of the region.",
+      "传统鼓舞的节奏反映了该地区的文化遗产。"
+    ]
+  },
+  {
+    "w": "drummer",
+    "r": "drum(鼓) + -mer(人) -> 鼓手",
+    "c": [
+      "The jazz band's talented drummer has won numerous awards for his innovative style.",
+      "这位爵士乐队才华横溢的鼓手因其创新风格赢得了无数奖项。"
+    ]
+  },
+  {
+    "w": "drunk",
+    "r": "drink(喝)的过去分词形式 -> 喝醉的",
+    "c": [
+      "Drunk driving remains one of the leading causes of traffic fatalities worldwide.",
+      "酒驾仍然是全球交通事故死亡的主要原因之一。"
+    ]
+  },
+  {
+    "w": "dry",
+    "r": "联想: 古英语dryge，干的"
+  },
+  {
+    "w": "dual",
+    "r": "du(二) + -al(形容词后缀) -> 二的 -> 双重的",
+    "c": [
+      "The dual purpose of this research is both theoretical exploration and practical application.",
+      "这项研究的双重目的是理论探索和实际应用。"
+    ]
+  },
+  {
+    "w": "dub",
+    "r": "联想: 古法语adouber(授予骑士称号)，引申为起绰号、配音"
+  },
+  {
+    "w": "dubious",
+    "r": "dub(怀疑) + -ious(形容词后缀) -> 可疑的",
+    "c": [
+      "Many experts remain dubious about the long-term benefits of the new policy.",
+      "许多专家对这项新政策的长期效益仍持怀疑态度。"
+    ]
+  },
+  {
+    "w": "duck",
+    "r": "联想: 古英语duce，鸭",
+    "c": [
+      "Wild duck populations have declined sharply due to habitat loss and pollution.",
+      "由于栖息地丧失和污染，野鸭数量急剧下降。"
+    ]
+  },
+  {
+    "w": "due",
+    "r": "联想: 来自拉丁语debere(欠)，到期的",
+    "c": [
+      "The final report is due next Friday and must be submitted to the committee.",
+      "最终报告下周五到期，必须提交给委员会。"
+    ]
+  },
+  {
+    "w": "duke",
+    "r": "联想: 来自拉丁语dux(领袖)，公爵",
+    "c": [
+      "The duke donated a substantial portion of his estate to fund medical research.",
+      "公爵捐赠了其财产的很大一部分用于资助医学研究。"
+    ]
+  },
+  {
+    "w": "dull",
+    "r": "联想: 古英语dol(愚蠢的)，引申为枯燥的",
+    "c": [
+      "Students often find traditional lectures dull and prefer interactive learning methods.",
+      "学生们常常觉得传统讲座枯燥，更喜欢互动式学习方法。"
+    ]
+  },
+  {
+    "w": "dumb",
+    "r": "联想: 古英语dumb(哑的)，引申为愚蠢的",
+    "c": [
+      "His dumb mistake during the presentation cost the company a major client.",
+      "他在演示中犯的愚蠢错误让公司失去了一个大客户。"
+    ]
+  },
+  {
+    "w": "dump",
+    "r": "联想: 古挪威语dumpa，倒下、倾倒",
+    "c": [
+      "Illegal industrial dump sites pose serious environmental risks to nearby communities.",
+      "非法工业垃圾场对附近社区构成严重的环境风险。"
+    ]
+  },
+  {
+    "w": "duplicate",
+    "r": "du(二) + plic(折叠) + -ate(动词后缀) -> 折成两层 -> 复制、重复",
+    "c": [
+      "The assistant was instructed to duplicate all files before the meeting tomorrow.",
+      "助理被要求在明天会议前复制所有文件。"
+    ]
+  },
+  {
+    "w": "duplication",
+    "r": "du(二) + plic(折叠) + -ation(名词后缀) -> 复制品",
+    "c": [
+      "Data duplication can lead to inconsistencies and waste valuable storage resources.",
+      "数据重复会导致不一致并浪费宝贵的存储资源。"
+    ]
+  },
+  {
+    "w": "durable",
+    "r": "dur(持久、硬) + -able(能…的) -> 能持久的 -> 耐用的",
+    "c": [
+      "Consumers increasingly prefer durable products that reduce waste and save money long-term.",
+      "消费者越来越偏好耐用产品，既能减少浪费又能长期省钱。"
+    ]
+  },
+  {
+    "w": "duration",
+    "r": "dur(持久) + -ation(名词后缀) -> 持续时间"
+  },
+  {
+    "w": "during",
+    "r": "dur(持久) + -ing(在…期间) -> 在…期间"
+  },
+  {
+    "w": "dusk",
+    "r": "联想: 古英语dox(暗的)，黄昏变暗",
+    "c": [
+      "City lights begin to flicker on as dusk falls across the urban landscape.",
+      "当暮色降临城市时，灯火开始闪烁。"
+    ]
+  },
+  {
+    "w": "dust",
+    "r": "联想: 古英语dust，灰尘",
+    "c": [
+      "Air quality monitors detect dangerous levels of dust and pollutants in the city.",
+      "空气质量监测器检测到城市中灰尘和污染物的危险水平。"
+    ]
+  },
+  {
+    "w": "dutiful",
+    "r": "duty(责任) + -ful(充满…的) -> 尽职的",
+    "c": [
+      "The dutiful employee always arrived early and stayed late to complete every task.",
+      "这位尽职的员工总是早到晚走，完成每一项任务。"
+    ]
+  },
+  {
+    "w": "duty",
+    "r": "联想: 来自古法语deu(欠的)，应尽的责任",
+    "c": [
+      "Citizens have a duty to participate in public affairs and contribute to society.",
+      "公民有责任参与公共事务并为社会做出贡献。"
+    ]
+  },
+  {
+    "w": "dwarf",
+    "r": "联想: 古英语dweorg，侏儒、矮子"
+  },
+  {
+    "w": "dwell",
+    "r": "dwel(停留、居住) + -l -> 居住"
+  },
+  {
+    "w": "dweller",
+    "r": "dwell(居住) + -er(人) -> 居住者",
+    "c": [
+      "Urban dwellers often face higher stress levels than those living in rural areas.",
+      "城市居民往往比农村居民面临更高的压力水平。"
+    ]
+  },
+  {
+    "w": "dwelling",
+    "r": "dwell(居住) + -ing(名词后缀) -> 住宅",
+    "c": [
+      "Affordable dwelling options have become increasingly scarce in major metropolitan areas.",
+      "在主要大都市地区，经济适用的住房选择越来越少。"
+    ]
+  },
+  {
+    "w": "dye",
+    "r": "联想: 古英语deagian，染色",
+    "c": [
+      "Workers use natural plant extracts to dye fabrics in the traditional workshop.",
+      "工人们在传统作坊里用天然植物提取物给织物染色。"
+    ]
+  },
+  {
+    "w": "dynamic",
+    "r": "dynam(力量) + -ic(形容词后缀) -> 有力量的 -> 动态的"
+  },
+  {
+    "w": "dynamics",
+    "r": "dynam(力量) + -ics(学科) -> 动力学",
+    "c": [
+      "System dynamics helps researchers understand complex feedback loops in social systems.",
+      "系统动力学帮助研究人员理解社会系统中复杂的反馈循环。"
+    ]
+  },
+  {
+    "w": "dynamo",
+    "r": "dynam(力量) + -o(表物) -> 产生力量的东西 -> 发电机",
+    "c": [
+      "The old factory relied on a massive dynamo to power all its machinery.",
+      "这家老工厂依靠一台大型发电机为所有机器供电。"
+    ]
+  },
+  {
+    "w": "dynasty",
+    "r": "dyn(力量、统治) + -asty(名词后缀) -> 统治的时代 -> 王朝",
+    "c": [
+      "The Tang dynasty is widely regarded as a golden age of Chinese art and culture.",
+      "唐朝被广泛认为是中国艺术和文化的黄金时代。"
+    ]
+  },
+  {
+    "w": "dysfunction",
+    "r": "dys-(坏、异常) + function(功能) -> 功能失常"
+  }
+]

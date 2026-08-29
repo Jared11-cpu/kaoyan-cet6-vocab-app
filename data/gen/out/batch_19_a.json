@@ -1,0 +1,673 @@
+[
+  {
+    "w": "mad",
+    "r": "词源: 来自古英语gemæd(精神失常的), 与gemyde(疯狂的)同源 -> 生气的、着迷的",
+    "c": [
+      "The professor got mad when he discovered half the class had skipped his lecture.",
+      "当教授发现班上有一半学生旷课时，他非常生气。"
+    ]
+  },
+  {
+    "w": "madam",
+    "r": "词源: 来自法语ma dame(我的夫人), ma(我的)+dame(夫人) -> 对女士的尊称 -> 夫人",
+    "c": [
+      "The madam of the college was invited to deliver the opening speech at graduation.",
+      "学院的女院长应邀在毕业典礼上致开幕词。"
+    ]
+  },
+  {
+    "w": "magazine",
+    "r": "词源: 来自阿拉伯语makhazin(仓库), 原指存放各种内容的刊物 -> 杂志",
+    "c": null
+  },
+  {
+    "w": "magic",
+    "r": "词源: 来自希腊语magike(巫术), 与magos(术士)同源 -> 魔法",
+    "c": null
+  },
+  {
+    "w": "magician",
+    "r": "magic(魔法) + -ian(名词后缀, 从事…的人) -> 从事魔法的人 -> 魔法师",
+    "c": [
+      "The young magician amazed the audience with his clever card tricks at the campus talent show.",
+      "年轻的魔术师在校园才艺表演中用巧妙的纸牌戏法令观众惊叹不已。"
+    ]
+  },
+  {
+    "w": "magistrate",
+    "r": "magistr(=master, 长官, 来自拉丁语magister) + -ate(名词后缀, 表职位) -> 地方长官 -> 地方法官",
+    "c": [
+      "The local magistrate ruled that the protest march could proceed with certain restrictions.",
+      "地方法官裁定抗议游行可以在一定限制条件下进行。"
+    ]
+  },
+  {
+    "w": "magnet",
+    "r": "词源: 来自希腊语magnes lithos(马格尼西亚的石头), 因该地盛产磁石得名 -> 磁铁",
+    "c": [
+      "The scientist used a powerful magnet to separate iron filings from the sand sample.",
+      "科学家用一块强力磁铁将铁屑从沙样中分离出来。"
+    ]
+  },
+  {
+    "w": "magnetic",
+    "r": "magnet(磁铁) + -ic(形容词后缀, 有…性质的) -> 有磁铁性质的 -> 有吸引力的",
+    "c": null
+  },
+  {
+    "w": "magnetism",
+    "r": "magnet(磁铁) + -ism(名词后缀, 表性质/主义) -> 磁的性质 -> 磁、魅力",
+    "c": [
+      "The young leader's personal magnetism attracted many followers to the social movement.",
+      "这位年轻领袖的个人魅力吸引了许多追随者加入这场社会运动。"
+    ]
+  },
+  {
+    "w": "magnificent",
+    "r": "magnific(大+做, 来自拉丁语magnus大+facere做) + -ent(形容词后缀) -> 做得宏大的 -> 宏伟的",
+    "c": [
+      "The magnificent library building has become an iconic landmark of the university campus.",
+      "这座宏伟的图书馆建筑已成为大学校园的标志性地标。"
+    ]
+  },
+  {
+    "w": "magnify",
+    "r": "magn(大, 来自拉丁语magnus) + -ify(动词后缀, 使…) -> 使变大 -> 放大",
+    "c": [
+      "Scientists use electron microscopes to magnify tiny organisms thousands of times.",
+      "科学家使用电子显微镜将微小生物放大数千倍。"
+    ]
+  },
+  {
+    "w": "magnitude",
+    "r": "magn(大) + -itude(名词后缀, 表性质/状态) -> 大小的程度 -> 大小、量级",
+    "c": [
+      "The magnitude of the recent earthquake surprised even highly experienced seismologists.",
+      "最近这次地震的震级甚至令经验非常丰富的地震学家都感到惊讶。"
+    ]
+  },
+  {
+    "w": "maid",
+    "r": "词源: 来自古英语mægden(少女、处女), 后引申为女仆 -> 侍女",
+    "c": [
+      "The maid carefully dusted the antique furniture in the historic mansion every morning.",
+      "侍女每天早上小心翼翼地为这座历史宅邸中的古董家具除尘。"
+    ]
+  },
+  {
+    "w": "maiden",
+    "r": "maid(少女) + -en(名词/形容词后缀, 指小) -> 年轻的少女 -> 少女",
+    "c": [
+      "The maiden voyage of the newly built research vessel was scheduled for next spring.",
+      "这艘新建科考船的处女航定于明年春天进行。"
+    ]
+  },
+  {
+    "w": "mail",
+    "r": "词源: 来自古法语male(袋子、行李), 原指装信件的袋子 -> 邮件",
+    "c": null
+  },
+  {
+    "w": "main",
+    "r": "词源: 来自拉丁语magnus(大的), 经由古法语main -> 主要的",
+    "c": null
+  },
+  {
+    "w": "mainland",
+    "r": "复合: main(主要的) + land(土地) -> 主要的陆地 -> 大陆、洲",
+    "c": [
+      "Many students from the island travel to the mainland each year to pursue higher education.",
+      "每年都有许多岛上的学生前往大陆接受高等教育。"
+    ]
+  },
+  {
+    "w": "maintain",
+    "r": "main-(手) + tain(保持, 来自拉丁语tenere拿住) -> 用手握住 -> 保持、维持",
+    "c": null
+  },
+  {
+    "w": "maintenance",
+    "r": "mainten(=maintain, 保持) + -ance(名词后缀, 表状态/行为) -> 保持的行为 -> 维护",
+    "c": null
+  },
+  {
+    "w": "majesty",
+    "r": "maj(大, 来自拉丁语magnus) + -esty(名词后缀, 表性质) -> 伟大的性质 -> 威严",
+    "c": [
+      "The students stood in awe at the majesty of the ancient cathedral's towering architecture.",
+      "学生们敬畏地感受着这座古老大教堂高耸建筑的威严气势。"
+    ]
+  },
+  {
+    "w": "major",
+    "r": "maj(大) + -or(形容词后缀, 比较级) -> 更大的 -> 主要的",
+    "c": [
+      "Computer science has become a major field of study for students seeking stable careers.",
+      "计算机科学已成为寻求稳定职业的学生的主要学习领域。"
+    ]
+  },
+  {
+    "w": "majority",
+    "r": "major(主要的) + -ity(名词后缀, 表性质) -> 占主要部分的 -> 多数",
+    "c": null
+  },
+  {
+    "w": "make",
+    "r": "词源: 来自古英语macian(制造、建造), 与德语machen同源 -> 制作、使得",
+    "c": null
+  },
+  {
+    "w": "makeup",
+    "r": "复合: make(做) + up(上) -> 做上去的装饰 -> 化妆品、组成",
+    "c": null
+  },
+  {
+    "w": "male",
+    "r": "词源: 来自拉丁语masculus(男性的), 是mas(男人)的指小形式 -> 男性的",
+    "c": null
+  },
+  {
+    "w": "malice",
+    "r": "mal(坏, 来自拉丁语malus) + -ice(名词后缀, 表性质/状态) -> 坏的性质 -> 恶意",
+    "c": [
+      "The court found no evidence of malice in the company's decision to lay off workers.",
+      "法院没有发现公司裁员决定存在恶意的证据。"
+    ]
+  },
+  {
+    "w": "malicious",
+    "r": "malic(=malice, 恶意) + -ious(形容词后缀, 充满…的) -> 充满恶意的 -> 恶毒的",
+    "c": [
+      "Malicious online rumors can severely damage a person's reputation and mental health.",
+      "恶毒的网络谣言会严重损害一个人的名誉和心理健康。"
+    ]
+  },
+  {
+    "w": "malignant",
+    "r": "malign(恶意的, mal坏+ign=本性) + -ant(形容词后缀) -> 坏本性的 -> 恶性的",
+    "c": [
+      "Early detection of malignant tumors significantly improves patient survival rates.",
+      "早期发现恶性肿瘤可显著提高患者的存活率。"
+    ]
+  },
+  {
+    "w": "mall",
+    "r": "词源: 来自The Mall(伦敦林荫大道), 原指铁圈球游戏场地, 后引申为购物中心 -> 购物中心",
+    "c": [
+      "The newly opened shopping mall near campus has become a popular hangout for students.",
+      "校园附近新开的购物中心已成为学生们常去的休闲场所。"
+    ]
+  },
+  {
+    "w": "mammal",
+    "r": "词源: 来自拉丁语mamma(乳房), 因哺乳动物用乳汁哺育幼崽 -> 哺乳动物",
+    "c": null
+  },
+  {
+    "w": "man",
+    "r": "词源: 来自古英语mann(人、男人), 与德语Mann同源 -> 男人",
+    "c": null
+  },
+  {
+    "w": "manage",
+    "r": "词源: 来自意大利语maneggiare(驾驭马匹), mano(手) -> 用手控制 -> 管理、设法做到",
+    "c": null
+  },
+  {
+    "w": "management",
+    "r": "manage(管理) + -ment(名词后缀, 表行为/结果) -> 管理的行为 -> 经营、管理",
+    "c": null
+  },
+  {
+    "w": "manager",
+    "r": "manage(管理) + -er(名词后缀, 表人) -> 管理的人 -> 经理",
+    "c": null
+  },
+  {
+    "w": "mandate",
+    "r": "mand(命令, 来自拉丁语mandare) + -ate(名词/动词后缀) -> 命令 -> 授权",
+    "c": null
+  },
+  {
+    "w": "maneuver",
+    "r": "man(手) + euver(工作, 来自拉丁语operari) -> 用手工作 -> 操纵、策略",
+    "c": [
+      "The politician's clever maneuver won him crucial support from undecided voters.",
+      "这位政客巧妙的策略为他赢得了犹豫不决选民的关键支持。"
+    ]
+  },
+  {
+    "w": "manifest",
+    "r": "mani-(手) + fest(打、击, 来自拉丁语festus) -> 用手打出 -> 显示、显然的",
+    "c": null
+  },
+  {
+    "w": "manipulate",
+    "r": "mani(手, 来自拉丁语manus) + pul(拉) + -ate(动词后缀) -> 用手拉 -> 操纵",
+    "c": [
+      "Advanced algorithms can now manipulate digital images with astonishing precision.",
+      "先进的算法现在能以惊人的精度操纵数字图像。"
+    ]
+  },
+  {
+    "w": "mankind",
+    "r": "复合: man(人) + kind(种类) -> 人的种类 -> 人类",
+    "c": null
+  },
+  {
+    "w": "manner",
+    "r": "man(手) + -ner(名词后缀) -> 用手做事的方式 -> 方式、礼貌",
+    "c": null
+  },
+  {
+    "w": "manoeuvre",
+    "r": "man(手) + oeuvre(工作) -> 用手操作 -> 操纵、策略（maneuver的英式拼写）",
+    "c": [
+      "The general's brilliant military manoeuvre caught the enemy forces completely off guard.",
+      "将军出色的军事策略令敌军措手不及。"
+    ]
+  },
+  {
+    "w": "mansion",
+    "r": "mans(=manere, 居住、逗留) + -ion(名词后缀, 表场所) -> 居住的地方 -> 大厦",
+    "c": [
+      "The historic mansion on the hill now serves as the university's administration building.",
+      "山上那座历史悠久的宅邸现在是大学的行政办公楼。"
+    ]
+  },
+  {
+    "w": "manual",
+    "r": "manu(手, 来自拉丁语manus) + -al(形容词后缀) -> 用手的 -> 手册、手工的",
+    "c": null
+  },
+  {
+    "w": "manufacture",
+    "r": "manu(手) + fact(做, 来自拉丁语facere) + -ure(名词后缀) -> 用手做 -> 制造",
+    "c": null
+  },
+  {
+    "w": "manufacturer",
+    "r": "manufactur(e)(制造) + -er(名词后缀, 表人/物) -> 制造者 -> 制造商",
+    "c": [
+      "The car manufacturer recalled thousands of vehicles due to a faulty brake system.",
+      "这家汽车制造商因刹车系统故障召回了数千辆汽车。"
+    ]
+  },
+  {
+    "w": "manuscript",
+    "r": "manu(手) + script(写, 来自拉丁语scribere) -> 手写的东西 -> 手稿",
+    "c": [
+      "The ancient manuscript was carefully preserved in the university's special collections.",
+      "这份古老的手稿被精心保存在大学的特藏文献中。"
+    ]
+  },
+  {
+    "w": "many",
+    "r": "词源: 来自古英语manig(许多的), 与德语mannig同源 -> 很多",
+    "c": [
+      "Many university students struggle to balance academic work with part-time employment.",
+      "许多大学生努力在学业与兼职工作之间寻找平衡。"
+    ]
+  },
+  {
+    "w": "map",
+    "r": "词源: 来自拉丁语mappa(餐巾、布), 古代地图常绘在布上 -> 地图",
+    "c": null
+  },
+  {
+    "w": "maple",
+    "r": "词源: 来自古英语mapul(枫树), 源自古日耳曼语 -> 槭树、枫树",
+    "c": [
+      "The maple trees lining the campus pathway turn brilliant red in late autumn every year.",
+      "校园小径两旁的枫树每年深秋都会变成灿烂的红色。"
+    ]
+  },
+  {
+    "w": "marathon",
+    "r": "词源: 来自希腊语Marathon(马拉松平原), 传说希波战争中信使从马拉松跑到雅典报捷 -> 马拉松",
+    "c": [
+      "Training for a full marathon requires months of disciplined running and proper nutrition.",
+      "训练全程马拉松需要数月有规律的跑步和合理的营养。"
+    ]
+  },
+  {
+    "w": "marble",
+    "r": "词源: 来自希腊语marmaros(闪光的石头), 后指大理石 -> 大理石",
+    "c": [
+      "The university's main hall is decorated with elegant marble columns imported from Italy.",
+      "大学的主礼堂装饰着从意大利进口的优雅大理石圆柱。"
+    ]
+  },
+  {
+    "w": "march",
+    "r": "词源: 来自拉丁语Martius(火星的月份), 罗马神话中战神Mars的月份 -> 三月",
+    "c": null
+  },
+  {
+    "w": "margin",
+    "r": "词源: 来自拉丁语margo(边缘、边界), 引申为利润差额 -> 利润、边缘",
+    "c": [
+      "The company's narrow profit margin forced it to cut costs and streamline operations.",
+      "公司微薄的利润率迫使其削减成本并精简运营。"
+    ]
+  },
+  {
+    "w": "marginal",
+    "r": "margin(边缘) + -al(形容词后缀) -> 处在边缘的 -> 微小的、边际的",
+    "c": [
+      "The marginal improvement in test scores was attributed to better study habits among students.",
+      "考试成绩的微小提高归因于学生更好的学习习惯。"
+    ]
+  },
+  {
+    "w": "marine",
+    "r": "mar(海, 来自拉丁语mare) + -ine(形容词后缀, 属于…的) -> 属于海的 -> 海的、船舶的",
+    "c": null
+  },
+  {
+    "w": "marital",
+    "r": "marit(婚姻, 来自拉丁语maritus丈夫) + -al(形容词后缀) -> 婚姻的",
+    "c": [
+      "Recent studies examine how financial stress affects marital satisfaction among young couples.",
+      "近期研究探讨了经济压力如何影响年轻夫妇的婚姻满意度。"
+    ]
+  },
+  {
+    "w": "mark",
+    "r": "词源: 来自古英语mearc(边界、标记), 与德语Marke同源 -> 标记",
+    "c": null
+  },
+  {
+    "w": "markedly",
+    "r": "marked(显著的) + -ly(副词后缀) -> 显著地",
+    "c": [
+      "Student engagement in online courses has increased markedly since the new platform was introduced.",
+      "自从引入新平台以来，学生对在线课程的参与度显著提高。"
+    ]
+  },
+  {
+    "w": "market",
+    "r": "词源: 来自拉丁语mercatus(贸易、集市), 与mercari(交易)同源 -> 市场",
+    "c": null
+  },
+  {
+    "w": "marriage",
+    "r": "marr(y)(结婚) + -iage(名词后缀, 表状态/行为) -> 结婚的状态 -> 结婚、结婚仪式",
+    "c": null
+  },
+  {
+    "w": "married",
+    "r": "marr(y)(结婚) + -ed(形容词/过去分词后缀) -> 结了婚的 -> 已婚的",
+    "c": [
+      "Married students often face unique challenges when balancing family and academic responsibilities.",
+      "已婚学生在平衡家庭和学业责任时经常面临独特的挑战。"
+    ]
+  },
+  {
+    "w": "marry",
+    "r": "词源: 来自拉丁语maritare(结婚), maritus(丈夫) -> 结婚",
+    "c": [
+      "Many young adults delay plans to marry until they have established stable careers.",
+      "许多年轻人推迟结婚计划，直到他们建立了稳定的职业。"
+    ]
+  },
+  {
+    "w": "mars",
+    "r": "词源: 来自拉丁语Mars(罗马战神), 因行星呈红色如血而得名 -> 火星",
+    "c": [
+      "Space agencies from several countries are planning manned missions to Mars in the coming decades.",
+      "数个国家的航天机构正计划在未来几十年内进行载人火星任务。"
+    ]
+  },
+  {
+    "w": "marsh",
+    "r": "词源: 来自古英语mersc(沼泽), 与德语Marsch同源 -> 沼泽、湿地",
+    "c": null
+  },
+  {
+    "w": "marshal",
+    "r": "词源: 来自古法语mareschal(马夫、侍从长), 后引申为元帅、指挥官 -> 元帅",
+    "c": [
+      "The event organizer had to marshal hundreds of volunteers to ensure smooth operations.",
+      "活动组织者必须集结数百名志愿者以确保运作顺利。"
+    ]
+  },
+  {
+    "w": "martyr",
+    "r": "词源: 来自希腊语martyr(见证者), 原指为信仰作证而死的人 -> 烈士、殉难者",
+    "c": [
+      "The statue in the town square honors the martyrs who fought for the nation's independence.",
+      "城镇广场上的雕像纪念为国家独立而战的烈士们。"
+    ]
+  },
+  {
+    "w": "marvel",
+    "r": "词源: 来自拉丁语mirabilis(奇妙的), 与miracle(奇迹)同源 -> 奇迹、惊奇",
+    "c": [
+      "Students marvel at the ancient library's collection of rare manuscripts and first editions.",
+      "学生们惊叹于这座古老图书馆收藏的珍本手稿和初版书籍。"
+    ]
+  },
+  {
+    "w": "marvelous",
+    "r": "marvel(奇迹) + -ous(形容词后缀, 充满…的) -> 充满奇迹的 -> 非凡的",
+    "c": [
+      "The marvelous performance by the student orchestra received a standing ovation from the audience.",
+      "学生管弦乐队的精彩表演赢得了观众的起立鼓掌。"
+    ]
+  },
+  {
+    "w": "marxist",
+    "r": "Marx(马克思) + -ist(名词/形容词后缀, 信奉…的) -> 马克思主义的",
+    "c": null
+  },
+  {
+    "w": "masculine",
+    "r": "mascul(男性, 来自拉丁语masculus) + -ine(形容词后缀) -> 男性的 -> 阳刚的",
+    "c": null
+  },
+  {
+    "w": "mask",
+    "r": "词源: 来自意大利语maschera(面具), 可能源自阿拉伯语maskhara(滑稽的) -> 面具",
+    "c": [
+      "During the pandemic, students were required to wear face masks in all indoor campus facilities.",
+      "疫情期间，学生被要求在校园内所有室内场所佩戴口罩。"
+    ]
+  },
+  {
+    "w": "mass",
+    "r": "词源: 来自希腊语maza(大麦饼、团块), 后指大量 -> 大量",
+    "c": [
+      "Mass production techniques enabled factories to manufacture goods at unprecedented rates.",
+      "大规模生产技术使工厂能够以前所未有的速度生产商品。"
+    ]
+  },
+  {
+    "w": "massacre",
+    "r": "词源: 来自法语massacre(大屠杀), 可能源自拉丁语macellum(屠宰场) -> 大屠杀",
+    "c": [
+      "The history textbook documents the terrible massacre that occurred during the civil war.",
+      "历史教科书记录了内战期间发生的可怕大屠杀。"
+    ]
+  },
+  {
+    "w": "massive",
+    "r": "mass(大量) + -ive(形容词后缀, 有…性质的) -> 有大量的 -> 巨大的、大规模的",
+    "c": [
+      "The massive construction project on campus will create a new science complex by 2028.",
+      "校园里的大型建设项目将在2028年前建成一个新的科学综合楼。"
+    ]
+  },
+  {
+    "w": "mast",
+    "r": "词源: 来自古英语mæst(桅杆), 与德语Mast同源 -> 桅杆",
+    "c": [
+      "The tall mast of the historic sailing ship could be seen from miles away along the coast.",
+      "从沿海数英里外就能看到这艘历史悠久帆船的高大桅杆。"
+    ]
+  },
+  {
+    "w": "master",
+    "r": "词源: 来自拉丁语magister(主人、教师), 与magis(更多)同源 -> 主人、精通",
+    "c": null
+  },
+  {
+    "w": "masterpiece",
+    "r": "复合: master(大师) + piece(作品) -> 大师的作品 -> 杰作",
+    "c": null
+  },
+  {
+    "w": "mat",
+    "r": "词源: 来自古英语mætt(垫子), 源自古日耳曼语 -> 垫子",
+    "c": null
+  },
+  {
+    "w": "match",
+    "r": "词源: 来自古英语mæcca(伴侣、对手), 后引申为比赛、匹配 -> 比赛、匹配",
+    "c": null
+  },
+  {
+    "w": "mate",
+    "r": "词源: 来自古英语gemaca(伴侣), 与gemaca(相配的)同源 -> 交配、配偶",
+    "c": [
+      "During spring, many bird species return to the forest to mate and build their nests.",
+      "春天期间，许多鸟类返回森林进行交配并筑巢。"
+    ]
+  },
+  {
+    "w": "material",
+    "r": "mater(物质、材料, 来自拉丁语materia) + -ial(形容词/名词后缀) -> 材料",
+    "c": null
+  },
+  {
+    "w": "materialism",
+    "r": "material(物质) + -ism(名词后缀, 主义/学说) -> 唯物主义",
+    "c": null
+  },
+  {
+    "w": "materialize",
+    "r": "material(物质) + -ize(动词后缀, 使…) -> 使成为物质 -> 实现、具体化",
+    "c": [
+      "His dream of studying abroad finally materialized after years of hard work and saving.",
+      "经过多年的努力和积蓄，他出国留学的梦想终于实现了。"
+    ]
+  },
+  {
+    "w": "mathematical",
+    "r": "mathemat(数学, 来自希腊语mathema学问) + -ical(形容词后缀) -> 数学的",
+    "c": null
+  },
+  {
+    "w": "mathematics",
+    "r": "mathemat(数学, 来自希腊语mathema) + -ics(名词后缀, …学) -> 数学",
+    "c": [
+      "Mathematics forms the foundation for many scientific disciplines including physics and engineering.",
+      "数学是包括物理和工程在内的许多科学学科的基础。"
+    ]
+  },
+  {
+    "w": "matter",
+    "r": "词源: 来自拉丁语materia(物质、材料), 后引申为事情 -> 事情、问题、重要",
+    "c": null
+  },
+  {
+    "w": "mature",
+    "r": "词源: 来自拉丁语maturus(成熟的), 与matutinus(早晨的)同源 -> 成熟的",
+    "c": [
+      "College years are a critical period for students to develop mature thinking and independent judgment.",
+      "大学时期是学生发展成熟思维和独立判断的关键时期。"
+    ]
+  },
+  {
+    "w": "maturity",
+    "r": "matur(e)(成熟的) + -ity(名词后缀, 表性质) -> 成熟的性质 -> 成熟",
+    "c": [
+      "Emotional maturity is essential for building healthy relationships and handling academic pressure.",
+      "情感成熟对于建立健康的人际关系和应对学业压力至关重要。"
+    ]
+  },
+  {
+    "w": "maximum",
+    "r": "maxim(最大, 来自拉丁语maximus最大的) + -um(名词后缀) -> 最大量 -> 最大的",
+    "c": [
+      "The maximum number of students allowed in each laboratory session is fifteen for safety reasons.",
+      "出于安全原因，每次实验课允许的最大学生人数是十五人。"
+    ]
+  },
+  {
+    "w": "may",
+    "r": "词源: 来自拉丁语Maius(五月), 以罗马神话中Maia女神命名 -> 五月",
+    "c": [
+      "The annual university sports day is traditionally held in May on the main athletic field.",
+      "一年一度的大学运动会传统上于五月在主运动场上举行。"
+    ]
+  },
+  {
+    "w": "maybe",
+    "r": "复合: may(可能) + be(是) -> 可能是 -> 可能、大概",
+    "c": null
+  },
+  {
+    "w": "mayor",
+    "r": "词源: 来自拉丁语major(较大的), 古法语maire(市长) -> 市长",
+    "c": null
+  },
+  {
+    "w": "me",
+    "r": "词源: 来自古英语me(我的宾格), 与德语mich同源 -> 我",
+    "c": [
+      "My advisor encouraged me to pursue graduate studies in environmental science at the university.",
+      "我的导师鼓励我在这所大学攻读环境科学研究生。"
+    ]
+  },
+  {
+    "w": "meadow",
+    "r": "词源: 来自古英语mædwe(草地), 与mawan(割草)同源 -> 草地",
+    "c": [
+      "The wildflower meadow behind the campus is a favorite spot for students to relax and study.",
+      "校园后面的野花草地是学生们放松和学习的最爱去处。"
+    ]
+  },
+  {
+    "w": "meal",
+    "r": "词源: 来自古英语mæl(餐、标记), 原指定时吃饭 -> 饭",
+    "c": null
+  },
+  {
+    "w": "mean",
+    "r": "词源: 来自古英语mænan(意思是、意欲), 与德语meinen同源 -> 意思是、意味着",
+    "c": null
+  },
+  {
+    "w": "meaning",
+    "r": "mean(意思是) + -ing(名词后缀, 表动作/结果) -> 意义",
+    "c": [
+      "Philosophy courses encourage students to explore the deeper meaning of life and human existence.",
+      "哲学课程鼓励学生探索生命和人类存在的深层意义。"
+    ]
+  },
+  {
+    "w": "means",
+    "r": "mean(意思是) + -s(名词后缀) -> 做事的方式 -> 手段",
+    "c": [
+      "Access to higher education should be available to all, regardless of financial means or background.",
+      "高等教育机会应向所有人开放，不论经济手段或背景如何。"
+    ]
+  },
+  {
+    "w": "meantime",
+    "r": "复合: mean(中间的) + time(时间) -> 中间的时间 -> 同时",
+    "c": [
+      "The professor will grade the papers; in the meantime, students should begin preparing their presentations.",
+      "教授将批改论文；与此同时，学生应该开始准备他们的课堂展示。"
+    ]
+  },
+  {
+    "w": "meanwhile",
+    "r": "复合: mean(中间的) + while(一段时间) -> 在此期间 -> 与此同时",
+    "c": [
+      "The library is being renovated; meanwhile, students can borrow books from the temporary facility.",
+      "图书馆正在翻修；与此同时，学生可以从临时设施借书。"
+    ]
+  }
+]

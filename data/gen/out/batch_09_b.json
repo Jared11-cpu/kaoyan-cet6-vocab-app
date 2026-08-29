@@ -1,0 +1,618 @@
+[
+  {
+    "w": "diplomatic",
+    "r": "diplomat(外交官) + -ic(形容词后缀) -> 外交的;老练的",
+    "c": [
+      "Diplomatic negotiations between the two nations aim to resolve the long-standing territorial dispute.",
+      "两国之间的外交谈判旨在解决长期存在的领土争端。"
+    ]
+  },
+  {
+    "w": "direct",
+    "r": "di-(分开/直接) + rect(直,正) -> 直接直走 -> 直接的;径直的",
+    "c": [
+      "The study provides direct evidence linking air pollution to respiratory disease rates.",
+      "该研究提供了将空气污染与呼吸系统疾病发病率联系起来的直接证据。"
+    ]
+  },
+  {
+    "w": "direction",
+    "r": "direct(直接的) + -ion(名词后缀) -> 方向;指令",
+    "c": [
+      "Genetic factors influence the direction and pace of cognitive development in early childhood.",
+      "遗传因素影响幼儿期认知发展的方向和速度。"
+    ]
+  },
+  {
+    "w": "directly",
+    "r": "direct(直接的) + -ly(副词后缀) -> 直接地",
+    "c": [
+      "Research shows that stress can directly affect the immune system's ability to fight infections.",
+      "研究表明,压力可以直接影响免疫系统抵抗感染的能力。"
+    ]
+  },
+  {
+    "w": "director",
+    "r": "di-(完全) + rect(统治,直) + -or(表人) -> 统治者;指挥者"
+  },
+  {
+    "w": "directory",
+    "r": "di-(分开/直接) + rect(直) + -ory(名词后缀,表场所) -> 直接查找的册子 -> 目录"
+  },
+  {
+    "w": "dirt",
+    "r": "联想: dirt音似「地他」, 地上的他是泥土 -> 污垢;泥土"
+  },
+  {
+    "w": "dirty",
+    "r": "dirt(泥土) + -y(形容词后缀) -> 脏的"
+  },
+  {
+    "w": "disable",
+    "r": "dis-(否定,不) + able(能…的) -> 不能的;使失去能力",
+    "c": [
+      "Severe spinal cord injuries can permanently disable individuals and require lifelong medical care.",
+      "严重的脊髓损伤可能使人永久残疾,需要终身医疗护理。"
+    ]
+  },
+  {
+    "w": "disadvantage",
+    "r": "dis-(不,否定) + advantage(优势,有利条件) -> 不利条件;缺点"
+  },
+  {
+    "w": "disagreement",
+    "r": "dis-(不,否定) + agreement(同意;一致) -> 争论;不一致"
+  },
+  {
+    "w": "disappear",
+    "r": "dis-(不,否定) + appear(出现) -> 不出现 -> 消失"
+  },
+  {
+    "w": "disappearance",
+    "r": "disappear(消失) + -ance(名词后缀) -> 消失;失踪",
+    "c": [
+      "The sudden disappearance of Arctic sea ice poses a grave threat to polar bear populations.",
+      "北极海冰的突然消失对北极熊种群构成了严重威胁。"
+    ]
+  },
+  {
+    "w": "disappoint",
+    "r": "dis-(不,否定) + appoint(任命;约定) -> 不被任命/约定 -> 使失望"
+  },
+  {
+    "w": "disapproval",
+    "r": "dis-(不,否定) + approval(赞成;批准) -> 不赞成"
+  },
+  {
+    "w": "disarm",
+    "r": "dis-(去掉,解除) + arm(武器,手臂) -> 解除武器 -> 解除武装;消除",
+    "c": [
+      "Peace activists argue that major powers should disarm their nuclear arsenals gradually.",
+      "和平活动家认为,大国应逐步解除其核武库。"
+    ]
+  },
+  {
+    "w": "disaster",
+    "r": "dis-(不好的) + aster(星星,星象) -> 星象不好 -> 灾难"
+  },
+  {
+    "w": "disastrous",
+    "r": "disaster(灾难) + -ous(形容词后缀) -> 灾难性的",
+    "c": [
+      "Deforestation in the Amazon basin has had disastrous consequences for indigenous communities.",
+      "亚马逊流域的森林砍伐对土著社区造成了灾难性后果。"
+    ]
+  },
+  {
+    "w": "disc",
+    "r": "联想: disc音似「盘」, 圆盘;唱片",
+    "c": [
+      "The compact disc revolutionized music distribution in the late twentieth century.",
+      "光盘在二十世纪末彻底改变了音乐传播方式。"
+    ]
+  },
+  {
+    "w": "discard",
+    "r": "dis-(离开,去掉) + card(纸牌,卡片) -> 把牌打出去 -> 抛弃;丢弃"
+  },
+  {
+    "w": "discern",
+    "r": "dis-(分开) + cern(区别,筛选) -> 分开来区别 -> 辨别;觉察",
+    "c": [
+      "It requires careful analysis to discern the underlying causes of economic inequality.",
+      "需要仔细分析才能辨别经济不平等的根本原因。"
+    ]
+  },
+  {
+    "w": "discharge",
+    "r": "dis-(离开,出去) + charge(装载,电荷) -> 卸去装载 -> 释放;排放",
+    "c": [
+      "Coal-fired power plants discharge large quantities of greenhouse gases into the atmosphere daily.",
+      "燃煤电厂每天向大气排放大量温室气体。"
+    ]
+  },
+  {
+    "w": "discipline",
+    "r": "dis-(分开,纪律) + cipline(学习,训练) -> 分开训练 -> 纪律;学科"
+  },
+  {
+    "w": "disclose",
+    "r": "dis-(打开,否定) + close(关闭) -> 打开关闭的东西 -> 揭露;公开",
+    "c": [
+      "Corporations are legally required to disclose their financial statements to shareholders annually.",
+      "法律要求公司每年向股东披露其财务报表。"
+    ]
+  },
+  {
+    "w": "disconnect",
+    "r": "dis-(分开,否定) + connect(连接) -> 断开连接",
+    "c": [
+      "There is a growing disconnect between public opinion and government policy on climate change.",
+      "在气候变化问题上,公众舆论与政府政策之间日益脱节。"
+    ]
+  },
+  {
+    "w": "discount",
+    "r": "dis-(不,否定) + count(计算,数) -> 不算数的部分 -> 折扣"
+  },
+  {
+    "w": "discourage",
+    "r": "dis-(不,否定) + courage(勇气) -> 使没有勇气 -> 使泄气;阻碍",
+    "c": [
+      "Excessive criticism from teachers can discourage students from pursuing creative interests.",
+      "教师的过度批评会打击学生追求创造性兴趣的积极性。"
+    ]
+  },
+  {
+    "w": "discourse",
+    "r": "dis-(分开,往返) + course(跑,流动) -> 来回跑着说 -> 谈话;论述"
+  },
+  {
+    "w": "discover",
+    "r": "dis-(去掉,打开) + cover(覆盖) -> 打开覆盖物 -> 发现;探索"
+  },
+  {
+    "w": "discovery",
+    "r": "discover(发现) + -y(名词后缀) -> 发现"
+  },
+  {
+    "w": "discreet",
+    "r": "dis-(分开) + creet(区分,筛选) -> 懂得区分的 -> 谨慎的;小心的"
+  },
+  {
+    "w": "discrepancy",
+    "r": "dis-(分开,不同) + crep(声音,响) + -ancy(名词后缀) -> 声音不同 -> 差异;不一致"
+  },
+  {
+    "w": "discrete",
+    "r": "dis-(分开) + crete(生长,创造) -> 分开生长的 -> 不连续的;离散的",
+    "c": [
+      "The study treats each demographic group as a discrete category for statistical analysis.",
+      "该研究将每个人口群体视为离散类别进行统计分析。"
+    ]
+  },
+  {
+    "w": "discretion",
+    "r": "dis-(分开) + cretion(区分) -> 懂得区分判断 -> 谨慎;判断力",
+    "c": [
+      "Judges exercise considerable discretion when sentencing defendants in criminal cases.",
+      "法官在刑事案件中对被告量刑时行使相当大的自由裁量权。"
+    ]
+  },
+  {
+    "w": "discriminate",
+    "r": "dis-(分开) + crimin(区分,罪) + -ate(动词后缀) -> 区分开 -> 歧视;辨别",
+    "c": [
+      "Employers who discriminate based on gender violate fundamental labor laws and ethical norms.",
+      "基于性别歧视的雇主违反了基本的劳动法和道德规范。"
+    ]
+  },
+  {
+    "w": "discrimination",
+    "r": "discriminate(歧视;辨别) + -ion(名词后缀) -> 歧视;辨别力"
+  },
+  {
+    "w": "discuss",
+    "r": "dis-(分开,互相) + cuss(摇晃,打) -> 互相讨论 -> 讨论;谈论"
+  },
+  {
+    "w": "disease",
+    "r": "dis-(不,否定) + ease(舒适,安逸) -> 不舒适 -> 疾病"
+  },
+  {
+    "w": "disengagement",
+    "r": "dis-(分开,否定) + engagement(参与;约定) -> 分离;脱离",
+    "c": [
+      "The disengagement of young voters from political processes threatens democratic legitimacy.",
+      "年轻选民脱离政治进程威胁着民主合法性。"
+    ]
+  },
+  {
+    "w": "disgrace",
+    "r": "dis-(不,否定) + grace(优雅;荣耀) -> 失去荣耀 -> 失宠;耻辱",
+    "c": [
+      "The corruption scandal brought disgrace upon the entire university administration.",
+      "腐败丑闻给整个大学管理层带来了耻辱。"
+    ]
+  },
+  {
+    "w": "disguise",
+    "r": "dis-(否定,相反) + guise(伪装,样子) -> 改变样子 -> 伪装;掩饰"
+  },
+  {
+    "w": "disgust",
+    "r": "dis-(不,否定) + gust(味道,品尝) -> 味道不好 -> 厌恶;反感",
+    "c": [
+      "Unethical scientific experiments often evoke strong moral disgust among the general public.",
+      "不道德的科学实验常常引起公众强烈的道德反感。"
+    ]
+  },
+  {
+    "w": "dish",
+    "r": "联想: dish音似「碟食」, 碟子;菜肴"
+  },
+  {
+    "w": "dishonest",
+    "r": "dis-(不,否定) + honest(诚实的) -> 不诚实的",
+    "c": [
+      "Dishonest practices in academic research undermine the credibility of the entire scientific community.",
+      "学术研究中的不诚实行为损害了整个科学界的可信度。"
+    ]
+  },
+  {
+    "w": "disillusion",
+    "r": "dis-(否定,相反) + illusion(幻想,错觉) -> 去掉幻想 -> 觉醒;使醒悟",
+    "c": [
+      "Many young professionals become disillusion with corporate culture after several years of work.",
+      "许多年轻专业人士工作几年后对企业文化感到幻灭。"
+    ]
+  },
+  {
+    "w": "disintegration",
+    "r": "dis-(否定,分开) + integration(整合,一体化) -> 瓦解;分裂",
+    "c": [
+      "The disintegration of traditional family structures has profound social and economic implications.",
+      "传统家庭结构的解体具有深远的社会和经济影响。"
+    ]
+  },
+  {
+    "w": "dislike",
+    "r": "dis-(不,否定) + like(喜欢) -> 不喜欢"
+  },
+  {
+    "w": "dismantle",
+    "r": "dis-(分开,去掉) + mantle(覆盖物;斗篷) -> 去掉覆盖物 -> 拆开;拆卸",
+    "c": [
+      "The government plans to dismantle obsolete regulations that hinder technological innovation.",
+      "政府计划废除阻碍技术创新的过时法规。"
+    ]
+  },
+  {
+    "w": "dismay",
+    "r": "dis-(不,否定) + may(可能;力量) -> 使没有力量 -> 沮丧;惊愕",
+    "c": [
+      "Scientists express deep dismay at the government's refusal to act on climate change.",
+      "科学家们对政府拒绝对气候变化采取行动深表沮丧。"
+    ]
+  },
+  {
+    "w": "dismiss",
+    "r": "dis-(分开,离开) + miss(送,发) -> 送出去分开 -> 解散;解雇"
+  },
+  {
+    "w": "disorder",
+    "r": "dis-(不,否定) + order(秩序;顺序) -> 没有秩序 -> 混乱;骚乱"
+  },
+  {
+    "w": "dispatch",
+    "r": "dis-(分开,离开) + patch(发送) -> 派出去 -> 派遣;发送",
+    "c": [
+      "The emergency response team will dispatch medical supplies to the disaster zone within hours.",
+      "应急响应小组将在几小时内向灾区派遣医疗物资。"
+    ]
+  },
+  {
+    "w": "dispensable",
+    "r": "dis-(不,否定) + pens(花费,称重) + -able(可…的) -> 可以不花费的 -> 可有可无的",
+    "c": [
+      "In the digital age, many traditional administrative roles have become economically dispensable.",
+      "在数字时代,许多传统行政职位在经济上变得可有可无。"
+    ]
+  },
+  {
+    "w": "disperse",
+    "r": "dis-(分开,散开) + perse(撒,散) -> 分散开 -> 分散;驱散"
+  },
+  {
+    "w": "displace",
+    "r": "dis-, di-(分开,离开) + place(位置) -> 离开位置 -> 取代;移置",
+    "c": [
+      "Automation threatens to displace millions of workers in manufacturing and service sectors.",
+      "自动化有可能取代制造业和服务业的数百万工人。"
+    ]
+  },
+  {
+    "w": "displacement",
+    "r": "displace(取代;移置) + -ment(名词后缀) -> 移置;置换",
+    "c": [
+      "The displacement of millions of refugees has created the largest humanitarian crisis in decades.",
+      "数百万难民的流离失所造成了几十年来最大的人道主义危机。"
+    ]
+  },
+  {
+    "w": "display",
+    "r": "dis-, di-(分开,展开) + play(折叠,打褶) -> 展开折叠的东西 -> 陈列;显示",
+    "c": [
+      "The museum will display rare manuscripts from the medieval period to the general public.",
+      "博物馆将向公众展示中世纪时期的珍贵手稿。"
+    ]
+  },
+  {
+    "w": "disposable",
+    "r": "dis-(分开,去掉) + pos(放置) + -able(可…的) -> 可放置到一边的 -> 可任意使用的;一次性的",
+    "c": [
+      "The widespread use of disposable plastic products has created a global environmental crisis.",
+      "一次性塑料产品的广泛使用造成了全球环境危机。"
+    ]
+  },
+  {
+    "w": "disposal",
+    "r": "dis-(分开,去掉) + pos(放置) + -al(名词后缀) -> 放到一边处理 -> 处理;处置"
+  },
+  {
+    "w": "dispose",
+    "r": "dis-(分开,去掉) + pose(放置) -> 放到一边 -> 处理;处置",
+    "c": [
+      "Municipal authorities must find safe ways to dispose of hazardous industrial waste materials.",
+      "市政当局必须找到安全的方法来处理危险的工业废料。"
+    ]
+  },
+  {
+    "w": "disposition",
+    "r": "dis-(分开,不同) + pos(放置) + -ition(名词后缀) -> 放置的方式 -> 性情;倾向;安排",
+    "c": [
+      "Research suggests that genetic factors influence a person's basic emotional disposition.",
+      "研究表明,遗传因素影响一个人的基本情绪倾向。"
+    ]
+  },
+  {
+    "w": "disproportionately",
+    "r": "dis-(不,否定) + proportion(比例) + -ate + -ly(副词后缀) -> 不成比例地",
+    "c": [
+      "Low-income families are disproportionately affected by rising housing costs in urban areas.",
+      "低收入家庭受到城市住房成本上涨的影响尤为严重。"
+    ]
+  },
+  {
+    "w": "dispute",
+    "r": "dis-(分开,不同) + pute(思考,计算) -> 想法不同 -> 争论;争执"
+  },
+  {
+    "w": "disregard",
+    "r": "dis-, di-(不,否定) + regard(注意;尊重) -> 不注意 -> 不理会;漠视",
+    "c": [
+      "Companies that disregard environmental regulations face significant legal and reputational risks.",
+      "无视环境法规的公司面临重大的法律和声誉风险。"
+    ]
+  },
+  {
+    "w": "disrupt",
+    "r": "dis-, di-(分开,打断) + rupt(破,断) -> 打断 -> 干扰;扰乱"
+  },
+  {
+    "w": "dissatisfaction",
+    "r": "dis-(不,否定) + satisfaction(满意) -> 不满;不平",
+    "c": [
+      "Growing dissatisfaction with healthcare services has prompted calls for systemic reform.",
+      "对医疗服务日益增长的不满引发了系统性改革的呼吁。"
+    ]
+  },
+  {
+    "w": "disservice",
+    "r": "dis-, di-(否定,坏) + service(服务) -> 坏的服务 -> 危害;伤害",
+    "c": [
+      "Overprotecting children does them a disservice by preventing the development of resilience.",
+      "过度保护孩子会阻碍韧性的发展,反而对他们有害。"
+    ]
+  },
+  {
+    "w": "dissipate",
+    "r": "dis-(分开,散开) + sipate(扔,投) -> 扔散开 -> 消散;浪费",
+    "c": [
+      "The effects of the economic stimulus package began to dissipate after the first quarter.",
+      "经济刺激计划的效果在第一季度后开始减弱。"
+    ]
+  },
+  {
+    "w": "dissolve",
+    "r": "dis-, di-(分开,解开) + solve(松开,溶解) -> 解开溶解 -> 溶解;解散"
+  },
+  {
+    "w": "distance",
+    "r": "di-(分开) + stance(站,站立) -> 分开站立的距离 -> 距离"
+  },
+  {
+    "w": "distant",
+    "r": "di-(分开) + stant(站) -> 站在远处的 -> 远的;遥远的",
+    "c": [
+      "Distant galaxies provide astronomers with clues about the early formation of the universe.",
+      "遥远的星系为天文学家提供了关于宇宙早期形成的线索。"
+    ]
+  },
+  {
+    "w": "distil",
+    "r": "di-(向下/完全) + stil(滴,滴下) -> 滴下来 -> 蒸馏;提取",
+    "c": [
+      "Chemists distil essential oils from plants for use in pharmaceuticals and cosmetics.",
+      "化学家从植物中提取精油用于制药和化妆品。"
+    ]
+  },
+  {
+    "w": "distill",
+    "r": "di-(完全) + still(滴,滴下) -> 蒸馏;提炼",
+    "c": [
+      "The professor tried to distill decades of research into a single accessible lecture.",
+      "这位教授试图将几十年的研究浓缩成一堂通俗易懂的讲座。"
+    ]
+  },
+  {
+    "w": "distinct",
+    "r": "di-(分开) + stinct(刺,标记) -> 刺开标记的 -> 不同的;明显的"
+  },
+  {
+    "w": "distinction",
+    "r": "di-(分开) + stinct(刺,标记) + -ion(名词后缀) -> 区别;卓越"
+  },
+  {
+    "w": "distinctive",
+    "r": "distinct(明显的) + -ive(形容词后缀,有…性质的) -> 与众不同的;有特色的"
+  },
+  {
+    "w": "distinctly",
+    "r": "distinct(明显的) + -ly(副词后缀) -> 显然;清楚地",
+    "c": [
+      "The research findings distinctly suggest a causal link between sleep deprivation and memory loss.",
+      "研究结果清楚地表明睡眠剥夺与记忆丧失之间存在因果关系。"
+    ]
+  },
+  {
+    "w": "distinguish",
+    "r": "di-(分开) + stingu(刺,标记) + -ish(动词后缀) -> 刺出标记以分开 -> 区别;使有特色"
+  },
+  {
+    "w": "distort",
+    "r": "dis-(歪曲,分开) + tort(扭,转) -> 扭歪了 -> 扭曲;歪曲"
+  },
+  {
+    "w": "distortion",
+    "r": "distort(扭曲) + -ion(名词后缀) -> 歪曲;畸变",
+    "c": [
+      "The distortion of scientific data for political purposes undermines public trust in research.",
+      "为政治目的歪曲科学数据会破坏公众对研究的信任。"
+    ]
+  },
+  {
+    "w": "distract",
+    "r": "dis-(分开,离开) + tract(拉,拖) -> 拉向别处 -> 使分心;转移"
+  },
+  {
+    "w": "distress",
+    "r": "di-(分开,加强) + stress(压,拉) -> 被压得很紧 -> 忧虑;悲伤;痛苦"
+  },
+  {
+    "w": "distribute",
+    "r": "dis-(分开) + tribute(给予,分配) -> 分开给予 -> 分发;分配",
+    "c": [
+      "Non-profit organizations distribute food and medical supplies to communities affected by poverty.",
+      "非营利组织向受贫困影响的社区分发食品和医疗物资。"
+    ]
+  },
+  {
+    "w": "distribution",
+    "r": "distribute(分配) + -ion(名词后缀) -> 分发;分布",
+    "c": [
+      "The unequal distribution of wealth remains one of the most pressing challenges of our time.",
+      "财富分配不均仍然是我们时代最紧迫的挑战之一。"
+    ]
+  },
+  {
+    "w": "district",
+    "r": "di-(分开) + strict(拉紧,约束) -> 被约束分开的区域 -> 地区;区域"
+  },
+  {
+    "w": "disturb",
+    "r": "dis-, di-(分开,打断) + turb(扰乱,搅动) -> 打扰;扰乱",
+    "c": [
+      "Construction noise during exam periods can disturb students' concentration and performance.",
+      "考试期间的施工噪音会干扰学生的注意力和表现。"
+    ]
+  },
+  {
+    "w": "disturbance",
+    "r": "disturb(扰乱) + -ance(名词后缀) -> 扰乱;骚乱"
+  },
+  {
+    "w": "ditch",
+    "r": "联想: ditch音似「低池」, 低的池子即沟渠 -> 沟渠;抛弃",
+    "c": [
+      "Many startups ditch traditional business models in favor of innovative subscription services.",
+      "许多初创公司摒弃传统商业模式,转而采用创新的订阅服务。"
+    ]
+  },
+  {
+    "w": "dive",
+    "r": "联想: dive音似「戴浮」, 戴浮潜设备潜水 -> 潜水;跳水",
+    "c": [
+      "Marine biologists dive to study coral reef ecosystems at depths of over thirty meters.",
+      "海洋生物学家潜水研究三十多米深处的珊瑚礁生态系统。"
+    ]
+  },
+  {
+    "w": "diverge",
+    "r": "di-(分开,二) + verge(转,倾斜) -> 向两个方向转 -> 分岔;分歧",
+    "c": [
+      "The two research projects diverge in their methodological approaches but share similar goals.",
+      "这两个研究项目在方法论上有所不同,但目标相似。"
+    ]
+  },
+  {
+    "w": "diverse",
+    "r": "di-(分开,多样) + verse(转) -> 转向不同方向的 -> 多种多样的"
+  },
+  {
+    "w": "diversion",
+    "r": "divers(不同的) + -ion(名词后缀) -> 转移;消遣",
+    "c": [
+      "The creation of urban parks provides a welcome diversion for residents in densely populated areas.",
+      "城市公园的建设为人口稠密地区的居民提供了受欢迎的休闲去处。"
+    ]
+  },
+  {
+    "w": "diversity",
+    "r": "di-(分开,多样) + vers(转) + -ity(名词后缀) -> 多样性;差异"
+  },
+  {
+    "w": "divert",
+    "r": "di-(分开,转向) + vert(转) -> 转向别处 -> 转移;使转向",
+    "c": [
+      "The government decided to divert funds from defense spending to education and healthcare.",
+      "政府决定将国防开支的资金转用于教育和医疗保健。"
+    ]
+  },
+  {
+    "w": "divide",
+    "r": "di-(分开,二) + vide(分开) -> 分开 -> 划分;分开"
+  },
+  {
+    "w": "dividend",
+    "r": "di-, di-(分开) + vidend(分开,分配) -> 被分配的东西 -> 股息;被除数"
+  },
+  {
+    "w": "divine",
+    "r": "di-(神,天) + vine(神的,预言的) -> 神圣的;绝妙的",
+    "c": [
+      "Ancient civilizations sought divine explanations for natural phenomena they could not understand.",
+      "古代文明为他们无法理解的自然现象寻求神圣的解释。"
+    ]
+  },
+  {
+    "w": "division",
+    "r": "di-(分开) + vision(看见,划分) -> 分开的部分 -> 分开;部门"
+  },
+  {
+    "w": "divorce",
+    "r": "di-, di-(分开,离开) + vorce(转,扭) -> 转身离开 -> 离婚;断绝关系",
+    "c": [
+      "The rising divorce rate reflects broader changes in social attitudes toward marriage and family.",
+      "不断上升的离婚率反映了社会对婚姻和家庭态度的更广泛变化。"
+    ]
+  },
+  {
+    "w": "dizzy",
+    "r": "联想: dizzy音似「低贼」, 蹲低的贼容易头晕 -> 晕眩的;困惑的",
+    "c": [
+      "Patients with inner ear infections often experience dizzy spells and balance problems.",
+      "内耳感染患者经常经历头晕和平衡问题。"
+    ]
+  }
+]

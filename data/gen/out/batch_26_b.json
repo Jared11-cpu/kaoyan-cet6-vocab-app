@@ -1,0 +1,655 @@
+[
+  {
+    "w": "resignation",
+    "r": "resign(辞职) + -ation(名词后缀) -> 辞职的状态；引申为顺从 -> 听从，屈从，顺从",
+    "c": [
+      "He accepted the failure with resignation and began planning his next attempt.",
+      "他顺从地接受了失败，并开始计划下一次尝试。"
+    ]
+  },
+  {
+    "w": "resilient",
+    "r": "re-(回) + sili(跳、弹) + -ent(形容词后缀) -> 能跳回来的 -> 有弹力的",
+    "c": [
+      "Children are often more resilient than adults when facing difficult situations.",
+      "儿童在面对困难情况时往往比成年人更有弹性。"
+    ]
+  },
+  {
+    "w": "resist",
+    "r": "re-(回、向后) + sist(站) -> 站回去 -> 抵挡、抵抗",
+    "c": [
+      "It is hard to resist the temptation of smartphones during study hours.",
+      "在学习时间很难抵抗智能手机的诱惑。"
+    ]
+  },
+  {
+    "w": "resistance",
+    "r": "re-(回) + sist(站) + -ance(名词后缀) -> 站回去的状态 -> 抵抗",
+    "c": null
+  },
+  {
+    "w": "resistant",
+    "r": "re-(回) + sist(站) + -ant(形容词后缀) -> 站回去的 -> 抵抗的",
+    "c": null
+  },
+  {
+    "w": "resolute",
+    "r": "re-(再、强调) + sol(松开、解开) + -ute(形容词后缀) -> 完全解开的坚定的 -> 坚决的",
+    "c": null
+  },
+  {
+    "w": "resolution",
+    "r": "re-(再、强调) + sol(松开、解开) + -ution(名词后缀) -> 完全解开 -> 解决方案、决心",
+    "c": null
+  },
+  {
+    "w": "resolve",
+    "r": "re-(再、强调) + solve(松开、解开) -> 完全解开 -> 解决、决定",
+    "c": [
+      "The committee worked overnight to resolve the conflict between the two departments.",
+      "委员会连夜工作以解决两个部门之间的冲突。"
+    ]
+  },
+  {
+    "w": "resort",
+    "r": "re-(回) + sort(出去、走出) -> 走出去求助 -> 度假村、被迫采取",
+    "c": null
+  },
+  {
+    "w": "resource",
+    "r": "re-(再、回) + source(升起、来源) -> 再次升起的来源 -> 资源",
+    "c": null
+  },
+  {
+    "w": "respect",
+    "r": "re-(再、回) + spect(看) -> 回头看(重视) -> 尊重",
+    "c": null
+  },
+  {
+    "w": "respectable",
+    "r": "respect(尊重) + -able(形容词后缀,值得…的) -> 值得尊重的 -> 可敬的；人格高尚的",
+    "c": [
+      "She comes from a respectable family of scholars and educators.",
+      "她出身于一个学者和教育家的可敬家庭。"
+    ]
+  },
+  {
+    "w": "respective",
+    "r": "re-(再、各) + spect(看) + -ive(形容词后缀) -> 各自看的 -> 各自的",
+    "c": null
+  },
+  {
+    "w": "respond",
+    "r": "re-(回) + spond(承诺、回答) -> 回答回来 -> 回答、响应",
+    "c": null
+  },
+  {
+    "w": "response",
+    "r": "re-(回) + spons(承诺、回答) + -e -> 回答 -> 回应",
+    "c": null
+  },
+  {
+    "w": "responsibility",
+    "r": "re-(回) + spons(承诺) + -ibility(名词后缀,表能力/责任) -> 承诺回应的义务 -> 责任",
+    "c": null
+  },
+  {
+    "w": "responsible",
+    "r": "re-(回) + spons(承诺) + -ible(形容词后缀,能…的) -> 能承诺回应的 -> 应负责的、可靠的",
+    "c": null
+  },
+  {
+    "w": "responsive",
+    "r": "re-(回) + spons(回答) + -ive(形容词后缀) -> 能回答的 -> 灵敏的，反应的",
+    "c": [
+      "The new website design is more responsive and loads faster on mobile devices.",
+      "新的网站设计反应更灵敏，在移动设备上加载更快。"
+    ]
+  },
+  {
+    "w": "rest",
+    "r": "词源: 来自古英语raest(休息、静止),与德语Rast同源 -> 休息",
+    "c": null
+  },
+  {
+    "w": "restaurant",
+    "r": "词源: 来自法语restaurant(恢复精力的食物),源自restaurer(恢复) -> 饭馆",
+    "c": [
+      "The new restaurant near the campus serves authentic Sichuan cuisine at affordable prices.",
+      "校园附近的新餐馆以实惠的价格供应正宗的川菜。"
+    ]
+  },
+  {
+    "w": "restless",
+    "r": "rest(休息) + -less(形容词后缀,无…的) -> 无法休息的 -> 不安宁的",
+    "c": null
+  },
+  {
+    "w": "restore",
+    "r": "re-(再、重新) + store(建立、放置) -> 重新建立 -> 恢复、归还",
+    "c": null
+  },
+  {
+    "w": "restrain",
+    "r": "re-(回、再) + strain(拉紧、束缚) -> 拉紧回来 -> 抑制",
+    "c": null
+  },
+  {
+    "w": "restraint",
+    "r": "re-(回) + straint(拉紧、束缚) -> 束缚的状态 -> 克制",
+    "c": [
+      "Emotional restraint is considered an important virtue in many traditional cultures.",
+      "在许多传统文化中，情感克制被视为一种重要的美德。"
+    ]
+  },
+  {
+    "w": "restrict",
+    "r": "re-(回、再) + strict(拉紧、严格) -> 拉紧限制 -> 限制",
+    "c": null
+  },
+  {
+    "w": "restructure",
+    "r": "re-(再、重新) + structure(结构) -> 重新构建结构 -> 调整，重建",
+    "c": [
+      "The company plans to restructure its management to improve operational efficiency.",
+      "公司计划调整管理结构以提高运营效率。"
+    ]
+  },
+  {
+    "w": "result",
+    "r": "re-(回) + sult(跳、跃) -> 跳回来(产生) -> 结果",
+    "c": null
+  },
+  {
+    "w": "resultant",
+    "r": "result(结果) + -ant(形容词/名词后缀) -> 作为结果的 -> 结果",
+    "c": [
+      "The resultant increase in enrollment put pressure on the university's housing facilities.",
+      "由此导致的入学人数增加给大学的住宿设施带来了压力。"
+    ]
+  },
+  {
+    "w": "resume",
+    "r": "re-(再、重新) + sume(拿、取) -> 重新拿起 -> 重新开始、恢复、简历",
+    "c": null
+  },
+  {
+    "w": "retail",
+    "r": "re-(再、反复) + tail(切、分) -> 切碎分卖 -> 零售",
+    "c": null
+  },
+  {
+    "w": "retailer",
+    "r": "retail(零售) + -er(名词后缀,人) -> 零售的人 -> 零售商",
+    "c": [
+      "Online retailers have significantly changed the way consumers shop in recent years.",
+      "近年来，在线零售商极大地改变了消费者的购物方式。"
+    ]
+  },
+  {
+    "w": "retain",
+    "r": "re-(回、再) + tain(拿、保持) -> 拿回来保持 -> 保留",
+    "c": null
+  },
+  {
+    "w": "retard",
+    "r": "re-(回、向后) + tard(慢、迟缓) -> 使向后慢 -> 阻碍；减缓；放慢",
+    "c": [
+      "Lack of proper nutrition can retard the physical and mental development of children.",
+      "缺乏适当的营养会阻碍儿童的身心发展。"
+    ]
+  },
+  {
+    "w": "retention",
+    "r": "re-(回) + tent(拿、保持) + -ion(名词后缀) -> 保持的状态 -> 保存、记忆力",
+    "c": null
+  },
+  {
+    "w": "retire",
+    "r": "re-(回、向后) + tire(拉、疲倦) -> 拉回来退下 -> 退休",
+    "c": null
+  },
+  {
+    "w": "retirement",
+    "r": "retire(退休) + -ment(名词后缀) -> 退休的状态 -> 退休，引退；退隐",
+    "c": [
+      "Many professors continue to conduct research even after their official retirement.",
+      "许多教授即使在正式退休后仍继续进行研究。"
+    ]
+  },
+  {
+    "w": "retort",
+    "r": "re-(回) + tort(扭、弯) -> 扭回去说 -> 反驳",
+    "c": [
+      "She retorted that the critic had not even read the book carefully.",
+      "她反驳说，这位评论家甚至没有仔细读过这本书。"
+    ]
+  },
+  {
+    "w": "retreat",
+    "r": "re-(回、向后) + treat(拉、处理) -> 向后拉 -> 撤退",
+    "c": [
+      "The army was forced to retreat after facing strong resistance from the enemy.",
+      "军队在遭遇敌人的顽强抵抗后被迫撤退。"
+    ]
+  },
+  {
+    "w": "retrieve",
+    "r": "re-(回、再) + trieve(找到、寻求) -> 找到拿回来 -> 取回、恢复",
+    "c": null
+  },
+  {
+    "w": "retrospect",
+    "r": "re-(回、向后) + tro(转) + spect(看) -> 向后看 -> 回顾",
+    "c": [
+      "In retrospect, the decision to pursue graduate studies was the turning point of his career.",
+      "回顾起来，读研究生的决定是他职业生涯的转折点。"
+    ]
+  },
+  {
+    "w": "return",
+    "r": "re-(回) + turn(转) -> 转回来 -> 回归、返回",
+    "c": null
+  },
+  {
+    "w": "reunion",
+    "r": "re-(再、重新) + union(联合、结合) -> 重新联合 -> 重聚，团聚；聚会，联谊活动",
+    "c": [
+      "The alumni reunion brought together graduates from different decades to share memories.",
+      "校友重聚将不同年代的毕业生聚集在一起分享回忆。"
+    ]
+  },
+  {
+    "w": "reveal",
+    "r": "re-(再、相反) + veal(面纱、遮盖) -> 揭开面纱 -> 显露、展现",
+    "c": null
+  },
+  {
+    "w": "revelation",
+    "r": "re-(相反) + vel(面纱) + -ation(名词后缀) -> 揭开面纱 -> 启示",
+    "c": [
+      "The scientist's discovery was a revelation that changed the entire field of physics.",
+      "这位科学家的发现是一个改变了整个物理学领域的启示。"
+    ]
+  },
+  {
+    "w": "revenge",
+    "r": "re-(再、回) + venge(惩罚、报仇,来自拉丁语vindicare) -> 回报惩罚 -> 报复",
+    "c": [
+      "The hero of the novel seeks revenge for the unjust death of his father.",
+      "小说的主角为父亲的不公之死寻求报复。"
+    ]
+  },
+  {
+    "w": "revenue",
+    "r": "re-(回) + ven(来) + -ue(名词后缀) -> 回来的东西 -> 财政收入",
+    "c": null
+  },
+  {
+    "w": "reverse",
+    "r": "re-(回、向后) + vers(转) + -e -> 向后转 -> 相反的、倒退的",
+    "c": null
+  },
+  {
+    "w": "review",
+    "r": "re-(再、回) + view(看) -> 再看一遍 -> 复习、回顾、评论",
+    "c": null
+  },
+  {
+    "w": "revise",
+    "r": "re-(再、重新) + vise(看) -> 再看一遍修改 -> 修改",
+    "c": null
+  },
+  {
+    "w": "revive",
+    "r": "re-(再、重新) + viv(生命、活) + -e -> 重新活过来 -> 复苏、唤醒",
+    "c": null
+  },
+  {
+    "w": "revolt",
+    "r": "re-(回、相反) + volt(转) -> 转过去反抗 -> 反抗",
+    "c": null
+  },
+  {
+    "w": "revolution",
+    "r": "re-(再、完全) + volut(转) + -ion(名词后缀) -> 完全转变 -> 革命、旋转",
+    "c": null
+  },
+  {
+    "w": "revolutionary",
+    "r": "revolution(革命) + -ary(形容词后缀) -> 革命的 -> 革命的",
+    "c": [
+      "The revolutionary invention of the internet transformed global communication forever.",
+      "互联网的革命性发明永远改变了全球通信。"
+    ]
+  },
+  {
+    "w": "revolutionize",
+    "r": "revolution(革命) + -ize(动词后缀,使…化) -> 使革命化 -> 革命化",
+    "c": [
+      "Artificial intelligence is expected to revolutionize many industries in the coming decade.",
+      "人工智能有望在未来十年使许多行业发生革命性变化。"
+    ]
+  },
+  {
+    "w": "revolve",
+    "r": "re-(再、反复) + volv(转) + -e -> 反复转动 -> 围绕",
+    "c": [
+      "The Earth revolves around the Sun once every 365.25 days.",
+      "地球每365.25天绕太阳转一圈。"
+    ]
+  },
+  {
+    "w": "reward",
+    "r": "re-(回) + ward(看守、关注) -> 回过来关注奖赏 -> 回报、报酬",
+    "c": null
+  },
+  {
+    "w": "rewarding",
+    "r": "reward(回报) + -ing(形容词后缀) -> 有回报的 -> 有意义的",
+    "c": [
+      "Volunteering at the community center is a rewarding experience for college students.",
+      "在社区中心做志愿者对大学生来说是一次有意义的经历。"
+    ]
+  },
+  {
+    "w": "rhetoric",
+    "r": "rhet(演说家、修辞) + -oric(名词后缀,表艺术) -> 演说的艺术 -> 修辞",
+    "c": [
+      "The course on political rhetoric analyzes how leaders use language to persuade audiences.",
+      "这门政治修辞课程分析领导人如何使用语言来说服听众。"
+    ]
+  },
+  {
+    "w": "rhetorical",
+    "r": "rhetoric(修辞) + -al(形容词后缀) -> 修辞的 -> 修辞的",
+    "c": [
+      "The professor asked a rhetorical question to stimulate thinking rather than get an answer.",
+      "教授提出了一个修辞性问题来激发思考，而不是寻求答案。"
+    ]
+  },
+  {
+    "w": "rhythm",
+    "r": "词源: 来自希腊语rhythmos(节奏、韵律),与rhein(流动)同源 -> 节奏、韵律",
+    "c": [
+      "The rhythm of city life can be overwhelming for students from rural areas at first.",
+      "城市生活的节奏一开始对来自农村的学生来说可能难以适应。"
+    ]
+  },
+  {
+    "w": "rib",
+    "r": "词源: 来自古英语ribb(肋骨),与德语Rippe同源 -> 肋骨",
+    "c": [
+      "The anatomy textbook shows how the rib cage protects the heart and lungs.",
+      "解剖学教科书展示了胸廓如何保护心脏和肺部。"
+    ]
+  },
+  {
+    "w": "ribbon",
+    "r": "词源: 来自古法语riban(丝带),可能与rippen(捆扎)有关 -> 缎带",
+    "c": [
+      "The graduation certificates were tied with red ribbons and distributed at the ceremony.",
+      "毕业证书用红丝带系着，在典礼上分发。"
+    ]
+  },
+  {
+    "w": "rice",
+    "r": "词源: 来自古法语ris,源自拉丁语oryza -> 稻、大米",
+    "c": [
+      "Rice is a staple food for more than half of the world's population.",
+      "大米是世界一半以上人口的主食。"
+    ]
+  },
+  {
+    "w": "rich",
+    "r": "词源: 来自古英语rice(强大的、富有的),与德语reich同源 -> 丰富的",
+    "c": null
+  },
+  {
+    "w": "rid",
+    "r": "词源: 来自古英语ryddan(清除、解放),与ready同源 -> 摆脱",
+    "c": [
+      "Students should try to rid themselves of bad study habits before the final exams.",
+      "学生们应该在期末考试前努力摆脱不好的学习习惯。"
+    ]
+  },
+  {
+    "w": "riddle",
+    "r": "词源: 来自古英语raedels(谜、建议),与read同源 -> 谜",
+    "c": [
+      "The professor used a famous riddle to introduce the topic of logical reasoning.",
+      "教授用一个著名的谜语来引入逻辑推理的话题。"
+    ]
+  },
+  {
+    "w": "ride",
+    "r": "词源: 来自古英语ridan(骑),与德语reiten同源 -> 骑",
+    "c": null
+  },
+  {
+    "w": "ridge",
+    "r": "词源: 来自古英语hrycg(脊、岭),与德语Rücken(背)同源 -> 脊",
+    "c": null
+  },
+  {
+    "w": "ridicule",
+    "r": "rid(笑、玩笑,来自拉丁语ridere) + -icule(指小/名词后缀) -> 嘲笑 -> 嘲弄，挖苦",
+    "c": [
+      "The speaker faced ridicule from the audience for making factually incorrect statements.",
+      "演讲者因为做出事实错误的陈述而遭到观众的嘲弄。"
+    ]
+  },
+  {
+    "w": "ridiculous",
+    "r": "rid(笑) + -icule + -ous(形容词后缀) -> 引人发笑的 -> 荒谬的",
+    "c": [
+      "The idea that students should never question their teachers is completely ridiculous.",
+      "学生永远不应该质疑老师的想法是完全荒谬的。"
+    ]
+  },
+  {
+    "w": "rifle",
+    "r": "词源: 来自古法语rifler(刮、抓),因枪膛内有来复线得名 -> 步枪",
+    "c": [
+      "The history museum displays antique rifles used in wars from different centuries.",
+      "历史博物馆展示了不同世纪战争中使用的古董步枪。"
+    ]
+  },
+  {
+    "w": "rig",
+    "r": "词源: 来自古挪威语rigga(捆绑、装备),原指船的索具装配 -> 操纵，垄断；装配；成套器械",
+    "c": [
+      "The engineers rigged a temporary solution to keep the experiment running overnight.",
+      "工程师们搭起了一个临时解决方案，让实验整夜运行。"
+    ]
+  },
+  {
+    "w": "right",
+    "r": "词源: 来自古英语riht(正确的、直的),与德语Recht同源 -> 正确的、权利",
+    "c": null
+  },
+  {
+    "w": "rigid",
+    "r": "rig(王、统治,来自拉丁语regere) + -id(形容词后缀) -> 像统治一样严格的 -> 严格的、僵硬的",
+    "c": [
+      "The rigid schedule of military training helps students develop self-discipline.",
+      "军事训练的严格时间表帮助学生培养自律。"
+    ]
+  },
+  {
+    "w": "rigor",
+    "r": "rig(王、统治) + -or(名词后缀) -> 统治的严格 -> 严格，严谨",
+    "c": null
+  },
+  {
+    "w": "rigorous",
+    "r": "rigor(严格) + -ous(形容词后缀) -> 严格的 -> 严格的",
+    "c": [
+      "The rigorous academic standards of the university ensure the quality of its graduates.",
+      "这所大学严格的学术标准确保了毕业生的质量。"
+    ]
+  },
+  {
+    "w": "rim",
+    "r": "词源: 来自古英语rima(边缘、边),与古挪威语rima同源 -> 边",
+    "c": [
+      "The students sat on the rim of the fountain, discussing their group project ideas.",
+      "学生们坐在喷泉边上，讨论他们的小组项目想法。"
+    ]
+  },
+  {
+    "w": "ring",
+    "r": "词源: 来自古英语hring(环),与德语Ring同源;动词义由敲钟发出响声而来 -> 响起",
+    "c": null
+  },
+  {
+    "w": "rinse",
+    "r": "词源: 来自古法语rincer(冲洗),可能与拉丁语recentia(新鲜)有关 -> 冲洗；嗽（口）",
+    "c": [
+      "After the chemistry experiment, students must rinse the glassware thoroughly before returning it.",
+      "化学实验结束后，学生必须彻底冲洗玻璃器皿后再归还。"
+    ]
+  },
+  {
+    "w": "riot",
+    "r": "词源: 来自古法语riote(争吵、骚乱),原义为放纵 -> 骚乱、暴乱",
+    "c": null
+  },
+  {
+    "w": "rip",
+    "r": "词源: 来自古英语ripan(撕裂),与荷兰语rippen同源 -> 撕裂、裂缝",
+    "c": null
+  },
+  {
+    "w": "ripe",
+    "r": "词源: 来自古英语ripe(成熟的),与德语reif同源 -> 熟的",
+    "c": [
+      "The timing is ripe for universities to reform their traditional teaching methods.",
+      "大学改革传统教学方法的时机已经成熟。"
+    ]
+  },
+  {
+    "w": "ripple",
+    "r": "rip(撕裂、撕开) + -le(指小后缀) -> 小的撕裂状波纹 -> 涟漪，细浪，波纹",
+    "c": [
+      "A gentle breeze created small ripples on the surface of the campus lake.",
+      "一阵微风在校园湖面上吹起了细小的涟漪。"
+    ]
+  },
+  {
+    "w": "rise",
+    "r": "词源: 来自古英语risan(上升),与德语reisen(旅行)同源 -> 上升",
+    "c": null
+  },
+  {
+    "w": "risk",
+    "r": "词源: 来自意大利语risco(危险),原义为在礁石中航行 -> 风险",
+    "c": null
+  },
+  {
+    "w": "ritual",
+    "r": "rit(仪式、惯例,来自拉丁语ritus) + -ual(形容词/名词后缀) -> 仪式的 -> 仪式",
+    "c": [
+      "The graduation ceremony includes many traditional rituals that symbolize academic achievement.",
+      "毕业典礼包含许多象征学术成就的传统仪式。"
+    ]
+  },
+  {
+    "w": "rival",
+    "r": "riv(河流、溪,来自拉丁语rivus) + -al(名词后缀) -> 同一条河的人(竞争者) -> 竞争",
+    "c": null
+  },
+  {
+    "w": "rivalry",
+    "r": "rival(竞争者) + -ry(名词后缀,表状态) -> 竞争的状态 -> 竞争，竞赛；对抗",
+    "c": [
+      "The friendly rivalry between the two universities motivates students to perform better.",
+      "两所大学之间的友好竞争激励学生表现更好。"
+    ]
+  },
+  {
+    "w": "river",
+    "r": "riv(河流) + -er(名词后缀) -> 河流 -> 河流",
+    "c": [
+      "The university was founded near a river that provided water and transportation.",
+      "这所大学建在一条提供水源和交通的河流附近。"
+    ]
+  },
+  {
+    "w": "road",
+    "r": "词源: 来自古英语rad(骑行、道路),与ride同源 -> 路",
+    "c": null
+  },
+  {
+    "w": "roam",
+    "r": "词源: 来自古英语ramian(漫游),与Rome有关(去罗马朝圣漫游) -> 在…漫步，漫游",
+    "c": [
+      "Students often roam around the bookstore on weekends, browsing new arrivals and classics.",
+      "学生们周末经常在书店里漫步，浏览新书和经典著作。"
+    ]
+  },
+  {
+    "w": "roar",
+    "r": "词源: 来自古英语rarian(吼叫),拟声词 -> 咆哮、轰鸣",
+    "c": [
+      "The roar of the crowd in the stadium could be heard from far away during the football match.",
+      "足球比赛期间，体育场里人群的轰鸣声从远处就能听到。"
+    ]
+  },
+  {
+    "w": "roast",
+    "r": "词源: 来自古法语rostir(烤),与德语rosten同源 -> 烤",
+    "c": [
+      "The smell of roasted coffee filled the air as students lined up at the campus cafe.",
+      "当学生们在校园咖啡馆排队时，烤咖啡的香味弥漫在空气中。"
+    ]
+  },
+  {
+    "w": "rob",
+    "r": "词源: 来自古法语rober(抢劫),与德语rauben同源 -> 抢劫",
+    "c": null
+  },
+  {
+    "w": "robbery",
+    "r": "rob(抢劫) + -b- + -ery(名词后缀,表行为) -> 抢劫的行为 -> 抢劫",
+    "c": [
+      "The recent increase in street robbery has prompted the university to improve campus security.",
+      "最近街头抢劫的增加促使大学改善了校园安全。"
+    ]
+  },
+  {
+    "w": "robe",
+    "r": "词源: 来自古法语robe(长袍、战利品),原义为长衣服 -> 长袍",
+    "c": [
+      "Graduates wear black robes and mortarboards during the commencement ceremony.",
+      "毕业生在毕业典礼上穿着黑色长袍和学士帽。"
+    ]
+  },
+  {
+    "w": "robot",
+    "r": "词源: 来自捷克语robota(强迫劳动、苦工),由卡雷尔·恰佩克的戏剧引入 -> 机器人",
+    "c": [
+      "The engineering department is developing robots that can assist with elderly care.",
+      "工程系正在开发可以协助照顾老人的机器人。"
+    ]
+  },
+  {
+    "w": "robust",
+    "r": "rob(橡树、力量,来自拉丁语robur) + -ust(形容词后缀) -> 像橡树一样强壮的 -> 强健的、粗野的",
+    "c": [
+      "A robust economic growth strategy requires investment in both education and infrastructure.",
+      "一个强健的经济增长战略需要对教育和基础设施的投资。"
+    ]
+  },
+  {
+    "w": "rock",
+    "r": "词源: 来自古英语rocc(石头),与古挪威语rokkr同源 -> 岩石、震动",
+    "c": null
+  },
+  {
+    "w": "rocket",
+    "r": "rock(纺锤、线轴,来自意大利语rocchetto) + -et(指小后缀) -> 小火药筒 -> 火箭",
+    "c": null
+  }
+]

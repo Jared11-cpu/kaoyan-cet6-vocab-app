@@ -1,0 +1,700 @@
+[
+  {
+    "w": "server",
+    "r": "serve(服务) + -r(名词后缀,表人/物) -> 提供服务的设备 -> 服务器",
+    "c": [
+      "The university installed a new server to handle the growing demand for online course materials.",
+      "该校安装了一台新服务器以应对日益增长的在线课程资料需求。"
+    ]
+  },
+  {
+    "w": "service",
+    "r": "serv(服务, 来自拉丁语servare) + -ice(名词后缀) -> 服务的行为 -> 服务、公共设施",
+    "c": null
+  },
+  {
+    "w": "session",
+    "r": "sess(坐, 来自拉丁语sedere) + -ion(名词后缀) -> 坐在一起的时段 -> 会议、阶段",
+    "c": [
+      "The academic committee will hold a special session to review the proposed curriculum changes.",
+      "学术委员会将召开特别会议审议拟议的课程改革方案。"
+    ]
+  },
+  {
+    "w": "set",
+    "r": "来自古英语settan(放置, 安置) -> 设定",
+    "c": null
+  },
+  {
+    "w": "setback",
+    "r": "复合: set(设置) + back(回) -> 把事物推回去 -> 挫折",
+    "c": null
+  },
+  {
+    "w": "setting",
+    "r": "set(设定) + -ting(名词后缀) -> 被设定的环境 -> 环境、背景",
+    "c": null
+  },
+  {
+    "w": "settle",
+    "r": "settl(坐, 安顿, 来自古英语setlan) + -e -> 坐下安顿下来 -> 解决、定居",
+    "c": [
+      "Many international students choose to settle in the city after completing their university degrees.",
+      "许多国际学生在完成大学学业后选择在这座城市定居。"
+    ]
+  },
+  {
+    "w": "settlement",
+    "r": "settle(定居/解决) + -ment(名词后缀,表行为或结果) -> 定居或解决的结果 -> 解决、移民地",
+    "c": [
+      "The historic settlement of the border dispute paved the way for greater regional cooperation.",
+      "边界争端的历史性解决为加强区域合作铺平了道路。"
+    ]
+  },
+  {
+    "w": "seven",
+    "r": "来自古英语seofon(七), 与德语sieben同源 -> 七",
+    "c": null
+  },
+  {
+    "w": "seventeen",
+    "r": "seven(七) + -teen(十) -> 七加十 -> 十七",
+    "c": [
+      "Seventeen students were selected to participate in the prestigious national research competition.",
+      "十七名学生被选中参加这项享有盛誉的全国科研竞赛。"
+    ]
+  },
+  {
+    "w": "seventy",
+    "r": "seven(七) + -ty(十) -> 七个十 -> 七十",
+    "c": [
+      "The university library houses over seventy thousand volumes covering a wide range of disciplines.",
+      "该校图书馆藏书超过七万册,涵盖广泛的学科领域。"
+    ]
+  },
+  {
+    "w": "several",
+    "r": "sever(分开, 来自拉丁语separare) + -al(形容词后缀) -> 分开的若干个 -> 几个",
+    "c": [
+      "Several research papers on artificial intelligence have been published by the department this year.",
+      "该系今年已发表了数篇关于人工智能的研究论文。"
+    ]
+  },
+  {
+    "w": "severe",
+    "r": "来自拉丁语severus(严肃的, 严厉的) -> 严重的",
+    "c": null
+  },
+  {
+    "w": "severity",
+    "r": "sever(e)(严重的) + -ity(名词后缀,表性质) -> 严重的性质 -> 严重性",
+    "c": [
+      "Doctors assess the severity of the patient's condition before determining the appropriate treatment.",
+      "医生在确定适当治疗方案前会评估患者病情的严重性。"
+    ]
+  },
+  {
+    "w": "sew",
+    "r": "来自古英语siowan(缝合) -> 缝",
+    "c": [
+      "She learned to sew her own clothes as a way to reduce waste and express personal style.",
+      "她学会了自己缝制衣服,以此减少浪费并展现个人风格。"
+    ]
+  },
+  {
+    "w": "sex",
+    "r": "来自拉丁语sexus(性别, 划分) -> 性",
+    "c": [
+      "The study examines how sex and gender influence career choices in the technology industry.",
+      "这项研究考察了生理性别和社会性别如何影响科技行业的职业选择。"
+    ]
+  },
+  {
+    "w": "sexism",
+    "r": "sex(性别) + -ism(主义/歧视) -> 基于性别的歧视 -> 性别歧视",
+    "c": [
+      "Many companies have adopted policies to combat sexism and promote gender equality in the workplace.",
+      "许多公司已采取政策打击性别歧视,促进工作场所的性别平等。"
+    ]
+  },
+  {
+    "w": "shabby",
+    "r": "来自古英语sceabb(疥癣), 引申为破旧褴褛的 -> 破旧的",
+    "c": null
+  },
+  {
+    "w": "shade",
+    "r": "来自古英语sceadu(阴影, 遮蔽) -> 阴影",
+    "c": [
+      "Students often sit under the shade of the ancient oak tree between classes to relax and chat.",
+      "课间学生们常坐在古老橡树的树荫下放松和聊天。"
+    ]
+  },
+  {
+    "w": "shadow",
+    "r": "来自古英语sceadu(阴影) + -ow(名词后缀) -> 阴影",
+    "c": null
+  },
+  {
+    "w": "shadowy",
+    "r": "shadow(阴影) + -y(形容词后缀,有…特征的) -> 有阴影的 -> 有影的；幽暗的",
+    "c": [
+      "The shadowy corridor of the old library made some students feel uneasy after sunset.",
+      "日落之后,老图书馆幽暗的走廊让一些学生感到不安。"
+    ]
+  },
+  {
+    "w": "shady",
+    "r": "shade(阴影) + -y(形容词后缀,充满…的) -> 躲在阴影里的 -> 可疑的，靠不住的",
+    "c": [
+      "The university warned students about shady scholarship schemes that require upfront fees.",
+      "学校警告学生警惕那些需要预付费用的可疑奖学金骗局。"
+    ]
+  },
+  {
+    "w": "shaft",
+    "r": "来自古英语sceaft(杆, 柄, 轴) -> 轴",
+    "c": [
+      "The engineering students studied how the rotating shaft transfers power through the gear system.",
+      "工程学学生研究了旋转轴如何通过齿轮系统传递动力。"
+    ]
+  },
+  {
+    "w": "shake",
+    "r": "来自古英语sceacan(摇动) -> 摇",
+    "c": null
+  },
+  {
+    "w": "shall",
+    "r": "来自古英语sceal(应该, 必须, 将要) -> 将要",
+    "c": [
+      "We shall present our research findings at the international conference next month in Beijing.",
+      "我们将在下个月于北京举行的国际会议上展示我们的研究成果。"
+    ]
+  },
+  {
+    "w": "shallow",
+    "r": "来自古英语sceald(浅的) -> 浅的",
+    "c": null
+  },
+  {
+    "w": "sham",
+    "r": "来自古英语sceam(羞耻, 欺骗) -> 假冒、假装",
+    "c": [
+      "The academic journal retracted the paper after discovering that its data was a complete sham.",
+      "在发现数据完全造假后,该学术期刊撤回了这篇论文。"
+    ]
+  },
+  {
+    "w": "shame",
+    "r": "来自古英语sceamu(羞耻, 羞愧) -> 羞愧",
+    "c": null
+  },
+  {
+    "w": "shameful",
+    "r": "shame(羞愧) + -ful(形容词后缀,充满…的) -> 充满羞愧的 -> 可耻的；不道德的",
+    "c": [
+      "Plagiarism is considered a shameful violation of academic integrity in universities worldwide.",
+      "在全球各大学中,抄袭被视为违反学术诚信的可耻行为。"
+    ]
+  },
+  {
+    "w": "shampoo",
+    "r": "来自印地语champo(按摩, 洗头), 源自梵语champayati -> 洗头",
+    "c": [
+      "Many students prefer natural shampoo products that are free from harsh chemical additives.",
+      "许多学生偏爱不含刺激性化学添加剂的天然洗发水产品。"
+    ]
+  },
+  {
+    "w": "shape",
+    "r": "来自古英语sceap(形状, 创造物) -> 形状",
+    "c": null
+  },
+  {
+    "w": "share",
+    "r": "来自古英语scearu(一份, 分割) -> 分享",
+    "c": null
+  },
+  {
+    "w": "shareholder",
+    "r": "复合: share(股份) + holder(持有者) -> 持有股份的人 -> 股东",
+    "c": [
+      "At the annual meeting, shareholders voted on the proposed merger with the rival company.",
+      "在年度会议上,股东们就与竞争对手公司合并的提案进行了投票。"
+    ]
+  },
+  {
+    "w": "shark",
+    "r": "来自加勒比语xoc(鲨鱼), 经由西班牙语进入英语 -> 鲨鱼",
+    "c": [
+      "Marine biologists are studying how shark populations respond to changes in ocean temperature.",
+      "海洋生物学家正在研究鲨鱼种群如何应对海洋温度的变化。"
+    ]
+  },
+  {
+    "w": "sharp",
+    "r": "来自古英语scearp(尖的, 锋利的) -> 尖的、清晰的",
+    "c": null
+  },
+  {
+    "w": "sharply",
+    "r": "sharp(尖的/严厉的) + -ly(副词后缀) -> 严厉地，苛刻地",
+    "c": [
+      "The price of textbooks has risen sharply over the past decade, burdening many students.",
+      "过去十年间教科书价格大幅上涨,给许多学生造成了经济负担。"
+    ]
+  },
+  {
+    "w": "shatter",
+    "r": "来自古英语sceaterian(破碎, 碎裂) -> 粉碎",
+    "c": null
+  },
+  {
+    "w": "shave",
+    "r": "来自古英语sceafan(刮, 剃, 削) -> 刮、剃",
+    "c": null
+  },
+  {
+    "w": "she",
+    "r": "来自古英语heo(她), 中古英语演变为she -> 她",
+    "c": [
+      "She received a full scholarship to pursue her doctoral degree in environmental science.",
+      "她获得了全额奖学金攻读环境科学博士学位。"
+    ]
+  },
+  {
+    "w": "shear",
+    "r": "来自古英语scieran(剪, 切) -> 剪",
+    "c": [
+      "The agricultural students learned how to shear sheep during their practical training on the farm.",
+      "农业专业的学生在农场实习期间学会了如何剪羊毛。"
+    ]
+  },
+  {
+    "w": "shed",
+    "r": "来自古英语shedan(分开, 脱落) -> 脱去、棚",
+    "c": null
+  },
+  {
+    "w": "sheep",
+    "r": "来自古英语sceap(羊) -> 羊",
+    "c": null
+  },
+  {
+    "w": "sheer",
+    "r": "来自古英语scir(明亮的, 纯净的) -> 纯然的、陡峭的",
+    "c": [
+      "The sheer volume of research papers makes it difficult for scholars to keep up with new findings.",
+      "论文数量之多让学者们难以跟上新的研究发现。"
+    ]
+  },
+  {
+    "w": "sheet",
+    "r": "来自古英语scete(布, 床单) -> 被单、（一）张、纸",
+    "c": null
+  },
+  {
+    "w": "shelf",
+    "r": "来自古英语scylf(架子, 架板) -> 架子",
+    "c": null
+  },
+  {
+    "w": "shell",
+    "r": "来自古英语scell(壳, 贝壳) -> 壳",
+    "c": null
+  },
+  {
+    "w": "shelter",
+    "r": "来自古英语scield(盾牌, 保护) + -er(名词后缀) -> 提供保护的地方 -> 庇护所",
+    "c": [
+      "The university provides temporary shelter for students affected by natural disasters.",
+      "大学为受自然灾害影响的学生提供临时住所。"
+    ]
+  },
+  {
+    "w": "shepherd",
+    "r": "复合: sheep(羊) + herd(牧人, 看管) -> 看管羊的人 -> 牧羊人、牧羊",
+    "c": [
+      "The shepherd guided his flock of sheep across the green meadow at dawn each morning.",
+      "每天黎明时分,牧羊人带领他的羊群穿过翠绿的草地。"
+    ]
+  },
+  {
+    "w": "sheriff",
+    "r": "复合: shire(郡) + reeve(长官) -> 郡的长官 -> 郡长",
+    "c": [
+      "The sheriff's department launched a community outreach program to improve relations with local residents.",
+      "郡长办公室发起了一项社区外展计划以改善与当地居民的关系。"
+    ]
+  },
+  {
+    "w": "shield",
+    "r": "来自古英语scield(盾, 保护物) -> 盾",
+    "c": null
+  },
+  {
+    "w": "shift",
+    "r": "来自古英语sciftan(划分, 改变) -> 转移、转换",
+    "c": [
+      "The shift towards online learning has transformed traditional classroom education significantly.",
+      "向在线学习的转变已显著改变了传统的课堂教育模式。"
+    ]
+  },
+  {
+    "w": "shine",
+    "r": "来自古英语scinan(发光, 照耀) -> 闪耀、照耀",
+    "c": [
+      "Students who consistently work hard tend to shine in their chosen academic fields.",
+      "一贯努力学习的学生往往会在他们所选的学术领域中脱颖而出。"
+    ]
+  },
+  {
+    "w": "ship",
+    "r": "来自古英语scip(船) -> 船舶、装运",
+    "c": [
+      "The university library arranged to ship the rare manuscripts to a climate-controlled storage facility.",
+      "大学图书馆安排将稀有手稿运往一个恒温恒湿的存储设施。"
+    ]
+  },
+  {
+    "w": "shipbuilding",
+    "r": "复合: ship(船) + building(建造) -> 建造船舶的行业 -> 造船（业），造船学",
+    "c": [
+      "The engineering college offers a specialized program in naval architecture and shipbuilding.",
+      "该工程学院开设了船舶工程与造船学的专业课程。"
+    ]
+  },
+  {
+    "w": "shipment",
+    "r": "ship(装运) + -ment(名词后缀,表行为或结果) -> 装运的货物 -> 装运、货物",
+    "c": [
+      "The laboratory received a shipment of new equipment for conducting advanced physics experiments.",
+      "实验室收到了一批用于开展高级物理实验的新设备。"
+    ]
+  },
+  {
+    "w": "shipwreck",
+    "r": "复合: ship(船) + wreck(失事, 残骸) -> 船舶失事 -> 船舶失事",
+    "c": [
+      "Marine archaeologists discovered an ancient shipwreck at the bottom of the Mediterranean Sea.",
+      "海洋考古学家在地中海底部发现了一艘古代沉船。"
+    ]
+  },
+  {
+    "w": "shirt",
+    "r": "来自古英语scyrte(衬衫, 短上衣) -> 衬衫",
+    "c": [
+      "He ironed his dress shirt carefully before attending the formal academic award ceremony.",
+      "在参加正式学术颁奖典礼之前,他仔细熨烫了他的正装衬衫。"
+    ]
+  },
+  {
+    "w": "shiver",
+    "r": "来自古英语scifa(颤抖, 发抖) -> 发抖、哆嗦",
+    "c": [
+      "Students waiting outside the examination hall began to shiver in the cold morning air.",
+      "在考场外等候的学生们在清晨的冷空气中开始瑟瑟发抖。"
+    ]
+  },
+  {
+    "w": "shock",
+    "r": "来自法语choc(冲击, 碰撞) -> 震惊",
+    "c": [
+      "The sudden closure of the department came as a shock to both faculty members and students.",
+      "该系的突然关闭对教职员工和学生来说都是一个震惊。"
+    ]
+  },
+  {
+    "w": "shoe",
+    "r": "来自古英语scoh(鞋) -> 鞋子",
+    "c": null
+  },
+  {
+    "w": "shoot",
+    "r": "来自古英语sceotan(射击, 射出) -> 射击",
+    "c": [
+      "The film students decided to shoot their final project on location in the historic district.",
+      "电影专业的学生决定在历史街区实地拍摄他们的毕业作品。"
+    ]
+  },
+  {
+    "w": "shop",
+    "r": "来自古英语scoppa(棚, 店铺) -> 购物",
+    "c": null
+  },
+  {
+    "w": "shore",
+    "r": "来自古英语scora(岸, 海岸) -> 岸上",
+    "c": [
+      "Environmental scientists monitor water quality along the shore to protect marine ecosystems.",
+      "环境科学家监测沿岸水质以保护海洋生态系统。"
+    ]
+  },
+  {
+    "w": "short",
+    "r": "来自古英语sceort(短的) -> 短",
+    "c": null
+  },
+  {
+    "w": "shortage",
+    "r": "short(短的) + -age(名词后缀,表状态) -> 短缺的状态 -> 不足",
+    "c": [
+      "Many rural areas face a serious shortage of qualified teachers in science and mathematics.",
+      "许多农村地区面临着科学和数学学科合格教师严重短缺的问题。"
+    ]
+  },
+  {
+    "w": "shortcoming",
+    "r": "复合: short(短) + coming(来, 达到) -> 达不到标准的地方 -> 缺点",
+    "c": [
+      "Every research method has its shortcomings, and scholars must acknowledge these limitations.",
+      "每种研究方法都有其缺点,学者必须承认这些局限性。"
+    ]
+  },
+  {
+    "w": "shortcut",
+    "r": "复合: short(短的) + cut(切) -> 切短的路 -> 近路；捷径",
+    "c": [
+      "There is no shortcut to academic success; consistent effort and curiosity are essential.",
+      "学术成功没有捷径,持之以恒的努力和好奇心是必不可少的。"
+    ]
+  },
+  {
+    "w": "shorten",
+    "r": "short(短) + -en(动词后缀,使…) -> 使变短 -> 弄短，缩小，减少",
+    "c": [
+      "The professor decided to shorten the assignment deadline due to unexpected campus events.",
+      "由于校园突发活动,教授决定缩短作业的截止期限。"
+    ]
+  },
+  {
+    "w": "shorthand",
+    "r": "复合: short(短) + hand(手写) -> 简短的写法 -> 速记",
+    "c": [
+      "Before digital recording became common, journalists used shorthand to take notes during interviews.",
+      "在数字录音普及之前,记者使用速记在采访中做笔记。"
+    ]
+  },
+  {
+    "w": "shot",
+    "r": "shoot(射击/拍摄)的过去式/过去分词作名词 -> 开枪、发射、拍摄",
+    "c": [
+      "The photography student captured stunning landscape shots during her field trip to the mountains.",
+      "摄影专业的学生在山区实地考察期间拍摄了令人惊叹的风景照片。"
+    ]
+  },
+  {
+    "w": "should",
+    "r": "来自shall的过去式, 引申为应该 -> 应该",
+    "c": [
+      "University students should develop critical thinking skills alongside their subject knowledge.",
+      "大学生在学习专业知识的同时还应培养批判性思维能力。"
+    ]
+  },
+  {
+    "w": "shoulder",
+    "r": "来自古英语sculdor(肩膀) -> 肩膀",
+    "c": null
+  },
+  {
+    "w": "shout",
+    "r": "来自古英语scutan(呼喊, 大叫) -> 喊叫",
+    "c": null
+  },
+  {
+    "w": "shove",
+    "r": "来自古英语scufan(推, 推挤) -> 推",
+    "c": [
+      "During the crowded orientation event, students had to shove gently to move through the hall.",
+      "在拥挤的迎新活动中,学生们不得不轻轻挤着才能穿过大厅。"
+    ]
+  },
+  {
+    "w": "shovel",
+    "r": "shove(推) + -el(名词后缀,表工具) -> 推土的工具 -> 铲",
+    "c": [
+      "Volunteers used shovels to clear the snow from the campus pathways after the winter storm.",
+      "冬季暴风雪后,志愿者们用铲子清理校园小路上的积雪。"
+    ]
+  },
+  {
+    "w": "show",
+    "r": "来自古英语sceawian(看, 展示) -> 展示、展现",
+    "c": null
+  },
+  {
+    "w": "shower",
+    "r": "来自古英语scur(阵雨) -> 淋浴",
+    "c": [
+      "Many students take a morning shower to help them stay alert during early classes.",
+      "许多学生早上洗澡以帮助自己在早课上保持清醒。"
+    ]
+  },
+  {
+    "w": "shrank",
+    "r": "shrink(收缩)的过去式 -> 收缩",
+    "c": [
+      "The university's budget shrank significantly after the government reduced funding for higher education.",
+      "在政府削减高等教育经费后,该大学的预算大幅缩减。"
+    ]
+  },
+  {
+    "w": "shrewd",
+    "r": "来自古英语screawa(精明的, 狡猾的) -> 精明的",
+    "c": null
+  },
+  {
+    "w": "shrill",
+    "r": "来自古英语scrill(尖声的, 刺耳的) -> 尖声的",
+    "c": [
+      "The shrill sound of the fire alarm startled students who were studying in the library.",
+      "火警尖锐的声音吓了正在图书馆学习的学生们一跳。"
+    ]
+  },
+  {
+    "w": "shrimp",
+    "r": "来自古英语scrimpe(皱缩的, 小的), 指小而皱的水生动物 -> 虾",
+    "c": [
+      "Shrimp farming has become an important economic activity in many coastal regions worldwide.",
+      "虾类养殖已成为全球许多沿海地区重要的经济活动。"
+    ]
+  },
+  {
+    "w": "shrine",
+    "r": "来自古英语scrin(圣物箱, 神龛) -> 神殿，神龛，圣祠",
+    "c": [
+      "The ancient shrine at the top of the mountain attracts thousands of pilgrims every year.",
+      "山顶的古老神殿每年吸引成千上万的朝圣者。"
+    ]
+  },
+  {
+    "w": "shrink",
+    "r": "来自古英语scrincan(收缩, 皱缩) -> 起皱、减少",
+    "c": null
+  },
+  {
+    "w": "shrub",
+    "r": "来自古英语scrubb(灌木, 矮树) -> 灌木",
+    "c": [
+      "The campus gardeners planted various flowering shrubs along the walkway to enhance the scenery.",
+      "校园园丁沿着人行道种植了各种开花灌木以美化景观。"
+    ]
+  },
+  {
+    "w": "shrug",
+    "r": "来自古英语scrugg(耸肩, 表示不知道) -> 耸肩",
+    "c": [
+      "When asked about the exam results, the professor just gave a shrug and walked away.",
+      "当被问及考试结果时,教授只是耸了耸肩就走开了。"
+    ]
+  },
+  {
+    "w": "shut",
+    "r": "来自古英语scyttan(关, 闭) -> 关上",
+    "c": null
+  },
+  {
+    "w": "shutter",
+    "r": "shut(关) + -ter(名词后缀,表物) -> 用来关闭的东西 -> 快门",
+    "c": [
+      "The photography instructor explained how adjusting the shutter speed affects the final image.",
+      "摄影课老师讲解了调整快门速度如何影响最终的图像效果。"
+    ]
+  },
+  {
+    "w": "shuttle",
+    "r": "来自古英语scytel(梭子), 因来回穿梭得名 -> 航天飞机",
+    "c": [
+      "A free shuttle bus runs between the main campus and the medical school every thirty minutes.",
+      "一辆免费穿梭巴士每三十分钟在主校区和医学院之间运行一班。"
+    ]
+  },
+  {
+    "w": "shy",
+    "r": "来自古英语sceoh(害羞的, 胆怯的) -> 害羞地",
+    "c": [
+      "Shy students often find it difficult to participate actively in group discussions during seminars.",
+      "害羞的学生往往发现自己难以在研讨会中积极参与小组讨论。"
+    ]
+  },
+  {
+    "w": "sibling",
+    "r": "sib(亲属, 来自古英语sibb) + -ling(指人后缀) -> 有亲属关系的人 -> 兄弟姐妹",
+    "c": [
+      "The psychological study explored how sibling relationships influence personality development.",
+      "这项心理学研究探讨了兄弟姐妹关系如何影响人格发展。"
+    ]
+  },
+  {
+    "w": "sick",
+    "r": "来自古英语seoc(生病的) -> 生病的",
+    "c": [
+      "Students who feel sick should visit the campus health center rather than attending classes.",
+      "感到不适的学生应该去校园医疗中心就诊,而不是坚持上课。"
+    ]
+  },
+  {
+    "w": "side",
+    "r": "来自古英语sid(边, 侧) -> 一边",
+    "c": null
+  },
+  {
+    "w": "sideways",
+    "r": "side(边) + ways(方式, 方向) -> 向一边的方式 -> 侧身地、斜向一边的",
+    "c": [
+      "The narrow corridor forced students to walk sideways when passing each other between classes.",
+      "狭窄的走廊迫使学生们在课间擦肩而过时侧身行走。"
+    ]
+  },
+  {
+    "w": "siege",
+    "r": "来自古法语siege(包围, 围坐), 源自拉丁语sedere(坐) -> 围攻",
+    "c": [
+      "The history professor explained how the prolonged siege changed the course of the medieval war.",
+      "历史教授解释了这次长期围困如何改变了中世纪战争的进程。"
+    ]
+  },
+  {
+    "w": "sieve",
+    "r": "来自古英语sife(筛子) -> 筛子，漏勺",
+    "c": [
+      "In the chemistry lab, students used a fine sieve to separate solid particles from the solution.",
+      "在化学实验室里,学生们用细筛子将固体颗粒从溶液中分离出来。"
+    ]
+  },
+  {
+    "w": "sift",
+    "r": "来自古英语siftan(筛, 过滤) -> 筛，过滤",
+    "c": [
+      "Researchers must sift through large amounts of data to identify meaningful patterns and trends.",
+      "研究人员必须筛选大量数据才能找出有意义的模式和趋势。"
+    ]
+  },
+  {
+    "w": "sigh",
+    "r": "来自古英语sican(叹息) -> 叹息",
+    "c": [
+      "When the exam results were posted, many students let out a sigh of relief.",
+      "考试成绩公布时,许多学生松了一口气。"
+    ]
+  },
+  {
+    "w": "sight",
+    "r": "来自古英语siht(视力, 景象) -> 视野、景象",
+    "c": null
+  },
+  {
+    "w": "sightseeing",
+    "r": "复合: sight(景象) + seeing(看) -> 观看景象 -> 游览",
+    "c": [
+      "During the spring break, many international students went sightseeing in nearby historical cities.",
+      "春假期间,许多国际学生去附近的历史名城游览观光。"
+    ]
+  },
+  {
+    "w": "sign",
+    "r": "来自拉丁语signum(标记, 符号) -> 标牌",
+    "c": null
+  }
+]

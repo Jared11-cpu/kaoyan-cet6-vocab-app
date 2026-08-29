@@ -1,0 +1,697 @@
+[
+  {
+    "w": "preceding",
+    "r": "pre-(在前) + ced(走, 来自拉丁语cedere) + -ing(形容词后缀) -> 走在前面的 -> 在前的",
+    "c": [
+      "The preceding chapter laid the theoretical foundation for the current research discussion.",
+      "前一章为当前的研究讨论奠定了理论基础。"
+    ]
+  },
+  {
+    "w": "precious",
+    "r": "preci(价值, 价格, 来自拉丁语pretium) + -ous(形容词后缀, 充满…的) -> 充满价值的 -> 宝贵的",
+    "c": [
+      "Ancient manuscripts are precious resources for scholars studying medieval history and culture.",
+      "古代手稿是研究中世纪历史和文化的学者们的宝贵资源。"
+    ]
+  },
+  {
+    "w": "precipitate",
+    "r": "pre-(向前) + cipit(头, 来自拉丁语caput) + -ate(动词后缀) -> 头向前冲 -> 使突然发生；猛然抛下；使沉淀",
+    "c": [
+      "The sudden policy change could precipitate a financial crisis in the emerging market economy.",
+      "政策的突然变化可能会在新兴市场经济体中引发金融危机。"
+    ]
+  },
+  {
+    "w": "precise",
+    "r": "pre-(完全) + cis(切, 来自拉丁语caedere) + -e -> 完全切分清楚的 -> 精确的",
+    "c": null
+  },
+  {
+    "w": "precision",
+    "r": "pre-(完全) + cis(切) + -ion(名词后缀) -> 完全切分清楚的性质 -> 精确",
+    "c": null
+  },
+  {
+    "w": "preclude",
+    "r": "pre-(在前) + clud(关, 关闭, 来自拉丁语claudere) + -e -> 提前关闭门路 -> 阻止",
+    "c": [
+      "Strict visa requirements may preclude many international students from studying abroad.",
+      "严格的签证要求可能会阻止许多国际学生出国留学。"
+    ]
+  },
+  {
+    "w": "predator",
+    "r": "pre-(之前) + dat(抢夺, 来自拉丁语praedari) + -or(人/物) -> 掠夺者 -> 食肉动物",
+    "c": [
+      "The apex predator plays a crucial role in maintaining the balance of the entire ecosystem.",
+      "顶级捕食者在维持整个生态系统平衡方面发挥着关键作用。"
+    ]
+  },
+  {
+    "w": "predecessor",
+    "r": "pre-(在前) + de-(向下) + cess(走, 来自拉丁语cedere) + -or(人) -> 走在前面的人 -> 前任",
+    "c": null
+  },
+  {
+    "w": "predestine",
+    "r": "pre-(预先) + de-(完全) + stin(站立, 来自拉丁语stare) + -e -> 预先站定 -> 预先确定；注定",
+    "c": [
+      "Philosophers have long debated whether human fate is predestined or shaped by free will.",
+      "哲学家长期以来一直在争论人类命运是注定的还是由自由意志塑造的。"
+    ]
+  },
+  {
+    "w": "predict",
+    "r": "pre-(预先) + dict(说, 来自拉丁语dicere) -> 预先说 -> 预测",
+    "c": [
+      "Researchers use sophisticated models to predict the economic impact of climate change policies.",
+      "研究人员使用复杂模型来预测气候变化政策的经济影响。"
+    ]
+  },
+  {
+    "w": "prediction",
+    "r": "pre-(预先) + dict(说) + -ion(名词后缀) -> 预先说出的内容 -> 预言，预告；预报",
+    "c": null
+  },
+  {
+    "w": "predominant",
+    "r": "pre-(在前) + domin(统治, 主人, 来自拉丁语dominus) + -ant(形容词后缀) -> 统治在前的 -> 主要的",
+    "c": [
+      "English has become the predominant language in international academic research and communication.",
+      "英语已成为国际学术研究和交流中的主要语言。"
+    ]
+  },
+  {
+    "w": "predominantly",
+    "r": "pre-(在前) + domin(统治) + -ant(形容词后缀) + -ly(副词后缀) -> 占主导地位地",
+    "c": [
+      "The university's student body is predominantly composed of students from Asian countries.",
+      "该大学的学生群体主要由来自亚洲国家的学生组成。"
+    ]
+  },
+  {
+    "w": "preface",
+    "r": "pre-(在前) + face(面, 来自拉丁语facies) -> 前面的话 -> 前言",
+    "c": [
+      "The author wrote a detailed preface explaining the historical background of her research.",
+      "作者写了详细的前言，解释了她研究的历史背景。"
+    ]
+  },
+  {
+    "w": "prefer",
+    "r": "pre-(在前) + fer(带来, 拿, 来自拉丁语ferre) -> 拿到前面来 -> 偏好",
+    "c": null
+  },
+  {
+    "w": "preferable",
+    "r": "prefer(偏好) + -able(形容词后缀, 能…的) -> 更值得偏好的 -> 更好的",
+    "c": [
+      "For most students, a balanced approach to study is preferable to cramming before exams.",
+      "对大多数学生来说，平衡的学习方式比考前突击更好。"
+    ]
+  },
+  {
+    "w": "preference",
+    "r": "prefer(偏好) + -ence(名词后缀) -> 偏好的性质/事物 -> 偏爱",
+    "c": null
+  },
+  {
+    "w": "pregnancy",
+    "r": "pregn(怀孕, 来自拉丁语praegnans) + -ancy(名词后缀, 表状态) -> 怀孕的状态 -> 怀孕",
+    "c": [
+      "Adequate nutrition during pregnancy is essential for the healthy development of the fetus.",
+      "怀孕期间充足的营养对胎儿的健康发育至关重要。"
+    ]
+  },
+  {
+    "w": "pregnant",
+    "r": "pregn(怀孕, 来自拉丁语praegnans) + -ant(形容词后缀) -> 怀孕的",
+    "c": [
+      "Pregnant women are advised to maintain a balanced diet and get regular prenatal checkups.",
+      "建议孕妇保持均衡饮食并定期进行产前检查。"
+    ]
+  },
+  {
+    "w": "preindustrial",
+    "r": "pre-(在…之前) + industrial(工业的) -> 工业化以前的",
+    "c": [
+      "Life expectancy in preindustrial societies was much lower than in modern developed nations.",
+      "工业化以前社会的预期寿命远低于现代发达国家。"
+    ]
+  },
+  {
+    "w": "prejudice",
+    "r": "pre-(预先) + jud(判断, 来自拉丁语judicare) + -ice(名词后缀) -> 预先做出的判断 -> 偏见、损害",
+    "c": [
+      "The study examined how unconscious prejudice influences hiring decisions in tech companies.",
+      "这项研究探讨了无意识偏见如何影响科技公司的招聘决策。"
+    ]
+  },
+  {
+    "w": "preliminary",
+    "r": "pre-(在前) + limin(门槛, 开始, 来自拉丁语limen) + -ary(形容词后缀) -> 进入门槛之前的 -> 初步的",
+    "c": [
+      "The research team published preliminary findings before conducting the full-scale experiment.",
+      "研究小组在进行全面实验之前发表了初步发现。"
+    ]
+  },
+  {
+    "w": "premature",
+    "r": "pre-(在…之前) + matur(成熟, 来自拉丁语maturus) + -e -> 成熟之前的 -> 比预期时间早的；不成熟的，仓促的",
+    "c": [
+      "A premature conclusion about the experiment would ignore crucial data still being analyzed.",
+      "对实验过早下结论会忽略仍在分析中的关键数据。"
+    ]
+  },
+  {
+    "w": "prematurely",
+    "r": "pre-(在…之前) + matur(成熟) + -e + -ly(副词后缀) -> 早熟地，过早地",
+    "c": [
+      "Many software projects fail because they are prematurely released without thorough testing.",
+      "许多软件项目之所以失败，是因为它们未经充分测试就过早发布了。"
+    ]
+  },
+  {
+    "w": "premier",
+    "r": "pre-(第一) + mi(来自primus第一) + -er(人/物) -> 第一个人 -> 总理",
+    "c": [
+      "The premier announced new economic reforms aimed at boosting domestic consumption.",
+      "总理宣布了旨在促进国内消费的新经济改革措施。"
+    ]
+  },
+  {
+    "w": "premise",
+    "r": "pre-(在前) + mis(发送, 来自拉丁语mittere) + -e -> 预先发送的东西 -> 前提",
+    "c": null
+  },
+  {
+    "w": "premium",
+    "r": "pre-(在前) + mi(拿, 来自拉丁语emere) + -um(名词后缀) -> 预先支付的钱 -> 保险费、优质的",
+    "c": [
+      "Drivers with clean records pay a lower premium for auto insurance than those with accidents.",
+      "记录良好的司机支付的汽车保险费比出过事故的司机低。"
+    ]
+  },
+  {
+    "w": "preparation",
+    "r": "pre-(预先) + par(准备, 来自拉丁语parare) + -ation(名词后缀) -> 预先准备的过程 -> 准备",
+    "c": [
+      "Adequate preparation is essential for students who want to perform well on standardized tests.",
+      "充分的准备对于希望在标准化考试中取得好成绩的学生至关重要。"
+    ]
+  },
+  {
+    "w": "preparatory",
+    "r": "pre-(预先) + par(准备) + -atory(形容词后缀, 与…有关的) -> 预备的",
+    "c": [
+      "Students take preparatory courses to familiarize themselves with the university's academic requirements.",
+      "学生们参加预备课程以熟悉大学的学术要求。"
+    ]
+  },
+  {
+    "w": "prepare",
+    "r": "pre-(预先) + par(安排, 来自拉丁语parare) + -e -> 预先安排好 -> 准备",
+    "c": null
+  },
+  {
+    "w": "preposition",
+    "r": "pre-(在前) + posit(放置, 来自拉丁语ponere) + -ion(名词后缀) -> 放在前面的词 -> 介词",
+    "c": [
+      "Learning proper preposition usage is essential for mastering English grammar and writing.",
+      "学习正确的介词用法对于掌握英语语法和写作至关重要。"
+    ]
+  },
+  {
+    "w": "prescient",
+    "r": "pre-(预先) + sci(知道, 来自拉丁语scire) + -ent(形容词后缀) -> 预先知道的 -> 预知的，预见的",
+    "c": [
+      "The scientist's prescient warnings about climate change were largely ignored decades ago.",
+      "这位科学家关于气候变化的预见性警告在几十年前基本上被忽视了。"
+    ]
+  },
+  {
+    "w": "prescribe",
+    "r": "pre-(预先) + scrib(写, 来自拉丁语scribere) + -e -> 预先写好 -> 开处方",
+    "c": [
+      "Doctors may prescribe antibiotics only when bacterial infection is confirmed by laboratory tests.",
+      "医生只有在实验室检查确认细菌感染时才会开抗生素。"
+    ]
+  },
+  {
+    "w": "prescription",
+    "r": "pre-(预先) + script(写) + -ion(名词后缀) -> 预先写好的指示 -> 处方",
+    "c": [
+      "Patients must show valid identification when picking up a prescription at the pharmacy counter.",
+      "患者在药房柜台取处方时必须出示有效身份证件。"
+    ]
+  },
+  {
+    "w": "presence",
+    "r": "pre-(在前) + sent(存在, 来自拉丁语esse) + -ce(名词后缀) -> 存在的状态 -> 出席、存在",
+    "c": null
+  },
+  {
+    "w": "present",
+    "r": "pre-(在前) + sent(存在, 来自拉丁语esse) -> 出现在前面的 -> 呈现、提出、礼物、现在",
+    "c": [
+      "The professor will present her latest research findings at the international conference next month.",
+      "这位教授将在下个月的国际会议上展示她的最新研究成果。"
+    ]
+  },
+  {
+    "w": "presentation",
+    "r": "present(呈现) + -ation(名词后缀) -> 呈现的行为或内容 -> 提供，显示；外观，图像；授予，赠送；报告，介绍；表演",
+    "c": [
+      "Students spent weeks preparing their group presentation on renewable energy solutions for class.",
+      "学生们花了数周时间准备关于可再生能源方案的课堂小组报告。"
+    ]
+  },
+  {
+    "w": "presently",
+    "r": "present(现在) + -ly(副词后缀) -> 不久、目前",
+    "c": [
+      "The research team is presently analyzing survey data collected from over two thousand participants.",
+      "研究团队目前正在分析从两千多名参与者那里收集的调查数据。"
+    ]
+  },
+  {
+    "w": "preservation",
+    "r": "pre-(预先) + serv(保存, 来自拉丁语servare) + -ation(名词后缀) -> 预先保存的行为 -> 保存，储藏；保持",
+    "c": [
+      "The museum uses advanced climate control systems for the preservation of ancient artifacts.",
+      "博物馆使用先进的气候控制系统来保存古代文物。"
+    ]
+  },
+  {
+    "w": "preserve",
+    "r": "pre-(预先) + serv(保存, 来自拉丁语servare) + -e -> 预先保存好 -> 保护、保存",
+    "c": null
+  },
+  {
+    "w": "preset",
+    "r": "pre-(预先) + set(设置) -> 预先设置 -> 预先装置",
+    "c": [
+      "The camera's preset white balance may not work well under mixed indoor lighting conditions.",
+      "相机预设的白平衡在混合室内照明条件下可能效果不佳。"
+    ]
+  },
+  {
+    "w": "preside",
+    "r": "pre-(在前) + sid(坐, 来自拉丁语sedere) + -e -> 坐在前面 -> 主持",
+    "c": [
+      "The dean will preside over the graduation ceremony and award diplomas to all graduating students.",
+      "院长将主持毕业典礼并向所有毕业生颁发毕业证书。"
+    ]
+  },
+  {
+    "w": "presidency",
+    "r": "pre-(在前) + sid(坐) + -ency(名词后缀) -> 坐在前面的职位/任期 -> 总统任期",
+    "c": [
+      "The president's economic policies shaped the country's trajectory during his presidency.",
+      "总统的经济政策在其任期内塑造了该国的发展轨迹。"
+    ]
+  },
+  {
+    "w": "president",
+    "r": "pre-(在前) + sid(坐) + -ent(人) -> 坐在前面的人 -> 总统",
+    "c": null
+  },
+  {
+    "w": "press",
+    "r": "来自拉丁语pressare(压), 源自premere(压), 由印刷时压印引申 -> 报刊、新闻界",
+    "c": [
+      "The press plays a critical role in holding government officials accountable for their actions.",
+      "新闻界在追究政府官员行为责任方面发挥着关键作用。"
+    ]
+  },
+  {
+    "w": "pressure",
+    "r": "press(压) + -ure(名词后缀, 表状态/行为) -> 压的状态 -> 压力",
+    "c": [
+      "Many college students experience academic pressure during the final weeks of each semester.",
+      "许多大学生在每学期最后几周都会感受到学业压力。"
+    ]
+  },
+  {
+    "w": "prestige",
+    "r": "来自拉丁语praestigiae(戏法, 幻象), 后演变为声望、威望 -> 声望",
+    "c": null
+  },
+  {
+    "w": "presumably",
+    "r": "pre-(预先) + sum(拿, 认为, 来自拉丁语sumere) + -ably(副词后缀) -> 可以预先认为地 -> 大概、可能",
+    "c": [
+      "The meeting was canceled due to bad weather, presumably because the speakers could not travel.",
+      "会议因恶劣天气取消了，大概是因为演讲者无法出行。"
+    ]
+  },
+  {
+    "w": "presume",
+    "r": "pre-(预先) + sume(拿, 来自拉丁语sumere) -> 预先拿定想法 -> 假定、推测",
+    "c": null
+  },
+  {
+    "w": "pretend",
+    "r": "pre-(向前) + tend(伸展, 来自拉丁语tendere) -> 向前伸展(做样子) -> 假装",
+    "c": [
+      "Children often pretend to be doctors or teachers while playing imaginative games with friends.",
+      "孩子们在和朋友玩想象力游戏时常假装自己是医生或老师。"
+    ]
+  },
+  {
+    "w": "pretext",
+    "r": "pre-(在前) + text(编织, 来自拉丁语texere) -> 预先编织好的理由 -> 借口",
+    "c": [
+      "He used a minor headache as a pretext to skip the mandatory committee meeting.",
+      "他以轻微头痛为借口，逃避了强制性的委员会会议。"
+    ]
+  },
+  {
+    "w": "pretty",
+    "r": "来自古英语prættig(巧妙的, 狡猾的), 原指机灵的，后演变为漂亮的 -> 漂亮的",
+    "c": null
+  },
+  {
+    "w": "prevail",
+    "r": "pre-(超过) + vail(强壮, 来自拉丁语valere) -> 比…更强 -> 流行、占优势",
+    "c": [
+      "Despite facing many challenges, the spirit of cooperation continues to prevail among team members.",
+      "尽管面临许多挑战，合作精神在团队成员中仍然占据主导地位。"
+    ]
+  },
+  {
+    "w": "prevailing",
+    "r": "pre-(超过) + vail(强壮) + -ing(形容词后缀) -> 占优势的 -> 流行的",
+    "c": [
+      "The prevailing attitude toward remote work has shifted significantly since the global pandemic.",
+      "自全球疫情以来，对远程工作的普遍态度发生了显著转变。"
+    ]
+  },
+  {
+    "w": "prevalence",
+    "r": "pre-(超过) + val(强壮) + -ence(名词后缀) -> 广泛流行的状态 -> 流行",
+    "c": null
+  },
+  {
+    "w": "prevalent",
+    "r": "pre-(超过) + val(强壮) + -ent(形容词后缀) -> 非常强大的 -> 普遍的",
+    "c": [
+      "Social media usage has become increasingly prevalent among teenagers in the past decade.",
+      "在过去十年中，社交媒体的使用在青少年中变得越来越普遍。"
+    ]
+  },
+  {
+    "w": "prevent",
+    "r": "pre-(在前) + vent(来, 来自拉丁语venire) -> 来到前面挡住 -> 阻止",
+    "c": null
+  },
+  {
+    "w": "prevention",
+    "r": "pre-(在前) + vent(来) + -ion(名词后缀) -> 预先阻止的行为 -> 预防，阻止，妨碍",
+    "c": null
+  },
+  {
+    "w": "preview",
+    "r": "pre-(预先) + view(看, 来自拉丁语videre) -> 预先看 -> 预映，预演；预告",
+    "c": [
+      "The film studio released a two-minute preview to build audience anticipation for the movie.",
+      "电影制片厂发布了两分钟预告片，以激发观众对该片的期待。"
+    ]
+  },
+  {
+    "w": "previous",
+    "r": "pre-(在前) + vi(路, 来自拉丁语via) + -ous(形容词后缀) -> 走在前面路上的 -> 先前的",
+    "c": [
+      "The previous study focused on urban areas, so the new research expands to rural communities.",
+      "之前的研究集中在城市地区，因此新的研究扩展到了农村社区。"
+    ]
+  },
+  {
+    "w": "prey",
+    "r": "来自拉丁语praedari(掠夺, 抢劫), 原指战利品，后指猎物 -> 猎物、捕食",
+    "c": null
+  },
+  {
+    "w": "price",
+    "r": "来自拉丁语pretium(价格, 价值) -> 价格",
+    "c": null
+  },
+  {
+    "w": "priceless",
+    "r": "price(价格) + -less(形容词后缀, 无…的) -> 无法用价格衡量的 -> 无价的，难以用价格衡量的",
+    "c": [
+      "The ancient manuscripts stored in the national library are considered priceless cultural treasures.",
+      "国家图书馆收藏的古代手稿被视为无价的文化瑰宝。"
+    ]
+  },
+  {
+    "w": "prick",
+    "r": "来自古英语prician(刺, 扎), 与荷兰语prikken同源 -> 刺（穿）；刺痛",
+    "c": [
+      "She felt a sharp prick when the nurse inserted the needle into her forearm for the blood test.",
+      "当护士将针头插入她的前臂采血时，她感到一阵剧烈的刺痛。"
+    ]
+  },
+  {
+    "w": "pride",
+    "r": "来自古英语pryde(骄傲), 与古法语prud(勇敢的)同源 -> 自豪、自满",
+    "c": null
+  },
+  {
+    "w": "priest",
+    "r": "来自古英语préost(牧师), 源自拉丁语presbyter(长老) -> 牧师",
+    "c": [
+      "The local priest has been actively involved in community outreach programs for homeless people.",
+      "当地牧师一直积极参与帮助无家可归者的社区服务项目。"
+    ]
+  },
+  {
+    "w": "primarily",
+    "r": "prim(第一, 主要, 来自拉丁语primus) + -ary(形容词后缀) + -ly(副词后缀) -> 首先，主要地",
+    "c": [
+      "The scholarship is awarded primarily to students from low-income families with strong academic records.",
+      "该奖学金主要颁发给学业成绩优秀的低收入家庭学生。"
+    ]
+  },
+  {
+    "w": "primary",
+    "r": "prim(第一, 来自拉丁语primus) + -ary(形容词后缀, 与…有关的) -> 第一位的 -> 初级的、最初的",
+    "c": null
+  },
+  {
+    "w": "prime",
+    "r": "来自拉丁语primus(第一的, 最先的) -> 最初的、首要的",
+    "c": null
+  },
+  {
+    "w": "primitive",
+    "r": "prim(第一, 最初) + -itive(形容词后缀, 有…性质的) -> 最初性质的 -> 原始的、简单的",
+    "c": null
+  },
+  {
+    "w": "prince",
+    "r": "来自拉丁语princeps(第一的, 首领), 由primus(第一)+capere(拿)组成 -> 王子",
+    "c": [
+      "The young prince attended the royal ceremony alongside other members of the monarch family.",
+      "年轻的王子与王室其他成员一起出席了皇家仪式。"
+    ]
+  },
+  {
+    "w": "princess",
+    "r": "prince(王子) + -ss(阴性名词后缀) -> 公主",
+    "c": null
+  },
+  {
+    "w": "principal",
+    "r": "prin(第一, 来自primus) + cip(拿, 来自拉丁语capere) + -al(形容词后缀) -> 拿第一位的 -> 最重要的、负责人",
+    "c": null
+  },
+  {
+    "w": "principally",
+    "r": "principal(最重要的) + -ly(副词后缀) -> 主要，大抵",
+    "c": [
+      "The university is known principally for its engineering programs and groundbreaking scientific research.",
+      "这所大学主要以其工程项目和开创性科学研究而闻名。"
+    ]
+  },
+  {
+    "w": "principle",
+    "r": "prin(第一, 来自primus) + cip(拿) + -le(名词后缀) -> 最根本的东西 -> 原则",
+    "c": null
+  },
+  {
+    "w": "print",
+    "r": "来自古法语preinte(压印), 源自拉丁语premere(压) -> 打印",
+    "c": [
+      "Libraries print thousands of pages daily to meet student demand for research materials and articles.",
+      "图书馆每天打印数千页资料以满足学生对研究材料和文章的需求。"
+    ]
+  },
+  {
+    "w": "printer",
+    "r": "print(打印) + -er(物, 做…的工具/人) -> 印刷工；印花工",
+    "c": [
+      "The office purchased a new high-speed printer to handle the growing volume of document printing.",
+      "办公室购买了一台新的高速打印机以应对不断增长的文档打印量。"
+    ]
+  },
+  {
+    "w": "prior",
+    "r": "来自拉丁语prior(更早的, 在前的), 比较级形式 -> 优先的、在前的",
+    "c": null
+  },
+  {
+    "w": "prioritize",
+    "r": "prior(优先的) + -it(y)(名词后缀) + -ize(动词后缀, 使…) -> 使优先化 -> 优先",
+    "c": null
+  },
+  {
+    "w": "priority",
+    "r": "prior(优先的) + -ity(名词后缀, 表性质) -> 优先的性质 -> 优先",
+    "c": null
+  },
+  {
+    "w": "prism",
+    "r": "来自希腊语prisma(被锯掉的东西), 源自prizein(锯) -> 棱镜；棱柱（体）",
+    "c": [
+      "When sunlight passes through a glass prism, it separates into a beautiful spectrum of colors.",
+      "当阳光穿过玻璃棱镜时，会分解成美丽的光谱颜色。"
+    ]
+  },
+  {
+    "w": "prison",
+    "r": "来自拉丁语prehendere(抓住, 逮捕), 后指关押的地方 -> 监狱",
+    "c": [
+      "Rehabilitation programs inside prison aim to reduce the rate of offenders returning after release.",
+      "监狱内的改造计划旨在降低获释后罪犯再次犯罪的比率。"
+    ]
+  },
+  {
+    "w": "prisoner",
+    "r": "prison(监狱) + -er(人) -> 监狱里的人 -> 囚犯",
+    "c": [
+      "The documentary explored the daily lives of prisoners and the challenges they face after release.",
+      "这部纪录片探讨了囚犯的日常生活以及他们出狱后面临的挑战。"
+    ]
+  },
+  {
+    "w": "privacy",
+    "r": "priv(私人的, 来自拉丁语privus) + -acy(名词后缀, 表状态) -> 私人的状态 -> 隐私",
+    "c": null
+  },
+  {
+    "w": "private",
+    "r": "priv(私人的, 来自拉丁语privus) + -ate(形容词后缀) -> 私人的",
+    "c": null
+  },
+  {
+    "w": "privilege",
+    "r": "priv(私人的) + leg(法律, 来自拉丁语lex) + -e -> 私人的法律 -> 特权、优先权",
+    "c": [
+      "Access to quality higher education remains a privilege that not all young people can enjoy.",
+      "获得优质高等教育仍然是一种特权，并非所有年轻人都能享有。"
+    ]
+  },
+  {
+    "w": "privileged",
+    "r": "privilege(特权) + -d(形容词后缀) -> 有特权的",
+    "c": [
+      "Students from wealthy backgrounds often have privileged access to internships and career opportunities.",
+      "来自富裕家庭的学生往往享有获得实习和职业机会的特权。"
+    ]
+  },
+  {
+    "w": "prize",
+    "r": "来自拉丁语pretium(价格, 价值), 后指有价值的奖励 -> 奖",
+    "c": null
+  },
+  {
+    "w": "probability",
+    "r": "prob(证明, 检验, 来自拉丁语probare) + -ability(名词后缀, 表可能性) -> 可证明的可能性 -> 可能性",
+    "c": [
+      "Statisticians calculate the probability of various outcomes using advanced mathematical models.",
+      "统计学家使用先进的数学模型计算各种结果的概率。"
+    ]
+  },
+  {
+    "w": "probable",
+    "r": "prob(证明, 来自拉丁语probare) + -able(形容词后缀, 能…的) -> 能被证明的 -> 很可能的",
+    "c": null
+  },
+  {
+    "w": "probe",
+    "r": "来自拉丁语probare(检验, 证明), 原指用探针检查 -> 探测、探针",
+    "c": [
+      "Scientists sent a space probe to Mars to collect rock samples and study the planet atmosphere.",
+      "科学家们向火星发射了太空探测器，以收集岩石样本并研究该行星的大气。"
+    ]
+  },
+  {
+    "w": "problem",
+    "r": "pro-(向前) + blem(扔, 来自希腊语ballein) -> 扔到前面的东西 -> 问题",
+    "c": null
+  },
+  {
+    "w": "procedure",
+    "r": "pro-(向前) + ced(走, 来自拉丁语cedere) + -ure(名词后缀) -> 向前走的过程 -> 步骤",
+    "c": null
+  },
+  {
+    "w": "proceed",
+    "r": "pro-(向前) + ceed(走, 来自拉丁语cedere) -> 向前走 -> 继续进行",
+    "c": [
+      "The committee decided to proceed with the project despite objections from some community members.",
+      "尽管一些社区成员反对，委员会仍决定继续推进该项目。"
+    ]
+  },
+  {
+    "w": "proceeding",
+    "r": "proceed(继续进行) + -ing(名词后缀) -> 进行中的事 -> 诉讼",
+    "c": [
+      "The legal proceeding against the company drew significant attention from environmental activists.",
+      "对该公司的法律诉讼引起了环保人士的极大关注。"
+    ]
+  },
+  {
+    "w": "proceedings",
+    "r": "proceed(继续进行) + -ings(名词后缀, 表活动/事件) -> 进行中的法律程序 -> 诉讼",
+    "c": [
+      "Court proceedings were delayed because key evidence was still being analyzed by forensics experts.",
+      "由于关键证据仍在由法医专家分析，法庭诉讼被推迟了。"
+    ]
+  },
+  {
+    "w": "process",
+    "r": "pro-(向前) + cess(走, 来自拉丁语cedere) -> 向前走的过程 -> 过程、进程",
+    "c": [
+      "Learning a new language is a gradual process that requires consistent practice and patience.",
+      "学习一门新语言是一个循序渐进的过程，需要持续的练习和耐心。"
+    ]
+  },
+  {
+    "w": "processing",
+    "r": "process(处理, 加工) + -ing(名词后缀) -> 处理",
+    "c": [
+      "The data processing unit handles thousands of customer transactions every second during peak hours.",
+      "数据处理单元在高峰时段每秒处理数千笔客户交易。"
+    ]
+  },
+  {
+    "w": "procession",
+    "r": "pro-(向前) + cess(走) + -ion(名词后缀) -> 向前走的队伍 -> 队伍",
+    "c": [
+      "The graduation procession marched slowly across the campus lawn as families watched proudly.",
+      "毕业典礼的队伍缓缓穿过校园草坪，家属们自豪地观看。"
+    ]
+  },
+  {
+    "w": "proclaim",
+    "r": "pro-(向前) + claim(叫喊, 来自拉丁语clamare) -> 向前大声喊 -> 表明、声明",
+    "c": [
+      "The mayor stood on the steps of city hall to proclaim a new era of environmental sustainability.",
+      "市长站在市政厅台阶上宣告环境可持续发展新时代的到来。"
+    ]
+  }
+]

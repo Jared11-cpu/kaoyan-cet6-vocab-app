@@ -1,0 +1,700 @@
+[
+  {
+    "w": "perpetual",
+    "r": "per-(完全、始终) + pet(寻求、向…走) + -ual(形容词后缀) -> 始终追求的 -> 永久的",
+    "c": [
+      "The perpetual cycle of seasons reminds us of nature enduring rhythm and constant change.",
+      "四季永恒的循环提醒我们大自然持久的节奏和不断的变化。"
+    ]
+  },
+  {
+    "w": "perplex",
+    "r": "per-(完全) + plex(折叠、编织) -> 完全折叠在一起 -> 使困惑、使复杂化",
+    "c": [
+      "The intricate legal regulations can perplex even experienced lawyers navigating the system.",
+      "复杂的法律法规甚至会让在该系统中从业多年的律师感到困惑。"
+    ]
+  },
+  {
+    "w": "persecute",
+    "r": "per-(完全、一直) + secu(跟随、追赶) + -te -> 一直追着不放 -> 迫害",
+    "c": [
+      "Throughout history, minority groups have been persecuted for their religious beliefs and cultural practices.",
+      "纵观历史, 少数民族群体因其宗教信仰和文化习俗而遭受迫害。"
+    ]
+  },
+  {
+    "w": "persevere",
+    "r": "per-(完全、始终) + sever(严格、严厉) + -e -> 始终严格要求自己 -> 坚持",
+    "c": [
+      "Students who persevere through academic challenges often develop stronger problem-solving abilities.",
+      "在学业挑战中坚持不懈的学生往往会培养出更强的解决问题的能力。"
+    ]
+  },
+  {
+    "w": "persist",
+    "r": "per-(完全、始终) + sist(站立) -> 始终站着不动 -> 坚持",
+    "c": null
+  },
+  {
+    "w": "persistence",
+    "r": "persist(坚持) + -ence(名词后缀) -> 坚持的状态 -> 坚持、持续",
+    "c": [
+      "The persistence of income inequality remains a central concern for economists and policymakers alike.",
+      "收入不平等的持续存在仍然是经济学家和政策制定者共同关注的核心问题。"
+    ]
+  },
+  {
+    "w": "persistent",
+    "r": "persist(坚持) + -ent(形容词后缀) -> 坚持的 -> 坚持不懈的、持续的",
+    "c": null
+  },
+  {
+    "w": "person",
+    "r": "来自拉丁语persona(面具、剧中角色), 原指演员戴的面具, 后引申为人",
+    "c": null
+  },
+  {
+    "w": "personal",
+    "r": "person(人) + -al(形容词后缀) -> 人的 -> 个人的",
+    "c": [
+      "Universities encourage students to develop personal interests alongside their academic coursework.",
+      "大学鼓励学生在学业课程之外发展个人兴趣。"
+    ]
+  },
+  {
+    "w": "personality",
+    "r": "person(人) + -al(形容词后缀) + -ity(名词后缀) -> 人的特质 -> 人格",
+    "c": null
+  },
+  {
+    "w": "personnel",
+    "r": "person(人) + -nel(名词后缀, 表集合) -> 人的集合 -> 员工、人事部门",
+    "c": null
+  },
+  {
+    "w": "perspective",
+    "r": "per-(穿过、透过) + spect(看) + -ive(名词后缀) -> 透过…看 -> 观点、判断力",
+    "c": null
+  },
+  {
+    "w": "persuade",
+    "r": "per-(完全、彻底) + suade(劝告) -> 彻底劝告 -> 说服",
+    "c": null
+  },
+  {
+    "w": "persuasion",
+    "r": "persuade(说服) + -sion(名词后缀) -> 说服的行为 -> 说服",
+    "c": [
+      "Effective persuasion requires clear reasoning and genuine empathy toward the audience concerns.",
+      "有效的说服需要清晰的推理和对听众关切的真诚共情。"
+    ]
+  },
+  {
+    "w": "pertinent",
+    "r": "per-(完全) + tinen(保持、触及) + -t(形容词后缀) -> 完全触及的 -> 有关的、恰当的",
+    "c": [
+      "Researchers must include only pertinent data in their analysis to ensure reliable conclusions.",
+      "研究者必须在分析中只纳入相关数据以确保结论可靠。"
+    ]
+  },
+  {
+    "w": "pessimist",
+    "r": "pessim(最糟的, 来自拉丁语pessimus) + -ist(人) -> 认为一切都糟的人 -> 悲观主义者",
+    "c": [
+      "The pessimist in the group predicted failure even before the project had officially started.",
+      "团队中的悲观主义者甚至在项目正式开始前就预言会失败。"
+    ]
+  },
+  {
+    "w": "pessimistic",
+    "r": "pessim(最糟的) + -istic(形容词后缀, 有…性质的) -> 有最糟性质的 -> 悲观的",
+    "c": [
+      "Young people often feel pessimistic about their career prospects amid uncertain economic conditions.",
+      "在经济形势不确定的情况下, 年轻人往往对自己的职业前景感到悲观。"
+    ]
+  },
+  {
+    "w": "pest",
+    "r": "来自拉丁语pestis(瘟疫、灾祸), 原指带来瘟疫的东西 -> 害虫",
+    "c": [
+      "Farmers use integrated pest management strategies to protect crops without excessive pesticide use.",
+      "农民采用综合虫害管理策略来保护作物, 同时避免过度使用杀虫剂。"
+    ]
+  },
+  {
+    "w": "pet",
+    "r": "词源: 来自苏格兰语和北部英语, 原指被精心照料的小羊 -> 宠物",
+    "c": [
+      "Many university students keep small pets in their dormitories despite campus housing regulations.",
+      "尽管有宿舍规定, 许多大学生仍在宿舍里养小型宠物。"
+    ]
+  },
+  {
+    "w": "petition",
+    "r": "pet(寻求、请求) + -ition(名词后缀) -> 请求的行为 -> 请愿",
+    "c": [
+      "Students organized a petition to demand more affordable housing options near the campus.",
+      "学生们组织了一场请愿, 要求在校园附近提供更多经济适用的住房选择。"
+    ]
+  },
+  {
+    "w": "petrol",
+    "r": "来自petroleum的缩写, 源自拉丁语petra(岩石) + oleum(油) -> 汽油",
+    "c": [
+      "Rising petrol prices have significantly increased transportation costs for commuting workers.",
+      "不断上涨的汽油价格大幅增加了通勤上班族的交通成本。"
+    ]
+  },
+  {
+    "w": "petroleum",
+    "r": "petr(岩石, 来自希腊语petra) + oleum(油) -> 岩石里的油 -> 石油",
+    "c": [
+      "Many countries are gradually reducing their dependence on petroleum as primary energy source.",
+      "许多国家正在逐步减少对石油作为主要能源的依赖。"
+    ]
+  },
+  {
+    "w": "petty",
+    "r": "来自古法语petit(小的), 与英语petite同源 -> 小的、琐碎的",
+    "c": [
+      "Focusing on petty details can prevent teams from addressing the more significant challenges.",
+      "纠缠于琐碎细节会妨碍团队应对更重大的挑战。"
+    ]
+  },
+  {
+    "w": "pharmacy",
+    "r": "pharm(药, 来自希腊语pharmakon) + -acy(名词后缀, 表场所/技艺) -> 配药的地方 -> 药房",
+    "c": null
+  },
+  {
+    "w": "phase",
+    "r": "来自希腊语phasis(出现、阶段), 源自phainein(显示) -> 阶段",
+    "c": null
+  },
+  {
+    "w": "phenomenon",
+    "r": "phen(显示、出现, 来自希腊语phainein) + -omenon(名词后缀) -> 显现出来的事物 -> 现象",
+    "c": null
+  },
+  {
+    "w": "philosopher",
+    "r": "philo(爱) + soph(智慧) + -er(人) -> 爱智慧的人 -> 哲学家",
+    "c": null
+  },
+  {
+    "w": "philosophy",
+    "r": "philo(爱) + soph(智慧) + -y(名词后缀) -> 爱智慧 -> 哲学",
+    "c": [
+      "The philosophy department offers courses covering ancient Greek thought and modern existentialism.",
+      "哲学系开设了涵盖古希腊思想和现代存在主义的课程。"
+    ]
+  },
+  {
+    "w": "photoelectric",
+    "r": "photo(光) + electric(电的) -> 光产生电的 -> 光电的",
+    "c": [
+      "Photoelectric sensors are widely used in industrial automation for precise object detection.",
+      "光电传感器广泛应用于工业自动化中以进行精确的物体检测。"
+    ]
+  },
+  {
+    "w": "photograph",
+    "r": "photo(光) + graph(写、画) -> 用光来写/画 -> 照片",
+    "c": null
+  },
+  {
+    "w": "photography",
+    "r": "photo(光) + graph(写) + -y(名词后缀) -> 用光书写的技艺 -> 摄影术",
+    "c": [
+      "Digital photography has transformed how students document campus life and academic events.",
+      "数码摄影改变了学生记录校园生活和学术活动的方式。"
+    ]
+  },
+  {
+    "w": "phrase",
+    "r": "来自希腊语phrasis(说法、表达), 源自phrazein(说) -> 短语",
+    "c": [
+      "Learning common English phrases helps students communicate more naturally in daily conversations.",
+      "学习常用英语短语有助于学生在日常对话中更自然地交流。"
+    ]
+  },
+  {
+    "w": "physical",
+    "r": "phys(自然、身体) + -ical(形容词后缀) -> 自然的、身体的",
+    "c": [
+      "Regular physical exercise is essential for maintaining both mental health and academic performance.",
+      "规律的体育锻炼对于保持心理健康和学业表现都至关重要。"
+    ]
+  },
+  {
+    "w": "physically",
+    "r": "physical(身体的) + -ly(副词后缀) -> 身体上",
+    "c": [
+      "Students who are physically active tend to perform better academically than sedentary peers.",
+      "经常运动的学生往往比久坐不动的同龄人学业表现更好。"
+    ]
+  },
+  {
+    "w": "physician",
+    "r": "physic(医学、医术) + -ian(人) -> 从事医术的人 -> 医师",
+    "c": null
+  },
+  {
+    "w": "physicist",
+    "r": "physic(物理) + -ist(人) -> 研究物理的人 -> 物理学家",
+    "c": null
+  },
+  {
+    "w": "physics",
+    "r": "phys(自然) + -ics(名词后缀, …学) -> 研究自然的学科 -> 物理学",
+    "c": [
+      "Introductory physics courses cover mechanics, thermodynamics, and basic electromagnetic theory.",
+      "物理学入门课程涵盖力学、热力学和基础电磁理论。"
+    ]
+  },
+  {
+    "w": "physiological",
+    "r": "physio(自然、身体) + log(学问) + -ical(形容词后缀) -> 关于身体学问的 -> 生理的",
+    "c": [
+      "The study examined the physiological effects of sleep deprivation on cognitive function.",
+      "该研究考察了睡眠剥夺对认知功能的生理影响。"
+    ]
+  },
+  {
+    "w": "physiology",
+    "r": "physio(自然、身体) + logy(…学) -> 研究身体的学问 -> 生理学",
+    "c": [
+      "Medical students must master human physiology before advancing to clinical training programs.",
+      "医学生在进入临床培训项目之前必须掌握人体生理学。"
+    ]
+  },
+  {
+    "w": "piano",
+    "r": "来自意大利语pianoforte(弱-强), 因能控制音量强弱得名 -> 钢琴",
+    "c": [
+      "Many students learn to play the piano during childhood and continue through their university years.",
+      "许多学生在童年时期学习弹钢琴, 并一直坚持到大学阶段。"
+    ]
+  },
+  {
+    "w": "pick",
+    "r": "来自古英语pican(刺、啄), 引申为挑选、采摘",
+    "c": null
+  },
+  {
+    "w": "pickle",
+    "r": "来自荷兰语pekel(盐水、腌液), 原指腌制用的盐水 -> 腌制食品、泡菜",
+    "c": [
+      "Homemade vegetable pickle is a traditional staple in many regional cuisines across the country.",
+      "自制腌制蔬菜是全国许多地方菜系中的传统主食。"
+    ]
+  },
+  {
+    "w": "pickup",
+    "r": "复合: pick(捡、拾) + up(起来) -> 捡起来 -> 加速、获得、小型卡车",
+    "c": [
+      "A pickup in consumer confidence often signals broader economic recovery in the following months.",
+      "消费者信心回升往往预示着随后几个月更广泛的经济复苏。"
+    ]
+  },
+  {
+    "w": "picnic",
+    "r": "来自法语pique-nique, 原指每人带一份食物的聚餐 -> 野餐",
+    "c": [
+      "University clubs often organize picnic events at the park to welcome new members each semester.",
+      "大学社团每学期经常在公园组织野餐活动来欢迎新成员。"
+    ]
+  },
+  {
+    "w": "picture",
+    "r": "pict(画, 来自拉丁语pingere画) + -ure(名词后缀) -> 画出来的东西 -> 图片",
+    "c": null
+  },
+  {
+    "w": "pie",
+    "r": "来自中世纪拉丁语pica(喜鹊、馅饼), 因馅饼馅料杂如喜鹊收集物得名",
+    "c": [
+      "The campus cafeteria serves warm apple pie every Friday as a special dessert treat.",
+      "校园食堂每周五供应热苹果派作为特别甜点。"
+    ]
+  },
+  {
+    "w": "piece",
+    "r": "来自古法语piece(一块、一部分), 源自通俗拉丁语petia -> 件、碎片",
+    "c": null
+  },
+  {
+    "w": "pier",
+    "r": "来自拉丁语pera(袋子、皮囊), 原指用皮囊做成的浮桥支撑 -> 码头、桥墩",
+    "c": [
+      "Local fishermen gather at the wooden pier every morning to unload their fresh catch of the day.",
+      "当地渔民每天早上聚集在木码头卸下当天捕获的新鲜海产。"
+    ]
+  },
+  {
+    "w": "pierce",
+    "r": "来自古法语percer(穿透), 源自拉丁语pertusus -> 穿透",
+    "c": [
+      "The sharp arrow can pierce through thick leather armor at distances under fifty meters.",
+      "锋利的箭在五十米以内可以穿透厚重的皮甲。"
+    ]
+  },
+  {
+    "w": "pig",
+    "r": "来自古英语picg(猪), 词源不明, 可能是拟声词",
+    "c": [
+      "Intensive pig farming has raised significant environmental and ethical concerns in recent years.",
+      "近年来集约化养猪引发了重大的环境和伦理问题。"
+    ]
+  },
+  {
+    "w": "pigeon",
+    "r": "来自古法语pijon(鸽子), 源自拉丁语pipio(幼鸟), 可能是拟声",
+    "c": [
+      "Urban pigeons have adapted remarkably well to city environments and human presence.",
+      "城市鸽子已经非常好地适应了城市环境和人类的存在。"
+    ]
+  },
+  {
+    "w": "pile",
+    "r": "来自拉丁语pila(柱子、堆), 经由古法语进入英语 -> 堆",
+    "c": [
+      "Students often find a pile of assigned reading waiting at the beginning of each semester.",
+      "学生们经常在每学期开始时发现有一大堆指定阅读材料等着他们。"
+    ]
+  },
+  {
+    "w": "pilgrim",
+    "r": "来自拉丁语peregrinus(外来的、流浪者), 经由古法语pelerin -> 朝圣者",
+    "c": [
+      "Each year, thousands of pilgrims travel to the historic temple for the annual religious festival.",
+      "每年都有成千上万的朝圣者前往这座历史悠久的寺庙参加年度宗教节日。"
+    ]
+  },
+  {
+    "w": "pill",
+    "r": "来自拉丁语pilula(小球), 是pila(球)的指小形式 -> 药丸",
+    "c": [
+      "The doctor prescribed a daily vitamin pill to supplement the patient nutritional needs.",
+      "医生开了每日服用的维生素丸以补充病人的营养需求。"
+    ]
+  },
+  {
+    "w": "pillar",
+    "r": "pill(柱, 来自拉丁语pila) + -ar(名词后缀, 表物) -> 柱子 -> 支柱",
+    "c": null
+  },
+  {
+    "w": "pillow",
+    "r": "来自古英语pyle(枕头), 源自拉丁语pulvinus(垫子) -> 枕头",
+    "c": [
+      "A good quality pillow can significantly improve sleep quality and reduce morning neck pain.",
+      "一个质量好的枕头可以显著改善睡眠质量并减轻早晨的颈部疼痛。"
+    ]
+  },
+  {
+    "w": "pilot",
+    "r": "来自希腊语pedon(桨、舵), 原指掌舵的人 -> 飞行员",
+    "c": null
+  },
+  {
+    "w": "pin",
+    "r": "来自古英语pinn(钉、栓), 与拉丁语pinna(羽毛、尖)同源 -> 别针、固定",
+    "c": [
+      "Students often pin important assignment deadlines on their bulletin boards as visual reminders.",
+      "学生们经常把重要的作业截止日期钉在布告栏上作为视觉提醒。"
+    ]
+  },
+  {
+    "w": "pinch",
+    "r": "来自古法语pincier(捏、掐), 源自拉丁语punctum(点、刺) -> 捏、一撮",
+    "c": [
+      "The chef added just a pinch of salt to enhance the natural flavor of the fresh vegetables.",
+      "厨师只加了一撮盐来提鲜蔬菜本身的自然风味。"
+    ]
+  },
+  {
+    "w": "pine",
+    "r": "来自古英语pin(松树), 源自拉丁语pinus(松树) -> 松树",
+    "c": [
+      "The pine forest surrounding the mountain village provides fresh air and scenic hiking trails.",
+      "环绕山村的松树林提供了清新的空气和风景优美的徒步小径。"
+    ]
+  },
+  {
+    "w": "pineapple",
+    "r": "复合: pine(松) + apple(苹果) -> 因形似松球而得名 -> 凤梨、菠萝",
+    "c": [
+      "Fresh pineapple contains enzymes that help break down proteins and aid digestion after meals.",
+      "新鲜菠萝含有帮助分解蛋白质、促进餐后消化的酶。"
+    ]
+  },
+  {
+    "w": "pink",
+    "r": "词源: 来自pink(石竹花), 因花呈淡粉色引申出颜色义 -> 粉红色",
+    "c": [
+      "The research team used pink fluorescent markers to track the cells under the microscope.",
+      "研究团队使用粉红色荧光标记物在显微镜下追踪细胞。"
+    ]
+  },
+  {
+    "w": "pint",
+    "r": "来自拉丁语picta(被画出的), 原指标有刻度的容器 -> 品脱",
+    "c": [
+      "Students often meet at the campus pub for a pint of beer after finishing their final exams.",
+      "期末考试结束后, 学生们经常在校园酒吧相聚喝一品脱啤酒。"
+    ]
+  },
+  {
+    "w": "pioneer",
+    "r": "来自法语pionnier(步兵、开拓者), 源自拉丁语pedes(步兵) -> 先驱",
+    "c": null
+  },
+  {
+    "w": "pious",
+    "r": "来自拉丁语pius(虔敬的、尽责的), 与pity同源 -> 虔诚的",
+    "c": [
+      "The pious scholar spent decades translating ancient religious texts into modern language.",
+      "这位虔诚的学者花了数十年将古代宗教文本翻译成现代语言。"
+    ]
+  },
+  {
+    "w": "pipe",
+    "r": "来自古英语pip(管、笛), 源自拉丁语pipa -> 管子、烟斗",
+    "c": [
+      "Workers repaired the broken water pipe beneath the street before the evening rush hour.",
+      "工人们在晚间交通高峰前修复了街道下方破损的水管。"
+    ]
+  },
+  {
+    "w": "pirate",
+    "r": "来自希腊语peirates(袭击者、海盗), 源自peiran(尝试、袭击) -> 海盗",
+    "c": [
+      "Digital piracy remains a major challenge for the music and film industries worldwide.",
+      "数字盗版仍然是全球音乐和电影行业面临的主要挑战。"
+    ]
+  },
+  {
+    "w": "pistol",
+    "r": "来自意大利语pistolese(手枪), 因皮斯托亚城造枪闻名得名 -> 手枪",
+    "c": [
+      "Strict regulations control the possession and use of pistols in most developed countries.",
+      "大多数发达国家对手枪的持有和使用都有严格的法规管制。"
+    ]
+  },
+  {
+    "w": "piston",
+    "r": "来自意大利语pistone(活塞), 源自拉丁语pinsere(压、捣) -> 活塞",
+    "c": [
+      "The piston moves up and down inside the cylinder to convert fuel energy into mechanical force.",
+      "活塞在汽缸内上下运动将燃料能量转化为机械力。"
+    ]
+  },
+  {
+    "w": "pit",
+    "r": "来自古英语pytt(坑、井), 与拉丁语puteus(井)同源 -> 坑",
+    "c": null
+  },
+  {
+    "w": "pitch",
+    "r": "来自古英语pic(树脂、沥青), 因投球动作如滴沥青引申出投义 -> 球场、投",
+    "c": [
+      "The soccer team practiced their passing skills on the pitch every afternoon after classes.",
+      "足球队每天下午下课后在球场上练习传球技巧。"
+    ]
+  },
+  {
+    "w": "pity",
+    "r": "来自拉丁语pietas(虔敬、同情), 经由古法语pite进入英语 -> 同情",
+    "c": null
+  },
+  {
+    "w": "place",
+    "r": "来自拉丁语platea(大街、广场), 源自希腊语plateia(宽街) -> 地点、放置",
+    "c": null
+  },
+  {
+    "w": "plagiarism",
+    "r": "plagi(偷、拐骗, 来自拉丁语plagium) + -ar + -ism(名词后缀, 行为) -> 偷文的行为 -> 剽窃",
+    "c": null
+  },
+  {
+    "w": "plague",
+    "r": "来自拉丁语plaga(打击、灾祸), 引申为瘟疫 -> 瘟疫",
+    "c": null
+  },
+  {
+    "w": "plain",
+    "r": "来自拉丁语planus(平的), 经由古法语plain进入英语 -> 平的、朴素的",
+    "c": null
+  },
+  {
+    "w": "plaintiff",
+    "r": "plaint(控诉、抱怨, 来自拉丁语planctus) + -iff(名词后缀, 人) -> 控诉的人 -> 原告",
+    "c": [
+      "The plaintiff presented substantial evidence to support their claim of copyright infringement.",
+      "原告提出了充分证据来支持其版权侵权的主张。"
+    ]
+  },
+  {
+    "w": "plan",
+    "r": "来自拉丁语planus(平的), 原指平面图, 引申为计划 -> 计划",
+    "c": null
+  },
+  {
+    "w": "plane",
+    "r": "来自拉丁语planus(平的), 简写自aeroplane(空中平飞物) -> 飞机",
+    "c": [
+      "The university research team booked a plane to attend the international conference overseas.",
+      "大学研究团队预订了飞机前往海外参加国际会议。"
+    ]
+  },
+  {
+    "w": "planet",
+    "r": "来自希腊语planetes(漫游者), 因行星在星空中移动得名 -> 行星",
+    "c": null
+  },
+  {
+    "w": "planetary",
+    "r": "planet(行星) + -ary(形容词后缀, 与…有关的) -> 行星的",
+    "c": [
+      "Planetary scientists study the geological composition and atmospheric conditions of other planets.",
+      "行星科学家研究其他行星的地质构成和大气状况。"
+    ]
+  },
+  {
+    "w": "plant",
+    "r": "来自拉丁语planta(植物、嫩枝), 与plantare(种植)同源 -> 植物、工厂",
+    "c": [
+      "The manufacturing plant adopted new technologies to reduce its carbon emissions significantly.",
+      "这家制造工厂采用了新技术以大幅减少碳排放。"
+    ]
+  },
+  {
+    "w": "plantation",
+    "r": "plant(种植) + -ation(名词后缀) -> 种植的场所 -> 种植园",
+    "c": [
+      "Historic cotton plantations in the southern United States are associated with a painful legacy of slavery.",
+      "美国南部历史上的棉花种植园与痛苦的奴隶制遗产联系在一起。"
+    ]
+  },
+  {
+    "w": "plaster",
+    "r": "来自拉丁语emplastrum(膏药、灰泥), 源自希腊语 -> 石膏",
+    "c": [
+      "Workers applied a fresh layer of plaster to the interior walls of the historic building.",
+      "工人们在这座历史建筑的内墙涂上了一层新的石膏。"
+    ]
+  },
+  {
+    "w": "plastic",
+    "r": "plast(塑造、形成, 来自希腊语plastos) + -ic(形容词后缀) -> 可塑造的 -> 塑料、可塑的",
+    "c": null
+  },
+  {
+    "w": "plate",
+    "r": "来自古法语plate(平盘), 源自希腊语platus(平的) -> 盘子",
+    "c": [
+      "Each student received a plate of nutritious food from the university dining hall at lunchtime.",
+      "午餐时每个学生都从大学食堂领到一盘营养均衡的食物。"
+    ]
+  },
+  {
+    "w": "plateau",
+    "r": "来自法语plateau(高地), 是plat(平的)的指小形式 -> 高原",
+    "c": [
+      "The Tibetan plateau is often called the roof of the world due to its extreme elevation.",
+      "青藏高原由于其极高的海拔常被称为世界屋脊。"
+    ]
+  },
+  {
+    "w": "platform",
+    "r": "复合: plat(平的) + form(形式) -> 平整的台 -> 平台",
+    "c": null
+  },
+  {
+    "w": "plausible",
+    "r": "plaus(鼓掌、赞许, 来自拉丁语plaudere) + -ible(可…的) -> 值得赞许的 -> 似乎是真的",
+    "c": [
+      "The scientist proposed a plausible explanation for the unexpected results of the experiment.",
+      "这位科学家对实验意外结果提出了一个看似合理的解释。"
+    ]
+  },
+  {
+    "w": "play",
+    "r": "来自古英语plegian(玩耍、运动), 与荷兰语plegen(从事)同源",
+    "c": [
+      "Students often play basketball together after class to relieve stress from academic pressure.",
+      "学生们课后经常一起打篮球以缓解学业压力带来的紧张。"
+    ]
+  },
+  {
+    "w": "playground",
+    "r": "复合: play(玩) + ground(场地) -> 玩耍的场地 -> 操场",
+    "c": [
+      "The new campus playground provides outdoor recreational space for students and faculty members.",
+      "新建的校园操场为师生提供了户外休闲空间。"
+    ]
+  },
+  {
+    "w": "plea",
+    "r": "来自古法语plaid(诉讼、辩论), 源自拉丁语placitum(决定) -> 恳求、抗辩",
+    "c": [
+      "The defendant entered a plea of not guilty during the opening session of the trial.",
+      "被告在庭审开场时提出了无罪抗辩。"
+    ]
+  },
+  {
+    "w": "plead",
+    "r": "来自古法语plaider(打官司、辩论), 与plea同源 -> 恳求",
+    "c": [
+      "Environmental activists plead with government leaders to take urgent action on climate change.",
+      "环保活动人士恳求政府领导人就气候变化采取紧急行动。"
+    ]
+  },
+  {
+    "w": "pleasant",
+    "r": "please(使愉快) + -ant(形容词后缀) -> 令人愉快的",
+    "c": null
+  },
+  {
+    "w": "please",
+    "r": "来自拉丁语placere(使高兴、合意), 经由古法语plaisir -> 请、使愉快",
+    "c": [
+      "Professors often ask students to please submit assignments through the online learning system.",
+      "教授们经常要求学生通过在线学习系统提交作业。"
+    ]
+  },
+  {
+    "w": "pleasure",
+    "r": "please(使愉快) + -ure(名词后缀) -> 愉快的感觉 -> 愉快、乐事",
+    "c": [
+      "Reading classic literature provides intellectual pleasure and deepens our understanding of humanity.",
+      "阅读经典文学带来智识上的愉悦, 并加深我们对人性的理解。"
+    ]
+  },
+  {
+    "w": "pledge",
+    "r": "来自古法语pleige(保证、人质), 词源不明 -> 保证、誓言",
+    "c": null
+  },
+  {
+    "w": "plentiful",
+    "r": "plenty(丰富) + -ful(形容词后缀, 充满…的) -> 充满丰富的 -> 丰富的",
+    "c": [
+      "The region plentiful rainfall supports lush vegetation and diverse agricultural production.",
+      "该地区充沛的降雨支撑着茂盛的植被和多样化的农业生产。"
+    ]
+  },
+  {
+    "w": "plenty",
+    "r": "来自拉丁语plenitas(充满), 源自plenus(满的) -> 丰富、大量",
+    "c": null
+  },
+  {
+    "w": "plight",
+    "r": "来自古英语pliht(危险、风险), 与荷兰语plicht(义务)同源 -> 困境",
+    "c": null
+  }
+]

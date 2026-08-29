@@ -1,0 +1,685 @@
+[
+  {
+    "w": "mouth",
+    "r": "来自古英语muth(嘴), 与德语Mund同源 -> 嘴",
+    "c": [
+      "The professor emphasized the importance of mouth hygiene in his public health lecture.",
+      "教授在他的公共卫生讲座中强调了口腔卫生的重要性。"
+    ]
+  },
+  {
+    "w": "move",
+    "r": "来自古英语mofian(移动), 与德语bewegen同源 -> 移动",
+    "c": null
+  },
+  {
+    "w": "movement",
+    "r": "move(移动) + -ment(名词后缀) -> 移动的行为 -> 运动",
+    "c": null
+  },
+  {
+    "w": "movie",
+    "r": "来自古法语movoir(移动) + ie, 指移动的影像 -> 电影",
+    "c": null
+  },
+  {
+    "w": "much",
+    "r": "来自古英语mycel(多的, 大的), 与德语viel同源 -> 许多的、非常",
+    "c": [
+      "Many students spend much of their free time conducting research in the university library.",
+      "许多学生将大部分空闲时间花在大学图书馆做研究。"
+    ]
+  },
+  {
+    "w": "mud",
+    "r": "来自古英语mud(泥), 与德语Mutter(泥沼)同源 -> 泥",
+    "c": [
+      "Heavy rain turned the construction site into a sea of mud, delaying the building project.",
+      "大雨将建筑工地变成了一片泥海, 延误了建筑工程。"
+    ]
+  },
+  {
+    "w": "muddy",
+    "r": "mud(泥) + -dy(形容词后缀, 充满…的) -> 充满泥的 -> 泥泞的、模糊的",
+    "c": [
+      "The muddy riverbank made it difficult for hikers to continue along the trail after the storm.",
+      "暴风雨过后, 泥泞的河岸使徒步旅行者难以继续沿小径前进。"
+    ]
+  },
+  {
+    "w": "mug",
+    "r": "来自古英语mug(杯), 源自古挪威语muggi -> 杯",
+    "c": [
+      "She poured a hot mug of tea and sat down to read her textbook before the evening class.",
+      "她倒了一杯热茶, 坐下来在晚上的课前阅读课本。"
+    ]
+  },
+  {
+    "w": "multiple",
+    "r": "multi(多) + ple(折叠, 来自拉丁语plicare) -> 多次折叠的 -> 多种多样的、倍数",
+    "c": [
+      "The research project involves multiple universities collaborating across different academic disciplines.",
+      "这个研究项目涉及多所大学跨不同学科的合作。"
+    ]
+  },
+  {
+    "w": "multiplication",
+    "r": "multi(多) + plic(折叠) + -ation(名词后缀) -> 多次折叠 -> 乘法、增加",
+    "c": [
+      "Students learned the basics of multiplication and division during their first year of elementary school.",
+      "学生们在小学一年级学习了乘法和除法的基础知识。"
+    ]
+  },
+  {
+    "w": "multiply",
+    "r": "multi(多) + ply(折叠, 来自拉丁语plicare) -> 多次折叠 -> 乘",
+    "c": [
+      "Bacteria can multiply rapidly in warm and moist environments, posing health risks to humans.",
+      "细菌可以在温暖潮湿的环境中迅速繁殖, 对人类健康构成威胁。"
+    ]
+  },
+  {
+    "w": "multitude",
+    "r": "multi(多) + tude(名词后缀,表状态) -> 多的状态 -> 大量、多数",
+    "c": [
+      "A multitude of students attended the campus career fair to explore internship opportunities.",
+      "大量学生参加了校园招聘会以探索实习机会。"
+    ]
+  },
+  {
+    "w": "municipal",
+    "r": "muni(服务, 职责) + -cipal(形容词后缀) -> 负有市政职责的 -> 市的",
+    "c": [
+      "The municipal government announced plans to improve public transportation services across the city.",
+      "市政府宣布了改善全市公共交通服务的计划。"
+    ]
+  },
+  {
+    "w": "murder",
+    "r": "来自古英语morth(谋杀), 与德语Mord同源 -> 谋杀",
+    "c": [
+      "The detective novel explores the psychological motives behind a fictional murder case.",
+      "这本侦探小说探讨了一宗虚构谋杀案背后的心理动机。"
+    ]
+  },
+  {
+    "w": "murmur",
+    "r": "来自拉丁语murmur(低语), 拟声词, 模仿低语声 -> 低语",
+    "c": [
+      "Students could hear the murmur of conversation from the hallway outside the lecture hall.",
+      "学生们可以听到演讲厅外走廊里低声交谈的声音。"
+    ]
+  },
+  {
+    "w": "muscle",
+    "r": "来自拉丁语musculus(肌肉, 小老鼠), 因肌肉蠕动像老鼠而动 -> 肌肉、体力",
+    "c": [
+      "Regular exercise helps build muscle strength and improves overall physical fitness and health.",
+      "规律锻炼有助于增强肌肉力量并改善整体体能和健康状况。"
+    ]
+  },
+  {
+    "w": "muscular",
+    "r": "muscle(肌肉) + -ar(形容词后缀) -> 肌肉的",
+    "c": [
+      "The muscular system enables the human body to move and maintain posture throughout daily activities.",
+      "肌肉系统使人体能够在日常活动中移动并保持姿势。"
+    ]
+  },
+  {
+    "w": "muse",
+    "r": "来自拉丁语musa(缪斯女神), 引申为沉思 -> 沉思、默想",
+    "c": [
+      "Sitting by the window, she began to muse about her future career path after graduation.",
+      "她坐在窗边, 开始沉思毕业后未来的职业道路。"
+    ]
+  },
+  {
+    "w": "museum",
+    "r": "muse(缪斯, 艺术) + -um(名词后缀,场所) -> 艺术之神的殿堂 -> 博物馆",
+    "c": null
+  },
+  {
+    "w": "mushroom",
+    "r": "mush(软块) + room(房间/空间) -> 长在潮湿处的软块状菌 -> 蘑菇",
+    "c": null
+  },
+  {
+    "w": "music",
+    "r": "来自希腊语mousike(缪斯的艺术), 引申为音乐 -> 音乐",
+    "c": null
+  },
+  {
+    "w": "musical",
+    "r": "music(音乐) + -al(形容词后缀) -> 音乐的、音调优美的",
+    "c": null
+  },
+  {
+    "w": "musician",
+    "r": "music(音乐) + -ian(人) -> 从事音乐的人 -> 音乐家",
+    "c": null
+  },
+  {
+    "w": "must",
+    "r": "来自古英语moste(必须), 与德语müssen同源 -> 必须",
+    "c": [
+      "Students must complete all required courses before they can graduate from the university program.",
+      "学生必须完成所有必修课程才能从大学课程毕业。"
+    ]
+  },
+  {
+    "w": "mustard",
+    "r": "来自拉丁语mustum(新酒), 芥末味如新酒般辛辣 -> 芥子、芥末",
+    "c": [
+      "The cafeteria served sandwiches with mustard and other condiments for lunch every day.",
+      "食堂每天午餐供应配有芥末和其他调味品的三明治。"
+    ]
+  },
+  {
+    "w": "mute",
+    "r": "来自拉丁语mutus(沉默的), 与希腊语mystos同源 -> 沉默的、哑的",
+    "c": [
+      "The student remained mute during the entire debate, surprising everyone who knew him well.",
+      "这名学生在整场辩论中保持沉默, 让所有了解他的人都感到惊讶。"
+    ]
+  },
+  {
+    "w": "mutter",
+    "r": "来自古英语motian(咕哝), 拟声词 -> 咕哝、抱怨",
+    "c": [
+      "Students began to mutter complaints when the professor announced another assignment before midterm.",
+      "当教授宣布期中考试前又有一项作业时, 学生们开始咕哝着抱怨。"
+    ]
+  },
+  {
+    "w": "mutual",
+    "r": "mut(相互, 来自拉丁语mutare交换) + -ual(形容词后缀) -> 互相交换的 -> 相互的",
+    "c": null
+  },
+  {
+    "w": "my",
+    "r": "来自古英语min(我的), 与德语mein同源 -> 我的",
+    "c": [
+      "My roommate and I often study together in the library and share notes before exams.",
+      "我和室友经常一起在图书馆学习并在考试前分享笔记。"
+    ]
+  },
+  {
+    "w": "myself",
+    "r": "my(我的) + self(自己) -> 我自己的本身 -> 我自己、我亲自",
+    "c": null
+  },
+  {
+    "w": "mysterious",
+    "r": "myst(神秘) + -erious(形容词后缀,充满…的) -> 充满神秘的 -> 神秘的",
+    "c": [
+      "The mysterious disappearance of the ancient civilization continues to puzzle archaeologists worldwide.",
+      "古文明的神秘消失一直困扰着全世界的考古学家。"
+    ]
+  },
+  {
+    "w": "mysteriously",
+    "r": "mysterious(神秘的) + -ly(副词后缀) -> 神秘地",
+    "c": [
+      "The documents mysteriously vanished from the heavily guarded archive room overnight.",
+      "文件一夜之间从戒备森严的档案室里神秘消失了。"
+    ]
+  },
+  {
+    "w": "mystery",
+    "r": "来自希腊语mysterion(秘密, 奥秘), 引申为神秘 -> 神秘",
+    "c": null
+  },
+  {
+    "w": "myth",
+    "r": "来自希腊语mythos(故事, 传说) -> 神话",
+    "c": null
+  },
+  {
+    "w": "nail",
+    "r": "来自古英语naegel(钉子), 与德语Nagel同源 -> 钉、钉子",
+    "c": [
+      "The carpenter used a hammer and nail to secure the wooden frame of the bookshelf.",
+      "木匠用锤子和钉子固定书架的木框架。"
+    ]
+  },
+  {
+    "w": "naive",
+    "r": "来自拉丁语nativus(天生的, 纯朴的), natus出生 -> 天真的",
+    "c": null
+  },
+  {
+    "w": "naked",
+    "r": "来自古英语nacod(裸体的), 与德语nackt同源 -> 裸体的",
+    "c": [
+      "The artist painted a picture of a naked figure standing by the window in soft morning light.",
+      "这位艺术家画了一幅裸体人物在柔和晨光中站在窗边的画。"
+    ]
+  },
+  {
+    "w": "name",
+    "r": "来自古英语nama(名字), 与德语Name同源 -> 名称、命名",
+    "c": null
+  },
+  {
+    "w": "namely",
+    "r": "name(名字) + -ly(副词后缀) -> 说出名字地 -> 即",
+    "c": [
+      "Three students were selected for the scholarship, namely Li Ming, Wang Fang, and Zhang Wei.",
+      "三名学生获得了奖学金, 即李明、王芳和张伟。"
+    ]
+  },
+  {
+    "w": "nap",
+    "r": "来自古英语hnappian(打盹), 与德语nappen同源 -> 小睡",
+    "c": [
+      "Many students take a short nap after lunch to refresh themselves before afternoon classes.",
+      "许多学生午饭后小睡一会儿, 以便在下午上课前恢复精神。"
+    ]
+  },
+  {
+    "w": "napkin",
+    "r": "nap(小桌布) + kin(小的), 原指小桌布 -> 餐巾",
+    "c": [
+      "The restaurant provided each diner with a clean napkin and a set of silverware at the table.",
+      "餐厅为每位用餐者在桌上准备了干净的餐巾和一套银餐具。"
+    ]
+  },
+  {
+    "w": "narration",
+    "r": "narr(讲述, 来自拉丁语narrare) + -ation(名词后缀) -> 讲述的行为 -> 叙述",
+    "c": [
+      "The course on creative writing focuses on narration techniques and character development in fiction.",
+      "创意写作课程侧重于小说中的叙事技巧和人物塑造。"
+    ]
+  },
+  {
+    "w": "narrative",
+    "r": "narr(讲述) + -ative(形容词/名词后缀) -> 讲述的 -> 叙述",
+    "c": null
+  },
+  {
+    "w": "narrow",
+    "r": "来自古英语nearh(近的), 与德语nah同源 -> 狭窄的",
+    "c": null
+  },
+  {
+    "w": "nasty",
+    "r": "来自古英语næstig(肮脏的), 原意为下流的 -> 丑陋的、惹人厌的",
+    "c": [
+      "The nasty comments on social media deeply hurt the young student's mental health and self-esteem.",
+      "社交媒体上的恶毒评论严重伤害了这名年轻学生的心理健康和自尊。"
+    ]
+  },
+  {
+    "w": "nation",
+    "r": "nat(出生, 来自拉丁语nasci) + -ion(名词后缀) -> 出生的群体 -> 国家",
+    "c": [
+      "The nation's education system has undergone significant reforms over the past two decades.",
+      "该国的教育体系在过去二十年中经历了重大改革。"
+    ]
+  },
+  {
+    "w": "national",
+    "r": "nation(国家) + -al(形容词后缀) -> 国家的",
+    "c": [
+      "The national university ranking system evaluates institutions based on research output and teaching quality.",
+      "全国大学排名系统根据研究成果和教学质量评估院校。"
+    ]
+  },
+  {
+    "w": "nationality",
+    "r": "national(国家的) + -ity(名词后缀) -> 国家/民族的属性 -> 民族",
+    "c": null
+  },
+  {
+    "w": "native",
+    "r": "nat(出生) + -ive(形容词后缀) -> 生来就有的 -> 本地的、天生的",
+    "c": null
+  },
+  {
+    "w": "natural",
+    "r": "nat(出生) + -ur- + -al(形容词后缀) -> 与生俱来的 -> 自然的",
+    "c": null
+  },
+  {
+    "w": "nature",
+    "r": "nat(出生) + -ur- + -e(名词后缀) -> 天生的事物 -> 自然界、性质",
+    "c": null
+  },
+  {
+    "w": "naughty",
+    "r": "来自古英语nahti(淘气的), 原意为一无所有的 -> 淘气的",
+    "c": [
+      "The naughty boy was sent to the principal's office for disrupting class and disturbing other students.",
+      "这个淘气的男孩因扰乱课堂和打扰其他同学被送到校长办公室。"
+    ]
+  },
+  {
+    "w": "naval",
+    "r": "nav(船, 来自拉丁语navis) + -al(形容词后缀) -> 与船有关的 -> 海军的",
+    "c": [
+      "The naval academy trains officers for service in the country's maritime defense forces.",
+      "海军学院为该国海上防御部队培养军官。"
+    ]
+  },
+  {
+    "w": "navigate",
+    "r": "nav(船) + -ig(驾驶) + -ate(动词后缀) -> 驾驶船只 -> 航行、驾驶",
+    "c": [
+      "Sailors must learn to navigate by the stars as well as by modern electronic navigation systems.",
+      "水手们必须学会通过星辰以及现代电子导航系统进行航行。"
+    ]
+  },
+  {
+    "w": "navigation",
+    "r": "nav(船) + -ig(驾驶) + -ation(名词后缀) -> 驾驶的技术 -> 导航",
+    "c": null
+  },
+  {
+    "w": "navy",
+    "r": "来自拉丁语navis(船), 引申为海军(舰船部队) -> 海军",
+    "c": [
+      "The country's navy regularly conducts joint military exercises with its allies in the Pacific region.",
+      "该国海军定期与盟国在太平洋地区举行联合军事演习。"
+    ]
+  },
+  {
+    "w": "near",
+    "r": "来自古英语near(近的), 与德语nah同源 -> 近的、亲近的",
+    "c": [
+      "Students living near campus can walk to class in less than ten minutes every morning.",
+      "住在校园附近的学生每天早上不到十分钟就能走到教室。"
+    ]
+  },
+  {
+    "w": "nearby",
+    "r": "near(近) + by(在旁边) -> 在附近的 -> 附近的",
+    "c": null
+  },
+  {
+    "w": "nearly",
+    "r": "near(近) + -ly(副词后缀) -> 接近地 -> 几乎",
+    "c": [
+      "Nearly all first-year students live on campus during their initial semester at the university.",
+      "几乎所有一年级学生在大学第一学期都住在校园里。"
+    ]
+  },
+  {
+    "w": "neat",
+    "r": "来自古英语neat(整洁的), 与德语nett同源 -> 整洁的",
+    "c": [
+      "The student kept her desk neat and organized, making it easy to find textbooks and notes.",
+      "这名学生的书桌整洁有序, 很容易找到课本和笔记。"
+    ]
+  },
+  {
+    "w": "necessary",
+    "r": "ne(不) + cess(走, 来自拉丁语cedere) + -ary(形容词后缀) -> 不能走开的 -> 必要的",
+    "c": null
+  },
+  {
+    "w": "necessitate",
+    "r": "ne(不) + cess(走) + -itate(动词后缀) -> 使不能走开 -> 迫使",
+    "c": [
+      "The rising cost of education will necessitate additional government funding for public universities.",
+      "教育成本的上升将迫使政府为公立大学提供额外资金。"
+    ]
+  },
+  {
+    "w": "necessity",
+    "r": "ne(不) + cess(走) + -ity(名词后缀) -> 不能走开的状态 -> 必要、必然性",
+    "c": null
+  },
+  {
+    "w": "neck",
+    "r": "来自古英语hnecca(脖子), 与德语Hals同源 -> 脖子",
+    "c": [
+      "She wore a beautiful gold necklace with a small pendant around her neck at the graduation ceremony.",
+      "她在毕业典礼上脖子上戴着一条漂亮的金项链, 上面挂着一个小吊坠。"
+    ]
+  },
+  {
+    "w": "necklace",
+    "r": "neck(脖子) + lace(带子) -> 脖子上的带子 -> 项链",
+    "c": [
+      "The diamond necklace was displayed in a glass case at the museum's jewelry exhibition.",
+      "钻石项链陈列在博物馆珠宝展的玻璃柜中。"
+    ]
+  },
+  {
+    "w": "need",
+    "r": "来自古英语nied(需要), 与德语Not同源 -> 需要",
+    "c": null
+  },
+  {
+    "w": "needle",
+    "r": "来自古英语naedel(针), 与德语Nadel同源 -> 针",
+    "c": [
+      "The doctor used a thin needle to administer the vaccine to the patient in the clinic.",
+      "医生在诊所用细针为病人接种疫苗。"
+    ]
+  },
+  {
+    "w": "needy",
+    "r": "need(需要) + -y(形容词后缀) -> 需要帮助的 -> 贫穷的",
+    "c": null
+  },
+  {
+    "w": "negative",
+    "r": "neg(否定, 来自拉丁语negare) + -ative(形容词后缀) -> 否定的 -> 消极的",
+    "c": null
+  },
+  {
+    "w": "neglect",
+    "r": "neg(否定) + lect(选择, 来自拉丁语legere) -> 不选择、忽略 -> 忽视、疏忽",
+    "c": null
+  },
+  {
+    "w": "negligible",
+    "r": "neg(否定) + lig(选择) + -ible(能…的) -> 可以忽略的 -> 微不足道的",
+    "c": [
+      "The damage caused by the minor error in calculation was negligible compared to the overall project budget.",
+      "与整个项目预算相比, 计算中这个小错误造成的损失微不足道。"
+    ]
+  },
+  {
+    "w": "negotiate",
+    "r": "neg(不) + oti(闲, 来自拉丁语otium) + -ate(动词后缀) -> 不得闲、做生意 -> 谈判",
+    "c": [
+      "The two companies will negotiate the terms of their partnership agreement next month.",
+      "两家公司将在下个月就其合作协议的条款进行谈判。"
+    ]
+  },
+  {
+    "w": "negotiation",
+    "r": "negotiate(谈判) + -ion(名词后缀) -> 协商",
+    "c": [
+      "After several rounds of negotiation, the two sides finally reached a mutually beneficial agreement.",
+      "经过几轮谈判, 双方最终达成了互利协议。"
+    ]
+  },
+  {
+    "w": "neighbor",
+    "r": "neigh(附近) + -bor(人, 来自古英语bur居住者) -> 附近居住的人 -> 邻居",
+    "c": null
+  },
+  {
+    "w": "neighborhood",
+    "r": "neighbor(邻居) + -hood(名词后缀,表状态/区域) -> 邻居所在的区域 -> 小区、社区",
+    "c": null
+  },
+  {
+    "w": "neighbouring",
+    "r": "neighbour(邻居) + -ing(形容词后缀) -> 邻近的",
+    "c": [
+      "The neighbouring countries signed a trade agreement to strengthen economic cooperation and cultural exchange.",
+      "邻近国家签署了一项贸易协定, 以加强经济合作和文化交流。"
+    ]
+  },
+  {
+    "w": "neither",
+    "r": "ne(不) + either(任一) -> 两者都不 -> 两个都不",
+    "c": null
+  },
+  {
+    "w": "nephew",
+    "r": "neph(侄, 来自拉丁语nepos) + -ew(后缀) -> 兄弟的儿子 -> 侄子",
+    "c": [
+      "My nephew started his first year of college this fall and is studying computer science.",
+      "我侄子今年秋天开始上大学一年级, 学习计算机科学。"
+    ]
+  },
+  {
+    "w": "nerve",
+    "r": "来自拉丁语nervus(筋, 神经), 与希腊语neuron同源 -> 神经",
+    "c": [
+      "The research study examined how nerve cells communicate with each other in the human brain.",
+      "这项研究探讨了人脑中神经细胞如何相互传递信息。"
+    ]
+  },
+  {
+    "w": "nervous",
+    "r": "nerv(神经) + -ous(形容词后缀) -> 神经紧张的 -> 紧张的",
+    "c": [
+      "Many students feel nervous before giving presentations in front of a large audience.",
+      "许多学生在大批观众面前做演讲之前都会感到紧张。"
+    ]
+  },
+  {
+    "w": "nest",
+    "r": "来自古英语nest(巢), 与德语Nest同源 -> 窝",
+    "c": [
+      "The bird carefully built its nest using twigs and leaves on the branch of the old oak tree.",
+      "这只鸟用小树枝和树叶在老橡树枝上精心筑巢。"
+    ]
+  },
+  {
+    "w": "net",
+    "r": "来自古英语nett(网), 与德语Netz同源 -> 网、净的",
+    "c": null
+  },
+  {
+    "w": "network",
+    "r": "net(网) + work(工作) -> 网状工作系统 -> 网络",
+    "c": null
+  },
+  {
+    "w": "neutral",
+    "r": "neutr(两者都不, 中间) + -al(形容词后缀) -> 不偏不倚的 -> 中立的、中性的",
+    "c": [
+      "Switzerland has long maintained a policy of neutral during international conflicts and disputes.",
+      "瑞士长期以来在国际冲突和争端中保持中立政策。"
+    ]
+  },
+  {
+    "w": "neutrality",
+    "r": "neutral(中立的) + -ity(名词后缀) -> 中立的状态 -> 中立",
+    "c": null
+  },
+  {
+    "w": "neutron",
+    "r": "neutr(中性的, 中间的) + -on(名词后缀,表粒子) -> 中性粒子 -> 中子",
+    "c": [
+      "Scientists discovered that a neutron has nearly the same mass as a proton but no electric charge.",
+      "科学家发现, 中子的质量几乎与质子相同, 但不带电荷。"
+    ]
+  },
+  {
+    "w": "never",
+    "r": "ne(不) + ever(曾经) -> 从不曾 -> 从不",
+    "c": [
+      "Students should never plagiarize others' work or use unauthorized materials during examinations.",
+      "学生在考试期间绝不应抄袭他人作品或使用未经授权的材料。"
+    ]
+  },
+  {
+    "w": "nevertheless",
+    "r": "never(从不) + the(这) + less(少) -> 尽管如此也不少 -> 然而",
+    "c": [
+      "The experiment failed several times; nevertheless, the research team continued to refine their approach.",
+      "实验失败了好几次; 然而, 研究团队继续改进他们的方法。"
+    ]
+  },
+  {
+    "w": "new",
+    "r": "来自古英语neowe(新的), 与德语neu同源 -> 新的",
+    "c": null
+  },
+  {
+    "w": "news",
+    "r": "来自古英语newes(新事物), 与法语nouvelles同源 -> 新闻",
+    "c": [
+      "Breaking news about the scientific discovery spread rapidly across university campuses worldwide.",
+      "关于这一科学发现的突发新闻在全球大学校园里迅速传播。"
+    ]
+  },
+  {
+    "w": "newspaper",
+    "r": "news(新闻) + paper(纸) -> 印新闻的纸 -> 报纸",
+    "c": null
+  },
+  {
+    "w": "next",
+    "r": "来自古英语nehsta(最近的), 与德语nächste同源 -> 下一个",
+    "c": null
+  },
+  {
+    "w": "nice",
+    "r": "来自古英语nice(愚蠢的, 精细的), 源自拉丁语nescius -> 很好的",
+    "c": null
+  },
+  {
+    "w": "nickel",
+    "r": "来自瑞典语kopparmalm(铜矿石), 缩写为nickel -> 镍",
+    "c": [
+      "The alloy contains small amounts of nickel, which gives the metal increased strength and durability.",
+      "这种合金含有少量镍, 可以增加金属的强度和耐用性。"
+    ]
+  },
+  {
+    "w": "nickname",
+    "r": "nick(刻痕) + name(名字) -> 额外刻上去的名字 -> 昵称",
+    "c": null
+  },
+  {
+    "w": "niece",
+    "r": "nie(侄女, 来自拉丁语neptis) + -ce(后缀) -> 兄弟的女儿 -> 侄女",
+    "c": [
+      "My niece recently won first prize in a national English speaking competition for high school students.",
+      "我侄女最近在全国高中生英语演讲比赛中获得了一等奖。"
+    ]
+  },
+  {
+    "w": "night",
+    "r": "来自古英语niht(夜晚), 与德语Nacht同源 -> 夜晚",
+    "c": [
+      "Many students stay up late at night to finish assignments and prepare for upcoming examinations.",
+      "许多学生熬夜完成作业并为即将到来的考试做准备。"
+    ]
+  },
+  {
+    "w": "nightmare",
+    "r": "night(夜晚) + mare(恶魔) -> 夜晚的恶魔 -> 恶梦",
+    "c": [
+      "Recurring nightmares about failing exams kept the student from getting a good night's sleep.",
+      "反复出现的关于考试不及格的噩梦让这名学生睡不好觉。"
+    ]
+  },
+  {
+    "w": "nil",
+    "r": "来自拉丁语nihil(什么都没有), ne不+hilum小 -> 无、零",
+    "c": [
+      "The team scored nil goals in the first half but managed to win the match in the final minute.",
+      "这支球队在上半场一球未进, 但在最后一分钟赢得了比赛。"
+    ]
+  },
+  {
+    "w": "nine",
+    "r": "来自古英语nigon(九), 与德语neun同源 -> 九",
+    "c": [
+      "The mathematics course requires students to solve nine problems for homework every week.",
+      "这门数学课要求学生每周完成九道家庭作业题。"
+    ]
+  }
+]

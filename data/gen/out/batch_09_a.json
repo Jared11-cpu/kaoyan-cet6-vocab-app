@@ -1,0 +1,602 @@
+[
+  {
+    "w": "depress",
+    "r": "de-(向下) + press(压) -> 向下压 -> 降低;使沮丧",
+    "c": [
+      "Rising interest rates tend to depress consumer spending and economic growth.",
+      "利率上升往往会抑制消费者支出和经济增长。"
+    ]
+  },
+  {
+    "w": "depression",
+    "r": "de-(向下) + press(压) + -ion(名词后缀) -> 向下压的状态 -> 抑郁;萧条"
+  },
+  {
+    "w": "deprivation",
+    "r": "de-(去掉) + priv(剥夺) + -ation(名词后缀) -> 被夺去的状态 -> 剥夺;匮乏",
+    "c": [
+      "Prolonged sleep deprivation can severely impair cognitive function and emotional regulation.",
+      "长期睡眠剥夺会严重损害认知功能和情绪调节。"
+    ]
+  },
+  {
+    "w": "deprive",
+    "r": "de-(去掉) + prive(私有物) -> 夺去私有物 -> 剥夺"
+  },
+  {
+    "w": "depth",
+    "r": "deep(深的) + -th(名词后缀,表状态) -> 深度",
+    "c": [
+      "The novel explores the psychological depth of human suffering and resilience.",
+      "这部小说探索了人类苦难与韧性的心理深度。"
+    ]
+  },
+  {
+    "w": "deputy",
+    "r": "de-(向下) + put(考虑) + -y(名词后缀) -> 被下放考虑的人 -> 副手;代理人",
+    "c": [
+      "The deputy director oversees the daily operations of the research institute.",
+      "副主任监督研究所的日常运作。"
+    ]
+  },
+  {
+    "w": "derail",
+    "r": "de-(向下/离开) + rail(轨道) -> 离开轨道 -> 脱轨"
+  },
+  {
+    "w": "derivation",
+    "r": "de- (向下/完全) + riv(河流,引申为来源) + -ation(名词后缀) -> 引出;起源",
+    "c": [
+      "The derivation of this scientific term traces back to ancient Greek philosophy.",
+      "这个科技术语的起源可以追溯到古希腊哲学。"
+    ]
+  },
+  {
+    "w": "derive",
+    "r": "de-(向下/完全) + rive(河流,来源) -> 从源头引出 -> 取得;源自",
+    "c": [
+      "Many researchers derive meaningful insights from analyzing large-scale social survey data.",
+      "许多研究人员通过分析大规模社会调查数据获得有意义的见解。"
+    ]
+  },
+  {
+    "w": "descend",
+    "r": "de-(向下) + scend(爬,攀登) -> 向下爬 -> 下降",
+    "c": [
+      "As temperatures descend, wildlife populations face increasingly harsh survival conditions.",
+      "随着气温下降,野生动物种群面临日益严峻的生存条件。"
+    ]
+  },
+  {
+    "w": "descendant",
+    "r": "de-(向下) + scend(爬) + -ant(名词后缀,表人) -> 从上面爬下来的人 -> 后代;后裔",
+    "c": [
+      "Every modern human is a descendant of African ancestors who migrated across continents.",
+      "每一个现代人都是迁徙至各大陆的非洲祖先的后裔。"
+    ]
+  },
+  {
+    "w": "descent",
+    "r": "de-(向下) + scent(爬,scend的变体) -> 向下爬的动作 -> 下降;血统",
+    "c": [
+      "The gradual descent of the balloon allowed scientists to collect atmospheric data at different altitudes.",
+      "气球的缓慢下降使科学家能够在不同高度收集大气数据。"
+    ]
+  },
+  {
+    "w": "describe",
+    "r": "de-(向下/完全) + scrib(写) + -e -> 完全写下来 -> 描述"
+  },
+  {
+    "w": "description",
+    "r": "de-(完全) + script(写) + -ion(名词后缀) -> 写下来的内容 -> 描述"
+  },
+  {
+    "w": "descriptive",
+    "r": "de-(完全) + script(写) + -ive(形容词后缀) -> 描写的;描述的",
+    "c": [
+      "The study employs descriptive statistics to analyze patterns in educational achievement gaps.",
+      "该研究采用描述性统计来分析教育成就差距的模式。"
+    ]
+  },
+  {
+    "w": "desert",
+    "r": "de-(分开) + sert(连接,加入) -> 分开连接 -> 遗弃;沙漠(被遗弃之地)"
+  },
+  {
+    "w": "deserve",
+    "r": "de-(完全) + serve(服务,保持) -> 完全应得的服务 -> 值得;应得"
+  },
+  {
+    "w": "design",
+    "r": "de-(向下) + sign(标记,符号) -> 向下标记出图案 -> 设计"
+  },
+  {
+    "w": "designate",
+    "r": "de-(向下) + sign(标记) + -ate(动词后缀) -> 标记出来 -> 指定;指派"
+  },
+  {
+    "w": "desirable",
+    "r": "desire(渴望) + -able(可…的) -> 值得渴望的 -> 称心的;可取的"
+  },
+  {
+    "w": "desire",
+    "r": "de-(完全) + sire(愿望,星辰) -> 完全的愿望 -> 渴望"
+  },
+  {
+    "w": "desk",
+    "r": "联想: desk音似「台桌」, 桌子;工作台"
+  },
+  {
+    "w": "desolate",
+    "r": "de-(完全) + sol(太阳,单独) + -ate(形容词后缀) -> 完全独处的 -> 荒凉的",
+    "c": [
+      "The once-thriving industrial town now presents a desolate landscape of abandoned factories.",
+      "曾经繁荣的工业城镇如今呈现出废弃工厂的荒凉景象。"
+    ]
+  },
+  {
+    "w": "despair",
+    "r": "de-(向下/完全) + spair(希望,spir的变体) -> 完全没有希望 -> 绝望"
+  },
+  {
+    "w": "despatch",
+    "r": "de-(向下/离开) + spatch(发送,patch变体) -> 派出去 -> 派遣",
+    "c": [
+      "The military command will despatch additional troops to reinforce the border region.",
+      "军事指挥部将派遣更多部队增援边境地区。"
+    ]
+  },
+  {
+    "w": "desperate",
+    "r": "de-(完全) + sper(希望) + -ate(形容词后缀) -> 完全没有希望的 -> 绝望的;不顾一切的"
+  },
+  {
+    "w": "despise",
+    "r": "de-(向下/贬低) + spise(看,spect的变体) -> 向下看 -> 轻视;鄙视",
+    "c": [
+      "Scholars often despise superficial arguments that lack rigorous empirical evidence.",
+      "学者们常常鄙视缺乏严格经验证据的肤浅论点。"
+    ]
+  },
+  {
+    "w": "despite",
+    "r": "de-(向下/分开) + spit(看,spic变体) + -e -> 分开看 -> 尽管(不顾)",
+    "c": [
+      "Despite significant technological advances, income inequality remains a persistent social challenge.",
+      "尽管技术取得了重大进步,收入不平等仍然是一个持续的社会挑战。"
+    ]
+  },
+  {
+    "w": "dessert",
+    "r": "联想: dessert两个s,像两个甜点勺, 甜点"
+  },
+  {
+    "w": "destination",
+    "r": "destin(确定,目的) + -ation(名词后缀) -> 被确定的目的地 -> 目的地"
+  },
+  {
+    "w": "destine",
+    "r": "de-(向下/完全) + stin(站立,确定) + -e -> 站定了 -> 命定;注定",
+    "c": [
+      "Some philosophers argue that humans are not destine to a fixed fate but shape their own future.",
+      "一些哲学家认为,人类并非命中注定,而是塑造自己的未来。"
+    ]
+  },
+  {
+    "w": "destined",
+    "r": "destine(注定) + -ed(形容词后缀) -> 命中注定的",
+    "c": [
+      "The young prodigy seemed destined to revolutionize the field of quantum computing.",
+      "这位年轻的天才似乎注定要革新量子计算领域。"
+    ]
+  },
+  {
+    "w": "destiny",
+    "r": "destin(确定,命运) + -y(名词后缀) -> 命运;天命"
+  },
+  {
+    "w": "destroy",
+    "r": "de-(向下/完全) + stroy(建造,struct变体) -> 完全拆毁建造的东西 -> 摧毁"
+  },
+  {
+    "w": "destruction",
+    "r": "de-(完全) + struct(建造) + -ion(名词后缀) -> 完全拆毁 -> 破坏;毁灭"
+  },
+  {
+    "w": "destructive",
+    "r": "de-(完全) + struct(建造) + -ive(形容词后缀) -> 破坏的;毁灭性的",
+    "c": [
+      "Deforestation has destructive consequences for both biodiversity and climate stability.",
+      "森林砍伐对生物多样性和气候稳定都具有破坏性后果。"
+    ]
+  },
+  {
+    "w": "detach",
+    "r": "de-(分开/离开) + tach(接触,钉) -> 分开接触 -> 分离;派遣",
+    "c": [
+      "Surgeons must detach themselves emotionally to make rational decisions under pressure.",
+      "外科医生必须在情感上保持超然,才能在压力下做出理性决定。"
+    ]
+  },
+  {
+    "w": "detached",
+    "r": "detach(分离) + -ed(形容词后缀) -> 分离的;超然的",
+    "c": [
+      "A detached observer can often identify patterns that participants themselves fail to notice.",
+      "超然的观察者往往能发现参与者自己未能注意到的模式。"
+    ]
+  },
+  {
+    "w": "detail",
+    "r": "de-(向下/完全) + tail(切,割) -> 切碎的部分 -> 细节"
+  },
+  {
+    "w": "detain",
+    "r": "de-(向下/完全) + tain(拿,握) -> 完全拿住不放 -> 扣留;拘留",
+    "c": [
+      "Immigration authorities may detain individuals whose legal status remains uncertain.",
+      "移民当局可能会拘留法律身份不确定的个人。"
+    ]
+  },
+  {
+    "w": "detect",
+    "r": "de-(向下/完全) + tect(覆盖) -> 揭开覆盖物 -> 查明;发现",
+    "c": [
+      "Modern telescopes can detect faint signals from galaxies billions of light-years away.",
+      "现代望远镜可以探测到数十亿光年外星系的微弱信号。"
+    ]
+  },
+  {
+    "w": "detection",
+    "r": "de-(完全) + tect(覆盖) + -ion(名词后缀) -> 揭开覆盖的行为 -> 察觉;侦查",
+    "c": [
+      "Early detection of cognitive decline significantly improves treatment outcomes for elderly patients.",
+      "认知衰退的早期发现显著改善了老年患者的治疗效果。"
+    ]
+  },
+  {
+    "w": "detective",
+    "r": "de-(完全) + tect(覆盖) + -ive(名词后缀,表人) -> 揭开真相的人 -> 侦探",
+    "c": [
+      "The detective novel explores the psychological complexities of criminal investigation.",
+      "这部侦探小说探索了刑事侦查的心理复杂性。"
+    ]
+  },
+  {
+    "w": "detector",
+    "r": "de-(完全) + tect(覆盖) + -or(名词后缀,表物) -> 探测的装置 -> 探测器",
+    "c": [
+      "The research team installed a high-sensitivity detector to measure radiation levels continuously.",
+      "研究团队安装了一个高灵敏度探测器来持续测量辐射水平。"
+    ]
+  },
+  {
+    "w": "deter",
+    "r": "de-(向下/阻止) + ter(害怕,恐怖) -> 使人害怕而停止 -> 阻止;威慑"
+  },
+  {
+    "w": "deteriorate",
+    "r": "de-(向下/变坏) + terior(更…) + -ate(动词后缀) -> 变得更坏 -> 恶化"
+  },
+  {
+    "w": "deterioration",
+    "r": "deterior(更坏的) + -ation(名词后缀) -> 恶化;退化",
+    "c": [
+      "The rapid deterioration of coastal ecosystems threatens the livelihoods of fishing communities.",
+      "沿海生态系统的迅速恶化威胁着渔业社区的生计。"
+    ]
+  },
+  {
+    "w": "determine",
+    "r": "de-(完全) + termin(界限,边界) + -e -> 划下界限 -> 决定;确定"
+  },
+  {
+    "w": "develop",
+    "r": "de-(向下/完全) + velop(包裹,卷) -> 打开包裹 -> 发展;开发"
+  },
+  {
+    "w": "deviate",
+    "r": "de-(离开) + vi(道路) + -ate(动词后缀) -> 离开道路 -> 偏离;背离"
+  },
+  {
+    "w": "deviation",
+    "r": "de-(离开) + vi(道路) + -ation(名词后缀) -> 偏离道路的行为 -> 背离;偏差"
+  },
+  {
+    "w": "device",
+    "r": "de-(向下/完全) + vice(看,vis的变体) -> 看得见的东西 -> 装置;方法"
+  },
+  {
+    "w": "devil",
+    "r": "联想: devil音似「代我」, 恶魔代替我做坏事",
+    "c": [
+      "The old proverb warns that the devil is in the details of complex policy implementation.",
+      "古老的谚语警告说,魔鬼藏在复杂政策实施的细节中。"
+    ]
+  },
+  {
+    "w": "devise",
+    "r": "de-(向下/完全) + vise(看,vis变体) -> 看穿了想出来 -> 设计;发明"
+  },
+  {
+    "w": "devote",
+    "r": "de-(向下/完全) + vote(发誓,许愿) -> 完全许愿奉献 -> 奉献;致力于"
+  },
+  {
+    "w": "devotion",
+    "r": "devote(奉献) + -ion(名词后缀) -> 献身;专心",
+    "c": [
+      "Her lifelong devotion to public health research saved countless lives across developing nations.",
+      "她毕生致力于公共卫生研究,挽救了发展中国家无数人的生命。"
+    ]
+  },
+  {
+    "w": "devour",
+    "r": "de-(向下/完全) + vour(吃,vor的变体) -> 完全吃下去 -> 吞食;吞灭",
+    "c": [
+      "Wildfires can devour thousands of hectares of forest within a matter of hours.",
+      "野火可以在几小时内吞噬数千公顷的森林。"
+    ]
+  },
+  {
+    "w": "dew",
+    "r": "联想: dew音似「露」, 露水",
+    "c": [
+      "Morning dew on grass provides essential moisture for small insects and plants.",
+      "草上的晨露为小昆虫和植物提供了必要的水分。"
+    ]
+  },
+  {
+    "w": "diabetes",
+    "r": "dia-(通过,穿过) + betes(走,去) -> 多尿症 -> 糖尿病",
+    "c": [
+      "Obesity and sedentary lifestyles are major risk factors for developing type 2 diabetes.",
+      "肥胖和久坐不动的生活方式是患上2型糖尿病的主要风险因素。"
+    ]
+  },
+  {
+    "w": "diagnose",
+    "r": "dia-(通过,完全) + gnose(知道,判断) -> 完全知道 -> 诊断;判断",
+    "c": [
+      "Physicians use a combination of symptoms and lab tests to accurately diagnose the disease.",
+      "医生结合症状和实验室检查来准确诊断该疾病。"
+    ]
+  },
+  {
+    "w": "diagram",
+    "r": "dia-(通过,穿过) + gram(写,画) -> 画出来贯穿说明的图 -> 图表;图解",
+    "c": [
+      "The textbook includes a detailed diagram illustrating the process of cellular respiration.",
+      "教科书中包含一幅详细图表,说明了细胞呼吸的过程。"
+    ]
+  },
+  {
+    "w": "dial",
+    "r": "联想: dial音似「拨」, 拨号盘;拨号",
+    "c": [
+      "Users can dial the emergency number even without an active SIM card in most countries.",
+      "在大多数国家,即使没有激活的SIM卡,用户也可以拨打紧急电话。"
+    ]
+  },
+  {
+    "w": "dialect",
+    "r": "dia-(之间) + lect(选择,说) -> 在一群人之间说的话 -> 方言"
+  },
+  {
+    "w": "dialog",
+    "r": "dia-(之间) + log(说,话) -> 两人之间说话 -> 对话",
+    "c": [
+      "Constructive dialog between governments and civil society is crucial for democratic governance.",
+      "政府与公民社会之间的建设性对话对民主治理至关重要。"
+    ]
+  },
+  {
+    "w": "diameter",
+    "r": "dia-(穿过,相对) + meter(测量) -> 穿过测量的长度 -> 直径",
+    "c": [
+      "The new telescope has a primary mirror with a diameter of over eight meters.",
+      "这台新望远镜的主镜直径超过八米。"
+    ]
+  },
+  {
+    "w": "diamond",
+    "r": "dia-(穿过,发光) + mond(发光,m变体) -> 发光的宝石 -> 钻石",
+    "c": [
+      "Industrial diamond coatings are used to extend the lifespan of cutting tools and machinery.",
+      "工业金刚石涂层用于延长切削工具和机械的使用寿命。"
+    ]
+  },
+  {
+    "w": "diary",
+    "r": "di(天,日) + ary(名词后缀,与…有关) -> 每日的记录 -> 日记",
+    "c": [
+      "Researchers analyze personal diary entries to study the emotional development of adolescents.",
+      "研究人员分析个人日记条目来研究青少年的情感发展。"
+    ]
+  },
+  {
+    "w": "dictate",
+    "r": "dict(说,言) + -ate(动词后缀) -> 说出来 -> 口述;规定"
+  },
+  {
+    "w": "dictation",
+    "r": "dict(说) + -ation(名词后缀) -> 口说的内容 -> 听写;口述",
+    "c": [
+      "Language proficiency tests often include dictation exercises to assess listening and writing skills.",
+      "语言能力测试通常包括听写练习来评估听力和写作技能。"
+    ]
+  },
+  {
+    "w": "dictator",
+    "r": "dict(说) + -ator(名词后缀,表人) -> 一个人说了算的人 -> 独裁者",
+    "c": [
+      "The dictator suppressed all forms of political opposition and controlled the national media.",
+      "独裁者镇压了所有形式的政治反对派并控制了国家媒体。"
+    ]
+  },
+  {
+    "w": "dictionary",
+    "r": "diction(措辞,dict说) + -ary(名词后缀,与…有关) -> 与措辞有关的书 -> 词典",
+    "c": [
+      "A comprehensive dictionary is an indispensable tool for advanced language learners.",
+      "一本全面的词典是高级语言学习者不可或缺的工具。"
+    ]
+  },
+  {
+    "w": "die",
+    "r": "联想: die音似「殆」, 死;消亡"
+  },
+  {
+    "w": "diesel",
+    "r": "Diesel(发明人迪塞尔姓氏) -> 柴油发动机;柴油机",
+    "c": [
+      "Many European countries are phasing out diesel vehicles to reduce urban air pollution.",
+      "许多欧洲国家正在逐步淘汰柴油车辆以减少城市空气污染。"
+    ]
+  },
+  {
+    "w": "diet",
+    "r": "联想: diet音似「戴耳特」, 控制饮食需戴特别耳饰提醒自己"
+  },
+  {
+    "w": "differ",
+    "r": "dif-(分开,不同) + fer(带来,携带) -> 带来不同的东西 -> 不同;相异"
+  },
+  {
+    "w": "difference",
+    "r": "dif-(不同) + fer(带来) + -ence(名词后缀) -> 不同;差别"
+  },
+  {
+    "w": "different",
+    "r": "dif-(不同) + fer(带来) + -ent(形容词后缀) -> 不同的"
+  },
+  {
+    "w": "differentiate",
+    "r": "dif-(不同) + fer(带来) + -ent + -iate(动词后缀) -> 区分不同 -> 区分;辨别",
+    "c": [
+      "It is increasingly difficult to differentiate between authentic news and manipulated content online.",
+      "在网上区分真实新闻和被操纵的内容越来越困难。"
+    ]
+  },
+  {
+    "w": "differentiation",
+    "r": "differentiate(区分) + -ion(名词后缀) -> 区别;分化",
+    "c": [
+      "Product differentiation is a key strategy for companies competing in saturated markets.",
+      "产品差异化是企业在饱和市场中竞争的关键策略。"
+    ]
+  },
+  {
+    "w": "difficult",
+    "r": "dif-(不,否定) + fic(做) + -ult(形容词后缀) -> 难做的 -> 困难的"
+  },
+  {
+    "w": "difficulty",
+    "r": "dif-(不) + fic(做) + -ulty(名词后缀) -> 难做的事 -> 困难"
+  },
+  {
+    "w": "diffuse",
+    "r": "dif-(分开,散开) + fuse(流,倾倒) -> 向四处流 -> 弥漫;扩散"
+  },
+  {
+    "w": "dig",
+    "r": "联想: dig音似「挖」的古音, 挖;掘"
+  },
+  {
+    "w": "digest",
+    "r": "di-(分开,二) + gest(携带,运送) -> 分开运送(到身体各处) -> 消化;吸收",
+    "c": [
+      "The human body takes several hours to fully digest a meal rich in protein and fat.",
+      "人体需要几个小时才能完全消化富含蛋白质和脂肪的一餐。"
+    ]
+  },
+  {
+    "w": "digital",
+    "r": "digit(手指,脚趾) + -al(形容词后缀) -> 手指计数的 -> 数字的;数码的"
+  },
+  {
+    "w": "dignity",
+    "r": "dign(值得,尊严) + -ity(名词后缀) -> 值得尊敬的品质 -> 尊严"
+  },
+  {
+    "w": "dilemma",
+    "r": "di-(二,两) + lemma(假设,前提) -> 两个前提都不行 -> 困境;两难"
+  },
+  {
+    "w": "diligence",
+    "r": "dilig(勤奋,挑选) + -ence(名词后缀) -> 勤奋;勤勉",
+    "c": [
+      "Academic success depends not only on intelligence but also on consistent diligence and practice.",
+      "学业成功不仅取决于智力,还取决于持续的勤奋和练习。"
+    ]
+  },
+  {
+    "w": "diligent",
+    "r": "dilig(勤奋) + -ent(形容词后缀) -> 勤奋的",
+    "c": [
+      "Diligent students who review materials regularly tend to perform better on comprehensive exams.",
+      "定期复习材料的勤奋学生往往在综合考试中表现更好。"
+    ]
+  },
+  {
+    "w": "dilute",
+    "r": "di-(分开,散开) + lute(洗,冲) -> 冲散开 -> 稀释;冲淡",
+    "c": [
+      "Some food manufacturers dilute products with water to increase profit margins illegally.",
+      "一些食品制造商用水稀释产品以非法提高利润率。"
+    ]
+  },
+  {
+    "w": "dim",
+    "r": "联想: dim音似「低目」, 低眼看东西暗淡 -> 暗淡的;昏暗的",
+    "c": [
+      "The dim lighting in the library creates a quiet atmosphere conducive to focused study.",
+      "图书馆昏暗的灯光营造了一种有利于专注学习的安静氛围。"
+    ]
+  },
+  {
+    "w": "dimension",
+    "r": "di-(分开,二) + mens(测量) + -ion(名词后缀) -> 可测量的方向 -> 维度;尺寸"
+  },
+  {
+    "w": "diminish",
+    "r": "di-(向下/减少) + mini(小) + -ish(动词后缀,使…) -> 使变小 -> 削弱;减少"
+  },
+  {
+    "w": "dine",
+    "r": "di(日,天) + -ne(名词后缀) -> 白天吃饭 -> 进餐;吃饭",
+    "c": [
+      "Business professionals often dine with clients to discuss contracts in a relaxed setting.",
+      "商界专业人士经常与客户共进晚餐,在轻松的环境中讨论合同。"
+    ]
+  },
+  {
+    "w": "dinner",
+    "r": "dine(进餐) + -n + -er(名词后缀) -> 正餐;晚餐"
+  },
+  {
+    "w": "dinosaur",
+    "r": "deinos(希腊语:可怕的) + sauros(蜥蜴) -> 可怕的蜥蜴 -> 恐龙",
+    "c": [
+      "Paleontologists debate whether dinosaur extinction was caused primarily by asteroid impact.",
+      "古生物学家争论恐龙灭绝是否主要由小行星撞击引起。"
+    ]
+  },
+  {
+    "w": "dioxide",
+    "r": "di-(二,两) + oxide(氧化物) -> 二氧化物"
+  },
+  {
+    "w": "dip",
+    "r": "联想: dip音似「递」, 递进去蘸一下 -> 蘸;浸"
+  },
+  {
+    "w": "diploma",
+    "r": "di-(两,双) + ploma(折叠,纸) -> 对折的文书 -> 文凭;毕业证书"
+  },
+  {
+    "w": "diplomat",
+    "r": "diplo(折叠,双,引申为外交文书) + -mat(名词后缀,表人) -> 持外交文书的人 -> 外交官"
+  }
+]

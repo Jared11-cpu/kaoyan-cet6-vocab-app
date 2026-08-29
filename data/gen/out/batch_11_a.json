@@ -1,0 +1,606 @@
+[
+{
+"w": "eminent",
+"r": "e-(出) + min(突出,山) + -ent(形容词后缀) -> 突出出来的 -> 著名的",
+"c": [
+"The eminent sociologist published a groundbreaking study on urban inequality.",
+"这位著名的社会学家发表了一项关于城市不平等的开创性研究。"
+]
+},
+{
+"w": "emission",
+"r": "e-(出) + miss(送,发) + -ion(名词后缀) -> 送出的东西 -> 散发；发出物"
+},
+{
+"w": "emit",
+"r": "e-(出) + mit(送) -> 送出去 -> 放射"
+},
+{
+"w": "emotion",
+"r": "e-(出) + mot(移动) + -ion(名词后缀) -> 感情从内心移动出来 -> 情感"
+},
+{
+"w": "empathy",
+"r": "em-(=in,进入) + path(感情) + -y(名词后缀) -> 进入别人的感情 -> 共鸣",
+"c": [
+"Empathy allows clinicians to understand patients' experiences beyond clinical data.",
+"共情使临床医生能够超越临床数据去理解患者的经历。"
+]
+},
+{
+"w": "emperor",
+"r": "emper(命令,统治) + -or(表人) -> 发号施令的人 -> 皇帝",
+"c": [
+"The Roman emperor expanded the empire through a series of military campaigns.",
+"这位罗马皇帝通过一系列军事战役扩张了帝国。"
+]
+},
+{
+"w": "emphasis",
+"r": "em-(=in,进入) + phas(显示,出现) + -is(名词后缀) -> 使显现出来 -> 强调",
+"c": [
+"The report places special emphasis on the long-term effects of climate change.",
+"该报告特别强调了气候变化的长期影响。"
+]
+},
+{
+"w": "emphasise",
+"r": "em-(=in,进入) + phas(显示) + -ise(动词后缀) -> 使显出来 -> 着重",
+"c": [
+"Researchers emphasise the need for rigorous methodology in psychological experiments.",
+"研究人员着重指出在心理学实验中需要严谨的方法论。"
+]
+},
+{
+"w": "emphasize",
+"r": "em-(=in,进入) + phas(显示) + -ize(动词后缀) -> 使显现 -> 强调"
+},
+{
+"w": "empire",
+"r": "empir(=imper,命令,统治) + -e -> 统治的区域 -> 帝国",
+"c": [
+"The empire exerted significant cultural influence across three continents.",
+"这个帝国在三大洲施加了重大的文化影响。"
+]
+},
+{
+"w": "empirical",
+"r": "em-(=in,在…上) + pir(尝试,经验) + -ical(形容词后缀) -> 来自经验的 -> 经验主义的"
+},
+{
+"w": "employ",
+"r": "em-(=in,进入) + ploy(折叠,卷入) -> 卷入工作中 -> 雇佣；采用"
+},
+{
+"w": "employee",
+"r": "employ(雇佣) + -ee(被…的人) -> 被雇佣的人 -> 雇工"
+},
+{
+"w": "employer",
+"r": "employ(雇佣) + -er(做…的人) -> 雇佣者 -> 雇主"
+},
+{
+"w": "employment",
+"r": "employ(雇佣) + -ment(名词后缀) -> 雇用；工作"
+},
+{
+"w": "empty",
+"r": "联想: emp(音似「空的」) + ty -> 空的"
+},
+{
+"w": "enable",
+"r": "en-(使…成为) + able(能够的) -> 使能够"
+},
+{
+"w": "enchant",
+"r": "en-(使) + chant(歌,咒语) -> 用咒语迷住 -> 迷住；用魔法迷惑",
+"c": [
+"The artist's use of light and color can enchant viewers for hours.",
+"这位艺术家对光线和色彩的运用能让观众沉醉数小时。"
+]
+},
+{
+"w": "enclose",
+"r": "en-(=in,进入) + close(关闭) -> 关在里面 -> 附上；围住",
+"c": [
+"Please enclose your resume and cover letter in the application envelope.",
+"请在申请信封中附上您的简历和求职信。"
+]
+},
+{
+"w": "enclosure",
+"r": "enclose(围住,附上) + -sure(名词后缀) -> 围墙；附件",
+"c": [
+"The zoo built a new enclosure to protect the endangered species from visitors.",
+"动物园建造了新的围墙来保护濒危物种免受游客干扰。"
+]
+},
+{
+"w": "encounter",
+"r": "en-(=in,进入) + counter(相反) -> 迎面遇上 -> 偶遇",
+"c": [
+"Scientists often encounter unexpected results during field research.",
+"科学家在实地研究中经常会遇到意想不到的结果。"
+]
+},
+{
+"w": "encourage",
+"r": "en-(使) + courage(勇气) -> 使有勇气 -> 鼓励；发展",
+"c": [
+"Educators should encourage critical thinking rather than rote memorization.",
+"教育工作者应鼓励批判性思维而非死记硬背。"
+]
+},
+{
+"w": "encyclopedia",
+"r": "en-(使) + cyclo(圆,环) + ped(教育,儿童) + -ia(名词后缀) -> 涵盖所有知识的教育 -> 百科全书",
+"c": [
+"An encyclopedia provides comprehensive knowledge across multiple academic disciplines.",
+"百科全书提供了跨多个学科的综合知识。"
+]
+},
+{
+"w": "end",
+"r": "联想: 结尾(end)是一切努力的终点"
+},
+{
+"w": "endanger",
+"r": "en-(使) + danger(危险) -> 使处于危险中 -> 危及，危害"
+},
+{
+"w": "endeavor",
+"r": "en-(使) + deavor(=devoir,职责,努力) -> 努力去做 -> 努力"
+},
+{
+"w": "ending",
+"r": "end(结束) + -ing(名词后缀) -> 结局",
+"c": [
+"The novel's unexpected ending sparked widespread debate among literary critics.",
+"这部小说出人意料的结局在文学评论家中引发了广泛争论。"
+]
+},
+{
+"w": "endless",
+"r": "end(结束) + -less(无…的) -> 没有结束的 -> 无限的，没完没了的"
+},
+{
+"w": "endorse",
+"r": "en-(=in,在…上) + dorse(背) -> 在背面签名 -> 支持",
+"c": [
+"Leading economists endorse the policy as a way to reduce income inequality.",
+"顶尖经济学家支持这项政策，认为它可以减少收入不平等。"
+]
+},
+{
+"w": "endorsement",
+"r": "endorse(支持) + -ment(名词后缀) -> 支持",
+"c": [
+"The presidential endorsement boosted the candidate's credibility among voters.",
+"总统的支持提升了这位候选人在选民中的可信度。"
+]
+},
+{
+"w": "endow",
+"r": "en-(使) + dow(给予,捐赠) -> 赋予",
+"c": [
+"Nature has endowed the region with rich biodiversity and mineral resources.",
+"大自然赋予了该地区丰富的生物多样性和矿产资源。"
+]
+},
+{
+"w": "endurance",
+"r": "en-(使) + dur(持续,坚硬) + -ance(名词后缀) -> 能持续下去的能力 -> 忍耐"
+},
+{
+"w": "endure",
+"r": "en-(使) + dur(持续,坚硬) + -e -> 持续承受 -> 忍受；持久",
+"c": [
+"Rural communities must endure prolonged droughts due to climate change.",
+"由于气候变化，农村社区必须忍受长期干旱。"
+]
+},
+{
+"w": "enemy",
+"r": "联想: en(使) + emy(音似「挨骂」) -> 使人挨骂的人 -> 敌人"
+},
+{
+"w": "energetic",
+"r": "energ(=energy,能量) + -etic(形容词后缀) -> 有能量的 -> 精力旺盛的；能量的"
+},
+{
+"w": "energize",
+"r": "energy(能量) + -ize(使…化) -> 供给…能量",
+"c": [
+"Renewable sources can energize entire cities without carbon emissions.",
+"可再生能源可以在无碳排放的情况下为整座城市供电。"
+]
+},
+{
+"w": "energy",
+"r": "en-(=in,在…内) + erg(工作) + -y(名词后缀) -> 内在的工作能力 -> 精力"
+},
+{
+"w": "enforce",
+"r": "en-(使) + force(力量,强迫) -> 用力量推动 -> 强迫；执行",
+"c": [
+"Governments must enforce environmental regulations to protect public health.",
+"政府必须执行环境法规以保护公众健康。"
+]
+},
+{
+"w": "engage",
+"r": "en-(=in,进入) + gage(承诺,约定) -> 进入约定状态 -> 吸引；使参加"
+},
+{
+"w": "engagement",
+"r": "engage(订婚,从事) + -ment(名词后缀) -> 订婚；参与",
+"c": [
+"Her engagement with community organizations improved local public health outcomes.",
+"她与社区组织的合作改善了当地公共卫生状况。"
+]
+},
+{
+"w": "engine",
+"r": "en-(=in,内在的) + gin(产生,能力) + -e -> 产生动力的装置 -> 引擎",
+"c": [
+"The steam engine revolutionized manufacturing and transportation in the 19th century.",
+"蒸汽机在19世纪彻底改变了制造业和交通运输。"
+]
+},
+{
+"w": "engineer",
+"r": "engine(引擎,工程) + -er(做…的人) -> 工程师"
+},
+{
+"w": "engineering",
+"r": "engineer(工程) + -ing(名词/形容词后缀) -> 工程学"
+},
+{
+"w": "enhance",
+"r": "en-(使) + hance(=altus,高) -> 使变高 -> 提高"
+},
+{
+"w": "enjoy",
+"r": "en-(使) + joy(快乐) -> 使得到快乐 -> 享受"
+},
+{
+"w": "enlarge",
+"r": "en-(使) + large(大的) -> 使变大 -> 扩大",
+"c": [
+"The university plans to enlarge its research facilities by 2027.",
+"该大学计划在2027年前扩大其研究设施。"
+]
+},
+{
+"w": "enlighten",
+"r": "en-(使) + light(光,光明) + -en(动词后缀) -> 使照亮 -> 启发",
+"c": [
+"Philosophers sought to enlighten society through reason and scientific inquiry.",
+"哲学家们试图通过理性和科学探索来启发社会。"
+]
+},
+{
+"w": "enlightenment",
+"r": "enlighten(启发) + -ment(名词后缀) -> 启发，开导；开明",
+"c": [
+"The Enlightenment era emphasized rationality, liberty, and scientific progress.",
+"启蒙时代强调理性、自由和科学进步。"
+]
+},
+{
+"w": "enormous",
+"r": "e-(出) + norm(规则,正常) + -ous(形容词后缀) -> 超出正常的 -> 巨大的",
+"c": [
+"The pandemic had an enormous impact on global supply chains and labor markets.",
+"这场疫情对全球供应链和劳动力市场产生了巨大影响。"
+]
+},
+{
+"w": "enough",
+"r": "联想: en(使) + ough(音似「够」) -> 足够"
+},
+{
+"w": "enquire",
+"r": "en-(=in,进入) + quir(询问,寻求) + -e -> 深入询问 -> 询问",
+"c": [
+"Readers may enquire about data sources by contacting the research team directly.",
+"读者可直接联系研究团队询问数据来源。"
+]
+},
+{
+"w": "enquiry",
+"r": "en-(=in,进入) + quir(询问) + -y(名词后缀) -> 咨询",
+"c": [
+"The government launched an official enquiry into the financial scandal.",
+"政府对这起金融丑闻展开了官方调查。"
+]
+},
+{
+"w": "enrich",
+"r": "en-(使) + rich(富有的) -> 使丰富",
+"c": [
+"Cultural exchanges can enrich mutual understanding between nations.",
+"文化交流可以丰富国与国之间的相互理解。"
+]
+},
+{
+"w": "enrol",
+"r": "en-(=in,进入) + rol(名册,卷轴) -> 记入名册 -> 登记",
+"c": [
+"Students must enrol in core courses before the semester begins.",
+"学生必须在学期开始前登记注册核心课程。"
+]
+},
+{
+"w": "enroll",
+"r": "en-(=in,进入) + roll(名册,卷轴) -> 进入名册 -> 入学；招收"
+},
+{
+"w": "enrollment",
+"r": "enroll(入学) + -ment(名词后缀) -> 入学人数",
+"c": [
+"University enrollment has declined steadily due to demographic changes.",
+"由于人口结构变化，大学入学人数稳步下降。"
+]
+},
+{
+"w": "ensue",
+"r": "en-(=in,进入) + sue(跟随) -> 跟随着来 -> 接着发生",
+"c": [
+"Severe economic consequences ensued after the sudden policy shift.",
+"政策突然转变后，严重的经济后果接踵而至。"
+]
+},
+{
+"w": "ensure",
+"r": "en-(使) + sure(确定的) -> 使确定 -> 确保"
+},
+{
+"w": "entail",
+"r": "en-(使) + tail(切,限定) -> 使成为必然结果 -> 意味着"
+},
+{
+"w": "enter",
+"r": "联想: en(进入) + ter(音似「到」) -> 进入到里面 -> 进入"
+},
+{
+"w": "enterprise",
+"r": "enter-(进入) + pris(拿,抓) + -e -> 敢于进取的事业 -> 企业；事业",
+"c": [
+"Small and medium enterprises drive most employment growth in developing economies.",
+"中小企业推动了发展中经济体的大部分就业增长。"
+]
+},
+{
+"w": "entertain",
+"r": "enter-(进入) + tain(保持,握住) -> 把人保持在某种状态 -> 娱乐；招待",
+"c": [
+"Streaming platforms now entertain audiences with highly personalized content.",
+"流媒体平台如今以高度个性化的内容娱乐观众。"
+]
+},
+{
+"w": "entertainment",
+"r": "entertain(娱乐) + -ment(名词后缀) -> 招待；娱乐"
+},
+{
+"w": "enthusiasm",
+"r": "en-(=in,在…内) + thus(=thym,神) + -iasm(名词后缀) -> 内心有神性鼓舞 -> 热情"
+},
+{
+"w": "enthusiastic",
+"r": "en-(=in,在…内) + thus(=thym,神) + -iastic(形容词后缀) -> 热情的"
+},
+{
+"w": "entire",
+"r": "en-(=in,完全) + tire(=integr,完整) -> 完整无缺的 -> 完全的"
+},
+{
+"w": "entitle",
+"r": "en-(使) + title(标题,权利) -> 给…题名；给…权利",
+"c": [
+"All citizens are entitled to equal access to legal protection and public services.",
+"所有公民都有权平等获得法律保护和公共服务。"
+]
+},
+{
+"w": "entity",
+"r": "ent-(=being,存在) + -ity(名词后缀) -> 存在的东西 -> 实体"
+},
+{
+"w": "entrance",
+"r": "enter(进入) + -ance(名词后缀) -> 入口；进入",
+"c": [
+"The main entrance of the museum was renovated to improve accessibility.",
+"博物馆的主入口进行了翻修以改善无障碍通行。"
+]
+},
+{
+"w": "entreat",
+"r": "en-(=in,进入) + treat(处理,对待) -> 恳切对待 -> 恳求",
+"c": [
+"Villagers entreat local officials to improve access to clean drinking water.",
+"村民们恳求地方官员改善清洁饮用水的供应。"
+]
+},
+{
+"w": "entrepreneur",
+"r": "entre-(在…之间) + pren(=prend,拿,取) + -eur(表人) -> 在事业间进取的人 -> 企业家"
+},
+{
+"w": "entrepreneurship",
+"r": "entrepreneur(企业家) + -ship(名词后缀,表状态) -> 企业家精神；企业管理",
+"c": [
+"Universities now offer courses to foster entrepreneurship among young graduates.",
+"大学现在开设课程来培养年轻毕业生的创业精神。"
+]
+},
+{
+"w": "entry",
+"r": "enter(进入) + -y(名词后缀) -> 进入；条目",
+"c": [
+"The entry of new competitors disrupted the established market structure.",
+"新竞争对手的进入打破了既定的市场结构。"
+]
+},
+{
+"w": "envelope",
+"r": "en-(=in,在…上) + velop(包裹) + -e -> 包裹着的东西 -> 信封",
+"c": [
+"Please seal the document in an envelope before submitting it to the office.",
+"请在提交办公室前将文件封入信封。"
+]
+},
+{
+"w": "enviable",
+"r": "envy(嫉妒,羡慕) + -able(可…的) -> 值得羡慕的",
+"c": [
+"The research team achieved enviable results in renewable energy storage.",
+"该研究团队在可再生能源存储方面取得了令人羡慕的成果。"
+]
+},
+{
+"w": "environment",
+"r": "en-(=in,在…周围) + viron(圈,环绕) + -ment(名词后缀) -> 周围的事物 -> 环境"
+},
+{
+"w": "environmental",
+"r": "environment(环境) + -al(形容词后缀) -> 环境的"
+},
+{
+"w": "envisage",
+"r": "en-(=in,在…中) + vis(看) + -age(名词/动词后缀) -> 在脑中看到 -> 想像",
+"c": [
+"Scientists envisage a future where artificial intelligence complements human creativity.",
+"科学家们设想了一个人工智能与人类创造力互补的未来。"
+]
+},
+{
+"w": "envy",
+"r": "en-(=on,朝) + vy(=vid,看) -> 朝…看(带嫉妒) -> 嫉妒"
+},
+{
+"w": "epic",
+"r": "epi-(在…上) + -c(=epos,话语,诗) -> 史诗般的话语 -> 史诗",
+"c": [
+"The epic tale of exploration has inspired generations of adventurers and scientists.",
+"这部关于探索的史诗故事激励了一代又一代的探险家和科学家。"
+]
+},
+{
+"w": "epidemic",
+"r": "epi-(在…之间) + dem(人民) + -ic(形容词后缀) -> 在人民中流行的 -> 流行性的；流行病"
+},
+{
+"w": "episode",
+"r": "epi-(在…上) + sode(=hodos,路,旅程) -> 一段旅程 -> 情节；一集"
+},
+{
+"w": "epoch",
+"r": "epi-(在…上) + och(=echein,保持) -> 保持一段时间 -> 时代",
+"c": [
+"The invention of the internet marked a new epoch in human communication.",
+"互联网的发明标志着人类交流的新纪元。"
+]
+},
+{
+"w": "equal",
+"r": "equ(相等) + -al(形容词后缀) -> 平等的"
+},
+{
+"w": "equality",
+"r": "equal(平等的) + -ity(名词后缀) -> 同等；平等"
+},
+{
+"w": "equation",
+"r": "equ(相等) + -ation(名词后缀) -> 使相等的式子 -> 方程式"
+},
+{
+"w": "equator",
+"r": "equ(相等) + -ator(名词后缀,表物) -> 使(昼夜)相等的线 -> 赤道",
+"c": [
+"Countries near the equator experience high temperatures year-round.",
+"赤道附近的国家全年气温都很高。"
+]
+},
+{
+"w": "equilibrium",
+"r": "equi-(相等) + libr(天平,平衡) + -ium(名词后缀) -> 天平两边相等 -> 平衡；均衡",
+"c": [
+"Economic equilibrium requires a delicate balance between supply and demand.",
+"经济平衡需要供需之间的微妙平衡。"
+]
+},
+{
+"w": "equip",
+"r": "联想: equip 音似「一块儿配备」 -> 装备"
+},
+{
+"w": "equipment",
+"r": "equip(装备) + -ment(名词后缀) -> 设备"
+},
+{
+"w": "equity",
+"r": "equ(相等) + -ity(名词后缀) -> 公平；权益",
+"c": [
+"Social equity remains a central concern in contemporary policy debates.",
+"社会公平仍然是当代政策辩论的核心议题。"
+]
+},
+{
+"w": "equivalent",
+"r": "equi-(相等) + val(价值) + -ent(形容词后缀) -> 价值相等的 -> 相同的"
+},
+{
+"w": "era",
+"r": "联想: 一个时代(era)的到来会改变(era音似change中的ra音)一切"
+},
+{
+"w": "eradicate",
+"r": "e-(出,除去) + radic(根) + -ate(动词后缀) -> 连根拔起 -> 根除",
+"c": [
+"Public health campaigns aim to eradicate infectious diseases worldwide.",
+"公共卫生运动旨在在全球范围内根除传染病。"
+]
+},
+{
+"w": "erase",
+"r": "e-(出,去) + rase(刮,擦) -> 刮掉 -> 抹去"
+},
+{
+"w": "erect",
+"r": "e-(向上) + rect(正,直) -> 直立起来 -> 建立；直立的",
+"c": [
+"Workers will erect a new research facility on the university campus.",
+"工人们将在大学校园内建造一座新的研究设施。"
+]
+},
+{
+"w": "erode",
+"r": "e-(向下,离开) + rode(咬,啮) -> 一点一点咬掉 -> 侵蚀"
+},
+{
+"w": "erosion",
+"r": "e-(离开) + ros(咬) + -ion(名词后缀) -> 咬掉 -> 侵蚀"
+},
+{
+"w": "errand",
+"r": "联想: err(漫游) + and(和) -> 跑来跑去办的事 -> 差使，差事",
+"c": [
+"Senior employees often delegate routine errands to junior staff members.",
+"资深员工常常将日常差事委派给初级员工。"
+]
+},
+{
+"w": "erroneous",
+"r": "err(漫游,偏离) + one + -ous(形容词后缀) -> 偏离正道的 -> 错误的",
+"c": [
+"Erroneous data can significantly undermine the validity of research conclusions.",
+"错误的数据会严重削弱研究结论的有效性。"
+]
+},
+{
+"w": "error",
+"r": "err(偏离,迷失) + -or(名词后缀) -> 偏离正确的东西 -> 错误"
+}
+]

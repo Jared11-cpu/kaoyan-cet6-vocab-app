@@ -1,0 +1,673 @@
+[
+{
+"w": "inevitable",
+"r": "in-(不) + evit(避免, 来自拉丁语evitare) + -able(形容词后缀, 能…的) -> 不能避免的 -> 不可避免的",
+"c": null
+},
+{
+"w": "inevitably",
+"r": "in-(不) + evit(避免) + -able(能…的) + -ly(副词后缀) -> 不可避免地",
+"c": [
+"Rapid technological progress inevitably changes the structure of the job market every decade.",
+"技术的飞速进步每十年都会不可避免地改变就业市场的结构。"
+]
+},
+{
+"w": "inexhaustible",
+"r": "in-(不) + ex-(出) + haust(抽, 排) + -ible(能…的) -> 抽不尽的 -> 用不完的",
+"c": [
+"The library offers an apparently inexhaustible supply of academic journals for researchers.",
+"图书馆为研究人员提供了似乎用之不竭的学术期刊资源。"
+]
+},
+{
+"w": "infant",
+"r": "来自拉丁语infans, 由in-(不) + fans(说话, 来自fari) -> 不会说话的人 -> 婴儿",
+"c": null
+},
+{
+"w": "infect",
+"r": "in-(进入) + fect(做, 作用, 来自拉丁语facere) -> 作用于体内 -> 感染",
+"c": [
+"A single infected patient can infect dozens of others before showing any visible symptoms.",
+"一名受感染的患者在出现任何明显症状之前就可能感染数十人。"
+]
+},
+{
+"w": "infectious",
+"r": "infect(感染) + -ious(形容词后缀, 充满…的) -> 有感染力的 -> 传染的",
+"c": [
+"The infectious disease spread rapidly through the densely populated urban neighbourhood.",
+"这种传染病在人口稠密的城市社区迅速蔓延。"
+]
+},
+{
+"w": "infer",
+"r": "in-(向内) + fer(带来, 来自拉丁语ferre) -> 向内带来 -> 推断",
+"c": null
+},
+{
+"w": "inference",
+"r": "infer(推断) + -ence(名词后缀, 表行为/结果) -> 推断的行为 -> 推理",
+"c": [
+"Logical inference is a fundamental skill for students studying philosophy and computer science.",
+"逻辑推理是学习哲学和计算机科学的学生的一项基本技能。"
+]
+},
+{
+"w": "inferior",
+"r": "infer(低, 下面, 来自拉丁语inferus) + -ior(形容词比较级后缀) -> 较低的 -> 下级、较差的",
+"c": null
+},
+{
+"w": "inferiority",
+"r": "inferior(较差的) + -ity(名词后缀, 表性质) -> 较差的性质 -> 自卑、次等",
+"c": [
+"Persistent academic failure can gradually lead to a deep sense of inferiority among students.",
+"持续的学业失败可能逐渐导致学生产生强烈的自卑感。"
+]
+},
+{
+"w": "infinite",
+"r": "in-(不) + fin(界限, 末尾) + -ite(形容词后缀) -> 没有界限的 -> 无限的",
+"c": null
+},
+{
+"w": "infinitely",
+"r": "infinite(无限的) + -ly(副词后缀) -> 无限地",
+"c": [
+"The universe appears infinitely vast compared with the tiny portion humans have explored so far.",
+"与人类目前已探索的微小部分相比, 宇宙似乎无限广阔。"
+]
+},
+{
+"w": "infinity",
+"r": "in-(不) + fin(界限) + -ity(名词后缀, 表性质) -> 无界限的状态 -> 无穷大",
+"c": [
+"Advanced mathematics students study the concept of infinity in real analysis courses.",
+"高等数学专业的学生在实分析课程中学习无穷大的概念。"
+]
+},
+{
+"w": "inflation",
+"r": "in-(向内) + flat(吹, 来自拉丁语flare) + -ion(名词后缀) -> 往里吹气 -> 膨胀、通货膨胀",
+"c": null
+},
+{
+"w": "inflict",
+"r": "in-(在…上) + flict(打击, 来自拉丁语fligere) -> 打在…上 -> 使遭受、折磨",
+"c": [
+"Severe droughts continue to inflict widespread hardship on rural farming communities.",
+"严重的干旱继续给农村农业社区造成广泛的苦难。"
+]
+},
+{
+"w": "influence",
+"r": "in-(进入) + flu(流, 来自拉丁语fluere) + -ence(名词后缀) -> 流入 → 影响",
+"c": null
+},
+{
+"w": "influential",
+"r": "influenc(e)(影响) + -t- + -ial(形容词后缀) -> 有影响力的",
+"c": null
+},
+{
+"w": "influenza",
+"r": "来自意大利语influenza, 原意为影响, 古人认为该病由星体影响所致 -> 流行性感冒",
+"c": [
+"Annual influenza vaccination is strongly recommended for elderly people and young children.",
+"强烈建议老年人和幼儿每年接种流感疫苗。"
+]
+},
+{
+"w": "inform",
+"r": "in-(进入, 使) + form(形成, 形式) -> 使形成(想法) -> 通知、告诉",
+"c": null
+},
+{
+"w": "information",
+"r": "inform(通知) + -ation(名词后缀, 表行为/结果) -> 通知的内容 -> 信息",
+"c": null
+},
+{
+"w": "infrared",
+"r": "infra-(在…下方, 低于) + red(红色) -> 在红光之下的 -> 红外线的",
+"c": [
+"Infrared cameras can detect body heat even in complete darkness for security monitoring.",
+"红外摄像机即使在完全黑暗中也能检测到人体热量, 用于安全监控。"
+]
+},
+{
+"w": "infrastructure",
+"r": "infra-(在下方) + structure(结构, 建筑) -> 下部结构 -> 基础设施",
+"c": null
+},
+{
+"w": "ingenious",
+"r": "in-(在内) + gen(产生, 天赋, 来自拉丁语gignere) + -ious(形容词后缀) -> 天生有才能的 -> 精巧的",
+"c": [
+"The engineer designed an ingenious device that harvests energy from passing vehicles.",
+"这位工程师设计了一种精巧的装置, 可以从过往车辆中收集能量。"
+]
+},
+{
+"w": "ingenuity",
+"r": "in-(在内) + genu(产生, 天赋) + -ity(名词后缀) -> 天生的才能 -> 机灵、设计新颖",
+"c": [
+"Students demonstrated remarkable ingenuity in solving the complex engineering challenge.",
+"学生们在解决这一复杂的工程难题时展现出了非凡的机智。"
+]
+},
+{
+"w": "ingredient",
+"r": "in-(进入) + gred(走, 步, 来自拉丁语gradi) + -ient(名词后缀) -> 走入其中的东西 -> 成分",
+"c": null
+},
+{
+"w": "inhabit",
+"r": "in-(在内) + habit(居住, 来自拉丁语habitare) -> 居住在里面 -> 栖息",
+"c": null
+},
+{
+"w": "inhabitant",
+"r": "inhabit(居住) + -ant(名词后缀, 表人) -> 居住的人 -> 居民",
+"c": null
+},
+{
+"w": "inhale",
+"r": "in-(向内) + hale(呼吸, 来自拉丁语halare) -> 向内呼吸 -> 吸入",
+"c": [
+"Workers in the factory must wear masks to avoid inhaling harmful dust particles.",
+"工厂工人必须佩戴口罩以避免吸入有害的粉尘颗粒。"
+]
+},
+{
+"w": "inherent",
+"r": "in-(在内) + her(黏附, 来自拉丁语haerere) + -ent(形容词后缀) -> 黏在里面的 -> 固有的",
+"c": null
+},
+{
+"w": "inherit",
+"r": "in-(在内) + herit(继承人, 来自拉丁语heres) -> 成为继承人 -> 继承",
+"c": [
+"Children may inherit genetic traits that affect their susceptibility to certain diseases.",
+"孩子可能会继承影响其对某些疾病易感性的遗传特征。"
+]
+},
+{
+"w": "inheritance",
+"r": "inherit(继承) + -ance(名词后缀, 表行为/结果) -> 继承的行为或结果 -> 继承、遗产",
+"c": [
+"The cultural heritage site represents a precious inheritance from our ancestors.",
+"这处文化遗产代表着我们祖先留下的珍贵遗产。"
+]
+},
+{
+"w": "inhibit",
+"r": "in-(在内) + hibit(持有, 占据, 来自拉丁语habere) -> 握在内部 -> 抑制",
+"c": null
+},
+{
+"w": "initial",
+"r": "in-(进入) + it(走, 来自拉丁语ire) + -ial(形容词后缀) -> 走入的 -> 起初的",
+"c": [
+"The initial stage of any research project requires careful planning and literature review.",
+"任何研究项目的初始阶段都需要仔细规划和文献综述。"
+]
+},
+{
+"w": "initially",
+"r": "initial(起初的) + -ly(副词后缀) -> 最初、开始",
+"c": [
+"The theory was initially rejected by most scholars before gaining widespread acceptance.",
+"这一理论最初被大多数学者拒绝, 后来才获得广泛认可。"
+]
+},
+{
+"w": "initiate",
+"r": "in-(进入) + it(走) + -iate(动词后缀, 使…) -> 使走入 -> 开始、发起",
+"c": null
+},
+{
+"w": "initiative",
+"r": "in-(进入) + it(走) + -iative(名词后缀) -> 率先走入 -> 主动性、进取心",
+"c": null
+},
+{
+"w": "inject",
+"r": "in-(向内) + ject(投, 掷, 来自拉丁语jacere) -> 向内投掷 -> 注入",
+"c": null
+},
+{
+"w": "injure",
+"r": "in-(不, 非) + jur(公正, 法律, 来自拉丁语jus) -> 不公正地对待 -> 损害",
+"c": [
+"Repeated strain on the knees can seriously injure the joints of long-distance runners.",
+"膝盖的反复受力会严重损害长跑运动员的关节。"
+]
+},
+{
+"w": "injury",
+"r": "in-(不) + jur(公正) + -y(名词后缀) -> 不公的对待 -> 损伤",
+"c": [
+"Proper warm-up exercises can significantly reduce the risk of sports injury during training.",
+"适当的热身运动可以显著降低训练中运动损伤的风险。"
+]
+},
+{
+"w": "injustice",
+"r": "in-(不) + justice(公正) -> 不公正",
+"c": null
+},
+{
+"w": "ink",
+"r": "来自拉丁语encaustum(上色的颜料), 经由古法语enque -> 墨水",
+"c": [
+"The ancient manuscript was written in iron gall ink, which can fade over centuries.",
+"这份古老的手稿是用铁胆墨水书写的, 历经数百年可能会褪色。"
+]
+},
+{
+"w": "inland",
+"r": "复合: in(在内) + land(土地) -> 在内部的土地 -> 内陆",
+"c": [
+"Many inland cities have experienced rapid economic growth through improved transportation links.",
+"许多内陆城市通过改善交通联系实现了快速的经济增长。"
+]
+},
+{
+"w": "inlet",
+"r": "复合: in(进入) + let(让, 引申为通道) -> 让东西进入的地方 -> 入口、小湾",
+"c": [
+"The narrow inlet provides a natural shelter for fishing boats during stormy weather.",
+"狭窄的水湾为渔船在暴风雨天气提供了天然的庇护所。"
+]
+},
+{
+"w": "inn",
+"r": "来自古英语inn(内部的, 家), 引申为旅客之家 -> 客栈",
+"c": [
+"The historic inn at the foot of the mountain has welcomed travellers for over three centuries.",
+"山脚下的那家历史悠久的客栈已接待旅客超过三个世纪。"
+]
+},
+{
+"w": "inner",
+"r": "in(在内) + -n- + -er(比较级后缀) -> 更靠内的 -> 内部的",
+"c": null
+},
+{
+"w": "innocent",
+"r": "in-(不) + noc(伤害, 来自拉丁语nocere) + -ent(形容词后缀) -> 不伤害的 -> 无辜的",
+"c": [
+"The legal system is designed to protect innocent people from being wrongfully convicted.",
+"法律制度旨在保护无辜的人不被错误定罪。"
+]
+},
+{
+"w": "innovation",
+"r": "in-(进入, 使) + nov(新, 来自拉丁语novus) + -ation(名词后缀) -> 使变新 -> 革新",
+"c": null
+},
+{
+"w": "innumerable",
+"r": "in-(不) + numer(数, 来自拉丁语numerus) + -able(形容词后缀, 能…的) -> 数不清的 -> 无数的",
+"c": null
+},
+{
+"w": "inorganic",
+"r": "in-(不, 非) + organ(器官/有机体) + -ic(形容词后缀) -> 非有机的 -> 无机的",
+"c": [
+"Inorganic chemistry focuses on the study of minerals, metals, and non-carbon compounds.",
+"无机化学主要研究矿物、金属和非碳基化合物。"
+]
+},
+{
+"w": "input",
+"r": "复合: in(进入) + put(放) -> 放入的东西 -> 输入",
+"c": null
+},
+{
+"w": "inquire",
+"r": "in-(向内) + quire(问, 求, 来自拉丁语quaerere) -> 深入询问 -> 询问",
+"c": [
+"Students are encouraged to inquire about research opportunities with their professors.",
+"鼓励学生向教授询问参与科研的机会。"
+]
+},
+{
+"w": "insane",
+"r": "in-(不, 非) + san(健康, 来自拉丁语sanus) + -e(形容词后缀) -> 心智不健康的 -> 疯狂的",
+"c": [
+"Critics consider the plan to build a highway through the ancient town utterly insane.",
+"批评者认为在古镇中修建高速公路的计划完全是荒唐的。"
+]
+},
+{
+"w": "insect",
+"r": "in-(进入, 切入) + sect(切, 来自拉丁语secare) -> 身体被切成分节的动物 -> 昆虫",
+"c": null
+},
+{
+"w": "insert",
+"r": "in-(在内, 进入) + sert(放, 连接, 来自拉丁语serere) -> 放入其中 -> 插入",
+"c": null
+},
+{
+"w": "inside",
+"r": "复合: in(在内) + side(边, 侧面) -> 在内部一边 -> 在里面",
+"c": [
+"Students waited inside the library building while the heavy rainstorm passed outside.",
+"学生们在图书馆楼内等待, 外面正下着大暴雨。"
+]
+},
+{
+"w": "insight",
+"r": "复合: in(进入, 向内) + sight(看) -> 向内看 -> 洞察力",
+"c": [
+"The researcher's groundbreaking insight transformed our understanding of human memory.",
+"这位研究者突破性的洞察改变了我们对人类记忆的理解。"
+]
+},
+{
+"w": "insignificant",
+"r": "in-(不) + sign(标记, 信号) + -ify(使…) + -icant(形容词后缀) -> 无法标记的 -> 无意义的",
+"c": [
+"Even seemingly insignificant details can play a crucial role in a scientific investigation.",
+"即使看似微不足道的细节在科学调查中也可能发挥关键作用。"
+]
+},
+{
+"w": "insist",
+"r": "in-(在内, 加强) + sist(站, 来自拉丁语stare) -> 坚定站在… -> 坚持",
+"c": null
+},
+{
+"w": "insistent",
+"r": "insist(坚持) + -ent(形容词后缀) -> 坚持的",
+"c": [
+"The professor was insistent that all students submit their assignments before the deadline.",
+"这位教授坚持要求所有学生在截止日期前提交作业。"
+]
+},
+{
+"w": "inspect",
+"r": "in-(向内, 加强) + spect(看, 来自拉丁语specere) -> 仔细看 -> 检查",
+"c": [
+"Safety officers regularly inspect laboratory equipment to prevent potential accidents.",
+"安全官员定期检查实验室设备以预防潜在事故。"
+]
+},
+{
+"w": "inspector",
+"r": "inspect(检查) + -or(名词后缀, 表人) -> 检查的人 -> 检查员",
+"c": [
+"The health inspector closed the restaurant after discovering multiple food safety violations.",
+"卫生检查员在发现多项食品安全违规后关闭了这家餐厅。"
+]
+},
+{
+"w": "inspiration",
+"r": "in-(向内) + spir(呼吸, 来自拉丁语spirare) + -ation(名词后缀) -> 吸入灵气 -> 灵感",
+"c": null
+},
+{
+"w": "inspire",
+"r": "in-(向内) + spire(呼吸) -> 吹入(灵气) -> 激发",
+"c": [
+"Great teachers inspire their students to pursue knowledge beyond the textbook.",
+"伟大的教师激发学生追求课本之外的知识。"
+]
+},
+{
+"w": "instability",
+"r": "in-(不) + stability(稳定性) -> 不稳定性",
+"c": null
+},
+{
+"w": "install",
+"r": "in-(在内) + stall(放置, 位置) -> 放置于内 -> 安装",
+"c": null
+},
+{
+"w": "installation",
+"r": "install(安装) + -ation(名词后缀, 表行为/结果) -> 安装",
+"c": null
+},
+{
+"w": "installment",
+"r": "install(安装, 引申为安置/支付) + -ment(名词后缀) -> 分批安置 -> 分期付款",
+"c": [
+"Many students pay their tuition fees in monthly installments to ease financial pressure.",
+"许多学生按月分期支付学费以减轻经济压力。"
+]
+},
+{
+"w": "instalment",
+"r": "instal(安装, 英拼) + -ment(名词后缀) -> 分期付款(installment的英式拼法)",
+"c": [
+"Readers eagerly awaited the next instalment of the novel published weekly in the magazine.",
+"读者们热切期待着每周在杂志上连载的小说的下一部分。"
+]
+},
+{
+"w": "instance",
+"r": "in-(在内) + st(站, 来自拉丁语stare) + -ance(名词后缀) -> 站在其中的事物 -> 例子",
+"c": [
+"For instance, many universities now offer online courses for international students.",
+"例如, 许多大学现在为国际学生提供在线课程。"
+]
+},
+{
+"w": "instant",
+"r": "in-(在内) + st(站) + -ant(形容词/名词后缀) -> 站在眼前的 -> 时刻、立刻",
+"c": null
+},
+{
+"w": "instantaneous",
+"r": "instant(立刻) + -aneous(形容词后缀, 具有…性质的) -> 瞬间的",
+"c": [
+"The instantaneous communication provided by the internet has transformed global business.",
+"互联网提供的即时通讯已经改变了全球商业。"
+]
+},
+{
+"w": "instead",
+"r": "in-(在…内) + stead(位置, 替代) -> 在…的位置上 -> 代替、反而",
+"c": [
+"Instead of memorizing vocabulary passively, students should use words in real contexts.",
+"学生不应该被动地记单词, 而应该在真实语境中使用它们。"
+]
+},
+{
+"w": "instinct",
+"r": "in-(在内) + stinct(刺, 激励, 来自拉丁语stinguere) -> 内在的刺激 -> 本能",
+"c": [
+"Human instinct for self-preservation can influence decisions made under extreme pressure.",
+"人类的自我保护本能会影响在极端压力下做出的决定。"
+]
+},
+{
+"w": "instinctively",
+"r": "instinctive(本能的) + -ly(副词后缀) -> 本能地",
+"c": [
+"When the fire alarm rang, students instinctively walked toward the nearest emergency exit.",
+"火警响起时, 学生们本能地走向最近的紧急出口。"
+]
+},
+{
+"w": "institute",
+"r": "in-(在内) + stit(站立, 建立, 来自拉丁语statuere) + -ute -> 立起来 -> 机构、建立",
+"c": [
+"The research institute conducts groundbreaking studies in artificial intelligence.",
+"这家研究机构开展人工智能领域的突破性研究。"
+]
+},
+{
+"w": "institution",
+"r": "institut(e)(建立) + -ion(名词后缀) -> 建立的组织 -> 机构",
+"c": null
+},
+{
+"w": "instruct",
+"r": "in-(在内, 加强) + struct(建造, 来自拉丁语struere) -> 在内建造(心智) -> 指导",
+"c": [
+"Professors instruct students on proper research methods and academic writing standards.",
+"教授们指导学生掌握正确的研究方法和学术写作规范。"
+]
+},
+{
+"w": "instruction",
+"r": "instruct(指导) + -ion(名词后缀, 表行为/结果) -> 指导的内容 -> 指令、教导",
+"c": null
+},
+{
+"w": "instructional",
+"r": "instruct(指导) + -ion(名词后缀) + -al(形容词后缀) -> 指导的、教育的",
+"c": [
+"The university has invested heavily in instructional technology to enhance online learning.",
+"这所大学在教学技术上投入巨资以提升在线学习质量。"
+]
+},
+{
+"w": "instructor",
+"r": "instruct(指导) + -or(名词后缀, 表人) -> 指导的人 -> 指导者、教员",
+"c": [
+"The fitness instructor designed a personalized training program for each participant.",
+"健身教练为每位参与者设计了个性化的训练方案。"
+]
+},
+{
+"w": "instrument",
+"r": "in-(在内) + stru(建造) + -ment(名词后缀, 表物) -> 用于建造的东西 -> 工具、乐器",
+"c": [
+"Surgical instruments must be sterilized thoroughly before each operation in the hospital.",
+"医院每次手术前必须对手术器械进行彻底消毒。"
+]
+},
+{
+"w": "instrumental",
+"r": "instrument(工具/乐器) + -al(形容词后缀) -> 工具的 -> 仪器的、有帮助的",
+"c": null
+},
+{
+"w": "insufficient",
+"r": "in-(不) + sufficient(足够的) -> 不足的",
+"c": [
+"Insufficient sleep can severely affect students' academic performance and mental health.",
+"睡眠不足会严重影响学生的学业表现和心理健康。"
+]
+},
+{
+"w": "insulate",
+"r": "insul(岛, 来自拉丁语insula) + -ate(动词后缀, 使…) -> 使成为孤岛 -> 隔离",
+"c": [
+"Double-glazed windows help insulate the building against outside noise and temperature changes.",
+"双层玻璃窗有助于隔绝外界噪音和温度变化。"
+]
+},
+{
+"w": "insulation",
+"r": "insulat(e)(隔离) + -ion(名词后缀) -> 隔离的行为/材料 -> 绝缘",
+"c": [
+"Proper thermal insulation can significantly reduce a building's energy consumption.",
+"良好的隔热保温可以显著降低建筑物的能源消耗。"
+]
+},
+{
+"w": "insulator",
+"r": "insulat(e)(隔离) + -or(名词后缀, 表物/人) -> 起隔离作用的物/人 -> 绝缘体",
+"c": [
+"Rubber is widely used as an electrical insulator in power lines and household appliances.",
+"橡胶被广泛用作电力线路和家用电器的电绝缘体。"
+]
+},
+{
+"w": "insult",
+"r": "in-(在…上) + sult(跳, 来自拉丁语salire) -> 跳到…上(冒犯) -> 侮辱",
+"c": [
+"Using insulting language in academic debate undermines the spirit of intellectual exchange.",
+"在学术辩论中使用侮辱性语言破坏了知识交流的精神。"
+]
+},
+{
+"w": "insurance",
+"r": "in-(使) + sur(确定, 安全, 来自拉丁语securus) + -ance(名词后缀) -> 使确定的行为 -> 保险",
+"c": null
+},
+{
+"w": "insure",
+"r": "in-(使) + sure(确定的) -> 使确定 -> 确保、给…保险",
+"c": [
+"Universities must insure that all students have equal access to educational resources.",
+"大学必须确保所有学生都能平等获得教育资源。"
+]
+},
+{
+"w": "insurer",
+"r": "insur(e)(保险) + -er(名词后缀, 表人/物) -> 承保的机构 -> 保险公司",
+"c": null
+},
+{
+"w": "intact",
+"r": "in-(不) + tact(接触, 触摸, 来自拉丁语tangere) -> 未被触摸过的 -> 原封不动的",
+"c": [
+"The ancient tomb was discovered intact, with all its treasures preserved for centuries.",
+"这座古墓被发现时完好无损, 所有珍宝历经数个世纪保存完好。"
+]
+},
+{
+"w": "intake",
+"r": "复合: in(进入) + take(取) -> 取入的量 -> 吸入、摄入量",
+"c": [
+"Excessive intake of sugary drinks can lead to serious health problems like diabetes.",
+"过量摄入含糖饮料可能导致糖尿病等严重健康问题。"
+]
+},
+{
+"w": "integral",
+"r": "integr(整, 全, 来自拉丁语integer) + -al(形容词后缀) -> 完整的",
+"c": [
+"Critical thinking is an integral part of higher education across all academic disciplines.",
+"批判性思维是所有学科高等教育不可或缺的组成部分。"
+]
+},
+{
+"w": "integrate",
+"r": "integr(整, 全) + -ate(动词后缀, 使…) -> 使完整 -> 整合",
+"c": null
+},
+{
+"w": "integrity",
+"r": "integr(整, 全) + -ity(名词后缀, 表性质) -> 完整的性质 -> 完整、诚实正直",
+"c": null
+},
+{
+"w": "intellect",
+"r": "intel-(在…之间, 来自inter) + lect(选择, 读, 来自拉丁语legere) -> 从中选择分辨 -> 智力",
+"c": null
+},
+{
+"w": "intellectual",
+"r": "intel-(在…之间) + lect(选择, 读) + -ual(形容词后缀) -> 能分辨选择的 -> 知识的、知识分子",
+"c": null
+},
+{
+"w": "intelligence",
+"r": "intel-(在…之间) + lig(选择, 绑, 来自拉丁语ligare) + -ence(名词后缀) -> 从中选择的能力 -> 智力",
+"c": null
+},
+{
+"w": "intelligent",
+"r": "intel-(在…之间) + lig(选择) + -ent(形容词后缀) -> 能从中选择的 -> 聪明的",
+"c": null
+},
+{
+"w": "intelligible",
+"r": "intel-(在…之间) + lig(选择) + -ible(形容词后缀, 能…的) -> 能从中分辨的 -> 可理解的",
+"c": [
+"Good academic writing should be intelligible to readers from different disciplinary backgrounds.",
+"优秀的学术写作应该能被不同学科背景的读者所理解。"
+]
+}
+]

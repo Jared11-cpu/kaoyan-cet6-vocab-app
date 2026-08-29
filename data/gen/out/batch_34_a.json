@@ -1,0 +1,700 @@
+[
+  {
+    "w": "voyage",
+    "r": "来自法语voyage(旅行), 源自拉丁语viaticum(旅途盘缠) -> 航行",
+    "c": [
+      "The ocean liner embarked on a historic voyage across the Atlantic to celebrate its anniversary.",
+      "这艘远洋邮轮踏上了横渡大西洋的历史性航行以纪念其周年纪念日。"
+    ]
+  },
+  {
+    "w": "vulgar",
+    "r": "vulg(人群, 平民) + -ar(形容词后缀) -> 平民的 -> 粗俗的",
+    "c": [
+      "Some critics argue that certain reality shows promote vulgar entertainment for higher ratings.",
+      "一些批评者认为某些真人秀节目为了更高收视率而推广粗俗娱乐。"
+    ]
+  },
+  {
+    "w": "vulnerable",
+    "r": "vulner(伤害, 来自拉丁语vulnus伤口) + -able(形容词后缀,能…的) -> 能被伤害的 -> 易受攻击的",
+    "c": null
+  },
+  {
+    "w": "wade",
+    "r": "来自古英语wadan(前进, 跋涉), 与wander同源 -> 趟河、跋涉",
+    "c": [
+      "The researchers had to wade through muddy streams to reach the remote field station.",
+      "研究人员不得不趟过泥泞的溪流才能到达偏远的野外工作站。"
+    ]
+  },
+  {
+    "w": "wag",
+    "r": "来自古英语wagian(摇摆, 挥动) -> 摇摆尾巴",
+    "c": [
+      "The golden retriever began to wag its tail excitedly when it saw its owner returning home.",
+      "金毛寻回犬看到主人回家时开始兴奋地摇尾巴。"
+    ]
+  },
+  {
+    "w": "wage",
+    "r": "来自古法语gagier(保证, 支付), 原指支付的报酬 -> 工资、发动",
+    "c": null
+  },
+  {
+    "w": "waggon",
+    "r": "来自荷兰语wagen(车), 与wagon同源, 双写g是英式拼法 -> 敞蓬车厢",
+    "c": [
+      "The farmers loaded freshly harvested wheat onto the waggon for transport to the mill.",
+      "农民们把刚收割的小麦装上敞篷车厢运往磨坊。"
+    ]
+  },
+  {
+    "w": "wagon",
+    "r": "来自荷兰语wagen(四轮运货车) -> 货车",
+    "c": null
+  },
+  {
+    "w": "waist",
+    "r": "来自古英语waest(腰部), 指身体生长收缩处 -> 腰",
+    "c": [
+      "The tailor carefully measured the customer's waist before making the custom suit.",
+      "裁缝在定制西装之前仔细量了顾客的腰围。"
+    ]
+  },
+  {
+    "w": "wait",
+    "r": "来自古法语waitier(看守, 等候), 原指站岗守望 -> 等待",
+    "c": [
+      "Students often wait in long queues to register for popular elective courses each semester.",
+      "学生们每学期经常排长队注册热门选修课。"
+    ]
+  },
+  {
+    "w": "waiter",
+    "r": "wait(等候/服侍) + -er(人) -> 服侍客人的人 -> 服务员",
+    "c": [
+      "The attentive waiter refilled our water glasses regularly throughout the dinner.",
+      "细心的服务员在整个晚餐期间定期给我们续水杯。"
+    ]
+  },
+  {
+    "w": "waitress",
+    "r": "waiter(服务员) + -ess(阴性后缀) -> 女服务员",
+    "c": [
+      "The waitress recommended the chef's special dish to every table that evening.",
+      "那天晚上女服务员向每桌推荐了主厨特色菜。"
+    ]
+  },
+  {
+    "w": "wake",
+    "r": "来自古英语wacan(醒来, 觉醒), 与watch同源 -> 醒来",
+    "c": [
+      "Many university students wake up early on weekdays to attend morning lecture classes.",
+      "许多大学生工作日早起去上上午的讲座课。"
+    ]
+  },
+  {
+    "w": "waken",
+    "r": "wake(醒来) + -en(动词后缀,使…) -> 使醒来、唤醒",
+    "c": [
+      "The loud fire alarm managed to waken everyone in the dormitory building promptly.",
+      "响亮的火警警报及时唤醒了宿舍楼里的每一个人。"
+    ]
+  },
+  {
+    "w": "walk",
+    "r": "来自古英语wealcan(滚动, 行走) -> 走路",
+    "c": null
+  },
+  {
+    "w": "wall",
+    "r": "来自拉丁语vallum(壁垒, 土墙), 经由古法语wal -> 墙壁",
+    "c": null
+  },
+  {
+    "w": "wallet",
+    "r": "来自古法语walet(袋子, 包裹), 可能与wall(卷、包)相关 -> 钱包",
+    "c": [
+      "He realized he had left his wallet in the classroom right after the lecture ended.",
+      "讲座刚结束他就意识到自己把钱包落在教室里了。"
+    ]
+  },
+  {
+    "w": "walnut",
+    "r": "wal(外来的, 来自古英语wealh) + nut(坚果) -> 外来的坚果 -> 核桃",
+    "c": [
+      "Walnut wood is highly valued by furniture makers for its rich color and durability.",
+      "胡桃木因其丰富的色泽和耐用性而深受家具制造商的青睐。"
+    ]
+  },
+  {
+    "w": "wander",
+    "r": "来自古英语wandrian(漫游, 徘徊), 与wind(蜿蜒)同源 -> 游荡",
+    "c": null
+  },
+  {
+    "w": "want",
+    "r": "来自古挪威语vanta(缺乏), 原指缺少某物 -> 想要",
+    "c": null
+  },
+  {
+    "w": "war",
+    "r": "来自古法语guerre(战争), 源自原始日耳曼语werra(混乱) -> 战争",
+    "c": null
+  },
+  {
+    "w": "ward",
+    "r": "来自古英语weard(看守, 保护), 引申为受监管的区域/人 -> 病房",
+    "c": [
+      "The surgical ward strictly limits visiting hours to ensure patients get adequate rest.",
+      "外科病房严格限制探视时间以确保患者获得充足休息。"
+    ]
+  },
+  {
+    "w": "wardrobe",
+    "r": "ward(看守, 保护) + robe(衣服) -> 保管衣服的地方 -> 衣柜",
+    "c": [
+      "She organized her wardrobe by color to make choosing outfits easier each morning.",
+      "她按颜色整理衣柜以便每天早上更容易挑选穿搭。"
+    ]
+  },
+  {
+    "w": "ware",
+    "r": "来自古英语waru(商品, 货物), 原意为留心的事物 -> 物品、商品",
+    "c": [
+      "Local artisans displayed their handmade ceramic ware at the annual craft fair downtown.",
+      "当地工匠在市中心年度工艺博览会上展示他们的手工陶瓷制品。"
+    ]
+  },
+  {
+    "w": "warehouse",
+    "r": "复合: ware(货物) + house(房子) -> 存放货物的房子 -> 仓库",
+    "c": [
+      "The e-commerce company built a massive warehouse to speed up order fulfillment nationwide.",
+      "这家电商公司建造了一个大型仓库以加快全国订单的配送速度。"
+    ]
+  },
+  {
+    "w": "warfare",
+    "r": "war(战争) + -fare(进行, 从事) -> 进行战争 -> 战争",
+    "c": [
+      "Modern information warfare poses new challenges to national security and cyber defense systems.",
+      "现代信息战对国家安全和网络防御系统提出了新的挑战。"
+    ]
+  },
+  {
+    "w": "warm",
+    "r": "来自古英语wearm(温暖的), 与古高地德语warm同源 -> 温暖",
+    "c": [
+      "A warm cup of tea can be surprisingly comforting during long winter study sessions.",
+      "在漫长的冬季学习期间, 一杯热茶能带来意想不到的慰藉。"
+    ]
+  },
+  {
+    "w": "warmth",
+    "r": "warm(温暖的) + -th(名词后缀,表状态) -> 温暖的状态 -> 温暖",
+    "c": [
+      "The warmth of the community's response helped the displaced families feel welcome.",
+      "社区回应的温暖让流离失所的家庭感到被接纳。"
+    ]
+  },
+  {
+    "w": "warn",
+    "r": "来自古英语wearnian(警告, 预先通知), 与aware同源 -> 警告",
+    "c": null
+  },
+  {
+    "w": "warning",
+    "r": "warn(警告) + -ing(名词后缀,行为/结果) -> 警告",
+    "c": [
+      "The weather service issued a severe storm warning for coastal regions early this morning.",
+      "气象部门今天清晨向沿海地区发布了强风暴警告。"
+    ]
+  },
+  {
+    "w": "warrant",
+    "r": "来自古法语warant(保证, 授权), 与guard同源 -> 保证、授权",
+    "c": null
+  },
+  {
+    "w": "warranty",
+    "r": "warrant(保证) + -y(名词后缀) -> 保证期限 -> 保修期",
+    "c": [
+      "The manufacturer's warranty covers all manufacturing defects for up to three years.",
+      "制造商的保修范围涵盖所有制造缺陷, 有效期最长为三年。"
+    ]
+  },
+  {
+    "w": "wary",
+    "r": "来自古英语waer(小心的, 警觉的), 与aware同源 -> 机警的",
+    "c": null
+  },
+  {
+    "w": "wash",
+    "r": "来自古英语waescan(洗, 清洗) -> 洗",
+    "c": null
+  },
+  {
+    "w": "wasp",
+    "r": "来自古英语waesp(黄蜂), 与weave(编织)同源, 指编织蜂巢的昆虫 -> 黄蜂",
+    "c": [
+      "A wasp sting can cause severe allergic reactions in some sensitive individuals.",
+      "黄蜂蜇伤在一些敏感人群中可能引起严重的过敏反应。"
+    ]
+  },
+  {
+    "w": "waste",
+    "r": "来自拉丁语vastus(空的, 荒芜的), 经由古法语gaster -> 浪费",
+    "c": null
+  },
+  {
+    "w": "wasteful",
+    "r": "waste(浪费) + -ful(形容词后缀,充满…的) -> 充满浪费的 -> 浪费的",
+    "c": [
+      "Single-use plastic products are widely considered wasteful and harmful to the environment.",
+      "一次性塑料制品被广泛认为是浪费且对环境有害的。"
+    ]
+  },
+  {
+    "w": "watch",
+    "r": "来自古英语waeccan(看守, 醒着), 与wake同源 -> 观看",
+    "c": null
+  },
+  {
+    "w": "watchful",
+    "r": "watch(观看/看守) + -ful(形容词后缀,充满…的) -> 充满警觉的",
+    "c": [
+      "Watchful parents closely monitor their children's online activities for safety reasons.",
+      "出于安全考虑, 警觉的家长密切监控孩子的网络活动。"
+    ]
+  },
+  {
+    "w": "water",
+    "r": "来自古英语waeter(水), 最基本的日耳曼语词汇之一 -> 水",
+    "c": [
+      "Access to clean drinking water remains a critical issue in many developing countries.",
+      "获得清洁饮用水在许多发展中国家仍然是一个关键问题。"
+    ]
+  },
+  {
+    "w": "waterfall",
+    "r": "复合: water(水) + fall(落下) -> 水落下的地方 -> 瀑布",
+    "c": [
+      "The national park's main waterfall attracts thousands of tourists from around the world.",
+      "这个国家公园的主瀑布吸引了来自世界各地的数千名游客。"
+    ]
+  },
+  {
+    "w": "waterproof",
+    "r": "复合: water(水) + proof(防…的) -> 防水的",
+    "c": [
+      "Hikers should always carry a waterproof jacket when trekking through mountainous regions.",
+      "徒步旅行者在山区徒步时应始终携带防水夹克。"
+    ]
+  },
+  {
+    "w": "watertight",
+    "r": "复合: water(水) + tight(紧的) -> 水紧不透的 -> 防水的、严密的",
+    "c": [
+      "The lawyer prepared a watertight legal argument before presenting it in court.",
+      "律师在法庭上陈述之前准备了一个无懈可击的法律论点。"
+    ]
+  },
+  {
+    "w": "watery",
+    "r": "water(水) + -y(形容词后缀,有…特征的) -> 像水的",
+    "c": [
+      "The watery soup at the cafeteria left most students unsatisfied with the meal.",
+      "食堂里淡而无味的汤让大多数学生对这顿饭不满意。"
+    ]
+  },
+  {
+    "w": "watt",
+    "r": "以苏格兰发明家James Watt命名, 他改良了蒸汽机 -> 瓦特",
+    "c": [
+      "A standard incandescent bulb typically consumes around sixty watts of electrical power.",
+      "一个标准的白炽灯泡通常消耗大约六十瓦的电力。"
+    ]
+  },
+  {
+    "w": "wave",
+    "r": "来自古英语waefan(挥动, 挥舞), 与weave同源 -> 招手",
+    "c": [
+      "Students on the campus bus waved goodbye to their friends as the vehicle departed.",
+      "校园巴士离开时, 车上的学生向朋友们挥手告别。"
+    ]
+  },
+  {
+    "w": "waver",
+    "r": "wave(摇摆) + -er(动词后缀,反复动作) -> 不断摇摆 -> 犹豫不决",
+    "c": [
+      "Many students waver between pursuing graduate study and entering the job market.",
+      "许多学生在继续读研和进入就业市场之间犹豫不决。"
+    ]
+  },
+  {
+    "w": "wax",
+    "r": "来自古英语weax(蜡), 日耳曼语共同词根 -> 蜡",
+    "c": [
+      "The museum used special wax coatings to protect ancient paintings from humidity damage.",
+      "博物馆使用特殊的蜡涂层保护古画免受潮湿损害。"
+    ]
+  },
+  {
+    "w": "way",
+    "r": "来自古英语weg(道路, 方法), 与weigh同源 -> 方式",
+    "c": null
+  },
+  {
+    "w": "we",
+    "r": "来自古英语we(我们), 最古老的人称代词之一 -> 我们",
+    "c": [
+      "We need to consider the long-term consequences of our decisions on future generations.",
+      "我们需要考虑我们的决定对子孙后代的长期影响。"
+    ]
+  },
+  {
+    "w": "weak",
+    "r": "来自古英语wac(虚弱的), 与wake同源, 原指松软无力的 -> 弱的",
+    "c": [
+      "Students with weak foundations in mathematics often struggle with advanced physics courses.",
+      "数学基础薄弱的学生往往在高级物理课程上感到困难。"
+    ]
+  },
+  {
+    "w": "wealth",
+    "r": "来自古英语wela(富裕, 幸福), 与well同源 -> 财富",
+    "c": null
+  },
+  {
+    "w": "wealthy",
+    "r": "wealth(财富) + -y(形容词后缀,有…的) -> 有财富的 -> 富裕的",
+    "c": null
+  },
+  {
+    "w": "weapon",
+    "r": "来自古英语waepen(武器), 日耳曼语共同词根 -> 武器",
+    "c": [
+      "International treaties aim to limit the spread of nuclear weapons across the globe.",
+      "国际条约旨在限制核武器在全球范围内的扩散。"
+    ]
+  },
+  {
+    "w": "wear",
+    "r": "来自古英语werian(穿衣, 佩戴) -> 穿着",
+    "c": null
+  },
+  {
+    "w": "weary",
+    "r": "来自古英语werig(疲倦的), 原意为被磨损的 -> 疲倦",
+    "c": [
+      "After three consecutive nights of studying, the students looked truly weary and exhausted.",
+      "连续三个晚上学习后, 学生们看起来确实疲惫不堪。"
+    ]
+  },
+  {
+    "w": "weather",
+    "r": "来自古英语weder(天气, 风), 与wind同源 -> 天气",
+    "c": [
+      "Extreme weather events have become more frequent due to global climate change.",
+      "由于全球气候变化, 极端天气事件变得更加频繁。"
+    ]
+  },
+  {
+    "w": "weave",
+    "r": "来自古英语wefan(编织), 与web同源 -> 编织",
+    "c": null
+  },
+  {
+    "w": "weaver",
+    "r": "weave(编织) + -er(人) -> 编织的人 -> 织布工",
+    "c": [
+      "The skilled weaver created intricate patterns using traditional hand-loom techniques.",
+      "这位技艺精湛的织布工使用传统手工织机技术织出了复杂的图案。"
+    ]
+  },
+  {
+    "w": "web",
+    "r": "来自古英语web(织网), 与weave同源 -> 网",
+    "c": null
+  },
+  {
+    "w": "wedding",
+    "r": "wed(结婚) + -ding(名词后缀,行为/状态) -> 结婚的仪式 -> 婚礼",
+    "c": [
+      "The outdoor wedding ceremony was attended by family members and close friends only.",
+      "户外婚礼仪式仅有家人和亲密朋友参加。"
+    ]
+  },
+  {
+    "w": "wedge",
+    "r": "来自古英语wecg(楔子), 与wheel(旋转)同源, 指打入的东西 -> 楔子",
+    "c": [
+      "A small wooden wedge was placed under the wobbly table to stabilize it.",
+      "在摇晃的桌子下放了一个小木楔使其稳定。"
+    ]
+  },
+  {
+    "w": "wednesday",
+    "r": "复合: Woden(北欧主神奥丁) + day(日子) -> 奥丁之日 -> 星期三",
+    "c": [
+      "The weekly department meeting is scheduled every Wednesday afternoon at three o'clock.",
+      "每周部门会议定于每个星期三下午三点举行。"
+    ]
+  },
+  {
+    "w": "weed",
+    "r": "来自古英语weod(草, 杂草), 原指无用的草 -> 杂草",
+    "c": null
+  },
+  {
+    "w": "week",
+    "r": "来自古英语wice(星期), 原意为转变、轮替 -> 星期/周",
+    "c": null
+  },
+  {
+    "w": "weekday",
+    "r": "复合: week(周) + day(日子) -> 一周中的日子 -> 工作日",
+    "c": null
+  },
+  {
+    "w": "weekend",
+    "r": "复合: week(周) + end(末尾) -> 一周的末尾 -> 周末",
+    "c": null
+  },
+  {
+    "w": "weekly",
+    "r": "week(周) + -ly(形容词/副词后缀,每…的) -> 每周的",
+    "c": [
+      "The university publishes a weekly newsletter covering campus events and academic news.",
+      "大学每周出版一份通讯, 报道校园活动和学术新闻。"
+    ]
+  },
+  {
+    "w": "weep",
+    "r": "来自古英语wepan(哭泣, 流泪), 与wail(恸哭)同源 -> 哭泣",
+    "c": [
+      "Many audience members began to weep during the emotional final scene of the film.",
+      "在电影感人的最后一幕中, 许多观众开始落泪。"
+    ]
+  },
+  {
+    "w": "weigh",
+    "r": "来自古英语wegan(称重, 移动), 与way和wagon同源 -> 称重量",
+    "c": null
+  },
+  {
+    "w": "weight",
+    "r": "weigh(称重) + -t(名词后缀) -> 重量 -> 体重",
+    "c": null
+  },
+  {
+    "w": "weird",
+    "r": "来自古英语wyrd(命运, 命运三女神), 引申为超自然的、怪异的 -> 怪异的",
+    "c": [
+      "The scientist proposed a weird theory that challenged all conventional understanding.",
+      "这位科学家提出了一个怪异的理论, 挑战了所有传统认知。"
+    ]
+  },
+  {
+    "w": "welcome",
+    "r": "来自古英语wilcuma(受欢迎的客人), wil(希望) + cuma(来人) -> 欢迎",
+    "c": null
+  },
+  {
+    "w": "welfare",
+    "r": "wel(好, 来自well) + fare(状况, 过活) -> 过得好 -> 福利",
+    "c": null
+  },
+  {
+    "w": "well",
+    "r": "副词义来自古英语wel(好); 名词义来自古英语wielle(泉/井) -> 好、井",
+    "c": [
+      "Regular exercise and sufficient sleep contribute to overall physical and mental well-being.",
+      "规律运动和充足睡眠有助于整体身心健康。"
+    ]
+  },
+  {
+    "w": "well-known",
+    "r": "复合: well(好) + known(被知道的) -> 被人熟知的 -> 众所周知的",
+    "c": [
+      "The well-known physicist delivered a public lecture on quantum computing at the university.",
+      "这位著名物理学家在大学做了一场关于量子计算的公开讲座。"
+    ]
+  },
+  {
+    "w": "west",
+    "r": "来自古英语west(西), 日耳曼语共同方位词 -> 西、向西",
+    "c": [
+      "Many graduates move west to pursue career opportunities in the technology industry.",
+      "许多毕业生向西迁移以在科技行业寻求职业发展机会。"
+    ]
+  },
+  {
+    "w": "western",
+    "r": "west(西) + -ern(形容词后缀,表方向) -> 西方的",
+    "c": null
+  },
+  {
+    "w": "wet",
+    "r": "来自古英语waet(湿的), 与water同源 -> 湿的",
+    "c": null
+  },
+  {
+    "w": "whale",
+    "r": "来自古英语hwael(鲸), 日耳曼语共同词根 -> 鲸",
+    "c": [
+      "Marine biologists track whale migration patterns using advanced satellite technology.",
+      "海洋生物学家使用先进的卫星技术追踪鲸鱼的迁徙模式。"
+    ]
+  },
+  {
+    "w": "wharf",
+    "r": "来自古英语hwearf(河岸, 码头), 原意为转弯处 -> 码头",
+    "c": [
+      "Cargo ships unload imported goods at the wharf before distribution across the country.",
+      "货船在码头卸下进口货物, 然后分发到全国各地。"
+    ]
+  },
+  {
+    "w": "what",
+    "r": "来自古英语hwaet(什么), 最古老的疑问词之一 -> 什么",
+    "c": [
+      "What factors contribute most to academic success in higher education environments?",
+      "哪些因素对高等教育环境中的学业成功贡献最大？"
+    ]
+  },
+  {
+    "w": "whatever",
+    "r": "复合: what(什么) + ever(永远/任何) -> 无论什么",
+    "c": null
+  },
+  {
+    "w": "whatsoever",
+    "r": "whatsoever = whatever 的强调形式, 更正式 -> 无论什么",
+    "c": [
+      "The research team found no evidence whatsoever to support the controversial hypothesis.",
+      "研究团队没有发现任何证据支持这个有争议的假设。"
+    ]
+  },
+  {
+    "w": "wheat",
+    "r": "来自古英语hwaete(小麦), 与white(白色)同源, 指浅色谷物 -> 小麦",
+    "c": [
+      "Wheat production has increased significantly thanks to advances in agricultural technology.",
+      "由于农业技术的进步, 小麦产量大幅增加。"
+    ]
+  },
+  {
+    "w": "wheel",
+    "r": "来自古英语hweol(轮子), 与whip和wield同源 -> 轮子",
+    "c": [
+      "The invention of the wheel fundamentally transformed human transportation and trade.",
+      "轮子的发明从根本上改变了人类的交通和贸易方式。"
+    ]
+  },
+  {
+    "w": "when",
+    "r": "来自古英语hwaenne(何时), 最古老的疑问词之一 -> 当",
+    "c": [
+      "When faced with ethical dilemmas, students should consult their professors for guidance.",
+      "当面临道德困境时, 学生应向教授寻求指导。"
+    ]
+  },
+  {
+    "w": "whenever",
+    "r": "复合: when(何时) + ever(永远/任何) -> 无论何时",
+    "c": [
+      "Students can visit the professor during office hours whenever they need academic help.",
+      "学生们任何时候需要学业帮助都可以在办公时间拜访教授。"
+    ]
+  },
+  {
+    "w": "where",
+    "r": "来自古英语hwaer(哪里), 最古老的疑问词之一 -> 哪里",
+    "c": [
+      "Where students choose to study can significantly affect their concentration and productivity.",
+      "学生选择在哪里学习会显著影响他们的注意力和效率。"
+    ]
+  },
+  {
+    "w": "whereas",
+    "r": "复合: where(哪里) + as(如同) -> 然而、鉴于",
+    "c": [
+      "Humanities courses emphasize critical thinking, whereas science courses focus on experimentation.",
+      "人文学科课程强调批判性思维, 而理科课程则侧重于实验。"
+    ]
+  },
+  {
+    "w": "whereby",
+    "r": "复合: where(哪里/凭) + by(通过) -> 凭借、由此",
+    "c": [
+      "The new policy establishes a system whereby students can report academic dishonesty anonymously.",
+      "新政策建立了一套学生可以匿名举报学术不端的制度。"
+    ]
+  },
+  {
+    "w": "wherever",
+    "r": "复合: where(哪里) + ever(任何) -> 无论在哪里",
+    "c": null
+  },
+  {
+    "w": "whether",
+    "r": "来自古英语hwather(两个中的哪一个), 与which同源 -> 是否",
+    "c": [
+      "Many students debate whether online learning is as effective as traditional classroom instruction.",
+      "许多学生争论在线学习是否与传统课堂教学一样有效。"
+    ]
+  },
+  {
+    "w": "which",
+    "r": "来自古英语hwilc(哪一个), 日耳曼语共同疑问词 -> 哪个、什么样的",
+    "c": [
+      "The university offers several scholarship programs, which students can apply for online.",
+      "大学提供多个奖学金项目, 学生可以在线申请。"
+    ]
+  },
+  {
+    "w": "whichever",
+    "r": "复合: which(哪个) + ever(任何) -> 无论哪一个",
+    "c": [
+      "Whichever research topic you choose, you must submit a detailed proposal by Friday.",
+      "无论你选择哪个研究课题, 都必须在周五前提交详细的提案。"
+    ]
+  },
+  {
+    "w": "while",
+    "r": "来自古英语hwil(一段时间), 与whilst同源 -> 当…时、而、尽管",
+    "c": [
+      "While artificial intelligence offers many benefits, it also raises serious ethical concerns.",
+      "尽管人工智能带来许多好处, 它也引发了严重的伦理问题。"
+    ]
+  },
+  {
+    "w": "whilst",
+    "r": "whilst = while 的古式拼法, 多用于英式正式英语 -> 同时、然而",
+    "c": null
+  },
+  {
+    "w": "whip",
+    "r": "来自古英语wip(鞭子), 与wipe(擦)和wave(挥动)同源 -> 鞭子",
+    "c": null
+  },
+  {
+    "w": "whirl",
+    "r": "来自古挪威语hvirfla(旋转), 与wharf(转弯处)同源 -> 旋转",
+    "c": [
+      "The autumn leaves began to whirl in the wind as the storm approached the campus.",
+      "当暴风雨逼近校园时, 秋叶在风中开始旋转飞舞。"
+    ]
+  },
+  {
+    "w": "whisker",
+    "r": "whisk(挥动/扫) + -er(名词后缀) -> 嘴边扫动的毛 -> 胡须",
+    "c": [
+      "The scientist carefully measured the whisker length of each laboratory rat for the experiment.",
+      "科学家为实验仔细测量了每只实验鼠的胡须长度。"
+    ]
+  }
+]

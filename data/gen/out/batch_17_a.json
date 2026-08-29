@@ -1,0 +1,667 @@
+[
+  {
+    "w": "intend",
+    "r": "in-(向内) + tend(伸展) -> 内心伸展向某物 -> 想要（做某事）",
+    "c": [
+      "Many students intend to pursue graduate studies after completing their undergraduate degrees.",
+      "许多学生打算在完成本科学业后继续攻读研究生。"
+    ]
+  },
+  {
+    "w": "intense",
+    "r": "in-(加强) + tens(伸展) + -e -> 伸展到极致的 -> 强烈的、热烈的",
+    "c": [
+      "The intense competition for university admission pushes students to study longer hours every day.",
+      "大学录取的激烈竞争促使学生每天学习更长时间。"
+    ]
+  },
+  {
+    "w": "intensely",
+    "r": "intense(强烈的) + -ly(副词后缀) -> 强烈地",
+    "c": [
+      "Scholars debated intensely over the interpretation of the newly discovered historical manuscript.",
+      "学者们就新发现的历史手稿的解读展开了激烈辩论。"
+    ]
+  },
+  {
+    "w": "intensify",
+    "r": "in-(加强) + tens(伸展) + -ify(动词后缀,使…) -> 使更伸展 -> 增强，加剧",
+    "c": null
+  },
+  {
+    "w": "intensity",
+    "r": "in-(加强) + tens(伸展) + -ity(名词后缀) -> 伸展的程度 -> 强度",
+    "c": [
+      "The intensity of the research program requires participants to work in the laboratory every weekend.",
+      "该研究项目的高强度要求参与者每个周末都在实验室工作。"
+    ]
+  },
+  {
+    "w": "intensive",
+    "r": "in-(加强) + tens(伸展) + -ive(形容词后缀) -> 集中伸展的 -> 密集的",
+    "c": null
+  },
+  {
+    "w": "intent",
+    "r": "in-(向内) + tent(伸展) -> 内心伸展的 -> 专心的；意图",
+    "c": null
+  },
+  {
+    "w": "intention",
+    "r": "intent(意图) + -ion(名词后缀) -> 意图、打算",
+    "c": null
+  },
+  {
+    "w": "interact",
+    "r": "inter-(相互) + act(行动) -> 相互行动 -> 互动",
+    "c": null
+  },
+  {
+    "w": "interaction",
+    "r": "interact(互动) + -ion(名词后缀) -> 相互作用",
+    "c": null
+  },
+  {
+    "w": "interactive",
+    "r": "interact(互动) + -ive(形容词后缀) -> 交互的，互动的",
+    "c": null
+  },
+  {
+    "w": "interconnect",
+    "r": "inter-(相互) + connect(连接) -> 使互相联系",
+    "c": null
+  },
+  {
+    "w": "intercourse",
+    "r": "inter-(相互) + course(跑,流动) -> 相互往来 -> 性交；交往",
+    "c": [
+      "Social intercourse between different academic departments can foster innovative interdisciplinary research.",
+      "不同学术系之间的社交往来可以促进创新的跨学科研究。"
+    ]
+  },
+  {
+    "w": "interest",
+    "r": "inter-(在…之间) + est(存在) -> 与…有关的东西 -> 兴趣；利益",
+    "c": null
+  },
+  {
+    "w": "interesting",
+    "r": "interest(兴趣) + -ing(形容词后缀) -> 引起兴趣的 -> 有趣的",
+    "c": [
+      "The professor presented an interesting case study that challenged students' conventional thinking.",
+      "教授展示了一个有趣的案例研究，挑战了学生的常规思维。"
+    ]
+  },
+  {
+    "w": "interface",
+    "r": "inter-(之间) + face(面) -> 两个面之间 -> 接口",
+    "c": [
+      "Students must learn how to design an intuitive user interface for mobile applications in the course.",
+      "学生必须在课程中学习如何为移动应用设计直观的用户界面。"
+    ]
+  },
+  {
+    "w": "interfere",
+    "r": "inter-(在…之间) + fere(打,击) -> 从中击打 -> 妨碍、介入",
+    "c": [
+      "Excessive social media use can interfere with students' ability to concentrate on their academic work.",
+      "过度使用社交媒体会妨碍学生专注于学业的能力。"
+    ]
+  },
+  {
+    "w": "interference",
+    "r": "interfere(干涉) + -ence(名词后缀) -> 干涉",
+    "c": null
+  },
+  {
+    "w": "interim",
+    "r": "inter-(在…之间) + im(=time时间) -> 在时间之间的 -> 临时的",
+    "c": [
+      "The university appointed an interim dean while searching for a permanent replacement.",
+      "在寻找常任替代者期间，大学任命了一位临时院长。"
+    ]
+  },
+  {
+    "w": "interior",
+    "r": "inter(内部) + -ior(比较级后缀) -> 更内部的 -> 内部",
+    "c": null
+  },
+  {
+    "w": "intermediate",
+    "r": "inter-(在…之间) + medi(中间) + -ate(形容词后缀) -> 在中间的 -> 中等的、中间体",
+    "c": [
+      "The intermediate level course bridges the gap between basic concepts and advanced research topics.",
+      "中级课程填补了基础概念与高级研究课题之间的差距。"
+    ]
+  },
+  {
+    "w": "intermittent",
+    "r": "inter-(在…之间) + mit(发送) + -tent(形容词后缀) -> 中间有间隔发送的 -> 断断续续的",
+    "c": [
+      "Intermittent internet connectivity in rural areas severely limits online learning opportunities.",
+      "农村地区断断续续的网络连接严重限制了在线学习机会。"
+    ]
+  },
+  {
+    "w": "internal",
+    "r": "inter(内部) + -nal(形容词后缀) -> 内部的",
+    "c": null
+  },
+  {
+    "w": "international",
+    "r": "inter-(之间) + nation(国家) + -al(形容词后缀) -> 国家之间的 -> 国际的",
+    "c": null
+  },
+  {
+    "w": "internet",
+    "r": "inter-(相互) + net(网络) -> 相互连接的网络 -> 因特网",
+    "c": null
+  },
+  {
+    "w": "interpersonal",
+    "r": "inter-(之间) + person(人) + -al(形容词后缀) -> 人与人之间的",
+    "c": null
+  },
+  {
+    "w": "interpret",
+    "r": "inter-(在…之间) + pret(价值) -> 说明价值 -> 解释、口译",
+    "c": null
+  },
+  {
+    "w": "interpretation",
+    "r": "interpret(解释) + -ation(名词后缀) -> 解释，理解",
+    "c": null
+  },
+  {
+    "w": "interracial",
+    "r": "inter-(之间) + racial(种族的) -> 种族间的",
+    "c": [
+      "The university promotes interracial dialogue through cultural exchange programs and student forums.",
+      "该大学通过文化交流项目和学生论坛促进种族间对话。"
+    ]
+  },
+  {
+    "w": "interrupt",
+    "r": "inter-(在…中间) + rupt(破) -> 从中打破 -> 中断、打断",
+    "c": [
+      "Students were advised not to interrupt the speaker during the academic lecture.",
+      "学生被建议在学术讲座期间不要打断演讲者。"
+    ]
+  },
+  {
+    "w": "intersection",
+    "r": "inter-(中间) + sect(切) + -ion(名词后缀) -> 交叉切断的地方 -> 十字路口",
+    "c": null
+  },
+  {
+    "w": "intertwine",
+    "r": "inter-(相互) + twine(缠绕) -> 相互缠绕 -> 交织，纠缠",
+    "c": [
+      "In modern society, technology and culture intertwine in ways that reshape daily human experience.",
+      "在现代社会，技术与文化以重塑人类日常经验的方式交织在一起。"
+    ]
+  },
+  {
+    "w": "interval",
+    "r": "inter-(在…之间) + val(墙,来自vallum) -> 墙与墙之间 -> 间隔、休息",
+    "c": [
+      "Taking short study intervals can improve long-term retention of complex academic material.",
+      "学习中安排短暂的休息间隔可以提高对复杂学术材料的长期记忆。"
+    ]
+  },
+  {
+    "w": "intervene",
+    "r": "inter-(在…之间) + ven(来) -> 来到中间 -> 干预",
+    "c": null
+  },
+  {
+    "w": "intervention",
+    "r": "intervene(干预) + -tion(名词后缀) -> 干涉",
+    "c": null
+  },
+  {
+    "w": "interview",
+    "r": "inter-(相互) + view(看) -> 相互看 -> 采访、面试",
+    "c": null
+  },
+  {
+    "w": "intimate",
+    "r": "intim(最里面的,来自拉丁语intimus) + -ate(形容词后缀) -> 内心深处的 -> 亲密的",
+    "c": [
+      "Roommates often develop intimate friendships after sharing daily life together for a semester.",
+      "室友在一起分享日常生活一个学期后往往会发展出亲密的友谊。"
+    ]
+  },
+  {
+    "w": "intimidate",
+    "r": "in-(使) + timid(害怕的) + -ate(动词后缀) -> 使害怕 -> 恐吓、威胁",
+    "c": [
+      "The university has strict policies against any attempt to intimidate other students on campus.",
+      "该大学有严格政策禁止任何在校园内恐吓其他学生的行为。"
+    ]
+  },
+  {
+    "w": "into",
+    "r": "复合: in(进入) + to(到) -> 进入内部",
+    "c": [
+      "Students poured into the library to prepare for their final examinations before winter break.",
+      "学生们涌入图书馆，为寒假前的期末考试做准备。"
+    ]
+  },
+  {
+    "w": "intolerant",
+    "r": "in-(不) + toler(忍受) + -ant(形容词后缀) -> 不能忍受的 -> 无法容忍的",
+    "c": [
+      "Educators should challenge intolerant attitudes and foster respect for diverse perspectives.",
+      "教育工作者应挑战不宽容的态度，培养对多元观点的尊重。"
+    ]
+  },
+  {
+    "w": "intonation",
+    "r": "in-(加强) + ton(音调) + -ation(名词后缀) -> 语调，声调",
+    "c": [
+      "Language learners must pay attention to intonation patterns to sound natural in conversation.",
+      "语言学习者必须注意语调模式，以便在对话中听起来自然。"
+    ]
+  },
+  {
+    "w": "intricacy",
+    "r": "intricate(复杂的) + -acy(名词后缀) -> 错综复杂",
+    "c": null
+  },
+  {
+    "w": "intricate",
+    "r": "in-(向内) + tric(小障碍,琐事) + -ate(形容词后缀) -> 充满琐事的 -> 复杂的",
+    "c": null
+  },
+  {
+    "w": "intrigue",
+    "r": "in-(使) + trig(=trick诡计) + -ue -> 使入诡计 -> 阴谋；激起兴趣",
+    "c": [
+      "The mysterious structure of the ancient monument continues to intrigue archaeologists worldwide.",
+      "这座古代纪念碑的神秘结构持续吸引着全世界的考古学家。"
+    ]
+  },
+  {
+    "w": "intriguing",
+    "r": "intrigu(e)(激起兴趣) + -ing(形容词后缀) -> 有趣的，迷人的",
+    "c": [
+      "The researcher presented intriguing findings that challenged widely accepted scientific assumptions.",
+      "这位研究者提出了有趣的发现，挑战了广为接受的科学假设。"
+    ]
+  },
+  {
+    "w": "intrinsic",
+    "r": "intr(=intro向内) + insic(生长) -> 从内部生长的 -> 内在的、固有的",
+    "c": null
+  },
+  {
+    "w": "introduce",
+    "r": "intro-(向内) + duc(引导) + -e -> 引导进来 -> 介绍",
+    "c": null
+  },
+  {
+    "w": "introduction",
+    "r": "introduce(介绍) + -tion(名词后缀) -> 介绍、传入",
+    "c": null
+  },
+  {
+    "w": "intrude",
+    "r": "in-(进入) + trud(推) + -e -> 推进去 -> 打扰、侵入",
+    "c": [
+      "It is considered rude to intrude on a professor's office hours without a scheduled appointment.",
+      "未经预约就闯入教授的办公时间被认为是不礼貌的。"
+    ]
+  },
+  {
+    "w": "intuition",
+    "r": "in-(向内) + tuit(看) + -ion(名词后缀) -> 向内看 -> 直觉",
+    "c": [
+      "Many successful entrepreneurs rely on intuition as well as data when making strategic decisions.",
+      "许多成功的企业家在做战略决策时既依赖数据也依赖直觉。"
+    ]
+  },
+  {
+    "w": "intuitive",
+    "r": "in-(向内) + tuit(看) + -ive(形容词后缀) -> 凭直觉看的 -> 直觉的",
+    "c": [
+      "Good software design should feel intuitive so that users can navigate without instruction.",
+      "好的软件设计应该感觉直观，让用户无需说明即可操作。"
+    ]
+  },
+  {
+    "w": "invade",
+    "r": "in-(进入) + vad(走) + -e -> 走进去 -> 侵略",
+    "c": [
+      "The country vowed to defend its sovereignty if foreign military forces should invade its territory.",
+      "该国誓言如果外国军队入侵其领土，将捍卫国家主权。"
+    ]
+  },
+  {
+    "w": "invalid",
+    "r": "in-(不) + valid(有效的) -> 无效的",
+    "c": [
+      "The contract was declared invalid because it had not been signed by both parties.",
+      "该合同因未经双方签署而被宣布无效。"
+    ]
+  },
+  {
+    "w": "invaluable",
+    "r": "in-(不) + valuable(有价值的) -> 无法估价的 -> 无价的",
+    "c": [
+      "The professor's guidance proved invaluable to students writing their first research papers.",
+      "教授的指导对撰写第一篇研究论文的学生来说是无价的。"
+    ]
+  },
+  {
+    "w": "invariably",
+    "r": "in-(不) + vari(变化) + -able(能…的) + -ly(副词后缀) -> 不变地，总是",
+    "c": [
+      "Top-performing students invariably attribute their success to consistent effort and curiosity.",
+      "成绩顶尖的学生总是将他们的成功归功于持续的努力和好奇心。"
+    ]
+  },
+  {
+    "w": "invasion",
+    "r": "in-(进入) + vas(走) + -ion(名词后缀) -> 侵略",
+    "c": [
+      "The sudden invasion of privacy through social media has raised serious ethical concerns.",
+      "通过社交媒体对隐私的突然侵犯引发了严重的伦理担忧。"
+    ]
+  },
+  {
+    "w": "invasive",
+    "r": "in-(进入) + vas(走) + -ive(形容词后缀) -> 入侵的",
+    "c": [
+      "Medical researchers are developing less invasive surgical techniques to reduce patient recovery time.",
+      "医学研究人员正在开发侵入性更小的手术技术以缩短患者康复时间。"
+    ]
+  },
+  {
+    "w": "invent",
+    "r": "in-(使) + vent(来) -> 使来到(新东西) -> 发明",
+    "c": null
+  },
+  {
+    "w": "invention",
+    "r": "invent(发明) + -ion(名词后缀) -> 发明",
+    "c": null
+  },
+  {
+    "w": "inventory",
+    "r": "in-(进入) + vent(来) + -ory(名词后缀) -> 进来东西的清单 -> 详细目录、清点",
+    "c": [
+      "The library conducted a thorough inventory to identify missing books and update its catalog.",
+      "图书馆进行了彻底清点，以找出丢失的书籍并更新目录。"
+    ]
+  },
+  {
+    "w": "inverse",
+    "r": "in-(反向) + vers(转) + -e -> 转过来的 -> 相反的、倒数",
+    "c": [
+      "Research shows an inverse relationship between screen time and academic performance in adolescents.",
+      "研究表明青少年的屏幕时间与学业成绩之间存在反比关系。"
+    ]
+  },
+  {
+    "w": "inversely",
+    "r": "inverse(相反的) + -ly(副词后缀) -> 相反地",
+    "c": [
+      "Study quality and stress levels are often inversely related during the final examination period.",
+      "在期末考试期间，学习质量与压力水平通常呈反比关系。"
+    ]
+  },
+  {
+    "w": "invert",
+    "r": "in-(反向) + vert(转) -> 颠倒、反转",
+    "c": [
+      "To solve the equation, students must first invert the fraction on the left-hand side.",
+      "要解这个方程，学生必须先将左边的分数取倒数。"
+    ]
+  },
+  {
+    "w": "invest",
+    "r": "in-(进入) + vest(衣服) -> 穿上(权力/金钱) -> 投资",
+    "c": null
+  },
+  {
+    "w": "investigate",
+    "r": "in-(进入) + vestig(脚印,踪迹) + -ate(动词后缀) -> 循着踪迹进入 -> 调查",
+    "c": null
+  },
+  {
+    "w": "investment",
+    "r": "invest(投资) + -ment(名词后缀) -> 投资",
+    "c": null
+  },
+  {
+    "w": "invisible",
+    "r": "in-(不) + vis(看) + -ible(能…的) -> 不能看见的 -> 看不见的",
+    "c": [
+      "Microorganisms are invisible to the naked eye and can only be observed through a microscope.",
+      "微生物肉眼看不见，只能通过显微镜观察。"
+    ]
+  },
+  {
+    "w": "invitation",
+    "r": "invite(邀请) + -ation(名词后缀) -> 邀请",
+    "c": [
+      "Students received a formal invitation to attend the annual academic symposium on climate change.",
+      "学生们收到了参加年度气候变化学术研讨会的正式邀请。"
+    ]
+  },
+  {
+    "w": "invite",
+    "r": "in-(使) + vit(生命) + -e -> 使有生气(招待) -> 邀请",
+    "c": [
+      "The department will invite renowned scholars to deliver guest lectures throughout the semester.",
+      "该系将邀请知名学者在整个学期内做客座演讲。"
+    ]
+  },
+  {
+    "w": "invoice",
+    "r": "来自法语envoi(发送), 原指发货单 -> 发票，发货清单",
+    "c": [
+      "The finance office requires a detailed invoice before reimbursing any research-related expenses.",
+      "财务办公室在报销任何研究相关费用之前都需要详细的发票。"
+    ]
+  },
+  {
+    "w": "invoke",
+    "r": "in-(使) + vok(叫喊) + -e -> 叫喊求助 -> 请求、援引",
+    "c": [
+      "Lawyers often invoke previous court rulings to support their arguments during trials.",
+      "律师在审判中经常援引以往的法庭裁决来支持自己的论点。"
+    ]
+  },
+  {
+    "w": "involve",
+    "r": "in-(进入) + volv(卷,转) + -e -> 卷入其中 -> 涉及",
+    "c": null
+  },
+  {
+    "w": "involvement",
+    "r": "involve(涉及) + -ment(名词后缀) -> 连累；包含",
+    "c": null
+  },
+  {
+    "w": "inward",
+    "r": "in-(向内) + -ward(方向后缀) -> 向内的",
+    "c": [
+      "During meditation, practitioners focus their attention inward to achieve mental clarity and calm.",
+      "在冥想过程中，练习者将注意力向内集中，以实现思维的清晰与平静。"
+    ]
+  },
+  {
+    "w": "ion",
+    "r": "来自希腊语ion(走), 因在电解中向电极移动 -> 离子",
+    "c": [
+      "Chemistry students learned how each ion carries either a positive or negative electrical charge.",
+      "化学专业的学生学习了每个离子如何带正电荷或负电荷。"
+    ]
+  },
+  {
+    "w": "iron",
+    "r": "来自古英语især(铁), 引申为用熨斗熨平 -> 熨",
+    "c": [
+      "She had to iron her presentation shirt carefully before the important scholarship interview.",
+      "在重要的奖学金面试前，她必须仔细熨好面试穿的衬衫。"
+    ]
+  },
+  {
+    "w": "irony",
+    "r": "来自希腊语eironeia(假装无知), 由苏格拉底式反讽而来 -> 反讽",
+    "c": null
+  },
+  {
+    "w": "irrational",
+    "r": "ir-(不) + rational(理性的) -> 不合理的，不理性的",
+    "c": null
+  },
+  {
+    "w": "irregularity",
+    "r": "ir-(不) + regular(规则的) + -ity(名词后缀) -> 不规则；不整齐",
+    "c": [
+      "The researchers noticed an irregularity in the data that required further investigation.",
+      "研究人员注意到数据中的一处异常，需要进一步调查。"
+    ]
+  },
+  {
+    "w": "irrelevant",
+    "r": "ir-(不) + relevant(相关的) -> 无关的",
+    "c": null
+  },
+  {
+    "w": "irrespective",
+    "r": "ir-(不) + respect(考虑,方面) + -ive(形容词后缀) -> 不考虑的",
+    "c": [
+      "The scholarship is open to all students irrespective of their financial background or nationality.",
+      "该奖学金向所有学生开放，不论其经济背景或国籍。"
+    ]
+  },
+  {
+    "w": "irreversible",
+    "r": "ir-(不) + revers(反转) + -ible(能…的) -> 不能反转的 -> 不可逆的",
+    "c": [
+      "Climate scientists warn that some environmental damage may be irreversible without immediate action.",
+      "气候科学家警告说，如果不立即采取行动，一些环境破坏可能是不可逆的。"
+    ]
+  },
+  {
+    "w": "irrigate",
+    "r": "ir-(=in进入) + rig(水,湿) + -ate(动词后缀) -> 使有水进入 -> 灌溉",
+    "c": [
+      "Farmers in arid regions use modern technology to irrigate crops efficiently and conserve water.",
+      "干旱地区的农民使用现代技术高效灌溉作物并节约水资源。"
+    ]
+  },
+  {
+    "w": "irrigation",
+    "r": "irrigate(灌溉) + -tion(名词后缀) -> 灌溉",
+    "c": null
+  },
+  {
+    "w": "irritate",
+    "r": "来自拉丁语irritare(激怒), 与ira(愤怒)同源 -> 激怒",
+    "c": [
+      "Constant noise from the construction site began to irritate students trying to study in the library.",
+      "施工现场持续的噪音开始让在图书馆学习的学生感到烦躁。"
+    ]
+  },
+  {
+    "w": "islam",
+    "r": "来自阿拉伯语islam(顺从), 指顺从真主的宗教 -> 伊斯兰教，回教",
+    "c": [
+      "Students in the religious studies course learned about the core beliefs and practices of Islam.",
+      "宗教学课程的学生学习了伊斯兰教的核心信仰和实践。"
+    ]
+  },
+  {
+    "w": "island",
+    "r": "复合: is(岛) + land(土地) -> 岛",
+    "c": null
+  },
+  {
+    "w": "isle",
+    "r": "来自拉丁语insula(岛), 经由古法语 -> 岛",
+    "c": [
+      "The small isle off the coast has become a popular destination for marine biology field trips.",
+      "海岸附近的小岛已成为海洋生物学实地考察的热门目的地。"
+    ]
+  },
+  {
+    "w": "isolate",
+    "r": "来自拉丁语insula(岛) + -ate(动词后缀) -> 使成岛 -> 隔离",
+    "c": null
+  },
+  {
+    "w": "isolation",
+    "r": "isolate(隔离) + -ion(名词后缀) -> 隔绝，隔离",
+    "c": null
+  },
+  {
+    "w": "issue",
+    "r": "来自古法语issue(出口,流出), 引申为问题、期刊、发布",
+    "c": null
+  },
+  {
+    "w": "it",
+    "r": "来自古英语hit(它), 第三人称中性代词 -> 它",
+    "c": [
+      "It is widely recognized that critical thinking is essential for success in higher education.",
+      "人们普遍认为，批判性思维对于高等教育中的成功至关重要。"
+    ]
+  },
+  {
+    "w": "item",
+    "r": "来自拉丁语item(同样,也), 原指条目 -> 物品、条款",
+    "c": null
+  },
+  {
+    "w": "its",
+    "r": "it(它) + -s(所有格后缀) -> 它的",
+    "c": [
+      "The university has expanded its research facilities to support more graduate students each year.",
+      "该大学扩大了其研究设施，以每年支持更多的研究生。"
+    ]
+  },
+  {
+    "w": "itself",
+    "r": "it(它) + self(自己) -> 它自己",
+    "c": null
+  },
+  {
+    "w": "ivory",
+    "r": "来自拉丁语ebur(象牙), 经由古法语ivurie -> 象牙",
+    "c": [
+      "The museum displays ancient ivory carvings that demonstrate remarkable artistic skill and craftsmanship.",
+      "博物馆展示了古代象牙雕刻，展现了非凡的艺术技巧和工艺。"
+    ]
+  },
+  {
+    "w": "jack",
+    "r": "来自人名Jack, 因起重器像壮汉举物 -> 起重器；传动装置",
+    "c": null
+  },
+  {
+    "w": "jacket",
+    "r": "来自古法语jaquette(短上衣), jacque(农民外衣)的指小形式 -> 夹克",
+    "c": [
+      "Students often wear warm jackets when walking between campus buildings during the winter months.",
+      "冬季几个月里，学生们在校园建筑之间走动时常穿保暖夹克。"
+    ]
+  },
+  {
+    "w": "jail",
+    "r": "来自拉丁语cavea(笼子), 经由古法语jaiole -> 监狱",
+    "c": [
+      "The criminology class examined how modern jail systems aim to rehabilitate rather than punish.",
+      "犯罪学课程探讨了现代监狱制度如何旨在改造而非惩罚。"
+    ]
+  },
+  {
+    "w": "jam",
+    "r": "词源: 来自古法语jamais的缩写, jam原意为拥挤, 后引申为堵塞、果酱 -> 拥堵、果酱",
+    "c": null
+  }
+]

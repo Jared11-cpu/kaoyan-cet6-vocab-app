@@ -1,0 +1,6 @@
+{"w": "do", "r": "联想: 最基础的动作动词，源自古英语don，表「做、执行」"}
+{"w": "donate", "r": "don(给) + -ate(动词后缀) -> 给出去 -> 捐赠"}
+{"w": "downtown", "r": "复合: down(下) + town(城) -> 市中心", "c": ["Many young professionals choose to live downtown for convenience and culture.", "许多年轻职业人士为了便利和文化选择住在市中心。"]}
+{"w": "drawing", "r": "draw(画) + -ing(名词后缀) -> 绘图", "c": ["Technical drawing requires precision and attention to every minute detail.", "技术绘图要求精确并关注每一个微小细节。"]}
+{"w": "drum", "r": "联想: 古英语drum，鼓", "c": ["The rhythm of the traditional drum dance reflects the cultural heritage of the region.", "传统鼓舞的节奏反映了该地区的文化遗产。"]}
+{"w": "during", "r": "dur(持久) + -ing(在…期间) -> 在…期间"}

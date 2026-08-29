@@ -1,0 +1,661 @@
+[
+  {
+    "w": "produce",
+    "r": "pro-(向前) + duc(引导, 带来, 来自拉丁语ducere) + -e -> 带到前面来 -> 生产",
+    "c": null
+  },
+  {
+    "w": "producer",
+    "r": "produce(生产) + -er(人/物) -> 生产者；舞台监督",
+    "c": null
+  },
+  {
+    "w": "product",
+    "r": "pro-(向前) + duct(引导, 来自拉丁语ducere) -> 被引导出来的东西 -> 产品",
+    "c": null
+  },
+  {
+    "w": "production",
+    "r": "produce(生产) + -tion(名词后缀) -> 生产的行为/过程 -> 生产",
+    "c": null
+  },
+  {
+    "w": "productive",
+    "r": "pro-(向前) + duct(引导) + -ive(形容词后缀, 有…性质的) -> 能引导出成果的 -> 盛产的、富有成效的",
+    "c": [
+      "Taking short breaks throughout the day can actually make workers more productive and focused.",
+      "每天短暂休息实际上可以提高工人的工作效率和专注力。"
+    ]
+  },
+  {
+    "w": "productivity",
+    "r": "productive(富有成效的) + -ity(名词后缀, 表性质) -> 生产力",
+    "c": null
+  },
+  {
+    "w": "profess",
+    "r": "pro-(向前) + fess(说, 来自拉丁语fateri) -> 站出来说 -> 表示，承认；宣称信仰",
+    "c": [
+      "Some politicians profess concern about climate change but fail to support meaningful legislation.",
+      "一些政客声称关注气候变化，却不支持有意义的立法。"
+    ]
+  },
+  {
+    "w": "profession",
+    "r": "pro-(向前) + fess(说) + -ion(名词后缀) -> 当众宣告的职业 -> 职业",
+    "c": null
+  },
+  {
+    "w": "professional",
+    "r": "profession(职业) + -al(形容词后缀) -> 职业的、专业的",
+    "c": null
+  },
+  {
+    "w": "professor",
+    "r": "pro-(向前) + fess(说) + -or(人) -> 站出来讲授的人 -> 教授",
+    "c": null
+  },
+  {
+    "w": "proficiency",
+    "r": "pro-(向前) + fic(做, 来自拉丁语facere) + -iency(名词后缀, 表状态) -> 向前做到位的状态 -> 熟练",
+    "c": null
+  },
+  {
+    "w": "proficient",
+    "r": "pro-(向前) + fic(做) + -ient(形容词后缀) -> 能向前做到位的 -> 熟练的，精通的",
+    "c": null
+  },
+  {
+    "w": "profile",
+    "r": "pro-(向前) + file(线, 来自拉丁语filum) -> 从前面看的轮廓线 -> 轮廓、简介",
+    "c": [
+      "The university maintains a detailed profile of each student including academic and extracurricular data.",
+      "大学为每位学生保存详细档案，包括学业和课外活动数据。"
+    ]
+  },
+  {
+    "w": "profit",
+    "r": "pro-(向前) + fit(做, 来自拉丁语facere) -> 向前做出的收益 -> 利润",
+    "c": null
+  },
+  {
+    "w": "profitable",
+    "r": "profit(利润) + -able(形容词后缀, 能…的) -> 能产生利润的 -> 有利可图的",
+    "c": null
+  },
+  {
+    "w": "profound",
+    "r": "pro-(向前) + found(底部, 来自拉丁语fundus) -> 一直深到底部的 -> 深刻的",
+    "c": null
+  },
+  {
+    "w": "program",
+    "r": "pro-(向前) + gram(写, 来自希腊语gramma) -> 预先写好的计划 -> 项目",
+    "c": null
+  },
+  {
+    "w": "progress",
+    "r": "pro-(向前) + gress(走, 来自拉丁语gradi) -> 向前走 -> 进步",
+    "c": null
+  },
+  {
+    "w": "progressive",
+    "r": "pro-(向前) + gress(走) + -ive(形容词后缀, 有…性质的) -> 向前走的 -> 渐进的、先进的",
+    "c": null
+  },
+  {
+    "w": "prohibit",
+    "r": "pro-(在前) + hibit(拿住, 来自拉丁语habere) -> 提前拿住挡住 -> 禁止",
+    "c": null
+  },
+  {
+    "w": "prohibition",
+    "r": "pro-(在前) + hibit(拿住) + -ion(名词后缀) -> 禁止的行为/法令 -> 禁止；禁令，禁律",
+    "c": [
+      "The prohibition of single-use plastics has significantly reduced waste in many coastal cities.",
+      "禁止使用一次性塑料显著减少了许多沿海城市的垃圾。"
+    ]
+  },
+  {
+    "w": "project",
+    "r": "pro-(向前) + ject(扔, 投射, 来自拉丁语jacere) -> 向前投射出的计划 -> 项目、计划",
+    "c": null
+  },
+  {
+    "w": "projector",
+    "r": "project(投射) + -or(物, 做…的工具) -> 投射影像的设备 -> 放映机",
+    "c": [
+      "The teacher connected her laptop to the classroom projector to display slides from the lecture.",
+      "老师将笔记本电脑连接到教室投影仪上，展示讲座幻灯片。"
+    ]
+  },
+  {
+    "w": "prolong",
+    "r": "pro-(向前) + long(长, 来自拉丁语longus) -> 向前延长 -> 延长",
+    "c": [
+      "Scientists are studying whether regular exercise can prolong human lifespan and improve health.",
+      "科学家正在研究规律运动是否能延长人类寿命并改善健康状况。"
+    ]
+  },
+  {
+    "w": "prolonged",
+    "r": "pro-(向前) + long(长) + -ed(形容词后缀) -> 被延长的 -> 长时间的",
+    "c": [
+      "Prolonged exposure to loud noise can cause permanent hearing damage and other health problems.",
+      "长时间暴露在巨大噪音中会导致永久性听力损伤和其他健康问题。"
+    ]
+  },
+  {
+    "w": "prominent",
+    "r": "pro-(向前) + min(突出, 来自拉丁语minere) + -ent(形容词后缀) -> 向前突出的 -> 突出的",
+    "c": null
+  },
+  {
+    "w": "promise",
+    "r": "pro-(向前) + mise(送, 来自拉丁语mittere) -> 送到前面的话 -> 承诺",
+    "c": [
+      "Young volunteers promise to dedicate their summer to teaching children in rural villages.",
+      "年轻志愿者承诺将整个夏天用于在农村村庄教孩子们。"
+    ]
+  },
+  {
+    "w": "promising",
+    "r": "promise(承诺, 有前途) + -ing(形容词后缀) -> 有前途的",
+    "c": [
+      "The research team has made promising progress in developing a new treatment for the disease.",
+      "研究团队在开发该疾病的新疗法方面取得了令人鼓舞的进展。"
+    ]
+  },
+  {
+    "w": "promote",
+    "r": "pro-(向前) + mote(移动, 来自拉丁语movere) -> 向前移动 -> 促进",
+    "c": null
+  },
+  {
+    "w": "promotion",
+    "r": "pro-(向前) + mot(移动) + -ion(名词后缀) -> 向前推进的行为 -> 促进；提升",
+    "c": [
+      "Hard work and strong performance are the most reliable paths to promotion in most companies.",
+      "在大多数公司，努力工作和出色表现是获得晋升最可靠的途径。"
+    ]
+  },
+  {
+    "w": "prompt",
+    "r": "来自拉丁语promptus(准备好的, 迅速的), 源自promere(拿出来) -> 敏捷的、提示",
+    "c": null
+  },
+  {
+    "w": "promptly",
+    "r": "prompt(敏捷的) + -ly(副词后缀) -> 敏捷地，迅速地",
+    "c": [
+      "Students are expected to submit their assignments promptly before the specified deadline each week.",
+      "学生应在每周规定的截止日期之前及时提交作业。"
+    ]
+  },
+  {
+    "w": "prone",
+    "r": "来自拉丁语pronus(向前倾斜的, 俯卧的) -> 俯卧的",
+    "c": [
+      "People who sit for long hours at desks are more prone to back pain and posture problems.",
+      "长时间坐在办公桌前的人更容易出现背痛和姿势问题。"
+    ]
+  },
+  {
+    "w": "pronoun",
+    "r": "pro-(代替) + noun(名词) -> 代替名词的词 -> 代词",
+    "c": [
+      "Grammar lessons on pronoun usage help students write clearer and more coherent academic essays.",
+      "关于代词用法的语法课帮助学生写出更清晰、更连贯的学术论文。"
+    ]
+  },
+  {
+    "w": "pronounce",
+    "r": "pro-(向前) + nounce(说, 报告, 来自拉丁语nuntiare) -> 向前说出(发音) -> 发音",
+    "c": null
+  },
+  {
+    "w": "pronunciation",
+    "r": "pro-(向前) + nunci(说) + -ation(名词后缀) -> 发音的方式或行为 -> 发音",
+    "c": [
+      "Language learners often practice pronunciation by repeating native speakers recordings daily.",
+      "语言学习者通常通过每天重复母语者的录音来练习发音。"
+    ]
+  },
+  {
+    "w": "proof",
+    "r": "来自拉丁语probare(证明, 检验), 经由古法语proeve -> 证据",
+    "c": null
+  },
+  {
+    "w": "propaganda",
+    "r": "来自拉丁语propagare(传播, 繁殖), 原指天主教传教会 -> 宣传",
+    "c": [
+      "History students analyzed wartime propaganda posters to understand their persuasive techniques.",
+      "历史系学生分析了战时宣传海报，以了解其宣传技巧。"
+    ]
+  },
+  {
+    "w": "propagate",
+    "r": "pro-(向前) + pag(固定, 来自拉丁语pangere) + -ate(动词后缀) -> 向前固定(生根)并扩展 -> 传播",
+    "c": null
+  },
+  {
+    "w": "propagation",
+    "r": "pro-(向前) + pag(固定) + -ation(名词后缀) -> 繁殖；传播；蔓延",
+    "c": [
+      "The propagation of misinformation through social media poses a serious threat to democratic societies.",
+      "通过社交媒体传播错误信息对民主社会构成严重威胁。"
+    ]
+  },
+  {
+    "w": "propel",
+    "r": "pro-(向前) + pel(推, 驱动, 来自拉丁语pellere) -> 向前推 -> 推进",
+    "c": [
+      "Innovative research in renewable energy will help propel society toward a more sustainable future.",
+      "可再生能源领域的创新研究将帮助推动社会走向更可持续的未来。"
+    ]
+  },
+  {
+    "w": "propeller",
+    "r": "propel(推进) + -ler(物, 做…的工具) -> 推进的器械 -> 螺旋桨，推进器",
+    "c": null
+  },
+  {
+    "w": "proper",
+    "r": "来自拉丁语proprius(自己的, 特有的), 引申为适当的 -> 正确的、适当的",
+    "c": null
+  },
+  {
+    "w": "property",
+    "r": "proper(自己的, 特有的) + -ty(名词后缀, 表性质) -> 自己特有的东西/性质 -> 财产、性质、特性",
+    "c": null
+  },
+  {
+    "w": "prophecy",
+    "r": "pro-(向前) + phec(说, 来自希腊语pheme) + -y(名词后缀) -> 预先说出的话 -> 预言；预言能力",
+    "c": [
+      "The ancient prophecy fascinated historians who studied the cultural beliefs of that civilization.",
+      "这个古老的预言吸引了研究该文明文化信仰的历史学家。"
+    ]
+  },
+  {
+    "w": "prophet",
+    "r": "pro-(向前) + phet(说, 来自希腊语pheme) -> 预先说话的人 -> 先知",
+    "c": [
+      "The religious prophet traveled from village to village spreading messages of peace and compassion.",
+      "这位宗教先知从一个村庄走到另一个村庄，传播和平与慈悲的教义。"
+    ]
+  },
+  {
+    "w": "proportion",
+    "r": "pro-(按照) + port(部分, 来自拉丁语pars) + -ion(名词后缀) -> 按部分分配的关系 -> 部分、比例",
+    "c": null
+  },
+  {
+    "w": "proposal",
+    "r": "pro-(向前) + pos(放置, 来自拉丁语ponere) + -al(名词后缀) -> 放到前面的东西 -> 提议、求婚",
+    "c": null
+  },
+  {
+    "w": "propose",
+    "r": "pro-(向前) + pose(放置, 来自拉丁语ponere) -> 放到前面 -> 提议、提名",
+    "c": null
+  },
+  {
+    "w": "proposition",
+    "r": "pro-(向前) + posit(放置) + -ion(名词后缀) -> 提出的论断 -> 命题",
+    "c": [
+      "The philosopher debated the proposition that knowledge comes primarily from sensory experience.",
+      "这位哲学家辩论了知识主要来自感官经验这一命题。"
+    ]
+  },
+  {
+    "w": "propulsion",
+    "r": "pro-(向前) + puls(推, 来自拉丁语pellere) + -ion(名词后缀) -> 向前推的力量 -> 推进，推进力",
+    "c": [
+      "Modern rockets use chemical propulsion systems to achieve escape velocity from Earth gravity.",
+      "现代火箭使用化学推进系统来达到脱离地球引力的逃逸速度。"
+    ]
+  },
+  {
+    "w": "prose",
+    "r": "来自拉丁语prosa(散文), 原指直接的话语, 与诗歌相对 -> 散文",
+    "c": [
+      "The literature course covers both poetry and prose from various periods of British literary history.",
+      "文学课程涵盖英国文学史上各个时期的诗歌和散文。"
+    ]
+  },
+  {
+    "w": "prosecute",
+    "r": "pro-(向前) + secut(跟随, 来自拉丁语sequi) + -e -> 跟着追究到底 -> 起诉",
+    "c": [
+      "The attorney general promised to prosecute companies that violate environmental protection laws.",
+      "总检察长承诺起诉违反环境保护法的公司。"
+    ]
+  },
+  {
+    "w": "prospect",
+    "r": "pro-(向前) + spect(看, 来自拉丁语specere) -> 向前看 -> 景色、前景",
+    "c": null
+  },
+  {
+    "w": "prospective",
+    "r": "pro-(向前) + spect(看) + -ive(形容词后缀) -> 向前看的 -> 潜在的、预期的",
+    "c": [
+      "University campuses hold open houses to give prospective students a chance to explore facilities.",
+      "大学校园举办开放日，让有入学意向的学生有机会参观设施。"
+    ]
+  },
+  {
+    "w": "prosper",
+    "r": "来自拉丁语prosperus(顺利的, 成功的), 源自pro-(按照)+sper(希望) -> 按照希望发展 -> 成功",
+    "c": null
+  },
+  {
+    "w": "prosperity",
+    "r": "prosper(成功) + -ity(名词后缀, 表状态) -> 繁荣的状态 -> 繁荣",
+    "c": null
+  },
+  {
+    "w": "prosperous",
+    "r": "prosper(成功) + -ous(形容词后缀, 充满…的) -> 充满成功的 -> 繁荣的",
+    "c": [
+      "The once-small town has become a prosperous commercial center with thriving local businesses.",
+      "这个曾经的小镇已成为一个繁荣的商业中心，当地企业蓬勃发展。"
+    ]
+  },
+  {
+    "w": "protect",
+    "r": "pro-(在前面) + tect(盖, 遮蔽, 来自拉丁语tegere) -> 在前面盖着保护 -> 保护",
+    "c": null
+  },
+  {
+    "w": "protein",
+    "r": "来自希腊语proteios(首要的), 源自protos(第一), 因对生命重要而得名 -> 蛋白质",
+    "c": null
+  },
+  {
+    "w": "protest",
+    "r": "pro-(向前, 公开) + test(证明, 见证, 来自拉丁语testis) -> 公开证明(反对) -> 抗议",
+    "c": null
+  },
+  {
+    "w": "protocol",
+    "r": "proto(第一, 最初) + col(粘, 来自希腊语kolla) -> 最初粘在一起的草稿 -> 协议",
+    "c": [
+      "All research involving human participants must follow strict ethical protocols approved by the review board.",
+      "所有涉及人类参与者的研究都必须遵循经审查委员会批准的严格伦理协议。"
+    ]
+  },
+  {
+    "w": "proton",
+    "r": "prot(第一, 来自希腊语protos) + -on(名词后缀, 表粒子) -> 质子，氕核",
+    "c": [
+      "Physics students learned that a hydrogen atom consists of one proton and one orbiting electron.",
+      "物理系学生了解到氢原子由一个质子和一个围绕其运行的电子组成。"
+    ]
+  },
+  {
+    "w": "prototype",
+    "r": "proto(第一, 最初) + type(型号, 类型) -> 最初的型号 -> 原型",
+    "c": [
+      "Engineers built a working prototype of the new electric car to test its performance on roads.",
+      "工程师们制造了新型电动汽车的运行原型，以测试其道路行驶性能。"
+    ]
+  },
+  {
+    "w": "proud",
+    "r": "来自古英语prūd(勇敢的, 出色的), 与古法语prud同源 -> 骄傲",
+    "c": null
+  },
+  {
+    "w": "prove",
+    "r": "来自拉丁语probare(检验, 证明), 经由古法语prover -> 证明",
+    "c": null
+  },
+  {
+    "w": "proverb",
+    "r": "pro-(代替) + verb(词, 话语, 来自拉丁语verbum) -> 代替普通话语的话 -> 谚语，格言，箴言",
+    "c": [
+      "Every culture has its own proverb about wisdom, hard work, and the importance of community.",
+      "每种文化都有自己关于智慧、勤奋和社区重要性的谚语。"
+    ]
+  },
+  {
+    "w": "provide",
+    "r": "pro-(向前) + vid(看, 来自拉丁语videre) + -e -> 向前看(做好准备) -> 提供",
+    "c": null
+  },
+  {
+    "w": "provided",
+    "r": "provide(提供) + -d(形容词/连词后缀) -> 提供的；假如",
+    "c": [
+      "Students may use the library after hours provided they register in advance at the front desk.",
+      "学生可以在非开放时间使用图书馆，前提是提前在前台登记。"
+    ]
+  },
+  {
+    "w": "province",
+    "r": "来自拉丁语provincia(行省, 管辖地区), 原指官员的职责范围 -> 省",
+    "c": [
+      "Each province in the country has its own unique cultural traditions and local dialects.",
+      "该国每个省都有自己独特的文化传统和地方方言。"
+    ]
+  },
+  {
+    "w": "provision",
+    "r": "pro-(向前) + vis(看) + -ion(名词后缀) -> 预先准备好的东西 -> 提供、供给",
+    "c": [
+      "The provision of affordable healthcare is considered a fundamental responsibility of modern governments.",
+      "提供负担得起的医疗保健被认为是现代政府的基本责任。"
+    ]
+  },
+  {
+    "w": "provocative",
+    "r": "pro-(向前) + voc(叫喊, 声音, 来自拉丁语vocare) + -ative(形容词后缀) -> 大声叫唤(挑衅)的 -> 挑衅的，煽动的，刺激的；挑逗的",
+    "c": [
+      "The art exhibition featured provocative works that challenged viewers to rethink social norms.",
+      "这次艺术展展出了具有挑战性的作品，促使观众重新思考社会规范。"
+    ]
+  },
+  {
+    "w": "provoke",
+    "r": "pro-(向前) + voke(叫喊, 来自拉丁语vocare) -> 向…叫喊 -> 激怒",
+    "c": null
+  },
+  {
+    "w": "proximate",
+    "r": "pro-(接近) + xim(最近, 来自拉丁语proximus) + -ate(形容词后缀) -> 最接近的",
+    "c": [
+      "The proximate cause of the accident was mechanical failure, but deeper issues were also involved.",
+      "事故的直接原因是机械故障，但也涉及更深层次的问题。"
+    ]
+  },
+  {
+    "w": "proximately",
+    "r": "pro-(接近) + xim(最近) + -ate(形容词后缀) + -ly(副词后缀) -> 近似，接近",
+    "c": [
+      "The cost of building the new campus was proximately fifty million dollars according to initial estimates.",
+      "根据初步估计，建造新校区的费用约为五千万美元。"
+    ]
+  },
+  {
+    "w": "proximity",
+    "r": "pro-(接近) + xim(最近, 来自拉丁语proximus) + -ity(名词后缀) -> 接近，邻近",
+    "c": null
+  },
+  {
+    "w": "prudent",
+    "r": "来自拉丁语prudens(有远见的, 谨慎的), 源自providere(预见) -> 谨慎的",
+    "c": [
+      "It is prudent for college students to start saving money early for future career transitions.",
+      "大学生尽早为未来的职业转型存钱是明智的。"
+    ]
+  },
+  {
+    "w": "prune",
+    "r": "来自古法语proignier(修剪树枝), 原指削掉前端 -> 修剪，修整；删除，削减",
+    "c": [
+      "The budget committee decided to prune unnecessary expenses to keep the project within financial limits.",
+      "预算委员会决定削减不必要的开支，以使项目保持在财务限度内。"
+    ]
+  },
+  {
+    "w": "psychiatrist",
+    "r": "psych(心灵, 精神, 来自希腊语psyche) + iatr(治疗, 来自希腊语iatros) + -ist(人) -> 治疗心灵的人 -> 精神科医生，精神病专家",
+    "c": [
+      "A qualified psychiatrist can diagnose and treat a wide range of mental health conditions.",
+      "合格的精神科医生可以诊断和治疗各种心理健康问题。"
+    ]
+  },
+  {
+    "w": "psychiatry",
+    "r": "psych(心灵, 精神) + iatr(治疗) + -y(名词后缀) -> 治疗心灵的学科 -> 精神病学",
+    "c": [
+      "The field of psychiatry has evolved significantly with advances in neuroscience and medication.",
+      "随着神经科学和药物治疗的进步，精神病学领域取得了显著发展。"
+    ]
+  },
+  {
+    "w": "psychological",
+    "r": "psych(心灵, 精神) + -ology(学科) + -ical(形容词后缀) -> 心理的",
+    "c": [
+      "Many studies have shown that regular exercise has positive effects on psychological well-being.",
+      "许多研究表明，规律运动对心理健康有积极影响。"
+    ]
+  },
+  {
+    "w": "psychology",
+    "r": "psych(心灵, 精神) + -ology(学科, 来自希腊语logia) -> 心理学",
+    "c": [
+      "Students majoring in psychology learn about human behavior, cognition, and emotional development.",
+      "心理学专业的学生学习人类行为、认知和情感发展。"
+    ]
+  },
+  {
+    "w": "pub",
+    "r": "public house(公共酒馆)的缩写 -> 酒吧",
+    "c": [
+      "The historic pub near the university campus has been a popular gathering place for students for decades.",
+      "大学校园附近那家历史悠久的酒吧几十年来一直是学生们喜爱的聚会场所。"
+    ]
+  },
+  {
+    "w": "public",
+    "r": "来自拉丁语publicus(人民的, 公共的), 源自populus(人民) -> 公众的",
+    "c": null
+  },
+  {
+    "w": "publication",
+    "r": "public(公开的) + -ation(名词后缀) -> 公开的行为/产物 -> 公布、出版",
+    "c": null
+  },
+  {
+    "w": "publicity",
+    "r": "public(公开的) + -ity(名词后缀, 表性质/状态) -> 公开的状态 -> 宣传",
+    "c": [
+      "The new environmental campaign received extensive publicity from national media outlets.",
+      "这项新的环保运动获得了全国媒体的广泛宣传。"
+    ]
+  },
+  {
+    "w": "publicize",
+    "r": "public(公开的) + -ize(动词后缀, 使…) -> 使公开 -> 宣传",
+    "c": [
+      "Universities often publicize student achievements on their official websites and social media accounts.",
+      "大学经常在官方网站和社交媒体账户上宣传学生的成就。"
+    ]
+  },
+  {
+    "w": "publish",
+    "r": "来自拉丁语publicare(公开化), 源自publicus(公共的) -> 公布、出版",
+    "c": [
+      "Professors are expected to publish research papers in peer-reviewed journals to advance their careers.",
+      "教授们需要在同行评审的期刊上发表研究论文以推进职业发展。"
+    ]
+  },
+  {
+    "w": "pudding",
+    "r": "来自古法语pudding(香肠), 后指甜点布丁 -> 布丁",
+    "c": [
+      "The traditional rice pudding served at the campus cafeteria is especially popular during winter months.",
+      "校园自助餐厅供应的传统大米布丁在冬季特别受欢迎。"
+    ]
+  },
+  {
+    "w": "puff",
+    "r": "联想: 拟声词, 模仿吹气和膨胀的声音 -> 粉扑、膨胀、一阵",
+    "c": [
+      "A small puff of steam escaped from the laboratory flask as the chemist carefully removed the stopper.",
+      "当化学家小心地取下瓶塞时，一小股蒸汽从实验室烧瓶中逸出。"
+    ]
+  },
+  {
+    "w": "pull",
+    "r": "来自古英语pullian(拉, 扯) -> 拉",
+    "c": null
+  },
+  {
+    "w": "pulley",
+    "r": "来自希腊语polos(轴, 枢), 经由拉丁语polus -> 滑轮，滑车，皮带轮",
+    "c": [
+      "Physics students conducted an experiment using a pulley system to measure mechanical advantage.",
+      "物理系学生使用滑轮系统进行实验以测量机械效益。"
+    ]
+  },
+  {
+    "w": "pulse",
+    "r": "来自拉丁语pulsus(推动, 跳动), 源自pellere(击打) -> 脉搏",
+    "c": [
+      "Doctors check a patient pulse to assess heart rate and overall cardiovascular health condition.",
+      "医生检查病人的脉搏以评估心率和整体心血管健康状况。"
+    ]
+  },
+  {
+    "w": "pump",
+    "r": "来自拉丁语pompa(水泵), 源自希腊语pompe(推送) -> 泵",
+    "c": null
+  },
+  {
+    "w": "pumpkin",
+    "r": "来自希腊语pepon(大甜瓜), 经由拉丁语和法语演变而来 -> 南瓜",
+    "c": [
+      "Students carved creative designs into pumpkin lanterns for the annual campus Halloween celebration.",
+      "学生们在南瓜灯上雕刻创意图案，庆祝一年一度的校园万圣节活动。"
+    ]
+  },
+  {
+    "w": "punch",
+    "r": "来自拉丁语punctum(刺, 点), 引申为击打和打洞 -> 殴打、打洞器、钻孔机",
+    "c": [
+      "The boxer delivered a powerful punch that knocked out his opponent in the second round of the match.",
+      "拳击手在比赛第二回合发出一记重拳，将对手击倒。"
+    ]
+  },
+  {
+    "w": "punctual",
+    "r": "punct(点, 刺, 来自拉丁语punctum) + -ual(形容词后缀) -> 准点的 -> 准时的",
+    "c": null
+  },
+  {
+    "w": "punish",
+    "r": "来自拉丁语punire(惩罚), 源自poena(刑罚) -> 惩罚",
+    "c": [
+      "Schools should punish academic dishonesty fairly to maintain integrity within the educational system.",
+      "学校应当公平惩处学术不端行为，以维护教育系统的诚信。"
+    ]
+  },
+  {
+    "w": "pupil",
+    "r": "来自拉丁语pupillus(小男孩, 小学生), 另指瞳孔(因人在瞳孔里像小人) -> 学生、瞳孔",
+    "c": null
+  },
+  {
+    "w": "puppet",
+    "r": "来自拉丁语pupa(娃娃, 小女孩), 经由古法语poupee -> 木偶",
+    "c": [
+      "The children watched in amazement as the skilled puppeteer brought each wooden puppet to life.",
+      "孩子们惊奇地看着技艺精湛的木偶演员让每个木偶都活了起来。"
+    ]
+  }
+]

@@ -1,0 +1,685 @@
+[
+  {
+    "w": "measure",
+    "r": "meas(测量, 来自拉丁语mensurare) + -ure(名词后缀) -> 测量的结果 -> 衡量、测量",
+    "c": null
+  },
+  {
+    "w": "measurement",
+    "r": "measure(测量) + -ment(名词后缀, 表行为/结果) -> 测量的结果 -> 尺寸、大小",
+    "c": null
+  },
+  {
+    "w": "meat",
+    "r": "词源: 来自古英语mete(食物), 后专指肉类 -> 肉类",
+    "c": null
+  },
+  {
+    "w": "mechanic",
+    "r": "mechan(机械, 来自希腊语mekhane) + -ic(名词后缀, 人) -> 从事机械的人 -> 技工",
+    "c": [
+      "The campus mechanic was called in to repair the broken elevator in the engineering building.",
+      "校园技工被叫来修理工程大楼里坏掉的电梯。"
+    ]
+  },
+  {
+    "w": "mechanical",
+    "r": "mechan(机械) + -ical(形容词后缀) -> 机械的",
+    "c": null
+  },
+  {
+    "w": "mechanics",
+    "r": "mechan(机械) + -ics(名词后缀, …学) -> 力学、机械学",
+    "c": [
+      "Newtonian mechanics remains a fundamental subject for all first-year physics students.",
+      "牛顿力学仍然是所有物理学一年级学生的基础学科。"
+    ]
+  },
+  {
+    "w": "mechanism",
+    "r": "mechan(机械) + -ism(名词后缀, 表行为/机制) -> 机制、方法",
+    "c": null
+  },
+  {
+    "w": "medal",
+    "r": "词源: 来自拉丁语metallum(金属), 因奖章多为金属制成 -> 奖章",
+    "c": [
+      "The top student received a gold medal for her outstanding research in molecular biology.",
+      "这位尖子生因在分子生物学方面的杰出研究获得了一枚金牌。"
+    ]
+  },
+  {
+    "w": "media",
+    "r": "词源: 来自拉丁语medium(中间)的复数, 指传播媒介 -> 传播媒介",
+    "c": null
+  },
+  {
+    "w": "mediate",
+    "r": "medi(中间, 来自拉丁语medius) + -ate(动词后缀) -> 在中间做事 -> 调停",
+    "c": [
+      "The department head offered to mediate the dispute between the two research teams.",
+      "系主任主动提出调停两个研究团队之间的纠纷。"
+    ]
+  },
+  {
+    "w": "medical",
+    "r": "medic(医疗, 来自拉丁语medicus医生) + -al(形容词后缀) -> 医疗的",
+    "c": null
+  },
+  {
+    "w": "medication",
+    "r": "medicat(e)(用药治疗) + -ion(名词后缀, 表行为/结果) -> 药物治疗、药物",
+    "c": null
+  },
+  {
+    "w": "medicine",
+    "r": "medic(医疗, 来自拉丁语medicus) + -ine(名词后缀, 表事物) -> 医药",
+    "c": null
+  },
+  {
+    "w": "medieval",
+    "r": "medi(中间) + ev(时代, 来自拉丁语aevum) + -al(形容词后缀) -> 中间时代的 -> 中世纪的",
+    "c": [
+      "The history professor specializes in medieval European politics and religious institutions.",
+      "这位历史学教授专攻中世纪欧洲政治和宗教制度。"
+    ]
+  },
+  {
+    "w": "meditate",
+    "r": "medit(思考, 来自拉丁语meditari) + -ate(动词后缀) -> 沉思、冥想",
+    "c": [
+      "Many students practice yoga and meditate to reduce stress during final exam periods.",
+      "许多学生在期末考试期间练习瑜伽和冥想来减轻压力。"
+    ]
+  },
+  {
+    "w": "meditation",
+    "r": "meditat(e)(冥想) + -ion(名词后缀, 表行为/状态) -> 冥想",
+    "c": [
+      "Research shows that regular meditation can improve focus and reduce anxiety in college students.",
+      "研究表明，定期冥想可以提高大学生的专注力并减轻焦虑。"
+    ]
+  },
+  {
+    "w": "medium",
+    "r": "medi(中间) + -um(名词后缀) -> 中间物 -> 媒介、中等的",
+    "c": null
+  },
+  {
+    "w": "meet",
+    "r": "词源: 来自古英语metan(遇见、相遇), 与德语begegnen同源 -> 遇见、会见",
+    "c": null
+  },
+  {
+    "w": "meeting",
+    "r": "meet(会见) + -ing(名词后缀, 表动作/结果) -> 会议",
+    "c": null
+  },
+  {
+    "w": "melancholy",
+    "r": "melan(黑, 来自希腊语melas) + chol(胆汁) + -y(后缀) -> 黑胆汁的 -> 忧郁(古代医学认为黑胆汁致忧郁)",
+    "c": [
+      "The melancholy tone of the novel reflects the author's own struggles with depression.",
+      "这部小说忧郁的基调反映了作者自己与抑郁症的抗争。"
+    ]
+  },
+  {
+    "w": "melody",
+    "r": "词源: 来自希腊语melodia(歌曲), melos(歌) + oide(唱) -> 旋律",
+    "c": null
+  },
+  {
+    "w": "melon",
+    "r": "词源: 来自希腊语melopepon(苹果瓜), melon(苹果) + pepon(瓜) -> 甜瓜",
+    "c": [
+      "Fresh watermelon and other melon varieties are popular snacks during the hot summer months.",
+      "新鲜西瓜和其他甜瓜品种在炎热的夏季月份是很受欢迎的零食。"
+    ]
+  },
+  {
+    "w": "melt",
+    "r": "词源: 来自古英语meltan(融化), 与拉丁语mollis(软的)同源 -> 融化、溶解",
+    "c": [
+      "Rising global temperatures cause glaciers to melt faster than scientists previously predicted.",
+      "不断上升的全球气温导致冰川融化速度超过科学家此前的预测。"
+    ]
+  },
+  {
+    "w": "member",
+    "r": "membr(肢体、部分, 来自拉丁语membrum) -> 身体的一部分 -> 成员",
+    "c": null
+  },
+  {
+    "w": "membership",
+    "r": "member(成员) + -ship(名词后缀, 表身份/状态) -> 会员身份 -> 会员",
+    "c": null
+  },
+  {
+    "w": "memo",
+    "r": "词源: 是memorandum的缩写, 来自拉丁语memorare(记住) -> 备忘录",
+    "c": [
+      "The department chair sent a memo to all faculty members regarding the upcoming accreditation review.",
+      "系主任向全体教职员工发送了关于即将到来的认证评审的备忘录。"
+    ]
+  },
+  {
+    "w": "memorable",
+    "r": "memor(记忆, 来自拉丁语memorare) + -able(形容词后缀, 可…的) -> 可记住的 -> 值得纪念的",
+    "c": null
+  },
+  {
+    "w": "memorandum",
+    "r": "memorand(=memorare, 记住) + -um(名词后缀, 表事物) -> 要记住的事 -> 备忘录",
+    "c": [
+      "The two universities signed a memorandum of understanding to promote academic exchange programs.",
+      "两所大学签署了谅解备忘录以促进学术交流项目。"
+    ]
+  },
+  {
+    "w": "memorial",
+    "r": "memor(记忆) + -ial(形容词/名词后缀) -> 记忆的(事物) -> 纪念碑",
+    "c": [
+      "The war memorial on campus honors students who died serving their country during the conflict.",
+      "校园里的战争纪念碑纪念在冲突中为国捐躯的学生们。"
+    ]
+  },
+  {
+    "w": "memorize",
+    "r": "memor(记忆) + -ize(动词后缀, 使…) -> 使进入记忆 -> 记住、熟记",
+    "c": [
+      "Instead of simply memorizing facts, students are encouraged to develop critical thinking skills.",
+      "学校鼓励学生培养批判性思维能力，而不是简单地死记硬背。"
+    ]
+  },
+  {
+    "w": "memory",
+    "r": "memor(记忆) + -y(名词后缀, 表状态) -> 记忆",
+    "c": null
+  },
+  {
+    "w": "menace",
+    "r": "词源: 来自拉丁语minacia(威胁), minax(威吓的) -> 威胁",
+    "c": [
+      "Climate change remains the most serious menace to global food security in the 21st century.",
+      "气候变化仍然是21世纪全球粮食安全面临的最严重威胁。"
+    ]
+  },
+  {
+    "w": "mend",
+    "r": "词源: 来自古英语mendian(修理), 与amend(修正)同源 -> 修补、修理",
+    "c": [
+      "The student learned to mend his own clothes as a way to save money while living on campus.",
+      "这名学生学会了自己缝补衣服，作为在校园生活时省钱的一种方式。"
+    ]
+  },
+  {
+    "w": "mental",
+    "r": "ment(心智, 来自拉丁语mens) + -al(形容词后缀) -> 心智的 -> 精神的",
+    "c": [
+      "Universities are increasingly focusing on mental health support services for their students.",
+      "大学正越来越关注为学生提供心理健康支持服务。"
+    ]
+  },
+  {
+    "w": "mention",
+    "r": "ment(心智) + -ion(后缀) -> 使进入心智 -> 提及",
+    "c": [
+      "During the interview, the candidate made sure to mention her research experience and publications.",
+      "在面试中，候选人确保提到了她的研究经历和发表的论文。"
+    ]
+  },
+  {
+    "w": "mentor",
+    "r": "词源: 来自希腊语Mentor(奥德赛中奥德修斯的忠实顾问) -> 指导者、导师",
+    "c": [
+      "A faculty mentor can provide valuable guidance to students navigating their academic careers.",
+      "教师导师可以为学生规划学术生涯提供宝贵的指导。"
+    ]
+  },
+  {
+    "w": "menu",
+    "r": "词源: 来自拉丁语minutus(细小的), 指详细的清单 -> 菜单",
+    "c": [
+      "The campus cafeteria introduced a new menu featuring healthier options and plant-based meals.",
+      "校园自助餐厅推出了新菜单，主打更健康的选择和植物性餐食。"
+    ]
+  },
+  {
+    "w": "merchandise",
+    "r": "merch(贸易, 来自拉丁语mercari) + -andise(名词后缀) -> 贸易的货物 -> 商品",
+    "c": [
+      "The university bookstore sells official merchandise including hoodies, mugs, and stationery.",
+      "大学书店出售官方商品，包括连帽衫、马克杯和文具。"
+    ]
+  },
+  {
+    "w": "merchant",
+    "r": "merch(贸易) + -ant(名词后缀, 人) -> 做贸易的人 -> 商人",
+    "c": [
+      "The merchant class played a crucial role in the economic development of medieval European cities.",
+      "商人阶层在中世纪欧洲城市的经济发展中发挥了关键作用。"
+    ]
+  },
+  {
+    "w": "merciful",
+    "r": "mercy(仁慈) + -ful(形容词后缀, 充满…的) -> 充满仁慈的 -> 仁慈的、宽大的",
+    "c": [
+      "The judge was merciful and gave the young first-time offender a sentence of community service.",
+      "法官很仁慈，给了这位年轻的初犯社区服务的判决。"
+    ]
+  },
+  {
+    "w": "mercury",
+    "r": "词源: 来自拉丁语Mercurius(墨丘利神), 因汞流动迅速如神的信使而得名 -> 水银",
+    "c": [
+      "Old thermometers contained mercury, which has since been replaced due to its toxic properties.",
+      "旧温度计含有水银，由于其毒性后来已被替代。"
+    ]
+  },
+  {
+    "w": "mercy",
+    "r": "词源: 来自拉丁语merces(报酬、怜悯), 后引申为仁慈 -> 仁慈",
+    "c": null
+  },
+  {
+    "w": "mere",
+    "r": "词源: 来自拉丁语merus(纯净的、纯粹的), 引申为仅仅的 -> 仅仅的",
+    "c": null
+  },
+  {
+    "w": "merely",
+    "r": "mere(仅仅的) + -ly(副词后缀) -> 仅仅",
+    "c": [
+      "Success in college depends on more than merely attending lectures and completing assignments.",
+      "大学的成功不仅仅取决于听课和完成作业。"
+    ]
+  },
+  {
+    "w": "merge",
+    "r": "词源: 来自拉丁语mergere(浸泡、沉入), 指沉入一体 -> 合并",
+    "c": null
+  },
+  {
+    "w": "merit",
+    "r": "词源: 来自拉丁语meritum(功绩、报酬), merere(应得) -> 优点、价值、值得",
+    "c": [
+      "Scholarships are awarded based on academic merit rather than financial need alone.",
+      "奖学金的颁发基于学业优异程度，而不仅仅是经济需求。"
+    ]
+  },
+  {
+    "w": "merry",
+    "r": "词源: 来自古英语myrige(愉快的), 与古英语mirth(欢乐)同源 -> 愉快的",
+    "c": [
+      "The merry atmosphere of the campus festival lifted the spirits of students and faculty alike.",
+      "校园节日欢乐的气氛提振了全体师生的精神。"
+    ]
+  },
+  {
+    "w": "mesh",
+    "r": "词源: 来自古英语max(网), 与荷兰语maas(网眼)同源 -> 网眼、网络",
+    "c": [
+      "The fine mesh screen prevents small insects from entering the laboratory through the windows.",
+      "细密的网纱窗可防止小昆虫从窗户进入实验室。"
+    ]
+  },
+  {
+    "w": "mess",
+    "r": "词源: 来自古法语mes(一份食物), 后指混乱的状态 -> 混乱",
+    "c": null
+  },
+  {
+    "w": "message",
+    "r": "词源: 来自拉丁语missus(派遣), 原指被派遣传递的信息 -> 消息",
+    "c": null
+  },
+  {
+    "w": "messenger",
+    "r": "messeng(=message, 消息) + -er(名词后缀, 人) -> 传递消息的人 -> 报信者",
+    "c": [
+      "Before the internet, messengers on horseback carried important documents across vast distances.",
+      "在互联网出现之前，骑马的信使跨越遥远的距离传递重要文件。"
+    ]
+  },
+  {
+    "w": "metabolic",
+    "r": "metabol(变化, 来自希腊语metabole) + -ic(形容词后缀) -> 变化的 -> 代谢作用的",
+    "c": [
+      "Regular exercise can boost metabolic rate and help maintain a healthy body weight.",
+      "规律运动可以提高代谢率并有助于保持健康体重。"
+    ]
+  },
+  {
+    "w": "metal",
+    "r": "词源: 来自希腊语metallon(矿山、金属), 后指金属 -> 金属",
+    "c": [
+      "Students in the chemistry lab learned to identify different metals based on their reaction patterns.",
+      "化学实验室的学生学会了根据反应模式识别不同的金属。"
+    ]
+  },
+  {
+    "w": "metallic",
+    "r": "metal(金属) + -lic(=-ic, 形容词后缀, 有…性质的) -> 金属的",
+    "c": [
+      "The new smartphone features a sleek metallic body with a polished aluminum finish.",
+      "这款新智能手机采用光滑的金属机身，配以抛光铝质外壳。"
+    ]
+  },
+  {
+    "w": "metallurgy",
+    "r": "metall(金属) + -urgy(工作、技术, 来自希腊语ergon) -> 金属加工技术 -> 冶金学",
+    "c": [
+      "The department of materials science offers advanced courses in metallurgy and alloy design.",
+      "材料科学系开设了冶金学和合金设计的高级课程。"
+    ]
+  },
+  {
+    "w": "metaphor",
+    "r": "meta-(超越、转移) + phor(携带, 来自希腊语pherein) -> 转移意义的说法 -> 隐喻",
+    "c": [
+      "Writers often use metaphor to convey complex emotions in a more vivid and memorable way.",
+      "作家经常使用隐喻以更生动难忘的方式传达复杂的情感。"
+    ]
+  },
+  {
+    "w": "method",
+    "r": "词源: 来自希腊语methodos(探索的方式), meta(后)+hodos(路) -> 方法",
+    "c": null
+  },
+  {
+    "w": "metre",
+    "r": "词源: 来自希腊语metron(度量), 由地球子午线的千万分之一定义 -> 米",
+    "c": [
+      "The Olympic swimming pool measures fifty metres in length and twenty-five metres in width.",
+      "奥林匹克游泳池长五十米，宽二十五米。"
+    ]
+  },
+  {
+    "w": "metric",
+    "r": "metr(度量, 来自希腊语metron) + -ic(形容词后缀) -> 度量的 -> 度量",
+    "c": null
+  },
+  {
+    "w": "metropolitan",
+    "r": "metro(母、大, 来自希腊语metropolis母邦) + polit(城市) + -an(形容词后缀) -> 大都市的",
+    "c": [
+      "Metropolitan universities often benefit from close ties to local industries and cultural institutions.",
+      "大都市的大学通常受益于与当地产业和文化机构的紧密联系。"
+    ]
+  },
+  {
+    "w": "microphone",
+    "r": "micro-(微小) + phone(声音, 来自希腊语phone) -> 把微小声音放大的设备 -> 麦克风",
+    "c": null
+  },
+  {
+    "w": "microprocessor",
+    "r": "micro-(微小) + processor(处理器) -> 微型处理器 -> 微信息处理机",
+    "c": [
+      "The invention of the microprocessor revolutionized computing and enabled the personal computer era.",
+      "微处理器的发明彻底改变了计算方式并开启了个人电脑时代。"
+    ]
+  },
+  {
+    "w": "microscope",
+    "r": "micro-(微小) + scope(看, 来自希腊语skopein) -> 看微小事物的工具 -> 显微镜",
+    "c": [
+      "Under the microscope, students could observe the intricate structure of plant cells in detail.",
+      "在显微镜下，学生可以详细观察植物细胞的复杂结构。"
+    ]
+  },
+  {
+    "w": "microscopic",
+    "r": "micro-(微小) + scop(看) + -ic(形容词后缀) -> 用显微镜看的 -> 微观的、极小的",
+    "c": null
+  },
+  {
+    "w": "microwave",
+    "r": "micro-(微小) + wave(波) -> 微小的波 -> 微波",
+    "c": [
+      "Most dormitory kitchens are equipped with a microwave for quickly heating meals and snacks.",
+      "大多数宿舍厨房都配备了微波炉，用于快速加热饭菜和零食。"
+    ]
+  },
+  {
+    "w": "middle",
+    "r": "mid(中间的) + -dle(后缀) -> 中间的",
+    "c": null
+  },
+  {
+    "w": "midst",
+    "r": "mid(中间) + -st(名词后缀) -> 在中间 -> 中间",
+    "c": null
+  },
+  {
+    "w": "might",
+    "r": "词源: 来自古英语miht(力量、能力), 与德语Macht同源 -> 可能",
+    "c": [
+      "Students who arrive early for lectures might benefit from better seating and more focused attention.",
+      "早到上课的学生可能会受益于更好的座位和更集中的注意力。"
+    ]
+  },
+  {
+    "w": "mighty",
+    "r": "might(力量) + -y(形容词后缀, 有…的) -> 有力量的 -> 强大的、巨大的",
+    "c": [
+      "The mighty river that flows through the city provides water for millions of residents.",
+      "流经城市的这条大河为数百万居民提供水源。"
+    ]
+  },
+  {
+    "w": "migrant",
+    "r": "migr(迁移, 来自拉丁语migrare) + -ant(名词/形容词后缀, 人) -> 迁移的人 -> 移居者、移民",
+    "c": [
+      "Migrant workers often face language barriers and social isolation when moving to new countries.",
+      "移民工人在移居到新国家时经常面临语言障碍和社会孤立。"
+    ]
+  },
+  {
+    "w": "migrate",
+    "r": "migr(迁移) + -ate(动词后缀) -> 迁移",
+    "c": null
+  },
+  {
+    "w": "migration",
+    "r": "migr(迁移) + -ation(名词后缀, 表行为/过程) -> 迁徙、移居",
+    "c": null
+  },
+  {
+    "w": "mild",
+    "r": "词源: 来自古英语milde(温和的、温柔的), 与德语mild同源 -> 温和的",
+    "c": [
+      "The mild coastal climate makes the city an attractive destination for students from colder regions.",
+      "温和的沿海气候使这座城市成为来自寒冷地区学生的有吸引力的目的地。"
+    ]
+  },
+  {
+    "w": "mile",
+    "r": "词源: 来自拉丁语mille passus(一千步), 约等于1609米 -> 英里",
+    "c": null
+  },
+  {
+    "w": "milestone",
+    "r": "复合: mile(英里) + stone(石头) -> 标记英里数的石头 -> 里程碑",
+    "c": [
+      "Graduating from university is a major milestone in every young person's life and career.",
+      "大学毕业是每个年轻人人生和职业生涯中的重要里程碑。"
+    ]
+  },
+  {
+    "w": "militant",
+    "r": "milit(士兵、战斗, 来自拉丁语miles) + -ant(形容词/名词后缀) -> 好战的 -> 激进分子",
+    "c": [
+      "The militant group's extreme views were widely condemned by mainstream political leaders.",
+      "激进组织的极端观点遭到了主流政治领导人的广泛谴责。"
+    ]
+  },
+  {
+    "w": "military",
+    "r": "milit(士兵、战斗) + -ary(形容词后缀, 与…有关的) -> 与士兵有关的 -> 军事的、军队",
+    "c": null
+  },
+  {
+    "w": "milk",
+    "r": "词源: 来自古英语meolc(牛奶), 与德语Milch同源 -> 牛奶",
+    "c": null
+  },
+  {
+    "w": "milky",
+    "r": "milk(牛奶) + -y(形容词后缀, 有…特征的) -> 牛奶的、乳白色的",
+    "c": [
+      "The milky white color of the solution indicated that the chemical reaction had begun.",
+      "溶液的乳白色表明化学反应已经开始。"
+    ]
+  },
+  {
+    "w": "mill",
+    "r": "词源: 来自古英语mylen(磨坊), 与拉丁语mola(磨石)同源 -> 磨",
+    "c": [
+      "The old water mill on the river has been restored and now operates as a historical museum.",
+      "河上的老水磨已经修复，现在作为历史博物馆运营。"
+    ]
+  },
+  {
+    "w": "millimetre",
+    "r": "milli-(毫、千分之一) + metre(米) -> 千分之一米 -> 毫米",
+    "c": [
+      "Precision engineering requires measurements accurate to within a fraction of a millimetre.",
+      "精密工程要求测量精度达到毫米的零头以内。"
+    ]
+  },
+  {
+    "w": "million",
+    "r": "词源: 来自拉丁语mille(千) + -ion(指大后缀) -> 一千个一千 -> 百万",
+    "c": null
+  },
+  {
+    "w": "millionaire",
+    "r": "million(百万) + -aire(名词后缀, 表人, 来自法语) -> 百万富翁",
+    "c": [
+      "Many self-made millionaires started their first business ventures while still in college.",
+      "许多白手起家的百万富翁在大学期间就开始了他们的第一次创业。"
+    ]
+  },
+  {
+    "w": "mind",
+    "r": "词源: 来自古英语mynd(心智、记忆), 与德语Minnende同源 -> 思维、想法",
+    "c": null
+  },
+  {
+    "w": "mine",
+    "r": "词源: 来自古英语min(我的), 作名词指矿井, 来自拉丁语mina(矿井) -> 我的、矿",
+    "c": [
+      "The engineering students visited the coal mine to study modern underground mining techniques.",
+      "工程专业的学生参观了煤矿，学习现代地下采矿技术。"
+    ]
+  },
+  {
+    "w": "mineral",
+    "r": "miner(矿) + -al(名词/形容词后缀) -> 矿里的 -> 矿物质",
+    "c": null
+  },
+  {
+    "w": "mingle",
+    "r": "词源: 来自古英语mengan(混合), 与among同源 -> 交往、混合",
+    "c": [
+      "The orientation week activities gave new students a chance to mingle and make new friends.",
+      "迎新周活动给了新生交流和结交新朋友的机会。"
+    ]
+  },
+  {
+    "w": "miniature",
+    "r": "mini(小, 来自拉丁语minimus最小的) + -ature(名词后缀) -> 小型的",
+    "c": [
+      "The engineering students built a miniature model of the bridge to test its structural integrity.",
+      "工程系的学生建造了一个桥梁的缩微模型来测试其结构完整性。"
+    ]
+  },
+  {
+    "w": "minibus",
+    "r": "mini-(小型的) + bus(公共汽车) -> 小型公共汽车",
+    "c": [
+      "The university operates a minibus service between the main campus and the research park nearby.",
+      "大学在主校区和附近的研究园之间运营小型巴士服务。"
+    ]
+  },
+  {
+    "w": "minimal",
+    "r": "minim(最小, 来自拉丁语minimus) + -al(形容词后缀) -> 最小的、最低限度的",
+    "c": null
+  },
+  {
+    "w": "minimise",
+    "r": "minim(最小) + -ise(动词后缀, 使…) -> 使最小化 -> 尽量减少",
+    "c": [
+      "Effective time management can help minimise stress and improve overall academic performance.",
+      "有效的时间管理有助于减少压力并提高整体学业表现。"
+    ]
+  },
+  {
+    "w": "minimize",
+    "r": "minim(最小) + -ize(动词后缀, 使…) -> 使最小化 -> 使减少到最低限度",
+    "c": null
+  },
+  {
+    "w": "minimum",
+    "r": "minim(最小) + -um(名词后缀) -> 最小量 -> 最低的",
+    "c": [
+      "All applicants must meet the minimum GPA requirement to be considered for the scholarship.",
+      "所有申请人必须满足最低平均绩点要求才有资格获得奖学金。"
+    ]
+  },
+  {
+    "w": "mining",
+    "r": "min(e)(矿) + -ing(名词后缀, 表行为/行业) -> 采矿业",
+    "c": [
+      "Environmental regulations have become much stricter for the mining industry in recent years.",
+      "近年来采矿业的环境法规变得更加严格。"
+    ]
+  },
+  {
+    "w": "minister",
+    "r": "minist(服务, 来自拉丁语ministrare) + -er(名词后缀, 人) -> 服务者 -> 部长",
+    "c": [
+      "The education minister visited the campus to announce new funding for scientific research.",
+      "教育部长访问校园，宣布为科学研究提供新的资金支持。"
+    ]
+  },
+  {
+    "w": "ministry",
+    "r": "minist(服务) + -ry(名词后缀, 表部门) -> 服务部门 -> 内阁、部",
+    "c": [
+      "The Ministry of Education introduced a new policy to expand access to higher education.",
+      "教育部出台了一项新政策，以扩大高等教育的入学机会。"
+    ]
+  },
+  {
+    "w": "minor",
+    "r": "min(小) + -or(形容词后缀, 比较级) -> 更小的 -> 较小的、较少的",
+    "c": [
+      "Students can choose a minor subject in addition to their major field of specialization.",
+      "学生可以在主修专业之外选择一个辅修科目。"
+    ]
+  },
+  {
+    "w": "minority",
+    "r": "minor(较小的) + -ity(名词后缀, 表性质) -> 少数的性质 -> 少数",
+    "c": null
+  },
+  {
+    "w": "mint",
+    "r": "词源: 来自拉丁语moneta(造币厂), 因罗马造币厂设在朱诺神庙而得名 -> 造币厂、巨额钱财",
+    "c": [
+      "The rare coin was worth a mint and was carefully displayed in the university's museum.",
+      "这枚罕见的硬币价值连城，被精心陈列在大学博物馆里。"
+    ]
+  },
+  {
+    "w": "minus",
+    "r": "词源: 来自拉丁语minus(较少的), 是minor的中性形式 -> 减去",
+    "c": [
+      "The final exam score counts for sixty percent of the grade, minus the lowest quiz score.",
+      "期末考试成绩占总成绩的百分之六十，减去最低的一次测验分数。"
+    ]
+  }
+]

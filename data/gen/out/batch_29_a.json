@@ -1,0 +1,700 @@
+[
+  {
+    "w": "snatch",
+    "r": "词源: 来自古英语snæccan(抓取), 与荷兰语snakken同源 -> 抢夺、抓住",
+    "c": [
+      "The thief tried to snatch the elderly woman's purse but was caught by a passerby immediately.",
+      "那个小偷试图抢走那位老妇人的钱包, 但立刻被一名路人抓住了。"
+    ]
+  },
+  {
+    "w": "sneak",
+    "r": "词源: 来自古英语sniccan(偷偷地走), 与snake(蛇)同源, 像蛇一样悄悄移动 -> 溜",
+    "c": null
+  },
+  {
+    "w": "sneer",
+    "r": "词源: 来自古法语snarier(嘲笑, 原指狗呲牙吠叫) -> 冷笑、嘲笑",
+    "c": [
+      "Critics often sneer at young artists before recognizing the true value of their work.",
+      "批评家们常常先对年轻艺术家嗤之以鼻, 之后才认识到其作品的真正价值。"
+    ]
+  },
+  {
+    "w": "sneeze",
+    "r": "联想: 拟声词, 模仿打喷嚏的声音 -> 喷嚏",
+    "c": [
+      "A sudden sneeze during the lecture drew the attention of everyone in the classroom.",
+      "讲座期间突然的一声喷嚏吸引了教室里所有人的注意。"
+    ]
+  },
+  {
+    "w": "sniff",
+    "r": "联想: 拟声词, 模仿鼻子吸气嗅闻的声音 -> 嗅、闻",
+    "c": [
+      "Dogs can sniff out hidden drugs and explosives with remarkable accuracy and speed.",
+      "狗能以惊人的准确度和速度嗅出隐藏的毒品和爆炸物。"
+    ]
+  },
+  {
+    "w": "snob",
+    "r": "词源: 19世纪英国牛津大学俚语, 原指非贵族出身的学生, 后引申为自视甚高的人 -> 势利小人",
+    "c": null
+  },
+  {
+    "w": "snobbish",
+    "r": "snob(势利小人) + -ish(形容词后缀, 像…的) -> 像势利小人的 -> 势利的",
+    "c": null
+  },
+  {
+    "w": "snore",
+    "r": "联想: 拟声词, 模仿打鼾的声音 -> 打鼾、打呼噜",
+    "c": [
+      "My roommate would snore so loudly every night that I could barely fall asleep.",
+      "我的室友每晚鼾声如雷, 我几乎无法入睡。"
+    ]
+  },
+  {
+    "w": "snow",
+    "r": "来自古英语snaw(雪), 与德语Schnee同源 -> 雪",
+    "c": [
+      "Heavy snow disrupted public transportation and forced many universities to cancel classes.",
+      "大雪扰乱了公共交通, 迫使许多大学取消课程。"
+    ]
+  },
+  {
+    "w": "so",
+    "r": "来自古英语swa(如此, 这样), 与德语so同源 -> 因此",
+    "c": [
+      "Many students rely on online learning platforms, so digital literacy has become increasingly essential.",
+      "许多学生依赖在线学习平台, 因此数字素养变得越来越重要。"
+    ]
+  },
+  {
+    "w": "so-called",
+    "r": "复合: so(如此) + called(被称为的) -> 被如此称呼的 -> 所谓的",
+    "c": [
+      "The so-called experts failed to predict the sudden economic downturn of the past year.",
+      "那些所谓的专家未能预测过去一年突然的经济下滑。"
+    ]
+  },
+  {
+    "w": "soak",
+    "r": "来自古英语socian(浸泡), 与古高地德语souchen同源 -> 浸",
+    "c": [
+      "Before cooking, you should soak the dried beans in cold water for at least eight hours.",
+      "烹饪前, 你应该将干豆子在冷水中浸泡至少八个小时。"
+    ]
+  },
+  {
+    "w": "soap",
+    "r": "来自古英语sap(肥皂), 与拉丁语sebum(脂肪)同源, 由脂肪制成 -> 肥皂",
+    "c": [
+      "Washing hands thoroughly with soap for twenty seconds helps prevent the spread of viruses.",
+      "用肥皂彻底洗手二十秒有助于防止病毒传播。"
+    ]
+  },
+  {
+    "w": "soar",
+    "r": "来自拉丁语exaurare(向上吹风), 指向上高飞 -> 翱翔、高飞",
+    "c": [
+      "Housing prices in major cities continue to soar far beyond what ordinary families can afford.",
+      "大城市的房价持续飞涨, 远远超出普通家庭的承受能力。"
+    ]
+  },
+  {
+    "w": "sob",
+    "r": "词源: 来自古英语seofian(哭泣、叹息) -> 呜咽、哭泣",
+    "c": null
+  },
+  {
+    "w": "sober",
+    "r": "来自拉丁语sobrius(不醉的, 节制的), 由se-(离开) + ebrius(醉的)组成 -> 清醒",
+    "c": [
+      "After the shocking news, it took her several hours to become sober enough to think clearly.",
+      "听到这个令人震惊的消息后, 她花了好几个小时才清醒到能够清晰思考。"
+    ]
+  },
+  {
+    "w": "soccer",
+    "r": "词源: 来自association football的口语缩写socca, 后演变为soccer -> 足球",
+    "c": [
+      "Playing soccer regularly helps students build teamwork skills and maintain physical fitness.",
+      "定期踢足球有助于学生培养团队合作能力并保持身体健康。"
+    ]
+  },
+  {
+    "w": "sociable",
+    "r": "soci(社交, 来自拉丁语sociare结交) + -able(形容词后缀, 能…的) -> 能结交的 -> 好交际的",
+    "c": [
+      "A sociable personality can greatly benefit students in group projects and campus activities.",
+      "好交际的性格能使学生在小组项目和校园活动中大为受益。"
+    ]
+  },
+  {
+    "w": "social",
+    "r": "soci(社交) + -al(形容词后缀, 与…有关的) -> 与社交有关的 -> 社会的、交际的",
+    "c": null
+  },
+  {
+    "w": "socialism",
+    "r": "social(社会的) + -ism(主义) -> 社会主义",
+    "c": [
+      "Many university students study socialism as part of their political science curriculum.",
+      "许多大学生将社会主义作为政治学课程的一部分来学习。"
+    ]
+  },
+  {
+    "w": "society",
+    "r": "soci(社交) + -ety(名词后缀) -> 人们交往的群体 -> 社会",
+    "c": null
+  },
+  {
+    "w": "sociology",
+    "r": "socio(社会的) + -logy(学科) -> 研究社会的学科 -> 社会学",
+    "c": [
+      "Sociology examines how social structures and cultural norms shape individual behavior and choices.",
+      "社会学研究社会结构和文化规范如何塑造个人行为与选择。"
+    ]
+  },
+  {
+    "w": "sock",
+    "r": "来自古英语socc(轻便鞋), 源自拉丁语soccus -> 袜子",
+    "c": [
+      "He realized one of his wool socks had gone missing after doing the laundry.",
+      "他洗完衣服后发现自己的一只羊毛袜子不见了。"
+    ]
+  },
+  {
+    "w": "soda",
+    "r": "来自拉丁语soda(碳酸钠), 源自阿拉伯语suda(头痛) -> 苏打",
+    "c": [
+      "Many college students drink soda to stay awake during late-night study sessions.",
+      "许多大学生在深夜学习时喝苏打水来保持清醒。"
+    ]
+  },
+  {
+    "w": "sodium",
+    "r": "sod(a)(苏打) + -ium(元素名词后缀) -> 钠",
+    "c": [
+      "Excessive sodium intake can lead to high blood pressure and various cardiovascular problems.",
+      "钠摄入过量会导致高血压和各种心血管问题。"
+    ]
+  },
+  {
+    "w": "sofa",
+    "r": "词源: 来自阿拉伯语suffah(长凳、长椅), 经由法语 -> 沙发",
+    "c": [
+      "Many students fall asleep on the sofa while watching documentaries late at night.",
+      "许多学生深夜看纪录片时在沙发上睡着了。"
+    ]
+  },
+  {
+    "w": "soft",
+    "r": "来自古英语softe(柔软的), 与德语sanft同源 -> 软的",
+    "c": [
+      "The soft lighting in the library creates a comfortable atmosphere for long hours of reading.",
+      "图书馆里柔和的灯光为长时间阅读营造了舒适的氛围。"
+    ]
+  },
+  {
+    "w": "soften",
+    "r": "soft(软的) + -en(动词后缀, 使…) -> 使变软 -> 使软化、变温和",
+    "c": [
+      "Warm water can help soften hardened butter for use in baking recipes.",
+      "温水可以帮助软化变硬的黄油以用于烘焙食谱。"
+    ]
+  },
+  {
+    "w": "softness",
+    "r": "soft(软的) + -ness(名词后缀, 表性质) -> 柔软的性质 -> 温和、柔和、软弱",
+    "c": [
+      "The surprising softness of her voice helped calm the nervous student before the exam.",
+      "她声音中出人意料的柔和帮助紧张的学生在考试前平静下来。"
+    ]
+  },
+  {
+    "w": "software",
+    "r": "复合: soft(软的) + ware(物品) -> 软件",
+    "c": null
+  },
+  {
+    "w": "soil",
+    "r": "来自古英语soil(土地), 与拉丁语solum(地面)同源 -> 泥土、国土",
+    "c": [
+      "Sustainable farming practices help preserve soil fertility and protect the natural environment.",
+      "可持续的农业实践有助于保持土壤肥力并保护自然环境。"
+    ]
+  },
+  {
+    "w": "solar",
+    "r": "sol(太阳, 来自拉丁语sol) + -ar(形容词后缀, 与…有关的) -> 太阳的",
+    "c": null
+  },
+  {
+    "w": "soldier",
+    "r": "来自拉丁语solidus(坚定的、完整的), 指坚定的战士 -> 士兵",
+    "c": null
+  },
+  {
+    "w": "sole",
+    "r": "来自拉丁语solus(单独的、唯一的) -> 鞋底、唯一的",
+    "c": null
+  },
+  {
+    "w": "solemn",
+    "r": "来自拉丁语sollemnis(每年的, 宗教仪式的), 由sol-(太阳) + -emnis(年)构成 -> 庄严的",
+    "c": [
+      "The university graduation ceremony is a solemn occasion that marks a major life milestone.",
+      "大学毕业典礼是一个庄严的场合, 标志着人生的一个重要里程碑。"
+    ]
+  },
+  {
+    "w": "solicitor",
+    "r": "solicit(请求、恳求) + -or(人) -> 为人代办法律事务的人 -> 初级律师、事务律师",
+    "c": null
+  },
+  {
+    "w": "solid",
+    "r": "来自拉丁语solidus(结实的、完整的) -> 固体的",
+    "c": null
+  },
+  {
+    "w": "solidarity",
+    "r": "solid(结实的) + -arity(名词后缀, 表性质) -> 团结一致的状态 -> 团结",
+    "c": null
+  },
+  {
+    "w": "solidify",
+    "r": "solid(固体的) + -ify(动词后缀, 使…) -> 使成为固体 -> 凝固",
+    "c": [
+      "Cool temperatures cause the liquid metal to solidify into a strong and durable shape.",
+      "低温使液态金属凝固成坚固耐用的形状。"
+    ]
+  },
+  {
+    "w": "solitary",
+    "r": "sol(it)(单独, 来自拉丁语solus) + -ary(形容词后缀, 与…有关的) -> 单独的 -> 孤独的",
+    "c": [
+      "Many scholars spend long solitary hours in the library conducting research and writing papers.",
+      "许多学者在图书馆度过漫长孤独的时间进行研究和撰写论文。"
+    ]
+  },
+  {
+    "w": "solo",
+    "r": "来自意大利语solo(单独的), 源自拉丁语solus(唯一的) -> 独奏",
+    "c": null
+  },
+  {
+    "w": "soluble",
+    "r": "sol(解开, 来自拉丁语solvere) + -uble(能…的, 来自-abilis) -> 能解开的 -> 可解决的",
+    "c": [
+      "Most scientific problems are soluble through careful experimentation and rigorous analysis.",
+      "大多数科学问题都可以通过仔细的实验和严谨的分析来解决。"
+    ]
+  },
+  {
+    "w": "solution",
+    "r": "solut(解开, 来自拉丁语solvere) + -ion(名词后缀) -> 解开的方法 -> 解决方案",
+    "c": null
+  },
+  {
+    "w": "solve",
+    "r": "来自拉丁语solvere(解开、松开), 由se-(分开) + luere(松开)组成 -> 解答",
+    "c": null
+  },
+  {
+    "w": "some",
+    "r": "来自古英语sum(某一个、一些), 与德语einige同源 -> 一些",
+    "c": [
+      "Some professors encourage students to challenge conventional ideas and think independently.",
+      "一些教授鼓励学生挑战传统观念并独立思考。"
+    ]
+  },
+  {
+    "w": "somebody",
+    "r": "复合: some(某个) + body(人) -> 某个人 -> 某人",
+    "c": [
+      "There is somebody waiting for you at the main entrance of the university building.",
+      "有人在大学大楼的主入口处等你。"
+    ]
+  },
+  {
+    "w": "somehow",
+    "r": "复合: some(某种) + how(方式) -> 以某种方式",
+    "c": [
+      "She somehow managed to finish her dissertation before the deadline despite being ill.",
+      "尽管生病了, 她还是设法在截止日期前完成了她的论文。"
+    ]
+  },
+  {
+    "w": "someone",
+    "r": "复合: some(某个) + one(一个人) -> 某人",
+    "c": null
+  },
+  {
+    "w": "something",
+    "r": "复合: some(某) + thing(事物) -> 某事",
+    "c": null
+  },
+  {
+    "w": "sometime",
+    "r": "复合: some(某个) + time(时间) -> 某个时间 -> 改天、来日",
+    "c": [
+      "You should visit the new art exhibition on campus sometime next week before it closes.",
+      "你应该在下周展览结束前的某个时候去参观校园里的新艺术展。"
+    ]
+  },
+  {
+    "w": "sometimes",
+    "r": "复合: some(一些) + times(次数) -> 有些时候 -> 有时",
+    "c": [
+      "Sometimes the most creative ideas come to us when we are not actively thinking about work.",
+      "有时, 最具创意的想法会在我们不主动思考工作时涌现。"
+    ]
+  },
+  {
+    "w": "somewhat",
+    "r": "复合: some(一些) + what(什么) -> 某种程度 -> 稍微",
+    "c": [
+      "The professor's explanation was somewhat confusing, so many students asked questions after class.",
+      "教授的解释有点令人困惑, 所以很多学生课后都提问了。"
+    ]
+  },
+  {
+    "w": "somewhere",
+    "r": "复合: some(某个) + where(地方) -> 在某处",
+    "c": null
+  },
+  {
+    "w": "son",
+    "r": "来自古英语sunu(儿子), 与德语Sohn同源 -> 儿子、孩子",
+    "c": null
+  },
+  {
+    "w": "song",
+    "r": "来自古英语sang(歌), 与德语Lied同源 -> 歌曲",
+    "c": null
+  },
+  {
+    "w": "soon",
+    "r": "来自古英语sona(立刻、马上) -> 很快的",
+    "c": [
+      "The results of the national college entrance examination will be released soon.",
+      "全国高考的成绩很快就会公布。"
+    ]
+  },
+  {
+    "w": "soothe",
+    "r": "来自古英语sothian(安慰, 使真实), 与sooth(真实的)同源 -> 安慰、减轻",
+    "c": [
+      "A warm cup of tea can soothe a sore throat and help you relax after a long day.",
+      "一杯温茶可以缓解喉咙痛, 并帮助你在漫长的一天后放松。"
+    ]
+  },
+  {
+    "w": "sophisticated",
+    "r": "sophist(诡辩家、智者, 来自希腊语sophistes) + -ic + -ated(形容词后缀) -> 像智者一样精明的 -> 世故的、复杂的",
+    "c": [
+      "Modern universities use sophisticated data analytics to improve student learning outcomes.",
+      "现代大学使用复杂的数据分析来改善学生的学习成果。"
+    ]
+  },
+  {
+    "w": "sophomore",
+    "r": "来自希腊语sophos(聪明的) + moros(愚蠢的), 意为聪明又蠢的, 指二年级学生 -> 第二年的",
+    "c": [
+      "During sophomore year, many students begin to specialize in their chosen academic fields.",
+      "在大二这一年, 许多学生开始专攻他们选择的学术领域。"
+    ]
+  },
+  {
+    "w": "sore",
+    "r": "来自古英语sar(痛的), 与德语sehr(非常)同源 -> 痛处、疼痛的",
+    "c": [
+      "After running the marathon, she had sore muscles and needed several days to recover.",
+      "跑完马拉松后, 她肌肉酸痛, 需要好几天才能恢复。"
+    ]
+  },
+  {
+    "w": "sorrow",
+    "r": "来自古英语sorh(悲伤、忧虑), 与德语Sorge同源 -> 悲伤",
+    "c": [
+      "The whole nation expressed deep sorrow at the passing of the renowned scientist.",
+      "全国人民对这位著名科学家的逝世表达了深切的悲痛。"
+    ]
+  },
+  {
+    "w": "sorrowful",
+    "r": "sorrow(悲伤) + -ful(形容词后缀, 充满…的) -> 充满悲伤的",
+    "c": [
+      "The sorrowful news of the professor's death spread quickly throughout the entire university.",
+      "教授去世的悲痛消息迅速传遍了整所大学。"
+    ]
+  },
+  {
+    "w": "sorry",
+    "r": "来自古英语sarig(悲伤的), 源自sar(痛) -> 抱歉",
+    "c": [
+      "I am sorry for the delay in submitting my assignment and will make sure it does not happen again.",
+      "我对迟交作业感到抱歉, 并保证不会再发生这种情况。"
+    ]
+  },
+  {
+    "w": "sort",
+    "r": "来自拉丁语sors(命运、种类), 与sortiri(抽签、分类)同源 -> 种类、排序",
+    "c": null
+  },
+  {
+    "w": "soul",
+    "r": "来自古英语sawol(灵魂), 与德语Seele同源 -> 精神、灵魂",
+    "c": null
+  },
+  {
+    "w": "sound",
+    "r": "来自古英语sund(声音), 与拉丁语sonus同源 -> 声音",
+    "c": [
+      "The sound of the morning bell echoes across the campus every weekday at seven o'clock.",
+      "每个工作日早上七点, 晨钟的声音在校园里回荡。"
+    ]
+  },
+  {
+    "w": "soup",
+    "r": "来自拉丁语suppa(面包泡汤), 经由古法语 -> 汤",
+    "c": [
+      "Many students prefer hot soup during cold winter months to stay warm and comfortable.",
+      "许多学生在寒冷的冬季更喜欢喝热汤来保暖和舒适。"
+    ]
+  },
+  {
+    "w": "sour",
+    "r": "来自古英语sur(酸的), 与德语sauer同源 -> 酸的",
+    "c": [
+      "The sour taste of unripe fruit can make your mouth water and your face pucker.",
+      "未成熟水果的酸味会让你流口水并皱起脸。"
+    ]
+  },
+  {
+    "w": "source",
+    "r": "来自拉丁语surgere(升起、涌出), 指泉水涌出的地方 -> 来源",
+    "c": null
+  },
+  {
+    "w": "south",
+    "r": "来自古英语suth(南方), 与德语Sud同源 -> 南、南方的",
+    "c": null
+  },
+  {
+    "w": "southeast",
+    "r": "复合: south(南) + east(东) -> 东南",
+    "c": null
+  },
+  {
+    "w": "southern",
+    "r": "south(南) + -ern(形容词后缀, 方向的) -> 南方的",
+    "c": null
+  },
+  {
+    "w": "southwards",
+    "r": "south(南) + -wards(副词后缀, 向…方向) -> 向南方",
+    "c": [
+      "Migrating birds fly southwards every autumn to escape the cold northern winter.",
+      "候鸟每年秋天向南方飞行以躲避北方寒冷的冬天。"
+    ]
+  },
+  {
+    "w": "southwest",
+    "r": "复合: south(南) + west(西) -> 西南",
+    "c": [
+      "The university is located in the southwest part of the city, near the mountain park.",
+      "这所大学位于城市的西南部, 靠近山地公园。"
+    ]
+  },
+  {
+    "w": "souvenir",
+    "r": "来自法语souvenir(回忆), 源自拉丁语subvenire(想起) -> 纪念品",
+    "c": [
+      "Many international students buy traditional handicrafts as souvenirs before returning home.",
+      "许多国际学生在回国前购买传统手工艺品作为纪念品。"
+    ]
+  },
+  {
+    "w": "sovereign",
+    "r": "来自古法语soverain(最高的), 源自拉丁语superanus(高于一切的) -> 君主、至高无上的",
+    "c": [
+      "The sovereign nation refused to allow foreign interference in its internal political affairs.",
+      "这个主权国家拒绝允许外国干涉其内部政治事务。"
+    ]
+  },
+  {
+    "w": "sow",
+    "r": "来自古英语sawan(播种), 与德语saen同源 -> 播种、母猪",
+    "c": [
+      "Farmers sow seeds in spring and harvest their crops during the late autumn months.",
+      "农民在春天播种, 在深秋月份收获庄稼。"
+    ]
+  },
+  {
+    "w": "soy",
+    "r": "词源: 来自日语shoyu(酱油), 源自汉语 -> 大豆、酱油",
+    "c": [
+      "Soy products such as tofu are an important source of protein in many vegetarian diets.",
+      "豆腐等豆制品是许多素食饮食中重要的蛋白质来源。"
+    ]
+  },
+  {
+    "w": "space",
+    "r": "来自拉丁语spatium(空间、距离) -> 空间",
+    "c": null
+  },
+  {
+    "w": "spacecraft",
+    "r": "复合: space(太空) + craft(船、飞行器) -> 宇宙飞船",
+    "c": null
+  },
+  {
+    "w": "spacious",
+    "r": "spac(e)(空间) + -ious(形容词后缀, 有…性质的) -> 有空间的 -> 宽敞的",
+    "c": [
+      "The newly built library provides spacious study areas for thousands of students every day.",
+      "新建的图书馆每天为数千名学生提供宽敞的学习区域。"
+    ]
+  },
+  {
+    "w": "spade",
+    "r": "来自古英语spadu(铁锹), 与德语Spaten同源 -> 铁锹、铲",
+    "c": [
+      "The gardener used a spade to dig holes for the new trees along the campus pathway.",
+      "园丁用铁锹沿着校园小路为新树挖坑。"
+    ]
+  },
+  {
+    "w": "span",
+    "r": "来自古英语span(跨距, 拇指到小指的距离) -> 跨度",
+    "c": null
+  },
+  {
+    "w": "spare",
+    "r": "来自古英语spar(节约的、稀少的), 与德语sparen同源 -> 空闲的",
+    "c": [
+      "In her spare time, she volunteers at the local community center to tutor young children.",
+      "在业余时间, 她在当地社区中心做志愿者辅导小孩子。"
+    ]
+  },
+  {
+    "w": "spark",
+    "r": "来自古英语spearca(火花), 与德语Funke同源 -> 火星、引起",
+    "c": [
+      "A single spark of creativity can inspire an entire generation of young scientists and inventors.",
+      "一星创造力的火花可以激励整整一代年轻的科学家和发明家。"
+    ]
+  },
+  {
+    "w": "sparkle",
+    "r": "spark(火花) + -le(动词后缀, 反复动作) -> 不断发出火花 -> 闪耀",
+    "c": [
+      "The city skyline began to sparkle with lights as the sun set behind the mountains.",
+      "当太阳落到山后时, 城市天际线开始灯光闪烁。"
+    ]
+  },
+  {
+    "w": "spatial",
+    "r": "spat(空间, 来自拉丁语spatium) + -ial(形容词后缀) -> 空间的",
+    "c": [
+      "Architects must consider spatial design carefully when planning modern university buildings.",
+      "建筑师在规划现代大学建筑时必须仔细考虑空间设计。"
+    ]
+  },
+  {
+    "w": "speak",
+    "r": "来自古英语specan(说话), 与德语sprechen同源 -> 说",
+    "c": null
+  },
+  {
+    "w": "speaker",
+    "r": "speak(说) + -er(人/物) -> 说话人、扬声器",
+    "c": [
+      "The guest speaker at the conference will discuss recent advances in artificial intelligence research.",
+      "会议的特邀演讲嘉宾将讨论人工智能研究的最新进展。"
+    ]
+  },
+  {
+    "w": "spear",
+    "r": "来自古英语spere(矛), 与德语Speer同源 -> 矛",
+    "c": [
+      "In ancient times, warriors used a spear as their primary weapon for hunting and battle.",
+      "在古代, 战士们使用长矛作为狩猎和战斗的主要武器。"
+    ]
+  },
+  {
+    "w": "special",
+    "r": "spec(种类, 来自拉丁语species) + -ial(形容词后缀) -> 属于某一种类的 -> 特别的",
+    "c": [
+      "The university organized a special lecture series to celebrate its one hundredth anniversary.",
+      "大学组织了一个特别讲座系列以庆祝其建校一百周年。"
+    ]
+  },
+  {
+    "w": "specialise",
+    "r": "special(特别的) + -ise(动词后缀, 使…) -> 使专门化 -> 专门研究",
+    "c": [
+      "Many biology students specialise in genetics or microbiology during their graduate studies.",
+      "许多生物系学生在研究生学习期间专攻遗传学或微生物学。"
+    ]
+  },
+  {
+    "w": "specialist",
+    "r": "special(特别的) + -ist(人, 从事…的) -> 专家",
+    "c": [
+      "Students with learning difficulties often work with a specialist to improve their academic performance.",
+      "有学习困难的学生经常与专家合作以提高他们的学业成绩。"
+    ]
+  },
+  {
+    "w": "speciality",
+    "r": "special(特别的) + -ity(名词后缀, 表性质) -> 专长",
+    "c": [
+      "Her speciality in environmental science focuses on sustainable urban development strategies.",
+      "她在环境科学领域的专长集中在可持续城市发展战略上。"
+    ]
+  },
+  {
+    "w": "specialize",
+    "r": "special(特别的) + -ize(动词后缀, 使…) -> 使专门化 -> 专攻、专门研究",
+    "c": null
+  },
+  {
+    "w": "specialty",
+    "r": "special(特别的) + -ty(名词后缀) -> 特产、专长",
+    "c": null
+  },
+  {
+    "w": "species",
+    "r": "来自拉丁语species(种类、外观), 源自specere(看) -> 种类",
+    "c": [
+      "Scientists estimate that millions of species on our planet have not yet been discovered or named.",
+      "科学家估计地球上还有数百万种物种尚未被发现或命名。"
+    ]
+  },
+  {
+    "w": "specific",
+    "r": "spec(种类) + -ific(形容词后缀, 使…的) -> 明确属于某一种类的 -> 具体的、详细的",
+    "c": [
+      "The professor asked the student to provide specific examples to support the argument in the essay.",
+      "教授要求学生提供具体例子来支持论文中的论点。"
+    ]
+  },
+  {
+    "w": "specification",
+    "r": "specif(指定, 来自拉丁语specere看) + -ic + -ation(名词后缀) -> 指定的内容 -> 规格",
+    "c": [
+      "The engineering team carefully reviewed the technical specification before starting construction.",
+      "工程团队在开始施工前仔细审查了技术规格。"
+    ]
+  },
+  {
+    "w": "specify",
+    "r": "specif(指定, 来自拉丁语specere看) + -y(动词后缀) -> 指定",
+    "c": null
+  }
+]

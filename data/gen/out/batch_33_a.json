@@ -1,0 +1,682 @@
+[
+  {
+    "w": "underrepresented",
+    "r": "under-(不足) + represent(代表) + -ed(形容词后缀) -> 代表不足的 -> 未被充分代表的",
+    "c": [
+      "Women remain underrepresented in senior leadership positions across many academic institutions.",
+      "在许多学术机构中，女性在高级领导职位中仍然代表不足。"
+    ]
+  },
+  {
+    "w": "underscore",
+    "r": "under-(在下面) + score(划线) -> 在下面划线以强调 -> 强调",
+    "c": [
+      "The study results underscore the importance of mental health support for college students.",
+      "研究结果强调了对大学生心理健康支持的重要性。"
+    ]
+  },
+  {
+    "w": "understand",
+    "r": "under-(在下面) + stand(站立) -> 站在下面(深知根底) -> 理解",
+    "c": null
+  },
+  {
+    "w": "understanding",
+    "r": "understand(理解) + -ing(名词后缀) -> 理解的过程或能力 -> 理解",
+    "c": [
+      "A deep understanding of cultural differences is essential for effective international communication.",
+      "深刻理解文化差异对于有效的国际交流至关重要。"
+    ]
+  },
+  {
+    "w": "undertake",
+    "r": "under-(在下面) + take(拿取) -> 承担到自己名下 -> 承担",
+    "c": [
+      "The research team will undertake a three-year study on renewable energy storage solutions.",
+      "研究团队将承担一项为期三年的可再生能源存储解决方案研究。"
+    ]
+  },
+  {
+    "w": "undertaking",
+    "r": "undertake(承担) + -ing(名词后缀) -> 承担的事情 -> 任务，事业",
+    "c": [
+      "Building a sustainable campus is a challenging undertaking that requires coordinated efforts.",
+      "建设可持续校园是一项具有挑战性的事业，需要协调一致的努力。"
+    ]
+  },
+  {
+    "w": "underwear",
+    "r": "复合: under(在里面) + wear(穿着) -> 穿在里面的衣物 -> 内衣",
+    "c": [
+      "The university dormitory provides laundry facilities for students to wash their underwear and socks.",
+      "大学宿舍为学生提供清洗内衣和袜子的洗衣设施。"
+    ]
+  },
+  {
+    "w": "undesirable",
+    "r": "un-(不) + desire(渴望) + -able(形容词后缀,可…的) -> 不可渴望的 -> 不合需要的",
+    "c": [
+      "Skipping classes regularly can lead to undesirable academic consequences for university students.",
+      "经常逃课会给大学生带来不合需要的学业后果。"
+    ]
+  },
+  {
+    "w": "undo",
+    "r": "un-(相反) + do(做) -> 把做过的事反过来 -> 取消",
+    "c": null
+  },
+  {
+    "w": "undocumented",
+    "r": "un-(无) + document(文件,证明) + -ed(形容词后缀) -> 无证明文件的 -> 无证明的",
+    "c": [
+      "Undocumented immigrants often face significant barriers to accessing basic healthcare services.",
+      "无证明文件的移民往往在获得基本医疗服务方面面临重大障碍。"
+    ]
+  },
+  {
+    "w": "undoubtedly",
+    "r": "un-(不) + doubt(怀疑) + -ed(形容词后缀) + -ly(副词后缀) -> 不容怀疑地 -> 无疑地",
+    "c": [
+      "Online learning has undoubtedly transformed the way education is delivered worldwide.",
+      "在线学习无疑改变了全球教育的传授方式。"
+    ]
+  },
+  {
+    "w": "uneasy",
+    "r": "un-(不) + easy(轻松的) -> 不轻松的 -> 不安的",
+    "c": null
+  },
+  {
+    "w": "unemployment",
+    "r": "un-(不) + employ(雇佣) + -ment(名词后缀) -> 不被雇佣的状态 -> 失业",
+    "c": null
+  },
+  {
+    "w": "unethical",
+    "r": "un-(不) + ethic(道德) + -al(形容词后缀) -> 不道德的",
+    "c": [
+      "Plagiarism is considered unethical conduct and can result in severe academic penalties.",
+      "剽窃被视为不道德行为，可能导致严重的学术处罚。"
+    ]
+  },
+  {
+    "w": "uneven",
+    "r": "un-(不) + even(平坦的,相等的) -> 不平坦的,不一致的",
+    "c": [
+      "The uneven distribution of educational resources widens the gap between urban and rural schools.",
+      "教育资源分布不均拉大了城乡学校之间的差距。"
+    ]
+  },
+  {
+    "w": "unexpected",
+    "r": "un-(不) + expect(期望) + -ed(形容词后缀) -> 不被预料到的 -> 想不到的",
+    "c": [
+      "The unexpected pandemic forced universities worldwide to rapidly shift to online instruction.",
+      "意想不到的疫情迫使全球大学迅速转向线上教学。"
+    ]
+  },
+  {
+    "w": "unfit",
+    "r": "un-(不) + fit(合适的,健康的) -> 不合适的,无能力的",
+    "c": [
+      "Students lacking basic research skills may feel unfit for graduate-level academic programs.",
+      "缺乏基础研究技能的学生可能觉得自己不适合研究生阶段的学术项目。"
+    ]
+  },
+  {
+    "w": "unfold",
+    "r": "un-(打开) + fold(折叠) -> 把折叠的打开 -> 展开",
+    "c": null
+  },
+  {
+    "w": "unfortunately",
+    "r": "un-(不) + fortunate(幸运的) + -ly(副词后缀) -> 不幸运地 -> 不幸地",
+    "c": [
+      "Unfortunately, many promising research projects are abandoned due to insufficient funding.",
+      "不幸的是，许多有前途的研究项目因资金不足而被放弃。"
+    ]
+  },
+  {
+    "w": "unified",
+    "r": "un-(一) + -ify(动词后缀,使…) + -ed(形容词后缀) -> 使成为一体的 -> 统一的",
+    "c": [
+      "A unified approach to curriculum design ensures consistent quality across all departments.",
+      "统一的课程设计方法确保了各部门之间质量的一致性。"
+    ]
+  },
+  {
+    "w": "uniform",
+    "r": "uni-(一) + form(形式) -> 一种形式的 -> 统一的,制服",
+    "c": null
+  },
+  {
+    "w": "uniformly",
+    "r": "uniform(统一的) + -ly(副词后缀) -> 统一地 -> 相同地,一贯",
+    "c": [
+      "Academic standards should be applied uniformly across all students regardless of background.",
+      "学术标准应一贯地适用于所有学生，不论其背景如何。"
+    ]
+  },
+  {
+    "w": "unify",
+    "r": "uni-(一) + -fy(动词后缀,使…) -> 使成为一 -> 使成为一体",
+    "c": [
+      "The new policy aims to unify various scholarship programs under a single application system.",
+      "新政策旨在将各种奖学金项目统一到一个申请系统下。"
+    ]
+  },
+  {
+    "w": "uninformed",
+    "r": "un-(未) + inform(告知) + -ed(形容词后缀) -> 未被告知的 -> 无知的",
+    "c": [
+      "Uninformed voters often struggle to make sound decisions about complex policy issues.",
+      "无知的选民往往难以对复杂的政策问题做出合理的决策。"
+    ]
+  },
+  {
+    "w": "unintentionally",
+    "r": "un-(不) + intention(意图) + -al(形容词后缀) + -ly(副词后缀) -> 非故意地 -> 无意地",
+    "c": [
+      "Students may unintentionally commit plagiarism when they fail to properly cite their sources.",
+      "学生在未能正确引用来源时可能无意地犯下剽窃行为。"
+    ]
+  },
+  {
+    "w": "union",
+    "r": "uni-(一) + -on(名词后缀) -> 成为一体 -> 联合,一致",
+    "c": null
+  },
+  {
+    "w": "unique",
+    "r": "uni-(一) + -que(形容词后缀) -> 唯一的 -> 独特的",
+    "c": [
+      "Each university has its own unique campus culture and academic traditions.",
+      "每所大学都有自己独特的校园文化和学术传统。"
+    ]
+  },
+  {
+    "w": "unit",
+    "r": "uni-(一) + -t(名词后缀) -> 一个整体 -> 单元,单位",
+    "c": null
+  },
+  {
+    "w": "unite",
+    "r": "uni-(一) + -te(动词后缀) -> 使成为一体 -> 联合、结合",
+    "c": [
+      "Students from diverse backgrounds can unite to address pressing social and environmental issues.",
+      "来自不同背景的学生可以联合起来解决紧迫的社会和环境问题。"
+    ]
+  },
+  {
+    "w": "unity",
+    "r": "uni-(一) + -ty(名词后缀) -> 一体的状态 -> 统一",
+    "c": null
+  },
+  {
+    "w": "universal",
+    "r": "uni-(一) + vers(转) + -al(形容词后缀) -> 合为一体的 -> 普遍的,宇宙的",
+    "c": null
+  },
+  {
+    "w": "universally",
+    "r": "universal(普遍的) + -ly(副词后缀) -> 普遍地",
+    "c": [
+      "The value of education is universally recognized as a foundation for personal and social progress.",
+      "教育的价值被普遍认为是个人和社会进步的基础。"
+    ]
+  },
+  {
+    "w": "universe",
+    "r": "uni-(一) + vers(转) + -e -> 转成一体的整体 -> 宇宙",
+    "c": null
+  },
+  {
+    "w": "university",
+    "r": "uni-(一) + vers(转) + -ity(名词后缀) -> 师生聚为一体的团体 -> 大学",
+    "c": null
+  },
+  {
+    "w": "unless",
+    "r": "un-(不) + less(更少) -> 如果不更少(即除外) -> 除非",
+    "c": [
+      "Students cannot graduate unless they complete all required courses and earn sufficient credits.",
+      "学生不能毕业，除非他们完成所有必修课程并获得足够的学分。"
+    ]
+  },
+  {
+    "w": "unlike",
+    "r": "un-(不) + like(像) -> 不像的 -> 不同的",
+    "c": null
+  },
+  {
+    "w": "unlikely",
+    "r": "un-(不) + likely(可能的) -> 不太可能的",
+    "c": [
+      "It is unlikely that a single policy measure can solve the complex problem of income inequality.",
+      "单一的政策措施不太可能解决收入不平等这一复杂问题。"
+    ]
+  },
+  {
+    "w": "unlimited",
+    "r": "un-(无) + limit(限制) + -ed(形容词后缀) -> 无限制的",
+    "c": [
+      "The digital library provides students with unlimited access to thousands of academic journals.",
+      "数字图书馆为学生提供无限制访问数千种学术期刊的权限。"
+    ]
+  },
+  {
+    "w": "unload",
+    "r": "un-(相反动作) + load(装载) -> 卸下装载的东西 -> 卸下、卸货",
+    "c": [
+      "Volunteers helped unload boxes of donated books from the truck at the community library.",
+      "志愿者们帮助从卡车上卸下捐赠的图书箱子送到社区图书馆。"
+    ]
+  },
+  {
+    "w": "unlock",
+    "r": "un-(相反动作) + lock(锁) -> 打开锁 -> 开启",
+    "c": [
+      "Education can unlock new opportunities for students from disadvantaged socioeconomic backgrounds.",
+      "教育可以为来自弱势社会经济背景的学生开启新的机会。"
+    ]
+  },
+  {
+    "w": "unpaid",
+    "r": "un-(未) + pay(支付) + -ed(形容词后缀) -> 未支付的",
+    "c": null
+  },
+  {
+    "w": "unprecedented",
+    "r": "un-(无) + precedent(先例) + -ed(形容词后缀) -> 无前例的 -> 史无前例的",
+    "c": [
+      "The rapid development of artificial intelligence presents unprecedented challenges and opportunities.",
+      "人工智能的快速发展带来了史无前例的挑战与机遇。"
+    ]
+  },
+  {
+    "w": "unqualified",
+    "r": "un-(不) + qualify(使合格) + -ed(形容词后缀) -> 不合格的",
+    "c": [
+      "Unqualified teachers can seriously undermine the quality of education in underfunded schools.",
+      "不合格的教师会严重削弱经费不足学校的教育质量。"
+    ]
+  },
+  {
+    "w": "unrealistic",
+    "r": "un-(不) + real(现实的) + -istic(形容词后缀) -> 不现实的",
+    "c": [
+      "Setting unrealistic goals can lead to frustration and burnout among university students.",
+      "设定不切实际的目标可能导致大学生产生挫败感和倦怠。"
+    ]
+  },
+  {
+    "w": "unreasonable",
+    "r": "un-(不) + reason(道理,理性) + -able(形容词后缀) -> 不讲道理的",
+    "c": [
+      "Students protested against the unreasonable increase in tuition fees at the public university.",
+      "学生们抗议公立大学不合理的学费上涨。"
+    ]
+  },
+  {
+    "w": "unstable",
+    "r": "un-(不) + stable(稳定的) -> 不稳定的",
+    "c": null
+  },
+  {
+    "w": "untie",
+    "r": "un-(相反动作) + tie(系) -> 解开系着的东西 -> 解开",
+    "c": [
+      "The researcher helped untie the knot of confusion surrounding the controversial experiment.",
+      "研究者帮助解开了围绕这项有争议实验的困惑之结。"
+    ]
+  },
+  {
+    "w": "until",
+    "r": "un-(到) + til(目标,来自古英语til) -> 直到",
+    "c": [
+      "Students are expected to remain in the examination hall until all papers have been collected.",
+      "学生应留在考场内，直到所有试卷都被收走为止。"
+    ]
+  },
+  {
+    "w": "untiring",
+    "r": "un-(不) + tire(疲倦) + -ing(形容词后缀) -> 不知疲倦的",
+    "c": [
+      "Her untiring efforts in promoting campus sustainability earned her the student leadership award.",
+      "她在推动校园可持续发展方面不知疲倦的努力为她赢得了学生领导力奖。"
+    ]
+  },
+  {
+    "w": "untreated",
+    "r": "un-(未) + treat(处理,治疗) + -ed(形容词后缀) -> 未经处理的",
+    "c": [
+      "Untreated wastewater from factories poses a serious threat to the surrounding river ecosystem.",
+      "工厂未经处理的废水对周边河流生态系统构成严重威胁。"
+    ]
+  },
+  {
+    "w": "untrustworthy",
+    "r": "un-(不) + trust(信任) + -worthy(值得的) -> 不值得信任的",
+    "c": [
+      "Information from unverified online sources is often untrustworthy and can mislead readers.",
+      "未经核实的网络来源信息往往不值得信任，可能误导读者。"
+    ]
+  },
+  {
+    "w": "unusual",
+    "r": "un-(不) + usual(通常的) -> 不平常的",
+    "c": null
+  },
+  {
+    "w": "up",
+    "r": "来自古英语upp(向上), 与德语auf同源 -> 在...上,向上",
+    "c": [
+      "Students must hand up their assignments before the deadline set by the course instructor.",
+      "学生必须在课程讲师设定的截止日期前上交作业。"
+    ]
+  },
+  {
+    "w": "up-to-date",
+    "r": "复合: up(到) + to(到) + date(日期) -> 到最新日期的 -> 最新的",
+    "c": [
+      "It is important for researchers to keep their knowledge up-to-date with the latest findings.",
+      "研究人员保持知识与最新发现同步是很重要的。"
+    ]
+  },
+  {
+    "w": "update",
+    "r": "up(向上) + date(日期) -> 更新到最新日期 -> 更新",
+    "c": null
+  },
+  {
+    "w": "upgrade",
+    "r": "up(向上) + grade(等级) -> 提升等级 -> 升级",
+    "c": null
+  },
+  {
+    "w": "uphold",
+    "r": "up(向上) + hold(保持) -> 向上保持(不倒下) -> 维护",
+    "c": [
+      "Universities must uphold academic integrity and prevent all forms of cheating and plagiarism.",
+      "大学必须维护学术诚信，防止一切形式的作弊和剽窃。"
+    ]
+  },
+  {
+    "w": "upon",
+    "r": "up(向上) + on(在…上) -> 在…上面",
+    "c": [
+      "Upon entering graduate school, students are expected to conduct independent research projects.",
+      "进入研究生院后，学生应开展独立的研究项目。"
+    ]
+  },
+  {
+    "w": "upper",
+    "r": "up(上) + -per(比较级后缀) -> 更上面的 -> 上面的,较高的",
+    "c": null
+  },
+  {
+    "w": "upright",
+    "r": "up(向上) + right(直的) -> 向上笔直的 -> 正直的,垂直的",
+    "c": [
+      "The upright professor was widely respected for his integrity and commitment to ethical research.",
+      "这位正直的教授因其诚信和对伦理研究的承诺而广受尊敬。"
+    ]
+  },
+  {
+    "w": "uproar",
+    "r": "up(起来) + roar(咆哮,喧闹) -> 喧嚣起来 -> 骚动,喧嚣",
+    "c": [
+      "The controversial policy decision caused an uproar among students and faculty members alike.",
+      "这一有争议的政策决定在学生和教职员工中引起了骚动。"
+    ]
+  },
+  {
+    "w": "upset",
+    "r": "up(向上) + set(放置) -> 打翻(心被打翻) -> 沮丧、难过",
+    "c": null
+  },
+  {
+    "w": "upstairs",
+    "r": "复合: up(上) + stairs(楼梯) -> 楼上",
+    "c": [
+      "The library's upstairs section contains rare books and archival materials for advanced researchers.",
+      "图书馆的楼上部分藏有珍本书籍和档案资料，供高级研究人员使用。"
+    ]
+  },
+  {
+    "w": "upward",
+    "r": "up(向上) + -ward(方向后缀) -> 向上方向的 -> 向上",
+    "c": null
+  },
+  {
+    "w": "uranium",
+    "r": "词源: 来自天王星Uranus, 该元素在天王星发现后不久被发现 -> 铀",
+    "c": [
+      "Uranium is used as fuel in nuclear power plants to generate electricity through fission reactions.",
+      "铀被用作核电站的燃料，通过裂变反应发电。"
+    ]
+  },
+  {
+    "w": "urban",
+    "r": "词根urb(城市) + -an(形容词后缀) -> 城市的",
+    "c": null
+  },
+  {
+    "w": "urbanization",
+    "r": "urban(城市的) + -ize(动词后缀,使…) + -ation(名词后缀) -> 城市化",
+    "c": null
+  },
+  {
+    "w": "urge",
+    "r": "来自拉丁语urgere(推动,驱使) -> 催促、敦促",
+    "c": null
+  },
+  {
+    "w": "urgent",
+    "r": "urg(催促) + -ent(形容词后缀) -> 催促的 -> 紧迫的",
+    "c": null
+  },
+  {
+    "w": "us",
+    "r": "来自古英语us(我们,宾格), 与德语uns同源 -> 我们",
+    "c": [
+      "The scholarship program has given us the opportunity to pursue higher education without financial worry.",
+      "奖学金项目让我们有机会在没有经济负担的情况下追求高等教育。"
+    ]
+  },
+  {
+    "w": "usage",
+    "r": "us(用) + -age(名词后缀,行为/状态) -> 使用的方式 -> 使用、用法",
+    "c": null
+  },
+  {
+    "w": "use",
+    "r": "来自拉丁语uti(使用), 经由古法语user -> 使用",
+    "c": null
+  },
+  {
+    "w": "used",
+    "r": "use(使用) + -ed(形容词后缀) -> 用过的 -> 二手的",
+    "c": [
+      "Many college students buy used textbooks to reduce the high cost of course materials.",
+      "许多大学生购买二手教科书以降低课程材料的高昂费用。"
+    ]
+  },
+  {
+    "w": "useful",
+    "r": "use(使用) + -ful(形容词后缀,充满…的) -> 有用的",
+    "c": null
+  },
+  {
+    "w": "usual",
+    "r": "来自拉丁语usus(使用,习惯) -> 习惯使用的 -> 通常的",
+    "c": null
+  },
+  {
+    "w": "usually",
+    "r": "usual(通常的) + -ly(副词后缀) -> 通常地",
+    "c": [
+      "University libraries are usually open until late at night during the final examination period.",
+      "大学图书馆在期末考试期间通常开放到深夜。"
+    ]
+  },
+  {
+    "w": "utensil",
+    "r": "ut(用,来自拉丁语uti) + -ensil(名词后缀) -> 用的东西 -> 器皿，用具",
+    "c": [
+      "The campus kitchen provides basic cooking utensils for students who prepare their own meals.",
+      "校园厨房为自己做饭的学生提供基本的炊具。"
+    ]
+  },
+  {
+    "w": "utilise",
+    "r": "util(用,来自拉丁语uti) + -ise(动词后缀,使…) -> 使被使用 -> 利用",
+    "c": [
+      "Students should learn to utilise library databases effectively for their research assignments.",
+      "学生应学会有效利用图书馆数据库完成研究作业。"
+    ]
+  },
+  {
+    "w": "utility",
+    "r": "util(用) + -ity(名词后缀) -> 有用的性质 -> 效用",
+    "c": null
+  },
+  {
+    "w": "utilization",
+    "r": "utilize(利用) + -ation(名词后缀) -> 利用的行为 -> 利用，效用",
+    "c": [
+      "Efficient utilization of classroom space is crucial for accommodating the growing student population.",
+      "高效利用教室空间对于容纳不断增长的学生人数至关重要。"
+    ]
+  },
+  {
+    "w": "utilize",
+    "r": "util(用,来自拉丁语uti) + -ize(动词后缀,使…) -> 使被使用 -> 利用",
+    "c": null
+  },
+  {
+    "w": "utmost",
+    "r": "ut(外,最) + most(最) -> 最外面的(极限) -> 极限,最大限度的",
+    "c": [
+      "Academic advisors do their utmost to help students navigate their university experience successfully.",
+      "学术顾问尽最大努力帮助学生成功度过大学生活。"
+    ]
+  },
+  {
+    "w": "utopian",
+    "r": "来自Utopia(乌托邦,莫尔书中的理想国) + -an(形容词后缀) -> 乌托邦的",
+    "c": [
+      "Critics argue that a completely zero-waste society remains a utopian vision for now.",
+      "批评者认为，完全零浪费的社会目前仍然是一个乌托邦式的理想。"
+    ]
+  },
+  {
+    "w": "utter",
+    "r": "来自古英语utter(外面的,完全的), 后引申为说出来 -> 说",
+    "c": null
+  },
+  {
+    "w": "utterly",
+    "r": "utter(完全的) + -ly(副词后缀) -> 完全地",
+    "c": [
+      "The sudden cancellation of the exchange program left many students utterly disappointed.",
+      "交换项目的突然取消让许多学生彻底失望。"
+    ]
+  },
+  {
+    "w": "vacant",
+    "r": "vac(空) + -ant(形容词后缀) -> 空的",
+    "c": [
+      "There are few vacant dormitory rooms available for transfer students at this time of year.",
+      "每年这个时候几乎没有空的宿舍房间可供转学生使用。"
+    ]
+  },
+  {
+    "w": "vacation",
+    "r": "vac(空) + -ation(名词后缀) -> 空出来的时间 -> 假期",
+    "c": [
+      "Many university students spend their summer vacation doing internships or volunteer work.",
+      "许多大学生利用暑假做实习或志愿工作。"
+    ]
+  },
+  {
+    "w": "vaccinate",
+    "r": "vaccin(牛痘,来自拉丁语vacca牛) + -ate(动词后缀) -> 接种牛痘 -> 给…接种疫苗",
+    "c": [
+      "The university encourages all students to vaccinate against influenza before winter arrives.",
+      "大学鼓励所有学生在冬季到来之前接种流感疫苗。"
+    ]
+  },
+  {
+    "w": "vaccine",
+    "r": "来自拉丁语vacca(牛), 因最早的牛痘疫苗而得名 -> 疫苗",
+    "c": null
+  },
+  {
+    "w": "vacuum",
+    "r": "vac(空) + -uum(名词后缀) -> 空的空间 -> 真空",
+    "c": null
+  },
+  {
+    "w": "vague",
+    "r": "来自拉丁语vagus(漫游的,不确定的) -> 模糊的",
+    "c": [
+      "Students should avoid using vague statements and provide specific evidence in their research papers.",
+      "学生应避免使用模糊的表述，在研究论文中提供具体证据。"
+    ]
+  },
+  {
+    "w": "vain",
+    "r": "来自拉丁语vanus(空的,虚幻的) -> 徒劳的,虚荣的",
+    "c": [
+      "Without a clear study plan, students may find their last-minute exam preparation efforts in vain.",
+      "没有清晰的学习计划，学生可能发现考前临时抱佛脚是徒劳的。"
+    ]
+  },
+  {
+    "w": "valid",
+    "r": "val(强壮,有效) + -id(形容词后缀) -> 有效的 -> 合理的",
+    "c": null
+  },
+  {
+    "w": "validation",
+    "r": "valid(有效的) + -ation(名词后缀) -> 证实有效的行为 -> 证实",
+    "c": null
+  },
+  {
+    "w": "validity",
+    "r": "val(有效) + -id(形容词后缀) + -ity(名词后缀) -> 有效性",
+    "c": null
+  },
+  {
+    "w": "valley",
+    "r": "来自拉丁语vallis(谷), 经由古法语valee -> 山谷",
+    "c": null
+  },
+  {
+    "w": "valuable",
+    "r": "valu(价值) + -able(形容词后缀,可…的) -> 有价值的",
+    "c": null
+  },
+  {
+    "w": "value",
+    "r": "来自拉丁语valere(强壮,值得) -> 价值",
+    "c": null
+  },
+  {
+    "w": "valve",
+    "r": "来自拉丁语valva(门,折叠门), 因阀门像门扇开合 -> 阀门",
+    "c": [
+      "The engineering students studied how a valve controls the flow of fluid through a pipe system.",
+      "工程系学生研究了阀门如何控制管道系统中的流体流动。"
+    ]
+  },
+  {
+    "w": "van",
+    "r": "来自vanguard(先锋)的缩写；也作大篷货车 -> 先导,货车",
+    "c": [
+      "The university's mobile library van brings books and internet access to remote rural communities.",
+      "大学的流动图书馆货车将书籍和网络服务带给偏远的农村社区。"
+    ]
+  }
+]

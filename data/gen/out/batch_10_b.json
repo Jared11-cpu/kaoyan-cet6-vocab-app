@@ -1,0 +1,594 @@
+[
+  {
+    "w": "each",
+    "r": "联想: 古英语aelc，每个"
+  },
+  {
+    "w": "eager",
+    "r": "联想: 来自古法语aigre(尖锐的)，引申为渴望的"
+  },
+  {
+    "w": "eagle",
+    "r": "联想: 来自拉丁语aquila，鹰",
+    "c": [
+      "The bald eagle has long been a symbol of strength and freedom in American culture.",
+      "白头鹰长期以来一直是美国文化中力量和自由的象征。"
+    ]
+  },
+  {
+    "w": "ear",
+    "r": "联想: 古英语eare，耳朵"
+  },
+  {
+    "w": "early",
+    "r": "联想: 古英语aerlic，早期的"
+  },
+  {
+    "w": "earn",
+    "r": "联想: 古英语earnian，挣得、赢得"
+  },
+  {
+    "w": "earnest",
+    "r": "联想: 古英语eornost(认真)，音「额内思」-> 额头发自内心的思考",
+    "c": [
+      "An earnest effort to address climate change requires global cooperation and commitment.",
+      "认真应对气候变化需要全球合作与承诺。"
+    ]
+  },
+  {
+    "w": "earnings",
+    "r": "earn(挣) + -ings(名词后缀) -> 工资、收入",
+    "c": [
+      "Gender disparities in earnings persist despite decades of legislative efforts.",
+      "尽管经过数十年立法努力，收入性别差异仍然存在。"
+    ]
+  },
+  {
+    "w": "earth",
+    "r": "联想: 古英语eorthe，地球、泥土"
+  },
+  {
+    "w": "earthenware",
+    "r": "复合: earthen(土制的) + ware(器皿) -> 陶器",
+    "c": [
+      "Archaeologists discovered fragments of ancient earthenware at the excavation site.",
+      "考古学家在发掘现场发现了古代陶器的碎片。"
+    ]
+  },
+  {
+    "w": "earthquake",
+    "r": "复合: earth(地球) + quake(震动) -> 地震",
+    "c": [
+      "A powerful earthquake struck the region, causing widespread damage to infrastructure.",
+      "一场强烈地震袭击了该地区，对基础设施造成广泛破坏。"
+    ]
+  },
+  {
+    "w": "ease",
+    "r": "联想: 来自拉丁语adiuvare(帮助)，引申为减轻、舒适"
+  },
+  {
+    "w": "east",
+    "r": "联想: 古英语east，东"
+  },
+  {
+    "w": "easter",
+    "r": "联想: 来自古英语eastre，复活节(春天的节日，日出在东方)",
+    "c": [
+      "Easter is a major religious holiday celebrated by Christians around the world.",
+      "复活节是全世界基督徒庆祝的重要宗教节日。"
+    ]
+  },
+  {
+    "w": "eastern",
+    "r": "east(东) + -ern(形容词后缀) -> 东部的",
+    "c": [
+      "The eastern region of the country has experienced rapid industrial growth in recent years.",
+      "该国东部地区近年来工业快速增长。"
+    ]
+  },
+  {
+    "w": "eastward",
+    "r": "east(东) + -ward(向…方向) -> 向东",
+    "c": [
+      "The weather system is moving eastward and will reach the coast by tomorrow morning.",
+      "天气系统正在向东移动，将于明天早晨到达海岸。"
+    ]
+  },
+  {
+    "w": "easy",
+    "r": "联想: 来自拉丁语adiuvare(帮助)，容易的"
+  },
+  {
+    "w": "eat",
+    "r": "联想: 古英语etan，吃"
+  },
+  {
+    "w": "ebb",
+    "r": "联想: 古英语ebba，退潮",
+    "c": [
+      "Confidence in the government's economic policies began to ebb among the population.",
+      "民众对政府经济政策的信心开始下降。"
+    ]
+  },
+  {
+    "w": "eccentric",
+    "r": "ec-(出) + centr(中心) + -ic(形容词后缀) -> 偏离中心的 -> 古怪的",
+    "c": [
+      "The eccentric professor was known for his unusual habits and brilliant research.",
+      "这位古怪的教授以其不寻常的习惯和出色的研究而闻名。"
+    ]
+  },
+  {
+    "w": "echo",
+    "r": "联想: 来自希腊语ekho，回声",
+    "c": [
+      "Her speech found an echo among young people who shared her vision for the future.",
+      "她的演讲在与她有共同未来愿景的年轻人中引起了共鸣。"
+    ]
+  },
+  {
+    "w": "eclipse",
+    "r": "ec-(出) + lipse(离开) -> 离开(视线) -> 日食、黯然失色"
+  },
+  {
+    "w": "ecological",
+    "r": "eco(家、环境) + -log(学) + -ical(形容词后缀) -> 生态学的",
+    "c": [
+      "Ecological conservation efforts have led to the recovery of several endangered species.",
+      "生态保护工作已使若干濒危物种得以恢复。"
+    ]
+  },
+  {
+    "w": "ecology",
+    "r": "eco(家、环境) + -logy(学) -> 研究环境的学问 -> 生态"
+  },
+  {
+    "w": "economic",
+    "r": "eco(家) + nom(法则) + -ic(形容词后缀) -> 家政的 -> 经济上的"
+  },
+  {
+    "w": "economical",
+    "r": "eco(家) + nom(法则) + -ical(形容词后缀) -> 经济的、节约的"
+  },
+  {
+    "w": "economically",
+    "r": "economical(经济的) + -ly(副词后缀) -> 在经济上",
+    "c": [
+      "Economically disadvantaged communities often lack access to quality healthcare services.",
+      "经济弱势社区往往缺乏获得优质医疗服务的途径。"
+    ]
+  },
+  {
+    "w": "economics",
+    "r": "eco(家) + nom(法则) + -ics(学) -> 经济学",
+    "c": [
+      "Behavioral economics combines psychology with traditional economic theory and models.",
+      "行为经济学将心理学与传统经济理论和模型相结合。"
+    ]
+  },
+  {
+    "w": "economy",
+    "r": "eco(家) + nom(法则) + -y -> 家政 -> 经济"
+  },
+  {
+    "w": "ecosystem",
+    "r": "eco(环境) + system(系统) -> 生态系统"
+  },
+  {
+    "w": "edge",
+    "r": "联想: 古英语ecg(刃、边)"
+  },
+  {
+    "w": "edible",
+    "r": "ed(吃) + -ible(可…的) -> 可食用的"
+  },
+  {
+    "w": "edit",
+    "r": "e-(出) + dit(给) -> 给出来 -> 编辑(选出稿件)"
+  },
+  {
+    "w": "edition",
+    "r": "edit(编辑) + -ion(名词后缀) -> 版本",
+    "c": [
+      "The special edition of the textbook includes additional chapters and online resources.",
+      "这本教科书的特别版包括额外的章节和在线资源。"
+    ]
+  },
+  {
+    "w": "editor",
+    "r": "edit(编辑) + -or(人) -> 编辑"
+  },
+  {
+    "w": "editorial",
+    "r": "editor(编辑) + -ial(形容词/名词后缀) -> 社论"
+  },
+  {
+    "w": "educate",
+    "r": "e-(出) + duc(引导) + -ate(动词后缀) -> 引导出来 -> 教育"
+  },
+  {
+    "w": "education",
+    "r": "e-(出) + duc(引导) + -ation(名词后缀) -> 教育"
+  },
+  {
+    "w": "educational",
+    "r": "education(教育) + -al(形容词后缀) -> 教育的"
+  },
+  {
+    "w": "effect",
+    "r": "ef-(出) + fect(做) -> 做出来的结果 -> 效果"
+  },
+  {
+    "w": "effective",
+    "r": "effect(效果) + -ive(有…的) -> 有效的"
+  },
+  {
+    "w": "efficiency",
+    "r": "ef-(出) + fic(做) + -i- + -ency(名词后缀) -> 做出来的程度 -> 效率"
+  },
+  {
+    "w": "efficient",
+    "r": "ef-(出) + fic(做) + -ient(形容词后缀) -> 做得好的 -> 高效的",
+    "c": [
+      "Efficient public transportation systems reduce traffic congestion and carbon emissions.",
+      "高效的公共交通系统减少了交通拥堵和碳排放。"
+    ]
+  },
+  {
+    "w": "effort",
+    "r": "ef-(出) + fort(力量) -> 使出力量 -> 努力"
+  },
+  {
+    "w": "egg",
+    "r": "联想: 古英语aeg，蛋"
+  },
+  {
+    "w": "ego",
+    "r": "联想: 来自拉丁语ego(我)，自我",
+    "c": [
+      "A healthy ego is essential for personal growth and professional development.",
+      "健康的自我意识对个人成长和职业发展至关重要。"
+    ]
+  },
+  {
+    "w": "egyptian",
+    "r": "Egypt(埃及) + -ian(形容词/名词后缀) -> 埃及的、埃及人",
+    "c": [
+      "Egyptian hieroglyphs were one of the earliest writing systems ever developed by humans.",
+      "埃及象形文字是人类最早发展的书写系统之一。"
+    ]
+  },
+  {
+    "w": "eight",
+    "r": "联想: 古英语eahta，八"
+  },
+  {
+    "w": "eighteen",
+    "r": "eight(八) + een(十) -> 十八",
+    "c": [
+      "Eighteen percent of the population reported experiencing symptoms of anxiety last year.",
+      "去年有百分之十八的人口报告出现焦虑症状。"
+    ]
+  },
+  {
+    "w": "eighty",
+    "r": "eight(八) + -ty(十) -> 八十",
+    "c": [
+      "Eighty percent of the world's data has been generated in just the past few years.",
+      "世界上百分之八十的数据是在过去几年中产生的。"
+    ]
+  },
+  {
+    "w": "either",
+    "r": "联想: 古英语aeghwaether，两者之一"
+  },
+  {
+    "w": "eject",
+    "r": "e-(出) + ject(投、扔) -> 扔出去 -> 喷射、驱逐",
+    "c": [
+      "The pilot had to eject from the aircraft when the engine failed mid-flight.",
+      "发动机在飞行途中故障时，飞行员不得不从飞机中弹射出来。"
+    ]
+  },
+  {
+    "w": "elaborate",
+    "r": "e-(出) + labor(劳动) + -ate(动词后缀) -> 做出劳动成果 -> 详尽的、复杂的"
+  },
+  {
+    "w": "elaborately",
+    "r": "elaborate(详尽的) + -ly(副词后缀) -> 复杂地",
+    "c": [
+      "The museum displayed an elaborately carved jade artifact dating back two thousand years.",
+      "博物馆展出了一件精心雕刻的玉器，其历史可追溯到两千年前。"
+    ]
+  },
+  {
+    "w": "elapse",
+    "r": "e-(出) + lapse(滑) -> 滑过去 -> (时间)逝去",
+    "c": [
+      "Several months had elapsed before the research team published their findings.",
+      "几个月过去了，研究小组才发表了他们的发现。"
+    ]
+  },
+  {
+    "w": "elastic",
+    "r": "elast(驱动、拉伸) + -ic(形容词后缀) -> 有弹性的"
+  },
+  {
+    "w": "elbow",
+    "r": "联想: 古英语elnboga，肘",
+    "c": [
+      "She nudged him with her elbow to get his attention during the boring meeting.",
+      "在无聊的会议期间，她用胳膊肘碰了碰他以引起他的注意。"
+    ]
+  },
+  {
+    "w": "elder",
+    "r": "联想: 古英语ieldra(更老的)，年长的"
+  },
+  {
+    "w": "elect",
+    "r": "e-(出) + lect(选) -> 选出来 -> 选举",
+    "c": [
+      "Voters will elect new representatives to serve in parliament next month.",
+      "选民将在下月选举新的代表进入议会任职。"
+    ]
+  },
+  {
+    "w": "election",
+    "r": "e-(出) + lect(选) + -ion(名词后缀) -> 选举"
+  },
+  {
+    "w": "electric",
+    "r": "electr(电，来自希腊语elektron琥珀) + -ic(形容词后缀) -> 电的"
+  },
+  {
+    "w": "electrical",
+    "r": "electric(电的) + -al(形容词后缀) -> 电的",
+    "c": [
+      "All electrical equipment must undergo regular maintenance to ensure workplace safety.",
+      "所有电气设备必须定期维护以确保工作场所安全。"
+    ]
+  },
+  {
+    "w": "electrician",
+    "r": "electric(电的) + -ian(人) -> 电工",
+    "c": [
+      "A licensed electrician was called in to repair the building's faulty wiring system.",
+      "一位持证电工被叫来修复大楼有故障的布线系统。"
+    ]
+  },
+  {
+    "w": "electricity",
+    "r": "electric(电的) + -ity(名词后缀) -> 电、电学"
+  },
+  {
+    "w": "electrify",
+    "r": "electric(电的) + -ify(使…) -> 使电气化",
+    "c": [
+      "The new high-speed railway will electrify the entire region and boost economic growth.",
+      "新的高速铁路将使整个地区电气化并促进经济增长。"
+    ]
+  },
+  {
+    "w": "electrode",
+    "r": "electr(电) + -ode(路、极) -> 电极",
+    "c": [
+      "Researchers placed an electrode on the patient's scalp to measure brain activity.",
+      "研究人员在患者头皮上放置电极以测量大脑活动。"
+    ]
+  },
+  {
+    "w": "electron",
+    "r": "electr(电) + -on(基本粒子后缀) -> 电子",
+    "c": [
+      "An electron is a negatively charged particle that orbits the nucleus of an atom.",
+      "电子是围绕原子核运行的带负电的粒子。"
+    ]
+  },
+  {
+    "w": "electronic",
+    "r": "electron(电子) + -ic(形容词后缀) -> 电子的"
+  },
+  {
+    "w": "electronics",
+    "r": "electron(电子) + -ics(学) -> 电子学",
+    "c": [
+      "Consumer electronics has become one of the fastest-growing sectors in the global market.",
+      "消费电子已成为全球市场增长最快的行业之一。"
+    ]
+  },
+  {
+    "w": "elegant",
+    "r": "e-(出) + leg(选) + -ant(形容词后缀) -> 精选出来的 -> 优雅的",
+    "c": [
+      "Her elegant writing style combines intellectual depth with remarkable clarity.",
+      "她优雅的写作风格将思想深度与非凡的清晰度融为一体。"
+    ]
+  },
+  {
+    "w": "element",
+    "r": "elem(元素、基本成分) + -ent(名词后缀) -> 元素、要素"
+  },
+  {
+    "w": "elemental",
+    "r": "element(元素) + -al(形容词后缀) -> 基本的",
+    "c": [
+      "The elemental forces of nature have shaped human civilization throughout history.",
+      "自然的基本力量在整个历史中塑造了人类文明。"
+    ]
+  },
+  {
+    "w": "elementary",
+    "r": "element(元素) + -ary(形容词后缀) -> 基础的 -> 初等的"
+  },
+  {
+    "w": "elephant",
+    "r": "联想: 来自希腊语elephas，象",
+    "c": [
+      "The African elephant is currently classified as an endangered species by conservationists.",
+      "非洲象目前被保护主义者列为濒危物种。"
+    ]
+  },
+  {
+    "w": "elevate",
+    "r": "e-(出) + lev(举、轻) + -ate(动词后缀) -> 举起来 -> 举起、提拔"
+  },
+  {
+    "w": "elevation",
+    "r": "e-(出) + lev(举) + -ation(名词后缀) -> 高度、海拔",
+    "c": [
+      "The city's high elevation provides cooler temperatures throughout the summer months.",
+      "该市海拔高，整个夏天气温都比较凉爽。"
+    ]
+  },
+  {
+    "w": "elevator",
+    "r": "elev(举) + -ator(表物) -> 电梯、升降机"
+  },
+  {
+    "w": "eleven",
+    "r": "联想: 古英语endleofan，十一",
+    "c": [
+      "Eleven researchers from different universities collaborated on the groundbreaking study.",
+      "来自不同大学的十一名研究人员合作开展了这项开创性研究。"
+    ]
+  },
+  {
+    "w": "elicit",
+    "r": "e-(出) + lic(引诱) + -it -> 引诱出来 -> 引出",
+    "c": [
+      "The controversial policy proposal elicited strong reactions from both sides of the debate.",
+      "这项有争议的政策提案引起了辩论双方的强烈反应。"
+    ]
+  },
+  {
+    "w": "eligible",
+    "r": "e-(出) + lig(选择) + -ible(可…的) -> 可被选的 -> 合适的",
+    "c": [
+      "Students must meet specific academic criteria to be eligible for the scholarship program.",
+      "学生必须达到特定的学业标准才有资格申请奖学金项目。"
+    ]
+  },
+  {
+    "w": "eliminate",
+    "r": "e-(出) + limin(门槛、界限) + -ate(动词后缀) -> 赶出门槛外 -> 排除、淘汰"
+  },
+  {
+    "w": "elimination",
+    "r": "e-(出) + limin(界限) + -ation(名词后缀) -> 消除、淘汰"
+  },
+  {
+    "w": "elite",
+    "r": "e-(出) + lite(选择，来自拉丁语legere) -> 选出来的人 -> 精英"
+  },
+  {
+    "w": "elliptical",
+    "r": "ellipt(椭圆) + -ical(形容词后缀) -> 椭圆的；省略的",
+    "c": [
+      "The spacecraft followed an elliptical orbit around the planet for several months.",
+      "这艘航天器在绕行星的椭圆轨道上运行了数月。"
+    ]
+  },
+  {
+    "w": "eloquence",
+    "r": "e-(出) + loqu(说) + -ence(名词后缀) -> 说出来的能力 -> 雄辩",
+    "c": [
+      "Her eloquence during the debate impressed even those who disagreed with her views.",
+      "她在辩论中的雄辩甚至让那些不同意她观点的人也印象深刻。"
+    ]
+  },
+  {
+    "w": "eloquent",
+    "r": "e-(出) + loqu(说) + -ent(形容词后缀) -> 善说的 -> 雄辩的",
+    "c": [
+      "The eloquent speaker captivated the audience with her passionate and well-reasoned arguments.",
+      "这位雄辩的演讲者以热情而充分的论点吸引了观众。"
+    ]
+  },
+  {
+    "w": "else",
+    "r": "联想: 古英语elles，其他"
+  },
+  {
+    "w": "elsewhere",
+    "r": "else(其他) + where(地方) -> 在别处"
+  },
+  {
+    "w": "email",
+    "r": "复合: e(电子) + mail(邮件) -> 电子邮件"
+  },
+  {
+    "w": "embark",
+    "r": "em-(进入) + bark(船) -> 上船 -> 着手、开始",
+    "c": [
+      "The research team will embark on a three-year study of ocean acidification next month.",
+      "研究小组将于下月开始一项为期三年的海洋酸化研究。"
+    ]
+  },
+  {
+    "w": "embarrass",
+    "r": "em-(进入) + barras(障碍) -> 陷入障碍 -> 使尴尬",
+    "c": [
+      "Asking personal questions during a job interview can embarrass candidates and affect performance.",
+      "在工作面试中问私人问题会让候选人尴尬并影响表现。"
+    ]
+  },
+  {
+    "w": "embassy",
+    "r": "em-(进入) + bass(使者) + -y -> 使者的驻地 -> 大使馆",
+    "c": [
+      "Foreign nationals must visit the embassy to apply for an official work visa.",
+      "外国公民必须前往大使馆申请正式工作签证。"
+    ]
+  },
+  {
+    "w": "embed",
+    "r": "em-(进入) + bed(床) -> 放进床里 -> 嵌入"
+  },
+  {
+    "w": "embody",
+    "r": "em-(使) + body(身体) -> 使有身体 -> 具体体现、包含"
+  },
+  {
+    "w": "embrace",
+    "r": "em-(进入) + brace(双臂) -> 进入双臂 -> 拥抱、接受"
+  },
+  {
+    "w": "embroidery",
+    "r": "em-(使) + broider(绣) + -y(名词后缀) -> 刺绣",
+    "c": [
+      "Traditional Chinese embroidery is recognized worldwide for its exquisite detail and craftsmanship.",
+      "中国传统刺绣以其精美的细节和工艺而闻名世界。"
+    ]
+  },
+  {
+    "w": "embryo",
+    "r": "em-(内) + bryo(发芽) -> 内部发芽 -> 胚胎",
+    "c": [
+      "Stem cell research using embryo tissue raises important ethical and philosophical questions.",
+      "使用胚胎组织的干细胞研究引发了重要的伦理和哲学问题。"
+    ]
+  },
+  {
+    "w": "emerge",
+    "r": "e-(出) + merg(沉) + -e -> 从沉没中出来 -> 出现",
+    "c": [
+      "New patterns of behavior emerge when individuals interact within complex social systems.",
+      "当个体在复杂的社会系统中互动时，新的行为模式就会出现。"
+    ]
+  },
+  {
+    "w": "emergency",
+    "r": "e-(出) + merg(沉) + -ency(名词后缀) -> 从(平静中)出来 -> 紧急情况"
+  },
+  {
+    "w": "emigrate",
+    "r": "e-(出) + migr(迁移) + -ate(动词后缀) -> 迁出去 -> 移民",
+    "c": [
+      "Many young professionals emigrate in search of better career opportunities abroad.",
+      "许多年轻职业人士移民国外以寻求更好的职业机会。"
+    ]
+  }
+]

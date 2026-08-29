@@ -1,102 +1,638 @@
 [
-{"w":"bargain","r":"bar(障碍) + gain(获得) → 讨价还价障碍后获得 → 廉价货、交易","c":["Consumers often bargain with street vendors to get a lower price on fresh produce and textiles.","消费者常常与街头小贩讨价还价，以更低的价格购买新鲜农产品和纺织品。"]},
-{"w":"barge","r":"bar(条、杆) + -ge(名词后缀) → 用杆撑的平底船 → 驳船；大型游船","c":["Coal and other bulk commodities are transported along inland waterways by heavily loaded barges.","煤炭和其他大宗商品通过重载驳船沿着内陆水道运输。"]},
-{"w":"bark","r":"联想: 「吧克」——狗叫的声音；树皮像狗皮一样粗糙 → 树皮","c":["The bark of certain tree species contains chemical compounds with valuable medicinal properties.","某些树种的树皮含有具有宝贵药用价值的化合物。"]},
-{"w":"barley","r":"联想: bar(条) + ley(田地) → 田地里长的条状物 → 大麦","c":"Barley is widely used in the production of beer, whiskey, and various animal feed products.","大麦被广泛用于啤酒、威士忌和各种动物饲料产品的生产。"]},
-{"w":"barn","r":"联想: 「梆」——谷仓门关上的声音 → 谷仓","c":"Farmers converted the old wooden barn into a sustainable storage facility for organic grain crops.","农民们把那座旧木谷仓改造成了有机粮食作物的可持续储存设施。"]},
-{"w":"barometer","r":"baro(压力、重量) + meter(测量) → 测量气压的仪器 → 气压计，睛雨表","c":"Consumer confidence is often regarded as a reliable barometer of future economic growth trends.","消费者信心常被视为未来经济增长趋势的可靠晴雨表。"]},
-{"w":"baron","r":"bar(重) + -on(名词后缀) → 身负重任的大人物 → 男爵；贵族；巨商","c":"The oil baron donated a substantial portion of his fortune to support medical research institutions.","这位石油大亨将其巨额财产的很大一部分捐给了医学研究机构。"]},
-{"w":"barrel","r":"barr(棒、杆) + -el(小) → 用小木条围成的容器 → 桶","c":["Each barrel of crude oil is traded on global commodity markets at fluctuating daily prices.","每桶原油在全球大宗商品市场上以每日波动的价格进行交易。"]},
-{"w":"barren","r":"barr(棒、杆) + -en(形容词后缀) → 像光杆一样不长东西的 → 贫瘠的","c":"The once barren hillside has been transformed into lush forest through decades of reforestation efforts.","经过几十年的植树造林，曾经贫瘠的山坡变成了郁郁葱葱的森林。"]},
-{"w":"barricade","r":"barr(棒、栏) + -icade(名词后缀，来自西班牙语) → 用障碍物挡住 → 路障，栅栏，障碍 vt. 设路障于，挡住","c":"Protesters erected wooden barricades across the main avenue to block traffic and draw public attention.","抗议者在主要大道上搭建木制路障以阻断交通并吸引公众关注。"]},
-{"w":"barrier","r":"barr(栏) + -ier(名词后缀) → 拦着的东西 → 障碍"},
-{"w":"base","r":"bas(低) + -e(名词后缀) → 底部 → 基础、基地"},
-{"w":"baseball","r":"复合: base(垒) + ball(球) → 跑垒的球类运动 → 棒球","c":["Baseball has long been regarded as America's national pastime and a symbol of cultural identity.","长期以来，棒球一直被视为美国的国民娱乐和文化认同的象征。"]},
-{"w":"basement","r":"base(基础、底部) + -ment(名词后缀) → 建筑物底部 → 地下室","c":"Many urban families convert their basements into additional living space or home office areas.","许多城市家庭将地下室改造成额外的居住空间或家庭办公区。"]},
-{"w":"basic","r":"bas(低、底) + -ic(形容词后缀) → 底部的 → 基本的、根本的"},
-{"w":"basin","r":"base(底) + -in(名词后缀) → 有底的容器 → 盆地","c":"The river basin provides drinking water and agricultural irrigation for over ten million people.","这个河流流域为一千万以上人口提供饮用水和农业灌溉用水。"]},
-{"w":"basis","r":"bas(底) + -is(名词后缀) → 基础","c":["Trust and open communication form the basis of any successful long-term professional relationship.","信任和开放的沟通是任何成功的长期职业关系的基础。"]},
-{"w":"basket","r":"联想: 「巴斯克」——巴斯克人擅长编织篮筐 → 篮子","c":["Shoppers are increasingly bringing reusable baskets to grocery stores to reduce plastic waste.","购物者越来越多地带着可重复使用的篮子去杂货店，以减少塑料垃圾。"]},
-{"w":"basketball","r":"复合: basket(篮筐) + ball(球) → 投进篮筐的球 → 篮球"},
-{"w":"bat","r":"联想: 蝙蝠夜飞时「叭嗒」拍翅膀 → 蝙蝠"},
-{"w":"batch","r":"联想: 「拌吃」——一批一批拌着吃 → 一批","c":["The factory produces electronics in large batches to maximize efficiency and minimize production costs.","该工厂大批量生产电子产品，以最大限度提高效率并降低生产成本。"]},
-{"w":"bath","r":"联想: 「巴斯」——英国巴斯以温泉浴场闻名 → 洗澡"},
-{"w":"bathe","r":"bath(洗澡) + -e(动词后缀) → 沐浴","c":"Residents and tourists alike gather at the beach to bathe in the warm sunlight and gentle waves.","居民和游客都聚集在海滩上，沐浴在温暖的阳光和轻柔的海浪中。"]},
-{"w":"bathroom","r":"复合: bath(洗澡) + room(房间) → 洗澡的房间 → 浴室","c":"The newly renovated apartment features a modern bathroom with heated flooring and a rainfall shower.","新装修的公寓配有带地暖和雨淋式花洒的现代化浴室。"]},
-{"w":"batter","r":"bat(打) + -ter(反复动词后缀) → 连续打 → 连续猛击 n. 面糊","c":"Strong winds and heavy rain continued to batter the coastal region throughout the entire weekend.","强风和暴雨整个周末持续袭击沿海地区。"]},
-{"w":"battery","r":"batt(打) + -ery(名词后缀) → 一排炮→电池组 → 电池"},
-{"w":"battle","r":"batt(打) + -le(名词后缀) → 战斗"},
-{"w":"bay","r":"联想: 「背」——海湾背靠陆地 → 海湾"},
-{"w":"bazaar","r":"baza(价格、价值，来自波斯语) + -ar(场所) → 交易价值的场所 → 集市，廉价商店","c":"The historic city center features a bustling traditional bazaar where artisans sell handmade crafts.","这座历史悠久的市中心有一个热闹的传统集市，工匠们在那里出售手工艺品。"]},
-{"w":"be","r":"联想: 最基础的存在动词，印欧语系共同词根 *bheue-(存在、生长) → 是、存在","c":["Philosophers have debated what it means to be conscious and self-aware for thousands of years.","几千年来，哲学家们一直在争论拥有意识和自我觉知意味着什么。"]},
-{"w":"beach","r":"联想: 「碧池」——碧蓝海水边的沙滩 → 海滩","c":["Rising sea levels due to climate change pose a serious threat to coastal beach ecosystems worldwide.","气候变化导致的海平面上升对全球沿海海滩生态系统构成了严重威胁。"]},
-{"w":"bead","r":"联想: 「必的」——念珠是修行人必备的 → 有孔小珠；水珠；露珠","c":"Tiny beads of sweat formed on the athlete's forehead as she competed in the intense summer heat.","在炎炎夏日中比赛时，运动员的额头上冒出了细密的汗珠。"]},
-{"w":"beam","r":"联想: 「并」——光束并排照射 → 光线、发射","c":["The laser beam can precisely cut through thick metal plates with minimal heat distortion.","激光束可以精确切割厚金属板，热变形极小。"]},
-{"w":"bean","r":"联想: 「便」——豆子方便携带又充饥 → 豆","c":["Soy beans are a rich source of plant-based protein and a staple in many vegetarian diets.","大豆是植物蛋白的丰富来源，也是许多素食饮食中的主食。"]},
-{"w":"bear","r":"联想: 「背」——熊背宽厚有力，能承载 → 携带、承受"},
-{"w":"beard","r":"联想: 「必的」——男子汉必有的 → 胡须","c":["Researchers found that men with thick beards are often perceived as more masculine and dominant by others.","研究人员发现，留浓密胡须的男性常被他人认为更具男子气概和支配力。"]},
-{"w":"bearing","r":"bear(承受) + -ing(名词后缀) → 承受重量的部件 → 轴承","c":"The main bearing of the engine failed unexpectedly, causing the entire production line to shut down.","发动机的主轴承意外损坏，导致整条生产线停产。"]},
-{"w":"beast","r":"联想: 「毙死它」——野兽凶猛能毙死人 → 兽"},
-{"w":"beat","r":"联想: 「必特」——必须特别狠才能击败 → 击败"},
-{"w":"beautiful","r":"beauty(美) + -ful(充满…的) → 充满美的 → 美好的"},
-{"w":"beauty","r":"beau(美，来自拉丁语bellus漂亮的) + -ty(名词后缀) → 美丽、美人"},
-{"w":"because","r":"复合: by + cause(原因) → 由…原因导致 → 因为","c":["Many rural schools struggle to retain qualified teachers because of low salaries and limited career prospects.","由于薪资低和职业发展前景有限，许多农村学校难以留住合格教师。"]},
-{"w":"become","r":"be-(使成为) + come(来) → 来到某种状态 → 成为、适宜"},
-{"w":"bed","r":"联想: 「被的」——有被子的地方 → 床"},
-{"w":"bee","r":"联想: 拟声「哔」——蜜蜂飞行的嗡嗡声 → 蜜蜂","c":["Wild bee populations have declined sharply in recent decades due to pesticide use and habitat loss.","近几十年来，由于农药使用和栖息地丧失，野生蜜蜂种群数量急剧下降。"]},
-{"w":"beef","r":"联想: 「避夫」——妻子避着丈夫偷偷吃牛肉 → 牛肉"},
-{"w":"beer","r":"联想: 「啤」酒的音译来源 → 啤酒","c":["Craft beer breweries have experienced rapid growth as consumers demand more diverse flavor profiles.","随着消费者对更多样化口味的需求，精酿啤酒厂经历了快速增长。"]},
-{"w":"beetle","r":"beat(打) + -le(小) → 会叩头敲打的小虫子 → 甲虫","c":"The rhinoceros beetle is renowned for its incredible strength relative to its small body size.","犀牛甲虫以其相对于小小体型而言惊人的力量而闻名。"]},
-{"w":"before","r":"be-(在) + fore(前面) → 在前面 → 在…之前","c":["Before implementing any major policy change, policymakers should carefully consider potential unintended consequences.","在实施任何重大政策变革之前，政策制定者应仔细考虑潜在的意外后果。"]},
-{"w":"beforehand","r":"复合: before(之前) + hand(手) → 提前动手 → 预先，事先","c":["It is advisable to book accommodation well beforehand during peak tourist seasons to avoid disappointment.","在旅游旺季，最好提前预订住宿以免扫兴。"]},
-{"w":"beg","r":"联想: 「拜个」——拜个求个 → 乞求","c":["Homeless people in major cities often beg for spare change outside busy subway stations and shopping malls.","大城市里无家可归的人常常在繁忙的地铁站和商场外乞讨零钱。"]},
-{"w":"begin","r":"be-(加强) + gin(开始) → 开始"},
-{"w":"beginning","r":"begin(开始) + -ning(名词后缀) → 开始","c":["The beginning of the twentieth century witnessed profound transformations in science, technology, and society.","二十世纪初见证了科学、技术和社会的深刻变革。"]},
-{"w":"behalf","r":"be-(在) + half(半、边) → 在那一边、代表 → 代表","c":["The lawyer attended the meeting on behalf of her client, who was unable to travel due to illness.","律师代表因病无法出行的客户出席了会议。"]},
-{"w":"behave","r":"be-(使成为) + have(拥有) → 拥有某种品行 → 表现"},
-{"w":"behavior","r":"behave(表现) + -ior(名词后缀) → 行为"},
-{"w":"behind","r":"be-(在) + hind(后面) → 在后面 → 在…后面","c":["Advanced economies are falling behind in renewable energy investment compared to some developing nations.","与一些发展中国家相比，发达经济体在可再生能源投资方面正在落后。"]},
-{"w":"being","r":"be(存在) + -ing(名词后缀) → 存在物 → 生物、生存"},
-{"w":"belief","r":"believe(相信)的名词形式 → 信仰、相信"},
-{"w":"believe","r":"be-(加强) + lieve(爱、珍视) → 深深珍视所以相信 → 相信"},
-{"w":"bell","r":"联想: 拟声「啵」——钟声 → 钟、铃"},
-{"w":"belly","r":"联想: 「包厘」——肚子里包着厘(里面的东西) → 腹部"},
-{"w":"belong","r":"be-(使) + long(长) → 长久属于某处 → 属于"},
-{"w":"beloved","r":"be-(使) + loved(被爱的) → 被深爱的 → 心爱的","c":["The city's beloved public library has served as a community hub for learning and culture since nineteen twenty.","这座城市深受喜爱的公共图书馆自1920年以来一直是学习和文化的社区中心。"]},
-{"w":"below","r":"be-(在) + low(低) → 在低处 → 在…下面","c":["Temperatures in the region frequently drop below freezing during the long, harsh winter months.","在漫长严寒的冬季，该地区气温经常降至冰点以下。"]},
-{"w":"belt","r":"联想: 「带」的音变 → 皮带、地带"},
-{"w":"bemoan","r":"be-(加强) + moan(呻吟) → 呻吟哀叹 → 抱怨；惋惜","c":"Critics bemoan the declining quality of public education as government funding continues to shrink.","随着政府资金持续缩减，批评者哀叹公共教育质量不断下降。"]},
-{"w":"bench","r":"联想: 「板凳」的音译源头 → 长凳","c":["Judges on the supreme court bench will hear arguments in the landmark civil rights case next month.","最高法院的法官们下月将审理这起具有里程碑意义的民权案件。"]},
-{"w":"bend","r":"联想: 「绊的」——弯道容易绊倒 → 弯曲","c":["Researchers found that drivers tend to underestimate the sharpness of bends on unfamiliar rural roads.","研究人员发现，驾驶员在不熟悉的乡村道路上往往会低估弯道的急弯程度。"]},
-{"w":"beneath","r":"be-(在) + neath(下面) → 在下面 → 在…之下"},
-{"w":"beneficial","r":"bene-(好) + fic(做) + -ial(形容词后缀) → 做善事的 → 有益的"},
-{"w":"benefit","r":"bene-(好) + fit(做) → 做好事 → 益处、好处"},
-{"w":"benevolent","r":"bene-(好) + vol(意愿) + -ent(形容词后缀) → 好意的 → 仁慈的","c":"The benevolent donor established a scholarship fund to support talented students from low-income families.","这位仁慈的捐赠者设立了奖学金基金，资助来自低收入家庭的优秀学生。"]},
-{"w":"benign","r":"beni-(好) + -gn(形容词后缀，来自拉丁语gnus出生) → 天生善良的 → 良性的","c":"Most skin moles are benign and pose no serious health risk to the individual over a lifetime.","大多数皮肤痣是良性的，终其一生不会对个人构成严重健康风险。"]},
-{"w":"beside","r":"be-(在) + side(旁边) → 在旁边 → 在…旁边","c":["The research institute is located beside a large university, facilitating academic collaboration and exchange.","该研究所坐落在一所大型大学旁边，便于学术合作与交流。"]},
-{"w":"besides","r":"be-(在) + sides(边) + -s(副词后缀) → 此外、另外 → 除了之外、而且","c":["Besides reducing carbon emissions, renewable energy technologies also create new jobs and economic opportunities.","除了减少碳排放外，可再生能源技术还创造了新的就业和经济机会。"]},
-{"w":"best","r":"be-(是) + st(最高级后缀) → 最好的 → 最、最好的","c":["The best way to address income inequality is through progressive taxation and targeted social welfare programs.","解决收入不平等的最佳途径是通过累进税制和有针对性的社会福利项目。"]},
-{"w":"bestow","r":"be-(使) + stow(放置) → 把东西放给某人 → 把…赠与","c":["The university will bestow an honorary degree upon the renowned scientist for her groundbreaking research.","该大学将向这位著名科学家授予荣誉学位，以表彰其开创性的研究成果。"]},
-{"w":"bet","r":"联想: 「赌贝特」——打赌 → 打赌"},
-{"w":"betray","r":"be-(加强) + tray(背叛，来自古法语trair) → 背叛","c":["Government officials who betray public trust for personal gain must be held fully accountable under the law.","为个人利益背叛公众信任的政府官员必须依法承担全部责任。"]},
-{"w":"better","r":"good/well的比较级 → 更好的","c":["Better urban planning could significantly reduce traffic congestion and improve overall quality of life.","更好的城市规划可以显著减少交通拥堵并提高整体生活质量。"]},
-{"w":"between","r":"be-(在) + twen(二) → 在二者之间 → 在…之间","c":["The relationship between economic growth and environmental protection remains a subject of intense debate.","经济增长与环境保护之间的关系仍然是激烈争论的话题。"]},
-{"w":"beverage","r":"bever(喝) + -age(名词后缀) → 喝的东西 → 饮料"},
-{"w":"beware","r":"be-(加强) + ware(谨慎) → 非常谨慎 → 小心","c":["Drivers should beware of sudden weather changes when traveling through mountainous regions in winter.","冬季在山区旅行时，驾驶员应警惕天气的突然变化。"]},
-{"w":"bewilder","r":"be-(加强) + wilder(迷惑，来自荒野迷路) → 使迷惑"},
-{"w":"beyond","r":"be-(在) + yond(那边) → 在那边、超过 → 超越","c":["The impact of artificial intelligence on employment extends far beyond what most experts initially predicted.","人工智能对就业的影响远远超出了大多数专家最初的预测。"]},
-{"w":"bias","r":"联想: 「偏死」——偏得要死 → 偏见、偏重"},
-{"w":"bible","r":"biblio(书) + -e(名词后缀) → 圣书 → 圣经","c":["The bible has had a profound influence on Western literature, art, philosophy, and legal traditions.","《圣经》对西方文学、艺术、哲学和法律传统产生了深远影响。"]},
-{"w":"bibliography","r":"biblio(书) + graph(写) + -y(名词后缀) → 书写出来的书单 → 参考书目","c":["Every academic research paper must include a comprehensive bibliography listing all cited sources and references.","每篇学术研究论文都必须包含完整的参考书目，列出所有引用的资料和文献。"]},
-{"w":"bicycle","r":"bi-(二) + cycle(轮、圈) → 两个轮子 → 自行车"},
-{"w":"bid","r":"联想: 「必得」——出价竞标志在必得 → 出价、投标"},
-{"w":"big","r":"联想: 「必个」——必须是个大的 → 大"},
-{"w":"bill","r":"联想: 「必哦」——账单必须付哦 → 账单"},
-{"w":"billion","r":"bi-(二) + million(百万) → 第二个百万(百万的平方) → 十亿、万亿"},
-{"w":"bin","r":"联想: 「宾」——杂物都做宾(客人)待在箱子里 → 垃圾箱","c":["Many cities have introduced separate recycling bins to encourage residents to sort their household waste.","许多城市推出了分类回收箱，鼓励居民对生活垃圾进行分类。"]},
-{"w":"bind","r":"联想: 「绑的」——绑起来 → 结合、约束、捆绑","c":["International trade agreements bind nations together through shared economic interests and legal obligations.","国际贸易协定通过共同的经济利益和法律义务将各国联系在一起。"]},
-{"w":"biochemistry","r":"bio(生命) + chemistry(化学) → 生命的化学 → 生物化学"},
-{"w":"biodiversity","r":"bio(生命) + diversity(多样性) → 生命的多样性 → 生物多样性"},
-{"w":"biography","r":"bio(生命) + graph(写) + -y(名词后缀) → 写生命经历 → 传记","c":["The critically acclaimed biography offers fresh insights into the personal life of the legendary physicist.","这本广受好评的传记为这位传奇物理学家的个人生活提供了新的见解。"]},
-{"w":"biology","r":"bio(生命) + -logy(学科) → 研究生命的学科 → 生物学","c":["Recent advances in molecular biology have opened new possibilities for treating previously incurable genetic diseases.","分子生物学的最新进展为治疗以前无法治愈的遗传病开辟了新的可能。"]}
+  {
+    "w": "bargain",
+    "r": "bar(障碍) + gain(获得) → 讨价还价障碍后获得 → 廉价货、交易",
+    "c": [
+      "Consumers often bargain with street vendors to get a lower price on fresh produce and textiles.",
+      "消费者常常与街头小贩讨价还价，以更低的价格购买新鲜农产品和纺织品。"
+    ]
+  },
+  {
+    "w": "barge",
+    "r": "bar(条、杆) + -ge(名词后缀) → 用杆撑的平底船 → 驳船；大型游船",
+    "c": [
+      "Coal and other bulk commodities are transported along inland waterways by heavily loaded barges.",
+      "煤炭和其他大宗商品通过重载驳船沿着内陆水道运输。"
+    ]
+  },
+  {
+    "w": "bark",
+    "r": "联想: 「吧克」——狗叫的声音；树皮像狗皮一样粗糙 → 树皮",
+    "c": [
+      "The bark of certain tree species contains chemical compounds with valuable medicinal properties.",
+      "某些树种的树皮含有具有宝贵药用价值的化合物。"
+    ]
+  },
+  {
+    "w": "barley",
+    "r": "联想: bar(条) + ley(田地) → 田地里长的条状物 → 大麦",
+    "c": [
+      "Barley is widely used in the production of beer, whiskey, and various animal feed products.",
+      "大麦被广泛用于啤酒、威士忌和各种动物饲料产品的生产。"
+    ]
+  },
+  {
+    "w": "barn",
+    "r": "联想: 「梆」——谷仓门关上的声音 → 谷仓",
+    "c": [
+      "Farmers converted the old wooden barn into a sustainable storage facility for organic grain crops.",
+      "农民们把那座旧木谷仓改造成了有机粮食作物的可持续储存设施。"
+    ]
+  },
+  {
+    "w": "barometer",
+    "r": "baro(压力、重量) + meter(测量) → 测量气压的仪器 → 气压计，睛雨表",
+    "c": [
+      "Consumer confidence is often regarded as a reliable barometer of future economic growth trends.",
+      "消费者信心常被视为未来经济增长趋势的可靠晴雨表。"
+    ]
+  },
+  {
+    "w": "baron",
+    "r": "bar(重) + -on(名词后缀) → 身负重任的大人物 → 男爵；贵族；巨商",
+    "c": [
+      "The oil baron donated a substantial portion of his fortune to support medical research institutions.",
+      "这位石油大亨将其巨额财产的很大一部分捐给了医学研究机构。"
+    ]
+  },
+  {
+    "w": "barrel",
+    "r": "barr(棒、杆) + -el(小) → 用小木条围成的容器 → 桶",
+    "c": [
+      "Each barrel of crude oil is traded on global commodity markets at fluctuating daily prices.",
+      "每桶原油在全球大宗商品市场上以每日波动的价格进行交易。"
+    ]
+  },
+  {
+    "w": "barren",
+    "r": "barr(棒、杆) + -en(形容词后缀) → 像光杆一样不长东西的 → 贫瘠的",
+    "c": [
+      "The once barren hillside has been transformed into lush forest through decades of reforestation efforts.",
+      "经过几十年的植树造林，曾经贫瘠的山坡变成了郁郁葱葱的森林。"
+    ]
+  },
+  {
+    "w": "barricade",
+    "r": "barr(棒、栏) + -icade(名词后缀) → 用障碍物挡住 → 路障，栅栏，障碍 vt. 设路障于，挡住",
+    "c": [
+      "Protesters erected wooden barricades across the main avenue to block traffic and draw public attention.",
+      "抗议者在主要大道上搭建木制路障以阻断交通并吸引公众关注。"
+    ]
+  },
+  {
+    "w": "barrier",
+    "r": "barr(栏) + -ier(名词后缀) → 拦着的东西 → 障碍"
+  },
+  {
+    "w": "base",
+    "r": "bas(低) + -e(名词后缀) → 底部 → 基础、基地"
+  },
+  {
+    "w": "baseball",
+    "r": "复合: base(垒) + ball(球) → 跑垒的球类运动 → 棒球",
+    "c": [
+      "Baseball has long been regarded as America's national pastime and a symbol of cultural identity.",
+      "长期以来，棒球一直被视为美国的国民娱乐和文化认同的象征。"
+    ]
+  },
+  {
+    "w": "basement",
+    "r": "base(基础、底部) + -ment(名词后缀) → 建筑物底部 → 地下室",
+    "c": [
+      "Many urban families convert their basements into additional living space or home office areas.",
+      "许多城市家庭将地下室改造成额外的居住空间或家庭办公区。"
+    ]
+  },
+  {
+    "w": "basic",
+    "r": "bas(低、底) + -ic(形容词后缀) → 底部的 → 基本的、根本的"
+  },
+  {
+    "w": "basin",
+    "r": "base(底) + -in(名词后缀) → 有底的容器 → 盆地",
+    "c": [
+      "The river basin provides drinking water and agricultural irrigation for over ten million people.",
+      "这个河流流域为一千万以上人口提供饮用水和农业灌溉用水。"
+    ]
+  },
+  {
+    "w": "basis",
+    "r": "bas(底) + -is(名词后缀) → 基础",
+    "c": [
+      "Trust and open communication form the basis of any successful long-term professional relationship.",
+      "信任和开放的沟通是任何成功的长期职业关系的基础。"
+    ]
+  },
+  {
+    "w": "basket",
+    "r": "联想: 「巴斯克」——巴斯克人擅长编织篮筐 → 篮子",
+    "c": [
+      "Shoppers are increasingly bringing reusable baskets to grocery stores to reduce plastic waste.",
+      "购物者越来越多地带着可重复使用的篮子去杂货店，以减少塑料垃圾。"
+    ]
+  },
+  {
+    "w": "basketball",
+    "r": "复合: basket(篮筐) + ball(球) → 投进篮筐的球 → 篮球"
+  },
+  {
+    "w": "bat",
+    "r": "联想: 蝙蝠夜飞时「叭嗒」拍翅膀 → 蝙蝠"
+  },
+  {
+    "w": "batch",
+    "r": "联想: 「拌吃」——一批一批拌着吃 → 一批",
+    "c": [
+      "The factory produces electronics in large batches to maximize efficiency and minimize production costs.",
+      "该工厂大批量生产电子产品，以最大限度提高效率并降低生产成本。"
+    ]
+  },
+  {
+    "w": "bath",
+    "r": "联想: 「巴斯」——英国巴斯以温泉浴场闻名 → 洗澡"
+  },
+  {
+    "w": "bathe",
+    "r": "bath(洗澡) + -e(动词后缀) → 沐浴",
+    "c": [
+      "Residents and tourists alike gather at the beach to bathe in the warm sunlight and gentle waves.",
+      "居民和游客都聚集在海滩上，沐浴在温暖的阳光和轻柔的海浪中。"
+    ]
+  },
+  {
+    "w": "bathroom",
+    "r": "复合: bath(洗澡) + room(房间) → 洗澡的房间 → 浴室",
+    "c": [
+      "The newly renovated apartment features a modern bathroom with heated flooring and a rainfall shower.",
+      "新装修的公寓配有带地暖和雨淋式花洒的现代化浴室。"
+    ]
+  },
+  {
+    "w": "batter",
+    "r": "bat(打) + -ter(反复动词后缀) → 连续打 → 连续猛击 n. 面糊",
+    "c": [
+      "Strong winds and heavy rain continued to batter the coastal region throughout the entire weekend.",
+      "强风和暴雨整个周末持续袭击沿海地区。"
+    ]
+  },
+  {
+    "w": "battery",
+    "r": "batt(打) + -ery(名词后缀) → 一排炮→电池组 → 电池"
+  },
+  {
+    "w": "battle",
+    "r": "batt(打) + -le(名词后缀) → 战斗"
+  },
+  {
+    "w": "bay",
+    "r": "联想: 「背」——海湾背靠陆地 → 海湾"
+  },
+  {
+    "w": "bazaar",
+    "r": "baza(价格、价值，来自波斯语) + -ar(场所) → 交易价值的场所 → 集市，廉价商店",
+    "c": [
+      "The historic city center features a bustling traditional bazaar where artisans sell handmade crafts.",
+      "这座历史悠久的市中心有一个热闹的传统集市，工匠们在那里出售手工艺品。"
+    ]
+  },
+  {
+    "w": "be",
+    "r": "联想: 最基础的存在动词，印欧语系共同词根*bheue-(存在、生长) → 是、存在",
+    "c": [
+      "Philosophers have debated what it means to be conscious and self-aware for thousands of years.",
+      "几千年来，哲学家们一直在争论拥有意识和自我觉知意味着什么。"
+    ]
+  },
+  {
+    "w": "beach",
+    "r": "联想: 「碧池」——碧蓝海水边的沙滩 → 海滩",
+    "c": [
+      "Rising sea levels due to climate change pose a serious threat to coastal beach ecosystems worldwide.",
+      "气候变化导致的海平面上升对全球沿海海滩生态系统构成了严重威胁。"
+    ]
+  },
+  {
+    "w": "bead",
+    "r": "联想: 「必的」——念珠是修行人必备的 → 有孔小珠；水珠；露珠",
+    "c": [
+      "Tiny beads of sweat formed on the athlete's forehead as she competed in the intense summer heat.",
+      "在炎炎夏日中比赛时，运动员的额头上冒出了细密的汗珠。"
+    ]
+  },
+  {
+    "w": "beam",
+    "r": "联想: 「并」——光束并排照射 → 光线、发射",
+    "c": [
+      "The laser beam can precisely cut through thick metal plates with minimal heat distortion.",
+      "激光束可以精确切割厚金属板，热变形极小。"
+    ]
+  },
+  {
+    "w": "bean",
+    "r": "联想: 「便」——豆子方便携带又充饥 → 豆",
+    "c": [
+      "Soy beans are a rich source of plant-based protein and a staple in many vegetarian diets.",
+      "大豆是植物蛋白的丰富来源，也是许多素食饮食中的主食。"
+    ]
+  },
+  {
+    "w": "bear",
+    "r": "联想: 「背」——熊背宽厚有力，能承载 → 携带、承受"
+  },
+  {
+    "w": "beard",
+    "r": "联想: 「必的」——男子汉必有的 → 胡须",
+    "c": [
+      "Researchers found that men with thick beards are often perceived as more masculine and dominant by others.",
+      "研究人员发现，留浓密胡须的男性常被他人认为更具男子气概和支配力。"
+    ]
+  },
+  {
+    "w": "bearing",
+    "r": "bear(承受) + -ing(名词后缀) → 承受重量的部件 → 轴承",
+    "c": [
+      "The main bearing of the engine failed unexpectedly, causing the entire production line to shut down.",
+      "发动机的主轴承意外损坏，导致整条生产线停产。"
+    ]
+  },
+  {
+    "w": "beast",
+    "r": "联想: 「毙死它」——野兽凶猛能毙死人 → 兽"
+  },
+  {
+    "w": "beat",
+    "r": "联想: 「必特」——必须特别狠才能击败 → 击败"
+  },
+  {
+    "w": "beautiful",
+    "r": "beauty(美) + -ful(充满…的) → 充满美的 → 美好的"
+  },
+  {
+    "w": "beauty",
+    "r": "beau(美，来自拉丁语bellus漂亮的) + -ty(名词后缀) → 美丽、美人"
+  },
+  {
+    "w": "because",
+    "r": "复合: by + cause(原因) → 由…原因导致 → 因为",
+    "c": [
+      "Many rural schools struggle to retain qualified teachers because of low salaries and limited career prospects.",
+      "由于薪资低和职业发展前景有限，许多农村学校难以留住合格教师。"
+    ]
+  },
+  {
+    "w": "become",
+    "r": "be-(使成为) + come(来) → 来到某种状态 → 成为、适宜"
+  },
+  {
+    "w": "bed",
+    "r": "联想: 「被的」——有被子的地方 → 床"
+  },
+  {
+    "w": "bee",
+    "r": "联想: 拟声「哔」——蜜蜂飞行的嗡嗡声 → 蜜蜂",
+    "c": [
+      "Wild bee populations have declined sharply in recent decades due to pesticide use and habitat loss.",
+      "近几十年来，由于农药使用和栖息地丧失，野生蜜蜂种群数量急剧下降。"
+    ]
+  },
+  {
+    "w": "beef",
+    "r": "联想: 「避夫」——妻子避着丈夫偷偷吃牛肉 → 牛肉"
+  },
+  {
+    "w": "beer",
+    "r": "联想: 「啤」酒的音译来源 → 啤酒",
+    "c": [
+      "Craft beer breweries have experienced rapid growth as consumers demand more diverse flavor profiles.",
+      "随着消费者对更多样化口味的需求，精酿啤酒厂经历了快速增长。"
+    ]
+  },
+  {
+    "w": "beetle",
+    "r": "beat(打) + -le(小) → 会叩头敲打的小虫子 → 甲虫",
+    "c": [
+      "The rhinoceros beetle is renowned for its incredible strength relative to its small body size.",
+      "犀牛甲虫以其相对于小小体型而言惊人的力量而闻名。"
+    ]
+  },
+  {
+    "w": "before",
+    "r": "be-(在) + fore(前面) → 在前面 → 在…之前",
+    "c": [
+      "Before implementing any major policy change, policymakers should carefully consider potential unintended consequences.",
+      "在实施任何重大政策变革之前，政策制定者应仔细考虑潜在的意外后果。"
+    ]
+  },
+  {
+    "w": "beforehand",
+    "r": "复合: before(之前) + hand(手) → 提前动手 → 预先，事先",
+    "c": [
+      "It is advisable to book accommodation well beforehand during peak tourist seasons to avoid disappointment.",
+      "在旅游旺季，最好提前预订住宿以免扫兴。"
+    ]
+  },
+  {
+    "w": "beg",
+    "r": "联想: 「拜个」——拜个求个 → 乞求",
+    "c": [
+      "Homeless people in major cities often beg for spare change outside busy subway stations and shopping malls.",
+      "大城市里无家可归的人常常在繁忙的地铁站和商场外乞讨零钱。"
+    ]
+  },
+  {
+    "w": "begin",
+    "r": "be-(加强) + gin(开始) → 开始"
+  },
+  {
+    "w": "beginning",
+    "r": "begin(开始) + -ning(名词后缀) → 开始",
+    "c": [
+      "The beginning of the twentieth century witnessed profound transformations in science, technology, and society.",
+      "二十世纪初见证了科学、技术和社会的深刻变革。"
+    ]
+  },
+  {
+    "w": "behalf",
+    "r": "be-(在) + half(半、边) → 在那一边、代表 → 代表",
+    "c": [
+      "The lawyer attended the meeting on behalf of her client, who was unable to travel due to illness.",
+      "律师代表因病无法出行的客户出席了会议。"
+    ]
+  },
+  {
+    "w": "behave",
+    "r": "be-(使成为) + have(拥有) → 拥有某种品行 → 表现"
+  },
+  {
+    "w": "behavior",
+    "r": "behave(表现) + -ior(名词后缀) → 行为"
+  },
+  {
+    "w": "behind",
+    "r": "be-(在) + hind(后面) → 在后面 → 在…后面",
+    "c": [
+      "Advanced economies are falling behind in renewable energy investment compared to some developing nations.",
+      "与一些发展中国家相比，发达经济体在可再生能源投资方面正在落后。"
+    ]
+  },
+  {
+    "w": "being",
+    "r": "be(存在) + -ing(名词后缀) → 存在物 → 生物、生存"
+  },
+  {
+    "w": "belief",
+    "r": "believe(相信)的名词形式 → 信仰、相信"
+  },
+  {
+    "w": "believe",
+    "r": "be-(加强) + lieve(爱、珍视) → 深深珍视所以相信 → 相信"
+  },
+  {
+    "w": "bell",
+    "r": "联想: 拟声「啵」——钟声 → 钟、铃"
+  },
+  {
+    "w": "belly",
+    "r": "联想: 「包厘」——肚子里包着厘(里面的东西) → 腹部"
+  },
+  {
+    "w": "belong",
+    "r": "be-(使) + long(长) → 长久属于某处 → 属于"
+  },
+  {
+    "w": "beloved",
+    "r": "be-(使) + loved(被爱的) → 被深爱的 → 心爱的",
+    "c": [
+      "The city's beloved public library has served as a community hub for learning and culture since nineteen twenty.",
+      "这座城市深受喜爱的公共图书馆自1920年以来一直是学习和文化的社区中心。"
+    ]
+  },
+  {
+    "w": "below",
+    "r": "be-(在) + low(低) → 在低处 → 在…下面",
+    "c": [
+      "Temperatures in the region frequently drop below freezing during the long, harsh winter months.",
+      "在漫长严寒的冬季，该地区气温经常降至冰点以下。"
+    ]
+  },
+  {
+    "w": "belt",
+    "r": "联想: 「带」的音变 → 皮带、地带"
+  },
+  {
+    "w": "bemoan",
+    "r": "be-(加强) + moan(呻吟) → 呻吟哀叹 → 抱怨；惋惜",
+    "c": [
+      "Critics bemoan the declining quality of public education as government funding continues to shrink.",
+      "随着政府资金持续缩减，批评者哀叹公共教育质量不断下降。"
+    ]
+  },
+  {
+    "w": "bench",
+    "r": "联想: 「板凳」的音译源头 → 长凳",
+    "c": [
+      "Judges on the supreme court bench will hear arguments in the landmark civil rights case next month.",
+      "最高法院的法官们下月将审理这起具有里程碑意义的民权案件。"
+    ]
+  },
+  {
+    "w": "bend",
+    "r": "联想: 「绊的」——弯道容易绊倒 → 弯曲",
+    "c": [
+      "Researchers found that drivers tend to underestimate the sharpness of bends on unfamiliar rural roads.",
+      "研究人员发现，驾驶员在不熟悉的乡村道路上往往会低估弯道的急弯程度。"
+    ]
+  },
+  {
+    "w": "beneath",
+    "r": "be-(在) + neath(下面) → 在下面 → 在…之下"
+  },
+  {
+    "w": "beneficial",
+    "r": "bene-(好) + fic(做) + -ial(形容词后缀) → 做善事的 → 有益的"
+  },
+  {
+    "w": "benefit",
+    "r": "bene-(好) + fit(做) → 做好事 → 益处、好处"
+  },
+  {
+    "w": "benevolent",
+    "r": "bene-(好) + vol(意愿) + -ent(形容词后缀) → 好意的 → 仁慈的",
+    "c": [
+      "The benevolent donor established a scholarship fund to support talented students from low-income families.",
+      "这位仁慈的捐赠者设立了奖学金基金，资助来自低收入家庭的优秀学生。"
+    ]
+  },
+  {
+    "w": "benign",
+    "r": "beni-(好) + -gn(形容词后缀) → 天生善良的 → 良性的",
+    "c": [
+      "Most skin moles are benign and pose no serious health risk to the individual over a lifetime.",
+      "大多数皮肤痣是良性的，终其一生不会对个人构成严重健康风险。"
+    ]
+  },
+  {
+    "w": "beside",
+    "r": "be-(在) + side(旁边) → 在旁边 → 在…旁边",
+    "c": [
+      "The research institute is located beside a large university, facilitating academic collaboration and exchange.",
+      "该研究所坐落在一所大型大学旁边，便于学术合作与交流。"
+    ]
+  },
+  {
+    "w": "besides",
+    "r": "be-(在) + sides(边) + -s(副词后缀) → 此外、另外 → 除了之外、而且",
+    "c": [
+      "Besides reducing carbon emissions, renewable energy technologies also create new jobs and economic opportunities.",
+      "除了减少碳排放外，可再生能源技术还创造了新的就业和经济机会。"
+    ]
+  },
+  {
+    "w": "best",
+    "r": "be-(是) + st(最高级后缀) → 最好的 → 最、最好的",
+    "c": [
+      "The best way to address income inequality is through progressive taxation and targeted social welfare programs.",
+      "解决收入不平等的最佳途径是通过累进税制和有针对性的社会福利项目。"
+    ]
+  },
+  {
+    "w": "bestow",
+    "r": "be-(使) + stow(放置) → 把东西放给某人 → 把…赠与",
+    "c": [
+      "The university will bestow an honorary degree upon the renowned scientist for her groundbreaking research.",
+      "该大学将向这位著名科学家授予荣誉学位，以表彰其开创性的研究成果。"
+    ]
+  },
+  {
+    "w": "bet",
+    "r": "联想: 「赌贝特」——打赌 → 打赌"
+  },
+  {
+    "w": "betray",
+    "r": "be-(加强) + tray(背叛，来自古法语trair) → 背叛",
+    "c": [
+      "Government officials who betray public trust for personal gain must be held fully accountable under the law.",
+      "为个人利益背叛公众信任的政府官员必须依法承担全部责任。"
+    ]
+  },
+  {
+    "w": "better",
+    "r": "good/well的比较级 → 更好的",
+    "c": [
+      "Better urban planning could significantly reduce traffic congestion and improve overall quality of life.",
+      "更好的城市规划可以显著减少交通拥堵并提高整体生活质量。"
+    ]
+  },
+  {
+    "w": "between",
+    "r": "be-(在) + twen(二) → 在二者之间 → 在…之间",
+    "c": [
+      "The relationship between economic growth and environmental protection remains a subject of intense debate.",
+      "经济增长与环境保护之间的关系仍然是激烈争论的话题。"
+    ]
+  },
+  {
+    "w": "beverage",
+    "r": "bever(喝) + -age(名词后缀) → 喝的东西 → 饮料"
+  },
+  {
+    "w": "beware",
+    "r": "be-(加强) + ware(谨慎) → 非常谨慎 → 小心",
+    "c": [
+      "Drivers should beware of sudden weather changes when traveling through mountainous regions in winter.",
+      "冬季在山区旅行时，驾驶员应警惕天气的突然变化。"
+    ]
+  },
+  {
+    "w": "bewilder",
+    "r": "be-(加强) + wilder(迷惑，来自荒野迷路) → 使迷惑"
+  },
+  {
+    "w": "beyond",
+    "r": "be-(在) + yond(那边) → 在那边、超过 → 超越",
+    "c": [
+      "The impact of artificial intelligence on employment extends far beyond what most experts initially predicted.",
+      "人工智能对就业的影响远远超出了大多数专家最初的预测。"
+    ]
+  },
+  {
+    "w": "bias",
+    "r": "联想: 「偏死」——偏得要死 → 偏见、偏重"
+  },
+  {
+    "w": "bible",
+    "r": "biblio(书) + -e(名词后缀) → 圣书 → 圣经",
+    "c": [
+      "The bible has had a profound influence on Western literature, art, philosophy, and legal traditions.",
+      "《圣经》对西方文学、艺术、哲学和法律传统产生了深远影响。"
+    ]
+  },
+  {
+    "w": "bibliography",
+    "r": "biblio(书) + graph(写) + -y(名词后缀) → 书写出来的书单 → 参考书目",
+    "c": [
+      "Every academic research paper must include a comprehensive bibliography listing all cited sources and references.",
+      "每篇学术研究论文都必须包含完整的参考书目，列出所有引用的资料和文献。"
+    ]
+  },
+  {
+    "w": "bicycle",
+    "r": "bi-(二) + cycle(轮、圈) → 两个轮子 → 自行车"
+  },
+  {
+    "w": "bid",
+    "r": "联想: 「必得」——出价竞标志在必得 → 出价、投标"
+  },
+  {
+    "w": "big",
+    "r": "联想: 「必个」——必须是个大的 → 大"
+  },
+  {
+    "w": "bill",
+    "r": "联想: 「必哦」——账单必须付哦 → 账单"
+  },
+  {
+    "w": "billion",
+    "r": "bi-(二) + million(百万) → 第二个百万 → 十亿、万亿"
+  },
+  {
+    "w": "bin",
+    "r": "联想: 「宾」——杂物都做宾(客人)待在箱子里 → 垃圾箱",
+    "c": [
+      "Many cities have introduced separate recycling bins to encourage residents to sort their household waste.",
+      "许多城市推出了分类回收箱，鼓励居民对生活垃圾进行分类。"
+    ]
+  },
+  {
+    "w": "bind",
+    "r": "联想: 「绑的」——绑起来 → 结合、约束、捆绑",
+    "c": [
+      "International trade agreements bind nations together through shared economic interests and legal obligations.",
+      "国际贸易协定通过共同的经济利益和法律义务将各国联系在一起。"
+    ]
+  },
+  {
+    "w": "biochemistry",
+    "r": "bio(生命) + chemistry(化学) → 生命的化学 → 生物化学"
+  },
+  {
+    "w": "biodiversity",
+    "r": "bio(生命) + diversity(多样性) → 生命的多样性 → 生物多样性"
+  },
+  {
+    "w": "biography",
+    "r": "bio(生命) + graph(写) + -y(名词后缀) → 写生命经历 → 传记",
+    "c": [
+      "The critically acclaimed biography offers fresh insights into the personal life of the legendary physicist.",
+      "这本广受好评的传记为这位传奇物理学家的个人生活提供了新的见解。"
+    ]
+  },
+  {
+    "w": "biology",
+    "r": "bio(生命) + -logy(学科) → 研究生命的学科 → 生物学",
+    "c": [
+      "Recent advances in molecular biology have opened new possibilities for treating previously incurable genetic diseases.",
+      "分子生物学的最新进展为治疗以前无法治愈的遗传病开辟了新的可能。"
+    ]
+  }
 ]

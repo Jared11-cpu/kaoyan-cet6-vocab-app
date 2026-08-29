@@ -1,0 +1,703 @@
+[
+  {
+    "w": "signal",
+    "r": "sign(标记、信号) + -al(名词/形容词后缀) -> 做标记的东西 -> 信号",
+    "c": null
+  },
+  {
+    "w": "signature",
+    "r": "sign(签名、标记) + -ature(名词后缀,表行为或结果) -> 签名的结果 -> 签署",
+    "c": [
+      "The contract requires the signature of both parties before it becomes legally binding.",
+      "这份合同需要双方签署后才具有法律约束力。"
+    ]
+  },
+  {
+    "w": "significance",
+    "r": "sign(标记) + -ific(做…的) + -ance(名词后缀) -> 做出标记的性质 -> 重要性",
+    "c": [
+      "The research findings are of great significance for understanding climate change patterns.",
+      "这些研究发现对理解气候变化模式具有重大意义。"
+    ]
+  },
+  {
+    "w": "significant",
+    "r": "sign(标记) + -ific(做…的) + -ant(形容词后缀) -> 做出标记的 -> 有意义的、重要的",
+    "c": null
+  },
+  {
+    "w": "signify",
+    "r": "sign(标记、信号) + -ify(动词后缀,使…) -> 使成为信号 -> 表示、意味着",
+    "c": [
+      "A red traffic light signifies that drivers must stop and wait before proceeding.",
+      "红灯意味着司机必须停车等待后才能继续前行。"
+    ]
+  },
+  {
+    "w": "silence",
+    "r": "sil(安静, 来自拉丁语silere) + -ence(名词后缀) -> 安静的状态 -> 沉默",
+    "c": null
+  },
+  {
+    "w": "silent",
+    "r": "sil(安静, 来自拉丁语silere) + -ent(形容词后缀) -> 安静的",
+    "c": null
+  },
+  {
+    "w": "silicon",
+    "r": "silex(燧石、硅石, 来自拉丁语) + -on(名词后缀,表化学元素) -> 从硅石中来的元素 -> 硅",
+    "c": null
+  },
+  {
+    "w": "silk",
+    "r": "来自古英语seolc(丝), 源自古斯拉夫语，经丝绸之路传入西方 -> 丝",
+    "c": null
+  },
+  {
+    "w": "silly",
+    "r": "来自古英语saelig(幸福的、天真的), 词义由「天真」演变为「愚蠢」 -> 愚蠢的",
+    "c": [
+      "University students often look back on their silly teenage mistakes with amusement and embarrassment.",
+      "大学生们常常带着好笑和尴尬回首自己青少年时期的愚蠢错误。"
+    ]
+  },
+  {
+    "w": "silver",
+    "r": "来自古英语seolfor(银), 与德语Silber同源 -> 银",
+    "c": [
+      "The silver medalists expressed pride in their achievement and gratitude toward their coaches.",
+      "银牌获得者对自己的成就感到自豪，并对教练表示感谢。"
+    ]
+  },
+  {
+    "w": "similar",
+    "r": "simil(相似, 来自拉丁语similis) + -ar(形容词后缀) -> 相似的",
+    "c": [
+      "Students with similar academic backgrounds often form study groups to prepare for exams together.",
+      "学术背景相似的学生经常组成学习小组，一起准备考试。"
+    ]
+  },
+  {
+    "w": "similarity",
+    "r": "similar(相似的) + -ity(名词后缀,表性质) -> 相似的性质 -> 类似、相似",
+    "c": [
+      "Linguists study the similarity between languages to trace their historical origins and development.",
+      "语言学家研究语言之间的相似性以追溯其历史起源和发展。"
+    ]
+  },
+  {
+    "w": "simple",
+    "r": "sim-(单一, 来自拉丁语simplus) + -ple(折叠) -> 只折叠一次的 -> 简单的",
+    "c": null
+  },
+  {
+    "w": "simplicity",
+    "r": "simplic(simple简单) + -ity(名词后缀,表性质) -> 简单的性质 -> 简单",
+    "c": [
+      "The simplicity of the design makes the software accessible to users of all technical backgrounds.",
+      "设计的简洁性使该软件对各种技术背景的用户都易于使用。"
+    ]
+  },
+  {
+    "w": "simplify",
+    "r": "simpl(e简单的) + -ify(动词后缀,使…) -> 使简单 -> 简化",
+    "c": null
+  },
+  {
+    "w": "simply",
+    "r": "simple(简单的) + -ly(副词后缀) -> 简单地 -> 仅仅",
+    "c": [
+      "Many students assume the test will be easy, but it is simply more difficult than they expected.",
+      "许多学生以为考试会很容易，但它其实比他们预期的更难。"
+    ]
+  },
+  {
+    "w": "simulate",
+    "r": "simul(相似, 来自拉丁语simul) + -ate(动词后缀) -> 使相似 -> 模拟、冒充",
+    "c": null
+  },
+  {
+    "w": "simultaneous",
+    "r": "simul(同时, 来自拉丁语simul) + -taneous(形容词后缀,表…的) -> 同时的",
+    "c": [
+      "The conference featured simultaneous translation in five languages for international participants.",
+      "会议为国际参会者提供了五种语言的同声传译服务。"
+    ]
+  },
+  {
+    "w": "simultaneously",
+    "r": "simultaneous(同时的) + -ly(副词后缀) -> 同步地、同时地",
+    "c": [
+      "The data from multiple sensors are collected simultaneously to ensure accurate measurement.",
+      "多个传感器的数据被同时采集以确保测量的准确性。"
+    ]
+  },
+  {
+    "w": "sin",
+    "r": "来自古英语synn(罪、过错), 与德语Sünde同源 -> 犯罪",
+    "c": [
+      "In many philosophical debates, scholars discuss whether ignorance of moral law constitutes a sin.",
+      "在许多哲学辩论中，学者们讨论对道德法的无知是否构成罪过。"
+    ]
+  },
+  {
+    "w": "since",
+    "r": "来自古英语sith(之后、自从), 后演变为连接词 -> 自从、因为、既然",
+    "c": [
+      "Since the university adopted online learning tools, student engagement has improved significantly.",
+      "自从大学采用在线学习工具以来，学生的参与度显著提高。"
+    ]
+  },
+  {
+    "w": "sincere",
+    "r": "sin-(没有) + cere(蜡), 来自拉丁语sincerus(纯净的), 原指没有掺蜡的纯净物品 -> 真诚的",
+    "c": [
+      "A sincere apology can often repair damaged relationships more effectively than elaborate excuses.",
+      "真诚的道歉往往比精心编造的借口更能有效修复受损的关系。"
+    ]
+  },
+  {
+    "w": "sincerity",
+    "r": "sincer(e真诚的) + -ity(名词后缀,表性质) -> 真诚的性质 -> 真诚、诚意",
+    "c": [
+      "Voters value sincerity in political leaders more than polished rhetoric or campaign promises.",
+      "选民更看重政治领袖的真诚，而不是华丽的辞藻或竞选承诺。"
+    ]
+  },
+  {
+    "w": "sing",
+    "r": "来自古英语singan(唱歌), 与德语singen同源 -> 唱歌",
+    "c": [
+      "The university choir invited students from all departments to sing in the annual spring concert.",
+      "大学合唱团邀请各院系的学生在年度春季音乐会上演唱。"
+    ]
+  },
+  {
+    "w": "single",
+    "r": "sing-(一, 来自拉丁语singulus) + -le(后缀) -> 单个的 -> 单一的",
+    "c": null
+  },
+  {
+    "w": "singular",
+    "r": "singul(单一, 来自拉丁语singulus) + -ar(形容词后缀) -> 唯一的、单数的",
+    "c": null
+  },
+  {
+    "w": "sink",
+    "r": "来自古英语sincan(下沉), 与德语sinken同源 -> 下沉",
+    "c": null
+  },
+  {
+    "w": "sip",
+    "r": "来自低地德语sippen(小口喝), 拟声词根, 模仿小口喝水的声音 -> 抿一口",
+    "c": [
+      "Students often sip coffee while studying late at night to stay awake and focused.",
+      "学生们在深夜学习时常喝咖啡以保持清醒和专注。"
+    ]
+  },
+  {
+    "w": "sir",
+    "r": "来自古法语sire(先生、主人), 源自拉丁语senior(年长的) -> 先生",
+    "c": [
+      "Dear Sir, I am writing to inquire about the scholarship application process for international students.",
+      "尊敬的先生，我写信是想咨询国际学生的奖学金申请流程。"
+    ]
+  },
+  {
+    "w": "siren",
+    "r": "来自希腊语Seiren(塞壬), 神话中用美妙歌声诱惑水手的海妖 -> 警报器、汽笛",
+    "c": [
+      "The siren of the approaching ambulance warned drivers to pull over and make way.",
+      "正在驶来的救护车的警报声提醒司机靠边让路。"
+    ]
+  },
+  {
+    "w": "sister",
+    "r": "来自古英语sweostor(姐妹), 与德语Schwester同源 -> 姐妹",
+    "c": null
+  },
+  {
+    "w": "sit",
+    "r": "来自古英语sittan(坐), 与德语sitzen同源 -> 坐在",
+    "c": null
+  },
+  {
+    "w": "site",
+    "r": "来自拉丁语situs(位置、场所), 源自sinere(放置) -> 景点、站点",
+    "c": null
+  },
+  {
+    "w": "situate",
+    "r": "situ(位置, 来自拉丁语situs) + -ate(动词后缀) -> 置于某位置 -> 坐落在",
+    "c": [
+      "The new library will be situated at the center of the campus for easy student access.",
+      "新图书馆将坐落在校园中心，方便学生前往。"
+    ]
+  },
+  {
+    "w": "situated",
+    "r": "situate(坐落) + -ed(形容词后缀) -> 位于…的、坐落在…的",
+    "c": [
+      "The research institute is situated on a hill overlooking the entire university campus.",
+      "这座研究所坐落在一座小山上，可以俯瞰整个大学校园。"
+    ]
+  },
+  {
+    "w": "situation",
+    "r": "situ(位置) + -ation(名词后缀) -> 所处的位置 -> 情况",
+    "c": null
+  },
+  {
+    "w": "six",
+    "r": "来自古英语siex(六), 与德语sechs同源 -> 六",
+    "c": null
+  },
+  {
+    "w": "sixteen",
+    "r": "six(六) + teen(十), 古英语sixtene -> 十六",
+    "c": [
+      "At the age of sixteen, she won first prize in the national mathematics competition.",
+      "她十六岁时在全国数学竞赛中获得了一等奖。"
+    ]
+  },
+  {
+    "w": "sixty",
+    "r": "six(六) + ty(十), 古英语sixtig -> 六十",
+    "c": [
+      "Nearly sixty percent of the university's graduates pursue further studies after graduation.",
+      "该大学近百分之六十的毕业生在毕业后继续深造。"
+    ]
+  },
+  {
+    "w": "size",
+    "r": "来自拉丁语assidere(坐下、评估), 原指对土地面积的评估 -> 大小",
+    "c": null
+  },
+  {
+    "w": "skate",
+    "r": "来自荷兰语schaats(冰刀、滑冰), 与德语Schlittschuh同源 -> 滑冰",
+    "c": [
+      "The ice rink at the city center attracts hundreds of people who come to skate every weekend.",
+      "市中心的溜冰场每个周末都吸引数百人前来滑冰。"
+    ]
+  },
+  {
+    "w": "skeleton",
+    "r": "来自希腊语skeletos(干的), 指干尸、骨骼，源自skellein(使干) -> 骨架",
+    "c": [
+      "Medical students study the human skeleton in detail during their first year of anatomy class.",
+      "医学系学生在第一年的解剖学课上详细学习人体骨骼。"
+    ]
+  },
+  {
+    "w": "skeptical",
+    "r": "skept(看、怀疑, 来自希腊语skeptesthai) + -ical(形容词后缀) -> 怀疑的",
+    "c": [
+      "Scientists remain skeptical about the new findings until they are independently verified.",
+      "科学家们对这些新发现持怀疑态度，直到它们被独立验证。"
+    ]
+  },
+  {
+    "w": "sketch",
+    "r": "来自意大利语schizzo(草图), 源自德语Skizze, 原意为快速画出 -> 素描、草图",
+    "c": [
+      "The architecture student made a quick sketch of the building's facade before starting the design.",
+      "这位建筑学学生在开始设计前快速画了一张建筑立面的草图。"
+    ]
+  },
+  {
+    "w": "ski",
+    "r": "来自挪威语ski(滑雪板), 古诺尔斯语skith(木棍、滑雪板) -> 滑雪",
+    "c": [
+      "Many university students travel to mountain resorts during winter break to ski and relax.",
+      "许多大学生在寒假前往山区度假村滑雪和放松。"
+    ]
+  },
+  {
+    "w": "skilful",
+    "r": "skill(技能) + -ful(形容词后缀,充满…的) -> 充满技能的 -> 熟练的、巧妙的",
+    "c": [
+      "The skilful surgeon performed the complex operation with steady hands and precise movements.",
+      "这位技艺娴熟的外科医生双手稳健、动作精准地完成了复杂手术。"
+    ]
+  },
+  {
+    "w": "skill",
+    "r": "来自古挪威语skil(区别、知识), 原意为辨别能力 -> 技术",
+    "c": null
+  },
+  {
+    "w": "skilled",
+    "r": "skill(技能) + -ed(形容词后缀,具有…的) -> 有技能的、熟练的",
+    "c": [
+      "Highly skilled workers are in great demand as industries become more technologically advanced.",
+      "随着工业技术越来越先进，高技能工人的需求量很大。"
+    ]
+  },
+  {
+    "w": "skim",
+    "r": "来自古法语escumer(撇去浮沫), 与scum(浮沫)同源 -> 掠过",
+    "c": [
+      "Readers often skim through academic papers first to identify the key findings and conclusions.",
+      "读者通常先浏览学术论文以找出主要发现和结论。"
+    ]
+  },
+  {
+    "w": "skin",
+    "r": "来自古英语scinn(皮), 与德语Schinde同源 -> 皮",
+    "c": null
+  },
+  {
+    "w": "skip",
+    "r": "来自古挪威语skopa(跳), 模仿轻快跳跃的动作 -> 跳过",
+    "c": [
+      "Students who skip breakfast often find it difficult to concentrate during morning lectures.",
+      "不吃早餐的学生常常发现在上午的课程中难以集中注意力。"
+    ]
+  },
+  {
+    "w": "skirt",
+    "r": "来自古英语scyrte(短裙、衬衫), 与德语Schürze同源 -> 裙子",
+    "c": [
+      "The dress code for the ceremony requires women to wear a skirt that falls below the knee.",
+      "典礼的着装要求女性穿着过膝的裙子。"
+    ]
+  },
+  {
+    "w": "skull",
+    "r": "来自古英语sculle(头骨), 与古挪威语skalli(秃头)同源 -> 头骨",
+    "c": [
+      "The archaeologist carefully examined the ancient skull to determine its age and origin.",
+      "考古学家仔细检查了这具古代头骨以确定其年代和来源。"
+    ]
+  },
+  {
+    "w": "sky",
+    "r": "来自古挪威语sky(云、天空), 与德语Schicht(层)同源 -> 天空",
+    "c": null
+  },
+  {
+    "w": "skyrocket",
+    "r": "复合: sky(天空) + rocket(火箭) -> 飞向天空的火箭 -> 猛增",
+    "c": [
+      "Housing prices in major cities have continued to skyrocket despite government regulations.",
+      "尽管有政府调控，主要城市的房价仍在持续飙升。"
+    ]
+  },
+  {
+    "w": "skyscraper",
+    "r": "复合: sky(天空) + scraper(刮、擦的东西) -> 能刮到天空的建筑 -> 摩天大楼",
+    "c": [
+      "The newly completed skyscraper dominates the city skyline and attracts tourists from around the world.",
+      "这座新落成的摩天大楼主宰了城市天际线，吸引了世界各地的游客。"
+    ]
+  },
+  {
+    "w": "slack",
+    "r": "来自古英语slaec(松弛的), 与德语schlaff同源 -> 松弛的、淡季、萧条的",
+    "c": null
+  },
+  {
+    "w": "slam",
+    "r": "拟声词, 模仿猛烈关上门的声音 -> 砰地关上、猛击",
+    "c": [
+      "The angry student slammed the textbook shut and stormed out of the classroom in frustration.",
+      "愤怒的学生啪地合上教科书，沮丧地冲出了教室。"
+    ]
+  },
+  {
+    "w": "slander",
+    "r": "来自古法语esclandre(诽谤), 源自拉丁语scandalum(丑闻) -> 诽谤、诋毁",
+    "c": [
+      "Public figures often face slander from tabloid media that fabricates stories to sell more copies.",
+      "公众人物经常面临小报媒体的诽谤，这些媒体编造故事以增加销量。"
+    ]
+  },
+  {
+    "w": "slang",
+    "r": "来自方言slang(粗话、行话), 可能来自古法语langage(语言)的变体 -> 俚语、黑话",
+    "c": [
+      "College students frequently use internet slang that older generations find confusing or unfamiliar.",
+      "大学生经常使用网络俚语，老一辈人觉得难以理解或感到陌生。"
+    ]
+  },
+  {
+    "w": "slap",
+    "r": "拟声词, 模仿手掌击打发出的声音 -> 掴、侮辱",
+    "c": [
+      "The unfair decision came as a slap in the face to students who had worked hard all semester.",
+      "这个不公平的决定对整个学期努力学习的学生来说是一记耳光。"
+    ]
+  },
+  {
+    "w": "slash",
+    "r": "来自古法语esclachier(砍、劈), 拟声词根 -> 砍、大幅度削减",
+    "c": null
+  },
+  {
+    "w": "slaughter",
+    "r": "来自古挪威语slatr(屠宰、杀戮), 与德语schlachten同源 -> 屠杀",
+    "c": [
+      "The documentary exposed the cruel slaughter of endangered animals for profit on the black market.",
+      "这部纪录片揭露了为牟利在黑市上残忍屠杀濒危动物的行为。"
+    ]
+  },
+  {
+    "w": "slave",
+    "r": "来自古法语esclave(奴隶), 源自中世纪拉丁语Sclavus(斯拉夫人), 因斯拉夫战俘多被卖为奴 -> 奴隶",
+    "c": [
+      "The history lecture explored how the transatlantic slave trade shaped modern economic systems.",
+      "这场历史讲座探讨了跨大西洋奴隶贸易如何塑造了现代经济体系。"
+    ]
+  },
+  {
+    "w": "slavery",
+    "r": "slave(奴隶) + -ry(名词后缀,表制度或状态) -> 奴隶制度",
+    "c": [
+      "Historians study the abolition of slavery to understand its profound impact on modern society.",
+      "历史学家研究奴隶制的废除，以理解其对现代社会的深远影响。"
+    ]
+  },
+  {
+    "w": "sleep",
+    "r": "来自古英语slaepan(睡觉), 与德语schlafen同源 -> 睡眠",
+    "c": null
+  },
+  {
+    "w": "sleeve",
+    "r": "来自古英语slefe(袖子), 与德语aermel同源，原意为可套入的东西 -> 袖子",
+    "c": [
+      "The professor rolled up his sleeve and began writing equations on the whiteboard with chalk.",
+      "教授卷起袖子，开始用粉笔在白板上写方程式。"
+    ]
+  },
+  {
+    "w": "slender",
+    "r": "来自古法语sclendre(细的), 可能与荷兰语slank同源 -> 细长的、苗条的",
+    "c": [
+      "The slender columns in the library hall create an elegant atmosphere for reading and study.",
+      "图书馆大厅细长的柱子营造出优雅的阅读和学习氛围。"
+    ]
+  },
+  {
+    "w": "slice",
+    "r": "来自古法语esclice(薄片), 源自日耳曼语词根slit(切开) -> 部分、薄片",
+    "c": [
+      "Each student received a slice of cake during the end-of-semester celebration party.",
+      "在期末庆祝晚会上，每个学生都分到了一块蛋糕。"
+    ]
+  },
+  {
+    "w": "slick",
+    "r": "来自古英语slician(使光滑), 与德语schleichen(悄悄走)同源 -> 圆滑的、光滑的",
+    "c": [
+      "The slick politician avoided answering the reporter's question directly with clever wordplay.",
+      "这位圆滑的政客用巧妙的文字游戏回避了记者的直接提问。"
+    ]
+  },
+  {
+    "w": "slide",
+    "r": "来自古英语slidan(滑动), 与德语schleiten同源 -> 滑",
+    "c": [
+      "Children love to slide down the icy hill on plastic sleds during cold winter mornings.",
+      "孩子们喜欢在寒冷的冬日早晨坐在塑料雪橇上从冰山上滑下来。"
+    ]
+  },
+  {
+    "w": "slight",
+    "r": "来自古挪威语slettr(光滑的、平坦的), 引申为轻微的 -> 轻微的",
+    "c": null
+  },
+  {
+    "w": "slightly",
+    "r": "slight(轻微的) + -ly(副词后缀) -> 轻微地",
+    "c": [
+      "Student performance on the final exam was slightly better than the professor had predicted.",
+      "学生们期末考试的成绩比教授预期的略好一些。"
+    ]
+  },
+  {
+    "w": "slim",
+    "r": "来自荷兰语slim(聪明的、苗条的), 与德语schlimm同源 -> 苗条的",
+    "c": [
+      "Many young women feel pressure to stay slim due to unrealistic beauty standards in the media.",
+      "由于媒体中不切实际的审美标准，许多年轻女性感到保持苗条的压力。"
+    ]
+  },
+  {
+    "w": "slip",
+    "r": "来自古英语slipan(滑行), 与德语schlipfen同源 -> 滑",
+    "c": [
+      "Students must be careful not to slip on the wet hallway floors during rainy weather.",
+      "下雨天学生们必须小心，不要在湿漉漉的走廊地板上滑倒。"
+    ]
+  },
+  {
+    "w": "slipper",
+    "r": "slip(滑) + -er(名词后缀,表物) -> 易滑的鞋 -> 拖鞋",
+    "c": [
+      "Many international students bring warm slippers to wear indoors during the cold winter months.",
+      "许多留学生带来保暖的拖鞋，在寒冷的冬季室内穿着。"
+    ]
+  },
+  {
+    "w": "slippery",
+    "r": "slipper(=slip滑) + -y(形容词后缀,有…性质的) -> 滑的",
+    "c": [
+      "The sidewalk becomes dangerously slippery after freezing rain in winter.",
+      "冬天冻雨过后，人行道变得非常滑，很危险。"
+    ]
+  },
+  {
+    "w": "slit",
+    "r": "来自古英语slitan(切开), 与德语schlitz(缝隙)同源 -> 切开、狭长的切口",
+    "c": [
+      "A narrow slit in the wall allowed a thin beam of sunlight into the dark room.",
+      "墙上一条狭长的裂缝让一束细细的阳光照进了黑暗的房间。"
+    ]
+  },
+  {
+    "w": "slogan",
+    "r": "来自苏格兰语sluagh-ghairm(战斗呐喊), sluagh(军队) + gairm(叫喊) -> 口号",
+    "c": [
+      "The university's new recruitment slogan emphasizes innovation and academic excellence.",
+      "这所大学新的招生口号强调创新和学术卓越。"
+    ]
+  },
+  {
+    "w": "slope",
+    "r": "来自古英语aslupan(滑落), 指可以滑落的地面 -> 斜坡、倾斜",
+    "c": [
+      "Students built a small dam at the bottom of the slope to prevent soil erosion during heavy rains.",
+      "学生们在斜坡底部建了一个小型水坝，以防止大雨期间的水土流失。"
+    ]
+  },
+  {
+    "w": "slot",
+    "r": "来自古法语esclot(槽、凹槽), 原指门锁的凹槽 -> 槽",
+    "c": [
+      "Students insert their student ID cards into the slot to access the library after regular hours.",
+      "学生们将学生证插入卡槽，以便在常规时间后进入图书馆。"
+    ]
+  },
+  {
+    "w": "slow",
+    "r": "来自古英语slaw(慢的), 与德语schlaff(松弛的)同源 -> 慢的",
+    "c": null
+  },
+  {
+    "w": "slum",
+    "r": "来自伦敦俚语slum(房间、胡同), 原指后街小巷 -> 贫民窟",
+    "c": [
+      "Volunteer medical teams provide free healthcare to residents living in the city's slum areas.",
+      "志愿医疗队为居住在城市贫民区的居民提供免费医疗服务。"
+    ]
+  },
+  {
+    "w": "slumber",
+    "r": "来自古英语slumerian(打盹), 与低地德语slummen同源 -> 睡眠、沉睡状态",
+    "c": [
+      "The library's quiet reading room was so peaceful that it felt like a deep slumber from which one never wakes.",
+      "图书馆安静的阅览室如此宁静，让人感觉像是一场不愿醒来的沉睡。"
+    ]
+  },
+  {
+    "w": "slump",
+    "r": "来自斯堪的纳维亚语, 与瑞典语slumpa(坠落)同源, 拟声词根 -> 暴跌",
+    "c": null
+  },
+  {
+    "w": "sly",
+    "r": "来自古英语slaeh(灵巧的、狡猾的), 与德语schlau同源 -> 狡猾的",
+    "c": [
+      "The sly student found a way to avoid punishment by making up a convincing excuse.",
+      "这个狡猾的学生编了一个令人信服的借口，设法逃避了惩罚。"
+    ]
+  },
+  {
+    "w": "small",
+    "r": "来自古英语smael(小的), 与德语schmal(窄的)同源 -> 小的",
+    "c": null
+  },
+  {
+    "w": "smart",
+    "r": "来自古英语smeortan(刺痛), 原指思维敏捷如刺痛般迅速 -> 聪明的",
+    "c": [
+      "Smart phones have become essential tools for students to access information and communicate.",
+      "智能手机已成为学生获取信息和交流的必备工具。"
+    ]
+  },
+  {
+    "w": "smash",
+    "r": "拟声词, 模仿物体破碎的声音 -> 粉碎、打碎",
+    "c": null
+  },
+  {
+    "w": "smell",
+    "r": "来自古英语smyllan(闻), 与德语schmelzen(融化)同源, 原指气味刺激鼻子的感觉 -> 闻",
+    "c": null
+  },
+  {
+    "w": "smile",
+    "r": "来自古法语sourire(微笑), 源自拉丁语submurmurare(低语), 后词义变为微笑 -> 笑",
+    "c": [
+      "A warm smile from the professor helped the nervous student relax during the presentation.",
+      "教授温暖的微笑帮助紧张的学生在演讲时放松下来。"
+    ]
+  },
+  {
+    "w": "smog",
+    "r": "复合: sm(oke烟) + og(雾fog) -> 烟加雾 -> 烟雾",
+    "c": null
+  },
+  {
+    "w": "smoke",
+    "r": "来自古英语smoca(烟), 与德语Rauch同源 -> 烟",
+    "c": [
+      "Second-hand smoke poses serious health risks to people who live or work with regular smokers.",
+      "二手烟对与经常吸烟者共同生活或工作的人构成严重健康风险。"
+    ]
+  },
+  {
+    "w": "smooth",
+    "r": "来自古英语smeoth(光滑的), 与德语geschmeidig(柔软的)同源 -> 光滑的、顺利的",
+    "c": null
+  },
+  {
+    "w": "smuggle",
+    "r": "来自低地德语smuggeln(走私), 与德语schmuggeln同源, 原意为偷偷运 -> 走私",
+    "c": [
+      "Customs officers work hard to prevent criminals from smuggling illegal goods across the border.",
+      "海关官员努力防止犯罪分子跨境走私非法物品。"
+    ]
+  },
+  {
+    "w": "snack",
+    "r": "来自荷兰语snack(咬、小吃), 与德语schnacken(聊天吃零食)同源 -> 点心、易办到的事",
+    "c": [
+      "Many college students grab a quick snack between classes to keep their energy levels up.",
+      "许多大学生在课间快速吃点零食以保持精力充沛。"
+    ]
+  },
+  {
+    "w": "snail",
+    "r": "来自古英语snaegl(蜗牛), 与德语Schnecke同源, 原意为爬行的东西 -> 蜗牛",
+    "c": [
+      "The pace of administrative reform moved at a snail's pace, frustrating everyone involved.",
+      "行政改革的进展如蜗牛爬行般缓慢，令所有相关人员都感到沮丧。"
+    ]
+  },
+  {
+    "w": "snake",
+    "r": "来自古英语snaca(蛇), 与德语Schnake(蚊子)同源, 原意为爬行的动物 -> 蛇",
+    "c": [
+      "Researchers discovered a new species of snake in the remote jungle during their field study.",
+      "研究人员在野外考察时在偏远丛林中发现了一种新的蛇类。"
+    ]
+  },
+  {
+    "w": "snap",
+    "r": "拟声词, 模仿快速断裂或咬合的声音 -> 猛咬、拍摄、突然的",
+    "c": null
+  }
+]

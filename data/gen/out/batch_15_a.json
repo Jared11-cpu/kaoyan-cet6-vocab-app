@@ -1,0 +1,697 @@
+[
+  {
+    "w": "hay",
+    "r": "词源: 来自古英语hieg(干草), 与德语Heu同源 -> 干草",
+    "c": [
+      "Farmers dry hay in the sun before storing it for winter livestock feed.",
+      "农民们在太阳下晒干草，然后储存起来作为冬季牲畜饲料。"
+    ]
+  },
+  {
+    "w": "hazard",
+    "r": "词源: 来自古法语hasard(骰子游戏, 风险), 引申为危险 -> 危险",
+    "c": null
+  },
+  {
+    "w": "hazardous",
+    "r": "hazard(危险) + -ous(形容词后缀, 充满…的) -> 充满危险的 -> 危险的",
+    "c": [
+      "Workers must wear protective gear when handling hazardous chemicals in the laboratory.",
+      "在实验室处理危险化学品时，工作人员必须穿戴防护装备。"
+    ]
+  },
+  {
+    "w": "he",
+    "r": "词源: 来自古英语he(他), 日耳曼语族通用代词 -> 他",
+    "c": [
+      "He graduated with honors and went on to pursue a doctoral degree in physics.",
+      "他以优异成绩毕业，随后继续攻读物理学博士学位。"
+    ]
+  },
+  {
+    "w": "head",
+    "r": "词源: 来自古英语heafod(头), 引申为前往、为首 -> 前往",
+    "c": null
+  },
+  {
+    "w": "headache",
+    "r": "复合: head(头) + ache(疼痛) -> 头部的疼痛 -> 头痛",
+    "c": [
+      "Staring at computer screens for long hours often causes eye strain and headache.",
+      "长时间盯着电脑屏幕常会导致眼睛疲劳和头痛。"
+    ]
+  },
+  {
+    "w": "heading",
+    "r": "head(头/首) + -ing(名词后缀) -> 位于首部的文字 -> 标题",
+    "c": [
+      "The heading of each chapter clearly indicates the main theme of the discussion.",
+      "每一章的标题都清楚地表明了讨论的主题。"
+    ]
+  },
+  {
+    "w": "headline",
+    "r": "复合: head(头/首) + line(行/线) -> 位于首行的文字 -> 头条新闻",
+    "c": [
+      "The headline on the front page captured nationwide attention about the climate crisis.",
+      "头版头条新闻引起了全国对气候危机的关注。"
+    ]
+  },
+  {
+    "w": "headlong",
+    "r": "复合: head(头) + long(向前的) -> 头向前地 -> 头向前地；头向前的",
+    "c": [
+      "He rushed headlong into the project without carefully considering the potential risks.",
+      "他没有仔细考虑潜在风险就一头扎进了这个项目。"
+    ]
+  },
+  {
+    "w": "headmaster",
+    "r": "复合: head(头/首) + master(主人/教师) -> 学校为首的教师 -> 校长",
+    "c": [
+      "The headmaster delivered an inspiring speech at the opening ceremony of the semester.",
+      "校长在学期开学典礼上发表了鼓舞人心的演讲。"
+    ]
+  },
+  {
+    "w": "headquarters",
+    "r": "复合: head(头/首) + quarters(住所/营地) -> 首脑所在的营地 -> 总部、司令部",
+    "c": [
+      "The company's headquarters moved to a modern office tower in the city center.",
+      "公司总部搬到了市中心一座现代化的办公大楼里。"
+    ]
+  },
+  {
+    "w": "heal",
+    "r": "词源: 来自古英语hælan(使完整, 治愈), 与whole同源 -> 治愈",
+    "c": [
+      "Time and proper treatment can help wounds heal both physically and emotionally.",
+      "时间和适当的治疗可以帮助身心创伤愈合。"
+    ]
+  },
+  {
+    "w": "health",
+    "r": "heal(治愈/完整) + -th(名词后缀, 表状态) -> 身体完整的状态 -> 健康",
+    "c": null
+  },
+  {
+    "w": "healthy",
+    "r": "health(健康) + -y(形容词后缀, 有…性质的) -> 有健康性质的 -> 健康的",
+    "c": null
+  },
+  {
+    "w": "heap",
+    "r": "词源: 来自古英语heap(堆, 大量), 与德语Haufen同源 -> 堆",
+    "c": [
+      "Students found a heap of reference books piled on the desk in the library.",
+      "学生们发现图书馆的书桌上堆着一大堆参考书。"
+    ]
+  },
+  {
+    "w": "hear",
+    "r": "词源: 来自古英语heran(听), 日耳曼语族通用词汇 -> 听到",
+    "c": null
+  },
+  {
+    "w": "hearing",
+    "r": "hear(听) + -ing(名词后缀, 动作/状态) -> 听的动作或能力 -> 听力、听觉",
+    "c": [
+      "Regular exposure to loud music can cause permanent damage to one's hearing over time.",
+      "长期暴露在喧闹的音乐中会对听力造成永久性损害。"
+    ]
+  },
+  {
+    "w": "heart",
+    "r": "词源: 来自古英语heorte(心), 与拉丁语cor、希腊语kardia同源 -> 心",
+    "c": null
+  },
+  {
+    "w": "hearth",
+    "r": "词源: 来自古英语heorþ(壁炉地面), 原指火炉底部 -> 壁炉地面；炉边",
+    "c": [
+      "The family gathered around the hearth on cold winter evenings to share stories.",
+      "寒冷的冬夜里，一家人围坐在炉边讲故事。"
+    ]
+  },
+  {
+    "w": "hearty",
+    "r": "heart(心/心脏) + -y(形容词后缀, 充满…的) -> 发自内心的 -> 热情友好的；丰盛的",
+    "c": [
+      "The hearty welcome from the host made every guest feel comfortable and valued.",
+      "主人热情的欢迎让每位客人都感到舒适和受重视。"
+    ]
+  },
+  {
+    "w": "heat",
+    "r": "词源: 来自古英语hætu(热), 与hot同源 -> 热",
+    "c": null
+  },
+  {
+    "w": "heater",
+    "r": "heat(热) + -er(名词后缀, 做…的物) -> 产生热的器具 -> 加热器",
+    "c": [
+      "The old electric heater in the dormitory barely provides enough warmth in winter.",
+      "宿舍里那台旧电暖器冬天几乎提供不了足够的热量。"
+    ]
+  },
+  {
+    "w": "heave",
+    "r": "词源: 来自古英语hebban(举起), 与have同源(举起->拿起->拥有) -> 起伏、举、扔",
+    "c": [
+      "The sailors had to heave heavy ropes and cargo onto the deck before sunset.",
+      "水手们必须在日落前将沉重的绳索和货物拖到甲板上。"
+    ]
+  },
+  {
+    "w": "heaven",
+    "r": "词源: 来自古英语heofon(天, 天堂), 日耳曼语族通用词汇 -> 天堂",
+    "c": [
+      "Many ancient cultures believed that the souls of the righteous ascended to heaven.",
+      "许多古代文化相信正直者的灵魂会升入天堂。"
+    ]
+  },
+  {
+    "w": "heavy",
+    "r": "词源: 来自古英语hefig(重的), 与heave(举起)同源(难举起的->重的) -> 重的",
+    "c": [
+      "The heavy textbook contains hundreds of pages covering advanced economic theories.",
+      "这本厚重的教材包含数百页内容，涵盖了高级经济学理论。"
+    ]
+  },
+  {
+    "w": "hedge",
+    "r": "词源: 来自古英语hecg(篱笆, 围篱), 原指用灌木围成的围栏 -> 树篱、篱笆",
+    "c": [
+      "A tall hedge of evergreen shrubs separates the two adjacent campus buildings.",
+      "一排高大的常绿灌木树篱隔开了两栋相邻的校园建筑。"
+    ]
+  },
+  {
+    "w": "heel",
+    "r": "词源: 来自古英语hela(脚后跟), 与德语Ferse同源 -> 脚后跟",
+    "c": [
+      "Running long distances without proper shoes can cause blisters on the heel.",
+      "没有合适的鞋子长跑会导致脚后跟起水泡。"
+    ]
+  },
+  {
+    "w": "height",
+    "r": "high(高的) + -t(名词后缀, 表状态) -> 高的状态 -> 高度、身高",
+    "c": null
+  },
+  {
+    "w": "heighten",
+    "r": "height(高度) + -en(动词后缀, 使…) -> 使变高 -> 加强、增加",
+    "c": null
+  },
+  {
+    "w": "heir",
+    "r": "词源: 来自拉丁语heres(继承人), 经由古法语eir -> 继承人",
+    "c": null
+  },
+  {
+    "w": "helicopter",
+    "r": "helico(螺旋, 来自希腊语helix螺旋) + pter(翅/翼, 来自希腊语pteron) -> 螺旋翼飞行器 -> 直升机",
+    "c": [
+      "The medical helicopter transported the injured patient to the hospital within minutes.",
+      "医疗直升机在几分钟内将受伤病人送往医院。"
+    ]
+  },
+  {
+    "w": "hell",
+    "r": "词源: 来自古英语hel(地狱, 阴间), 日耳曼语族通用词汇 -> 地狱",
+    "c": null
+  },
+  {
+    "w": "hello",
+    "r": "词源: 来自hallo/hollo的变体, 电话普及后成为常用问候语 -> 你好",
+    "c": [
+      "Students from different countries greeted each other with a friendly hello at orientation.",
+      "来自不同国家的学生在迎新会上友好地互相问好。"
+    ]
+  },
+  {
+    "w": "helmet",
+    "r": "词源: 来自古法语helmet(头盔), 是helme(头盔)的指小形式 -> 头盔",
+    "c": [
+      "Bicycle riders must wear a safety helmet to protect their heads from serious injury.",
+      "自行车骑行者必须佩戴安全头盔以保护头部免受重伤。"
+    ]
+  },
+  {
+    "w": "help",
+    "r": "词源: 来自古英语help(帮助), 日耳曼语族通用词汇 -> 帮助",
+    "c": null
+  },
+  {
+    "w": "helpful",
+    "r": "help(帮助) + -ful(形容词后缀, 充满…的) -> 充满帮助的 -> 有帮助的",
+    "c": null
+  },
+  {
+    "w": "hemisphere",
+    "r": "hemi-(半, 来自希腊语) + sphere(球, 球体) -> 球的一半 -> 半球",
+    "c": null
+  },
+  {
+    "w": "hen",
+    "r": "词源: 来自古英语henn(母鸡), 与德语Henne同源 -> 母鸡",
+    "c": null
+  },
+  {
+    "w": "hence",
+    "r": "hen(来自古英语heonan从此处) + -ce(副词后缀) -> 从此处 -> 因此",
+    "c": [
+      "The evidence is compelling; hence, the committee reached a unanimous conclusion.",
+      "证据确凿，因此委员会达成了一致结论。"
+    ]
+  },
+  {
+    "w": "henceforth",
+    "r": "复合: hence(因此/从此) + forth(向前) -> 从今往后 -> 今后",
+    "c": [
+      "Henceforth, all research proposals must be submitted online through the university portal.",
+      "今后所有研究提案必须通过大学门户网站在线提交。"
+    ]
+  },
+  {
+    "w": "her",
+    "r": "词源: 来自古英语hire(她的), she的宾格和所有格形式 -> 她的",
+    "c": [
+      "Her research findings were published in a leading academic journal last month.",
+      "她的研究发现上个月发表在了一份顶尖学术期刊上。"
+    ]
+  },
+  {
+    "w": "herald",
+    "r": "词源: 来自古法语heraut(传令官, 使者), 引申为先驱 -> 先驱",
+    "c": [
+      "The invention of the printing press was a herald of the Renaissance in Europe.",
+      "印刷术的发明是欧洲文艺复兴的先驱。"
+    ]
+  },
+  {
+    "w": "herb",
+    "r": "词源: 来自拉丁语herba(草, 草本植物), 后特指药用植物 -> 药草",
+    "c": [
+      "Traditional medicine uses various herb extracts to treat common ailments naturally.",
+      "传统医学使用各种草药提取物来自然治疗常见疾病。"
+    ]
+  },
+  {
+    "w": "herd",
+    "r": "词源: 来自古英语heord(畜群), 与德语Herde同源 -> 群",
+    "c": null
+  },
+  {
+    "w": "here",
+    "r": "词源: 来自古英语her(这里), 日耳曼语族通用地点副词 -> 这里",
+    "c": [
+      "Here in this library, generations of scholars have produced groundbreaking research.",
+      "在这里的图书馆里，几代学者产出了开创性的研究成果。"
+    ]
+  },
+  {
+    "w": "heritage",
+    "r": "herit(继承, 来自拉丁语heres继承人) + -age(名词后缀, 状态/产物) -> 继承的东西 -> 遗产",
+    "c": null
+  },
+  {
+    "w": "hero",
+    "r": "词源: 来自希腊语heros(英雄, 半神), 经由拉丁语hero -> 英雄",
+    "c": [
+      "Many students look up to the scientist as a hero of modern environmental protection.",
+      "许多学生将这位科学家视为现代环境保护的英雄。"
+    ]
+  },
+  {
+    "w": "heroic",
+    "r": "hero(英雄) + -ic(形容词后缀, 属于…的) -> 属于英雄的 -> 英勇的",
+    "c": [
+      "The firefighter's heroic action saved dozens of lives during the campus building fire.",
+      "消防员的英勇行为在校园大楼火灾中挽救了数十条生命。"
+    ]
+  },
+  {
+    "w": "heroin",
+    "r": "hero(英雄) + -in(药物后缀) -> 原为商标名，指能让人产生英雄感的药 -> 海洛因",
+    "c": [
+      "Drug addiction, especially to heroin, poses severe social and health problems.",
+      "毒品成瘾，尤其是海洛因，带来了严重的社会和健康问题。"
+    ]
+  },
+  {
+    "w": "hers",
+    "r": "her(她的) + -s(名词性物主代词后缀) -> 她的(东西) -> 她的",
+    "c": [
+      "The achievement is entirely hers, earned through years of dedicated academic effort.",
+      "这一成就完全属于她，是多年专注学术努力换来的。"
+    ]
+  },
+  {
+    "w": "herself",
+    "r": "her(她) + self(自己) -> 她自己 -> 她自己、她亲自",
+    "c": null
+  },
+  {
+    "w": "hesitate",
+    "r": "he-(来自haerere粘住) + sit(站立) + -ate(动词后缀) -> 粘在原地站着不动 -> 犹豫",
+    "c": [
+      "Many graduates hesitate between pursuing further study and entering the job market.",
+      "许多毕业生在继续深造和进入职场之间犹豫不决。"
+    ]
+  },
+  {
+    "w": "hi",
+    "r": "词源: 是hello的缩略形式，20世纪美国英语中流行 -> 你好",
+    "c": [
+      "Students exchanged a quick hi before rushing into the crowded lecture hall.",
+      "学生们匆匆互相打了个招呼，然后冲进拥挤的报告厅。"
+    ]
+  },
+  {
+    "w": "hide",
+    "r": "词源: 来自古英语hydan(隐藏), 与德语verstecken同源 -> 隐藏",
+    "c": [
+      "The witness tried to hide crucial evidence from the investigating authorities.",
+      "证人试图向调查当局隐瞒关键证据。"
+    ]
+  },
+  {
+    "w": "hierarchy",
+    "r": "hier(神圣的, 来自希腊语hieros) + archy(统治, 来自希腊语arkhein) -> 祭司统治的制度 -> 等级制度",
+    "c": [
+      "The traditional university hierarchy consists of professors, associate professors, and lecturers.",
+      "传统的大学等级制度包括教授、副教授和讲师。"
+    ]
+  },
+  {
+    "w": "high",
+    "r": "词源: 来自古英语heah(高的), 日耳曼语族通用形容词 -> 高的、高",
+    "c": null
+  },
+  {
+    "w": "highlight",
+    "r": "复合: high(高) + light(光) -> 用强光突出显示 -> 使显著、强调",
+    "c": null
+  },
+  {
+    "w": "highly",
+    "r": "high(高的) + -ly(副词后缀) -> 高度地 -> 高度地",
+    "c": [
+      "The professor's research contributions are highly regarded by the international academic community.",
+      "这位教授的研究贡献受到国际学术界的高度评价。"
+    ]
+  },
+  {
+    "w": "highway",
+    "r": "复合: high(高的/主要的) + way(路) -> 主要的道路 -> 公路",
+    "c": [
+      "The new highway connecting the two cities has significantly reduced travel time.",
+      "连接两座城市的新公路大幅缩短了出行时间。"
+    ]
+  },
+  {
+    "w": "hijack",
+    "r": "复合: hi(=high高) + jack(男子名Jack) -> 原指拦路抢劫的强盗 -> 劫持",
+    "c": [
+      "Security measures at airports have been tightened to prevent attempts to hijack planes.",
+      "机场的安保措施已经加强，以防止劫机企图。"
+    ]
+  },
+  {
+    "w": "hike",
+    "r": "词源: 19世纪英国方言，意为步行旅行，来源不明 -> 远足",
+    "c": [
+      "Many college students go on a hike in the mountains during weekend outdoor activities.",
+      "许多大学生在周末户外活动时去山里远足。"
+    ]
+  },
+  {
+    "w": "hill",
+    "r": "词源: 来自古英语hyll(小山), 与拉丁语collis(山)同源 -> 小山",
+    "c": null
+  },
+  {
+    "w": "him",
+    "r": "词源: 来自古英语him(他), he的宾格形式 -> 他",
+    "c": [
+      "The scholarship committee unanimously voted to award the grant to him.",
+      "奖学金委员会一致投票决定将奖金授予他。"
+    ]
+  },
+  {
+    "w": "himself",
+    "r": "him(他) + self(自己) -> 他自己 -> 他自己、他本人",
+    "c": null
+  },
+  {
+    "w": "hinder",
+    "r": "hind(后面的) + -er(动词后缀) -> 使落在后面 -> 阻碍",
+    "c": null
+  },
+  {
+    "w": "hindrance",
+    "r": "hindr(=hinder阻碍) + -ance(名词后缀, 动作/状态) -> 阻碍的事物 -> 障碍，妨碍",
+    "c": [
+      "Lack of funding remains the biggest hindrance to scientific research in developing regions.",
+      "资金短缺仍然是发展中地区科学研究的最大障碍。"
+    ]
+  },
+  {
+    "w": "hinge",
+    "r": "词源: 来自古英语hengen(悬挂物, 铰链), 与hang同源 -> 铰链",
+    "c": [
+      "The old door squeaks loudly because the hinge has not been oiled for years.",
+      "这扇旧门吱呀作响，因为铰链已经多年没上油了。"
+    ]
+  },
+  {
+    "w": "hint",
+    "r": "词源: 来自古英语hentan(抓住, 暗示), 原指抓住线索 -> 暗示",
+    "c": [
+      "The professor gave a subtle hint about the topics that would appear on the final exam.",
+      "教授对期末考试会出现的主题给出了微妙的暗示。"
+    ]
+  },
+  {
+    "w": "hip",
+    "r": "词源: 来自古英语hype(髋), 与德语Hüfte同源 -> 髋",
+    "c": [
+      "Elderly people are especially vulnerable to hip fractures after accidental falls.",
+      "老年人意外跌倒后特别容易发生髋部骨折。"
+    ]
+  },
+  {
+    "w": "hire",
+    "r": "词源: 来自古英语hyr(工资, 租金), 引申为雇佣 -> 雇佣",
+    "c": null
+  },
+  {
+    "w": "his",
+    "r": "词源: 来自古英语his(他的), he的所有格形式 -> 他的",
+    "c": [
+      "His pioneering research in artificial intelligence has earned international recognition.",
+      "他在人工智能领域的开创性研究赢得了国际认可。"
+    ]
+  },
+  {
+    "w": "hiss",
+    "r": "联想: 拟声词，模仿蛇或蒸汽发出的嘶嘶声音 -> 嘶嘶声；嘶嘶作声",
+    "c": [
+      "The audience began to hiss when the speaker failed to answer basic questions.",
+      "当演讲者回答不出基本问题时，听众开始发出嘘声。"
+    ]
+  },
+  {
+    "w": "historian",
+    "r": "histor(历史, 来自希腊语historia) + -ian(名词后缀, 做…的人) -> 研究历史的人 -> 历史学家",
+    "c": null
+  },
+  {
+    "w": "historic",
+    "r": "histor(历史) + -ic(形容词后缀, 与…有关的) -> 有历史意义的",
+    "c": null
+  },
+  {
+    "w": "historical",
+    "r": "histor(历史) + -ical(形容词后缀, 与…有关的) -> 与历史有关的 -> 历史的",
+    "c": [
+      "Historical records show that the university was founded over two hundred years ago.",
+      "历史记录显示这所大学始建于两百多年前。"
+    ]
+  },
+  {
+    "w": "history",
+    "r": "词源: 来自希腊语historia(调查, 知识), 经由拉丁语historia -> 历史",
+    "c": null
+  },
+  {
+    "w": "hit",
+    "r": "词源: 来自古英语hittan(击中, 到达), 原指碰到目标 -> 打",
+    "c": null
+  },
+  {
+    "w": "hitherto",
+    "r": "hither(到这里) + to(到) -> 到目前为止 -> 迄今",
+    "c": [
+      "The experiment yielded results that contradicted all hitherto accepted scientific theories.",
+      "这项实验得出的结果与迄今所有公认的科学理论相矛盾。"
+    ]
+  },
+  {
+    "w": "hoarse",
+    "r": "词源: 来自古英语has(嘶哑的), 与德语heiser同源 -> (声音)嘶哑的",
+    "c": [
+      "After cheering loudly at the sports event, the students returned with hoarse voices.",
+      "在体育比赛上大声欢呼后，学生们回来时嗓子都哑了。"
+    ]
+  },
+  {
+    "w": "hobby",
+    "r": "词源: 原指一种小型马hobbyhorse, 后引申为业余爱好 -> 兴趣",
+    "c": [
+      "Pursuing a creative hobby like painting can reduce stress from academic studies.",
+      "从事绘画之类的创造性爱好可以减轻学业带来的压力。"
+    ]
+  },
+  {
+    "w": "hoe",
+    "r": "词源: 来自古英语hāh(锄头), 与德语Hacke同源 -> 锄地",
+    "c": [
+      "Farmers in rural areas still use traditional tools to hoe the fields by hand.",
+      "农村地区的农民仍然使用传统工具手工锄地。"
+    ]
+  },
+  {
+    "w": "hoist",
+    "r": "词源: 来自古法语hisser(升起), 与荷兰语hijsen同源 -> 升起、起重机",
+    "c": [
+      "Construction workers used a mechanical hoist to lift the steel beams to the top floor.",
+      "建筑工人用起重机将钢梁吊到顶层。"
+    ]
+  },
+  {
+    "w": "hold",
+    "r": "词源: 来自古英语healdan(握住, 保持), 日耳曼语族通用词汇 -> 握着、坚持",
+    "c": null
+  },
+  {
+    "w": "holder",
+    "r": "hold(握着/持有) + -er(名词后缀, 做…的人/物) -> 持有者",
+    "c": [
+      "The patent holder has exclusive rights to manufacture and sell the new device.",
+      "专利持有者拥有制造和销售该新设备的专有权。"
+    ]
+  },
+  {
+    "w": "hole",
+    "r": "词源: 来自古英语hol(洞, 穴), 与hollow同源 -> 洞",
+    "c": null
+  },
+  {
+    "w": "holiday",
+    "r": "复合: holi(=holy神圣的) + day(日) -> 宗教节日, 后泛指假日 -> 假日",
+    "c": null
+  },
+  {
+    "w": "hollow",
+    "r": "词源: 来自古英语holh(洞, 穴), 与hole同源 -> 空的、洞",
+    "c": [
+      "The hollow tree trunk provided shelter for small animals during the rainstorm.",
+      "中空的树干在暴风雨中为小动物提供了庇护。"
+    ]
+  },
+  {
+    "w": "holy",
+    "r": "词源: 来自古英语halig(神圣的), 与whole(完整的)同源 -> 神圣的",
+    "c": [
+      "The ancient temple is regarded as a holy site by followers of the local religion.",
+      "这座古庙被当地宗教信徒视为圣地。"
+    ]
+  },
+  {
+    "w": "home",
+    "r": "词源: 来自古英语ham(家, 村庄), 日耳曼语族通用词汇 -> 家",
+    "c": [
+      "Many international students feel homesick and miss their home countries during holidays.",
+      "许多国际学生在假期里会感到思乡，想念自己的祖国。"
+    ]
+  },
+  {
+    "w": "homely",
+    "r": "home(家) + -ly(形容词后缀, 像…的) -> 像家一样的 -> 家常的",
+    "c": [
+      "The small restaurant is known for its homely atmosphere and traditional local dishes.",
+      "这家小餐馆以其家常的氛围和传统地方菜而闻名。"
+    ]
+  },
+  {
+    "w": "homework",
+    "r": "复合: home(家) + work(工作) -> 在家里做的工作 -> 作业",
+    "c": [
+      "Elementary school students often spend two hours every evening doing their homework.",
+      "小学生每天晚上经常花两小时做作业。"
+    ]
+  },
+  {
+    "w": "homogeneous",
+    "r": "homo-(相同, 来自希腊语homos) + gen(种类/产生) + -eous(形容词后缀) -> 同一种类的 -> 同类的",
+    "c": [
+      "A homogeneous society tends to share similar cultural values and social norms.",
+      "同类的社会往往拥有相似的文化价值观和社会规范。"
+    ]
+  },
+  {
+    "w": "honest",
+    "r": "hon(=honor荣誉/尊敬) + -est(形容词后缀, 最…的) -> 最受尊敬的品格 -> 诚实的",
+    "c": null
+  },
+  {
+    "w": "honey",
+    "r": "词源: 来自古英语hunig(蜂蜜), 与德语Honig同源 -> 蜂蜜",
+    "c": [
+      "Honey produced by local bees is sold at the farmers' market every Saturday morning.",
+      "当地蜜蜂产的蜂蜜每周六早上在农贸市场出售。"
+    ]
+  },
+  {
+    "w": "honor",
+    "r": "词源: 来自拉丁语honos(荣誉, 尊严), 经由古法语honor -> 荣耀",
+    "c": [
+      "The university held a ceremony to honor outstanding teachers for their contributions.",
+      "大学举行仪式，向做出贡献的杰出教师致敬。"
+    ]
+  },
+  {
+    "w": "honorable",
+    "r": "honor(荣耀/荣誉) + -able(形容词后缀, 可…的) -> 值得尊敬的 -> 光荣的、可敬的",
+    "c": [
+      "Serving the community in times of need is considered an honorable duty by many.",
+      "在危难时刻服务社区被许多人视为光荣的职责。"
+    ]
+  },
+  {
+    "w": "honorary",
+    "r": "honor(荣誉) + -ary(形容词后缀, 与…有关的) -> 作为荣誉的 -> 荣誉的",
+    "c": [
+      "The famous scientist was awarded an honorary degree by the university last spring.",
+      "这位著名科学家去年春天被该大学授予荣誉学位。"
+    ]
+  },
+  {
+    "w": "hook",
+    "r": "词源: 来自古英语hoc(钩), 与荷兰语hoek(角, 钩)同源 -> 钩",
+    "c": null
+  },
+  {
+    "w": "hop",
+    "r": "词源: 来自古英语hoppian(跳), 与德语hopfen同源 -> 跳跃",
+    "c": null
+  },
+  {
+    "w": "hope",
+    "r": "词源: 来自古英语hopian(希望), 与荷兰语hopen同源 -> 希望",
+    "c": null
+  }
+]

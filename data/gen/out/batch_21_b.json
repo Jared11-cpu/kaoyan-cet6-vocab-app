@@ -1,0 +1,676 @@
+[
+  {
+    "w": "october",
+    "r": "来自拉丁语october, 原指古罗马历法的第八个月(octo=八) -> 十月",
+    "c": [
+      "The university's annual autumn sports meeting takes place every October on the main campus.",
+      "大学一年一度的秋季运动会每年十月在主校区举行。"
+    ]
+  },
+  {
+    "w": "odd",
+    "r": "来自古英语odda(奇数的, 剩余的), 原意为突出的 -> 奇数的、奇怪的",
+    "c": [
+      "Students found the odd behavior of the laboratory rat intriguing and decided to investigate further.",
+      "学生们发现实验大鼠的奇怪行为很有趣,决定进一步研究。"
+    ]
+  },
+  {
+    "w": "odds",
+    "r": "odd(奇数的)的复数名词用法, 原指不均等的 -> 可能性",
+    "c": [
+      "The odds of getting accepted into the prestigious graduate program are approximately one in twenty.",
+      "被这所著名研究生项目录取的可能性大约是二十分之一。"
+    ]
+  },
+  {
+    "w": "odor",
+    "r": "来自拉丁语odor(气味), 经由古法语odour演变 -> 气味",
+    "c": null
+  },
+  {
+    "w": "of",
+    "r": "来自古英语of(离开, 从), 与德语von同源 -> 的",
+    "c": [
+      "The study of climate change requires collaboration among researchers of many different disciplines.",
+      "气候变化研究需要许多不同学科的研究人员合作。"
+    ]
+  },
+  {
+    "w": "off",
+    "r": "来自古英语of(离开)的强调形式 -> 关闭、不在原处",
+    "c": null
+  },
+  {
+    "w": "offence",
+    "r": "of-(=ob- 反对) + fenc(打击, 来自拉丁语fendere) + -e -> 攻击、冒犯 -> 犯罪, 犯规",
+    "c": [
+      "Driving under the influence of alcohol is considered a serious offence in most countries.",
+      "在大多数国家,酒后驾驶被视为严重违法行为。"
+    ]
+  },
+  {
+    "w": "offend",
+    "r": "of-(=ob- 反对) + fend(打击) -> 打击、冒犯 -> 冒犯",
+    "c": null
+  },
+  {
+    "w": "offense",
+    "r": "of-(=ob- 反对) + fens(打击) + -e -> 进攻、冒犯 -> 犯规、违法行为",
+    "c": [
+      "The athlete was suspended for three games after committing a violent offense during the match.",
+      "这名运动员在比赛中犯下暴力犯规后被禁赛三场。"
+    ]
+  },
+  {
+    "w": "offensive",
+    "r": "offens(=offense 进攻) + -ive(形容词后缀) -> 进攻的 -> 冒犯的、进攻性的",
+    "c": [
+      "The professor warned students that using offensive language in classroom discussions would not be tolerated.",
+      "教授警告学生,在课堂讨论中使用冒犯性语言是不能容忍的。"
+    ]
+  },
+  {
+    "w": "offer",
+    "r": "来自拉丁语offerre(带到面前), ob-(向) + ferre(带来) -> 提供",
+    "c": [
+      "The university decided to offer more scholarships to attract talented students from low-income families.",
+      "大学决定提供更多奖学金,以吸引来自低收入家庭的优秀学生。"
+    ]
+  },
+  {
+    "w": "office",
+    "r": "来自拉丁语officium(服务, 职责), 经古法语演变 -> 办公室",
+    "c": null
+  },
+  {
+    "w": "officer",
+    "r": "office(官职, 职责) + -er(人) -> 担任官职的人 -> 官员、军官",
+    "c": null
+  },
+  {
+    "w": "official",
+    "r": "offic(e)(官职) + -ial(形容词后缀) -> 官职的 -> 官方的",
+    "c": null
+  },
+  {
+    "w": "offset",
+    "r": "复合: off(离开) + set(放置) -> 放置在一旁以平衡 -> 抵消",
+    "c": [
+      "Investments in renewable energy can help offset the environmental damage caused by fossil fuels.",
+      "对可再生能源的投资可以帮助抵消化石燃料造成的环境破坏。"
+    ]
+  },
+  {
+    "w": "offspring",
+    "r": "复合: off(从…离开) + spring(跳, 弹) -> 跳出来的 -> 子孙、后代",
+    "c": [
+      "Parents often make educational sacrifices to ensure a brighter future for their offspring.",
+      "父母常常为子女的教育做出牺牲,以确保他们有更光明的未来。"
+    ]
+  },
+  {
+    "w": "often",
+    "r": "来自古英语oft(经常), 与德语oft同源 -> 经常",
+    "c": [
+      "University students often struggle to balance their academic responsibilities with social activities.",
+      "大学生经常难以平衡学业责任和社交活动。"
+    ]
+  },
+  {
+    "w": "ohm",
+    "r": "词源: 以德国物理学家Georg Ohm命名, 电阻单位 -> 欧姆",
+    "c": [
+      "Physics students learn that one ohm equals one volt divided by one ampere in Ohm's law.",
+      "物理专业学生学习到,根据欧姆定律,一欧姆等于一伏特除以一安培。"
+    ]
+  },
+  {
+    "w": "oil",
+    "r": "来自拉丁语oleum(橄榄油), 源自希腊语elaion -> 油",
+    "c": null
+  },
+  {
+    "w": "okay",
+    "r": "词源: 19世纪美国起源, all correct(一切正确)的幽默拼写oll korrect缩写 -> 可以、好的",
+    "c": null
+  },
+  {
+    "w": "old",
+    "r": "来自古英语eald(老的), 与德语alt同源 -> 老的",
+    "c": null
+  },
+  {
+    "w": "olive",
+    "r": "来自拉丁语oliva(橄榄), 源自希腊语elaia -> 橄榄",
+    "c": [
+      "Olive oil, widely used in Mediterranean cuisine, is known for its numerous health benefits.",
+      "广泛用于地中海料理的橄榄油以其众多健康益处而闻名。"
+    ]
+  },
+  {
+    "w": "omit",
+    "r": "om-(=ob- 离开) + it(走, 来自拉丁语ire) -> 走出去 -> 省略",
+    "c": null
+  },
+  {
+    "w": "on",
+    "r": "来自古英语on(在…上), 与德语an同源 -> 在…上、持续",
+    "c": [
+      "Students must focus on their research projects during the final weeks of the semester.",
+      "学生们在学期最后几周必须专注于他们的研究项目。"
+    ]
+  },
+  {
+    "w": "once",
+    "r": "来自古英语ane(一) + -es(副词后缀) -> 一次地 -> 曾经、一次",
+    "c": null
+  },
+  {
+    "w": "one",
+    "r": "来自古英语an(一), 与德语eins同源 -> 一个",
+    "c": null
+  },
+  {
+    "w": "oneself",
+    "r": "one(一个人) + self(自己) -> 自己",
+    "c": null
+  },
+  {
+    "w": "ongoing",
+    "r": "on(持续) + going(进行) -> 正在进行的 -> 持续的",
+    "c": [
+      "The university has several ongoing research projects focused on sustainable energy solutions.",
+      "该大学有几个正在进行的研究项目,专注于可持续能源解决方案。"
+    ]
+  },
+  {
+    "w": "onion",
+    "r": "来自拉丁语unio(珍珠, 洋葱), 源自unus(一), 指洋葱整球一体 -> 洋葱",
+    "c": [
+      "Onion is a versatile vegetable used in cuisines around the world for its distinctive flavor.",
+      "洋葱是一种多用途蔬菜,因其独特的风味而被用于世界各地的烹饪中。"
+    ]
+  },
+  {
+    "w": "only",
+    "r": "one(一个) + -ly(形容词后缀,像…的) -> 像唯一的一个 -> 仅仅",
+    "c": [
+      "Only ten percent of applicants are accepted into the university's competitive medical program.",
+      "只有百分之十的申请者被这所大学竞争激烈的医学专业录取。"
+    ]
+  },
+  {
+    "w": "onto",
+    "r": "on(在…上) + to(到) -> 到…之上 -> 在上面、到上面",
+    "c": [
+      "The professor projected the research data onto the large screen for the entire class to see.",
+      "教授将研究数据投射到大屏幕上,让全班同学都能看到。"
+    ]
+  },
+  {
+    "w": "opaque",
+    "r": "来自拉丁语opacus(阴暗的, 不透光的) -> 不透明的",
+    "c": null
+  },
+  {
+    "w": "open",
+    "r": "来自古英语open(打开的), 与德语offen同源 -> 打开",
+    "c": null
+  },
+  {
+    "w": "opening",
+    "r": "open(打开) + -ing(名词后缀,表行为/结果) -> 打开的行为 -> 开幕",
+    "c": [
+      "The opening of the new library building was attended by distinguished guests from across the country.",
+      "新图书馆大楼的开幕典礼有来自全国各地的贵宾出席。"
+    ]
+  },
+  {
+    "w": "opera",
+    "r": "来自拉丁语opera(作品, 劳动), 原指音乐与戏剧结合的作品 -> 歌剧",
+    "c": null
+  },
+  {
+    "w": "operate",
+    "r": "oper(工作, 来自拉丁语opus) + -ate(动词后缀,使…) -> 使工作 -> 运转、动手术",
+    "c": null
+  },
+  {
+    "w": "operation",
+    "r": "operat(e)(运转) + -ion(名词后缀,表行为/结果) -> 运营、操作",
+    "c": null
+  },
+  {
+    "w": "operational",
+    "r": "operation(操作) + -al(形容词后缀,与…有关的) -> 操作的、运作的",
+    "c": null
+  },
+  {
+    "w": "operator",
+    "r": "operat(e)(操作) + -or(人/物,做…的) -> 操作人员",
+    "c": null
+  },
+  {
+    "w": "opinion",
+    "r": "opinion(思考, 来自拉丁语opinari认为) -> 思考的结果 -> 意见",
+    "c": [
+      "Students are encouraged to express their own opinions during seminar discussions rather than just memorizing facts.",
+      "鼓励学生在研讨会上表达自己的观点,而不仅仅是记忆事实。"
+    ]
+  },
+  {
+    "w": "opium",
+    "r": "来自希腊语opion(罂粟汁), 源自opos(汁) -> 鸦片",
+    "c": [
+      "The history of opium trade had profound social and economic impacts on many Asian countries.",
+      "鸦片贸易的历史对许多亚洲国家产生了深远的社会和经济影响。"
+    ]
+  },
+  {
+    "w": "opponent",
+    "r": "op-(=ob- 反对) + pon(放, 来自拉丁语ponere) + -ent(人) -> 放在对面的人 -> 对手",
+    "c": null
+  },
+  {
+    "w": "opportunity",
+    "r": "op-(=ob- 向) + portun(港口, 来自拉丁语portus) + -ity(名词后缀) -> 进港的机会 -> 机会",
+    "c": null
+  },
+  {
+    "w": "oppose",
+    "r": "op-(=ob- 反对) + pose(放, 来自拉丁语ponere) -> 放在对面 -> 反对",
+    "c": null
+  },
+  {
+    "w": "opposite",
+    "r": "op-(=ob- 反对) + pos(放) + -ite(形容词后缀) -> 放在对面的 -> 相反的",
+    "c": null
+  },
+  {
+    "w": "opposition",
+    "r": "oppos(e)(反对) + -ition(名词后缀,表行为/状态) -> 反对",
+    "c": null
+  },
+  {
+    "w": "oppress",
+    "r": "op-(=ob- 向下) + press(压, 来自拉丁语premere) -> 向下压 -> 压迫",
+    "c": [
+      "Throughout history, people have fought against regimes that oppress citizens and suppress basic freedoms.",
+      "纵观历史,人民一直在与压迫公民、压制基本自由的政权作斗争。"
+    ]
+  },
+  {
+    "w": "opt",
+    "r": "来自拉丁语optare(选择, 希望) -> 选择",
+    "c": null
+  },
+  {
+    "w": "optical",
+    "r": "opt(看, 眼睛, 来自希腊语optos) + -ical(形容词后缀) -> 与看有关的 -> 光学的",
+    "c": [
+      "Optical illusions demonstrate how our brain interprets and processes visual information from the eyes.",
+      "视错觉展示了我们的大脑如何解释和处理来自眼睛的视觉信息。"
+    ]
+  },
+  {
+    "w": "optimism",
+    "r": "optim(最好, 来自拉丁语optimus) + -ism(名词后缀,主义) -> 凡事往最好想 -> 乐观、乐观主义",
+    "c": null
+  },
+  {
+    "w": "optimistic",
+    "r": "optim(最好,来自拉丁语optimus) + -istic(形容词后缀,有…性质的) -> 凡事往最好想的 -> 乐观的",
+    "c": [
+      "Despite the challenging economic environment, graduating students remain optimistic about their career prospects.",
+      "尽管经济环境充满挑战，应届毕业生仍对自己的职业前景保持乐观。"
+    ]
+  },
+  {
+    "w": "optimum",
+    "r": "来自拉丁语optimus(最好的) -> 最佳的",
+    "c": [
+      "The research team identified the optimum temperature for maximum enzyme activity in the experiment.",
+      "研究团队在实验中确定了酶活性最大的最佳温度。"
+    ]
+  },
+  {
+    "w": "option",
+    "r": "opt(选择) + -ion(名词后缀,表行为/结果) -> 选择的结果 -> 选项",
+    "c": null
+  },
+  {
+    "w": "optional",
+    "r": "option(选择) + -al(形容词后缀,与…有关的) -> 可以选择的 -> 可选的",
+    "c": [
+      "Students can choose from several optional courses to tailor their degree to their career goals.",
+      "学生可以从几门选修课中选择，根据自己的职业目标定制学位课程。"
+    ]
+  },
+  {
+    "w": "or",
+    "r": "来自古英语oþþe(或者),与德语oder同源 -> 或者、否则",
+    "c": [
+      "Students must submit their dissertations by the deadline or face a reduction in their final grade.",
+      "学生必须在截止日期前提交论文，否则期末成绩将被扣分。"
+    ]
+  },
+  {
+    "w": "oral",
+    "r": "or(嘴,说话,来自拉丁语os) + -al(形容词后缀) -> 用嘴的 -> 口述的",
+    "c": [
+      "Many language courses include oral examinations to assess students' speaking and pronunciation skills.",
+      "许多语言课程包括口试，以评估学生的口语和发音能力。"
+    ]
+  },
+  {
+    "w": "orange",
+    "r": "来自梵语naranga(橘子),经波斯语、阿拉伯语、古法语传入 -> 橙色的",
+    "c": [
+      "Orange juice is a popular breakfast beverage rich in vitamin C and other essential nutrients.",
+      "橙汁是一种受欢迎的早餐饮料，富含维生素C和其他必需营养素。"
+    ]
+  },
+  {
+    "w": "orbit",
+    "r": "来自拉丁语orbis(圆圈,球),指行星运行的圆形路径 -> 轨道",
+    "c": [
+      "Scientists carefully calculate the orbit of satellites to ensure they stay in position above Earth.",
+      "科学家们仔细计算卫星的轨道，以确保它们保持在地球上空的位置。"
+    ]
+  },
+  {
+    "w": "orchard",
+    "r": "来自古英语ortgeard(菜园),ort(蔬菜)+geard(围场) -> 果园",
+    "c": [
+      "The university maintains a small apple orchard where students can learn about sustainable agriculture.",
+      "大学维护着一个小型苹果园，学生可以在那里学习可持续农业。"
+    ]
+  },
+  {
+    "w": "orchestra",
+    "r": "来自希腊语orkhestra(舞蹈场地),原指剧场中合唱队跳舞的区域 -> 管弦乐队",
+    "c": [
+      "The university orchestra performed a symphony by Beethoven to a packed concert hall last weekend.",
+      "上周末大学管弦乐队演奏了贝多芬的交响曲，音乐厅座无虚席。"
+    ]
+  },
+  {
+    "w": "order",
+    "r": "来自拉丁语ordo(行列,顺序),经古法语ordre演变 -> 订单、命令、顺序",
+    "c": null
+  },
+  {
+    "w": "orderly",
+    "r": "order(顺序) + -ly(形容词后缀,像…的) -> 有顺序的 -> 有秩序的、整齐的",
+    "c": [
+      "The library maintains an orderly arrangement of books so that students can easily find what they need.",
+      "图书馆保持书籍整齐排列，以便学生可以轻松找到所需资料。"
+    ]
+  },
+  {
+    "w": "ordinarily",
+    "r": "ordinary(普通的) + -ly(副词后缀) -> 通常地",
+    "c": [
+      "Ordinarily, students need to complete all prerequisite courses before enrolling in advanced seminars.",
+      "通常，学生需要先完成所有先修课程才能注册高级研讨班。"
+    ]
+  },
+  {
+    "w": "ordinary",
+    "r": "ordin(顺序,行列,来自拉丁语ordo) + -ary(形容词后缀) -> 按顺序来的 -> 普通的",
+    "c": null
+  },
+  {
+    "w": "ore",
+    "r": "来自古英语ora(矿石),与德语Erz同源 -> 矿",
+    "c": null
+  },
+  {
+    "w": "organ",
+    "r": "来自希腊语organon(工具,器械),指身体的\"工具\" -> 器官",
+    "c": [
+      "The human heart is a vital organ that pumps blood throughout the body continuously.",
+      "人的心脏是一个重要器官，持续不断地将血液泵送到全身。"
+    ]
+  },
+  {
+    "w": "organic",
+    "r": "organ(器官) + -ic(形容词后缀,与…有关的) -> 器官的、有机物的",
+    "c": null
+  },
+  {
+    "w": "organisation",
+    "r": "organ(器官,机构) + -is(e)(组织) + -ation(名词后缀) -> 组织行为 -> 组织",
+    "c": null
+  },
+  {
+    "w": "organise",
+    "r": "organ(机构) + -ise(动词后缀,使…) -> 使形成机构 -> 组织",
+    "c": [
+      "Students will organise a cultural festival next month to celebrate diversity on campus.",
+      "学生们下个月将组织一场文化节，庆祝校园的多样性。"
+    ]
+  },
+  {
+    "w": "organism",
+    "r": "organ(器官) + -ism(名词后缀,表体系) -> 有器官的体系 -> 有机体",
+    "c": null
+  },
+  {
+    "w": "orient",
+    "r": "ori(升起,来自拉丁语oriri) + -ent(名词/动词后缀) -> 太阳升起的地方 -> 东方、定位",
+    "c": [
+      "New students attend an orientation program to help them orient to campus life and resources.",
+      "新生参加入学指导项目，帮助他们适应校园生活和资源。"
+    ]
+  },
+  {
+    "w": "oriental",
+    "r": "orient(东方) + -al(形容词后缀) -> 东方的",
+    "c": [
+      "The university's library has an extensive collection of oriental art and literature resources.",
+      "该大学图书馆收藏了大量东方艺术和文学资源。"
+    ]
+  },
+  {
+    "w": "orientation",
+    "r": "orient(定位) + -ation(名词后缀,表行为/结果) -> 定位",
+    "c": [
+      "International students participate in a week-long orientation to adjust to academic life abroad.",
+      "国际学生参加为期一周的入学指导，以适应国外的学术生活。"
+    ]
+  },
+  {
+    "w": "origin",
+    "r": "orig(开始,出生,来自拉丁语oriri升起) + -in(名词后缀) -> 开始的地方 -> 起源",
+    "c": null
+  },
+  {
+    "w": "original",
+    "r": "origin(起源) + -al(形容词后缀) -> 起源的 -> 最初的",
+    "c": null
+  },
+  {
+    "w": "originate",
+    "r": "origin(起源) + -ate(动词后缀,使…) -> 使有起源 -> 发源、开创",
+    "c": null
+  },
+  {
+    "w": "ornament",
+    "r": "orna(装饰,来自拉丁语ornare) + -ment(名词后缀,表行为/结果) -> 装饰",
+    "c": [
+      "The historic campus building features intricate stone ornament along its windows and doorways.",
+      "这座历史悠久的校园建筑的窗户和门口都有精致的石雕装饰。"
+    ]
+  },
+  {
+    "w": "ornamental",
+    "r": "ornament(装饰) + -al(形容词后缀) -> 装饰性的",
+    "c": [
+      "Ornamental plants around the campus lake enhance the aesthetic appeal of the university grounds.",
+      "校园湖边的观赏植物增强了大学校园的美学吸引力。"
+    ]
+  },
+  {
+    "w": "orphan",
+    "r": "来自希腊语orphanos(失去父母的),与拉丁语orbus(孤的)同源 -> 孤儿",
+    "c": [
+      "The charity organization provides educational support for orphan children in impoverished rural areas.",
+      "这个慈善组织为贫困农村地区的孤儿提供教育支持。"
+    ]
+  },
+  {
+    "w": "orthodox",
+    "r": "ortho(正,直,来自希腊语orthos) + dox(观点,意见) -> 观点正确的 -> 正统的",
+    "c": [
+      "The orthodox approach to economics has been challenged by new theories in behavioral economics.",
+      "正统的经济学方法受到了行为经济学新理论的挑战。"
+    ]
+  },
+  {
+    "w": "other",
+    "r": "来自古英语other(另一个),与德语ander同源 -> 其他",
+    "c": null
+  },
+  {
+    "w": "otherwise",
+    "r": "other(其他) + wise(方式,方向) -> 其他方式下 -> 否则",
+    "c": [
+      "Students must attend all lectures and seminars; otherwise, they may not be eligible for the final exam.",
+      "学生必须参加所有讲座和研讨会；否则，他们可能没有资格参加期末考试。"
+    ]
+  },
+  {
+    "w": "ought",
+    "r": "来自古英语ahte(拥有,欠),与英语owe同源,引申为应该 -> 早应该,本应",
+    "c": [
+      "Students ought to consult their academic advisors before making changes to their course schedules.",
+      "学生在更改课程安排之前应该咨询学业顾问。"
+    ]
+  },
+  {
+    "w": "ounce",
+    "r": "来自拉丁语uncia(十二分之一),经由古法语unce演变 -> 盎司",
+    "c": [
+      "An ounce of prevention is worth a pound of cure, as the old saying about health management goes.",
+      "正如健康管理的老话所说，一盎司的预防胜过一磅的治疗。"
+    ]
+  },
+  {
+    "w": "our",
+    "r": "来自古英语ure(我们的),与德语unser同源 -> 我们的",
+    "c": [
+      "Our university's research facilities are among the most advanced in the entire country.",
+      "我们大学的研究设施在全国名列前茅。"
+    ]
+  },
+  {
+    "w": "ours",
+    "r": "our(我们的)的名词性物主代词形式 -> 我们的",
+    "c": [
+      "The research methods used in this study are more rigorous than those in ours.",
+      "这项研究使用的研究方法比我们的更严谨。"
+    ]
+  },
+  {
+    "w": "ourselves",
+    "r": "our(我们的) + selves(自己,复数) -> 我们自己、我们亲自",
+    "c": [
+      "We often find ourselves challenged by unexpected problems during the course of scientific research.",
+      "在科学研究过程中，我们经常发现自己面临意想不到的问题。"
+    ]
+  },
+  {
+    "w": "out",
+    "r": "来自古英语ut(出去),与德语aus同源 -> 出去、外面",
+    "c": [
+      "Students are encouraged to step out of their comfort zones and explore new academic fields.",
+      "鼓励学生走出舒适区，探索新的学术领域。"
+    ]
+  },
+  {
+    "w": "outbreak",
+    "r": "复合: out(出) + break(破) -> 突然破出 -> 爆发",
+    "c": null
+  },
+  {
+    "w": "outcome",
+    "r": "复合: out(出) + come(来) -> 出来的结果 -> 结果",
+    "c": [
+      "The outcome of the research study could have important implications for public health policy.",
+      "这项研究的结果可能对公共卫生政策产生重要影响。"
+    ]
+  },
+  {
+    "w": "outcry",
+    "r": "复合: out(出) + cry(喊) -> 喊出来 -> 大声疾呼、强烈抗议",
+    "c": [
+      "The proposed tuition increase sparked an outcry among students and their families across the nation.",
+      "拟议的学费上涨引发了全国学生及其家庭的强烈抗议。"
+    ]
+  },
+  {
+    "w": "outdated",
+    "r": "out(出) + date(日期) + -ed(形容词后缀) -> 超出日期的 -> 过时的",
+    "c": [
+      "Many outdated textbooks have been replaced with newer digital versions in the university library.",
+      "大学图书馆里许多过时的教科书已被更新的数字版本取代。"
+    ]
+  },
+  {
+    "w": "outdoor",
+    "r": "复合: out(外) + door(门) -> 门外的 -> 户外的",
+    "c": null
+  },
+  {
+    "w": "outer",
+    "r": "out(外)的比较级形式 -> 外面的",
+    "c": null
+  },
+  {
+    "w": "outermost",
+    "r": "outer(外面的) + -most(最) -> 最外面的",
+    "c": [
+      "The outermost layer of the Earth's atmosphere gradually merges with the vacuum of outer space.",
+      "地球大气层的最外层逐渐与外层空间的真空融合。"
+    ]
+  },
+  {
+    "w": "outfit",
+    "r": "复合: out(完全) + fit(装备) -> 完全装备好 -> 机构、配备",
+    "c": null
+  },
+  {
+    "w": "outing",
+    "r": "out(出去) + -ing(名词后缀,表活动) -> 出去的活动 -> 郊游",
+    "c": [
+      "The student association organized a spring outing to the nearby national park last weekend.",
+      "上周末学生会组织了一次去附近国家公园的春游。"
+    ]
+  },
+  {
+    "w": "outlaw",
+    "r": "复合: out(外) + law(法律) -> 法律之外的人 -> 逃犯、歹徒",
+    "c": [
+      "Historically, an outlaw was someone banned from legal protection and society's protection.",
+      "从历史上看，逃犯是被剥夺法律保护和社会保护的人。"
+    ]
+  },
+  {
+    "w": "outlet",
+    "r": "复合: out(出) + let(让) -> 让东西出去的地方 -> 出口",
+    "c": [
+      "The shopping mall added a new outlet for popular international brands to attract younger customers.",
+      "购物中心新增了一个热门国际品牌的门店，以吸引更年轻的顾客。"
+    ]
+  },
+  {
+    "w": "outline",
+    "r": "复合: out(外) + line(线) -> 外面的线条 -> 轮廓、提纲",
+    "c": [
+      "Before writing the research paper, students should prepare a detailed outline to organize their ideas.",
+      "在撰写研究论文之前，学生应准备详细的提纲来组织思路。"
+    ]
+  }
+]

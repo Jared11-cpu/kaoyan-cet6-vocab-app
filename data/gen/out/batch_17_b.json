@@ -1,0 +1,703 @@
+[
+  {
+    "w": "january",
+    "r": "词源: 来自拉丁语Januarius, 以罗马神话中开端之神Janus命名 -> 一月",
+    "c": null
+  },
+  {
+    "w": "jar",
+    "r": "词源: 来自法语jarre(陶罐), 源自阿拉伯语jarra -> 罐子",
+    "c": [
+      "She stored dried herbs in a glass jar to preserve their flavor for cooking.",
+      "她将干香草存放在玻璃罐中以保留烹饪用的风味。"
+    ]
+  },
+  {
+    "w": "jargon",
+    "r": "词源: 来自古法语jargon(鸟的啁啾声), 引申为外人听不懂的行话 -> 行话",
+    "c": [
+      "Academic papers often contain technical jargon that is hard for general readers to follow.",
+      "学术论文常包含一般读者难以理解的专业行话。"
+    ]
+  },
+  {
+    "w": "jaw",
+    "r": "词源: 来自古英语cean(下巴), 与荷兰语kaak同源 -> 下巴",
+    "c": [
+      "The patient had to undergo surgery after suffering a fractured jaw in the accident.",
+      "患者在事故中下巴骨折后不得不接受手术治疗。"
+    ]
+  },
+  {
+    "w": "jazz",
+    "r": "词源: 起源于美国黑人音乐, 词源有争议, 可能源自克里奥尔语 -> 爵士乐",
+    "c": null
+  },
+  {
+    "w": "jealous",
+    "r": "jeal(热心, 来自希腊语zelos) + -ous(形容词后缀) -> 过于热心的 -> 嫉妒的",
+    "c": [
+      "Employees may feel jealous when a colleague receives a promotion they expected for themselves.",
+      "当同事获得自己期望的晋升时, 员工可能会感到嫉妒。"
+    ]
+  },
+  {
+    "w": "jealousy",
+    "r": "jealous(嫉妒的) + -y(名词后缀,表状态) -> 嫉妒的状态 -> 妒忌",
+    "c": [
+      "Uncontrolled jealousy in romantic relationships often leads to conflict and emotional distress.",
+      "恋爱关系中不受控制的嫉妒常导致冲突和情感困扰。"
+    ]
+  },
+  {
+    "w": "jean",
+    "r": "词源: 来自法语jean(斜纹棉布), 因意大利港口热那亚Genoa出产得名 -> 斜纹布、牛仔裤",
+    "c": [
+      "Many college students prefer wearing jean pants for their durability and casual style.",
+      "许多大学生喜欢穿牛仔裤, 因为它们耐穿且风格休闲。"
+    ]
+  },
+  {
+    "w": "jelly",
+    "r": "词源: 来自拉丁语gelare(冻结), 经由古法语gelee -> 果冻、胶状物",
+    "c": [
+      "The microbiologist studied the jelly-like substance secreted by the bacteria colonies.",
+      "微生物学家研究了细菌菌落分泌的果冻状物质。"
+    ]
+  },
+  {
+    "w": "jeopardize",
+    "r": "jeopard(危险, 来自拉丁语jocus parti游戏胜负难料) + -ize(动词后缀,使…) -> 使处于危险中 -> 危及",
+    "c": [
+      "Cutting research funding could jeopardize the university's position in global academic rankings.",
+      "削减研究经费可能危及该大学在全球学术排名中的地位。"
+    ]
+  },
+  {
+    "w": "jerk",
+    "r": "词源: 可能来自西班牙语jergar(猛拉), 模仿短促动作的声音 -> 猛拉、猝然一动",
+    "c": [
+      "The bus came to a sudden stop, causing passengers to jerk forward in their seats.",
+      "公交车突然停下, 导致乘客们在座位上猛然向前倾。"
+    ]
+  },
+  {
+    "w": "jesus",
+    "r": "词源: 来自希腊语Iesous, 源自希伯来语Yeshua(耶和华是救恩) -> 耶稣",
+    "c": [
+      "Many scholars examine the historical context surrounding Jesus and early Christian communities.",
+      "许多学者研究耶稣及其早期基督教社群的历史背景。"
+    ]
+  },
+  {
+    "w": "jet",
+    "r": "词源: 来自拉丁语jacere(投掷), 经由法语jeter(扔出)引申为喷射 -> 喷射、喷气式飞机",
+    "c": [
+      "The jet aircraft can carry over three hundred passengers across the Pacific Ocean.",
+      "这架喷气式飞机可搭载三百多名乘客飞越太平洋。"
+    ]
+  },
+  {
+    "w": "jewel",
+    "r": "词源: 来自拉丁语jocus(玩笑/珍宝), 经由古法语jouel -> 珠宝",
+    "c": [
+      "The museum displayed a rare collection of jewel artifacts from the royal family.",
+      "博物馆展出了一批罕见的王室珠宝文物。"
+    ]
+  },
+  {
+    "w": "jewellery",
+    "r": "jewel(珠宝) + -lery(名词后缀,表集合/总称) -> 珠宝的总称 -> 珠宝饰物",
+    "c": [
+      "Gold and silver are traditional materials used to craft fine jewellery for special occasions.",
+      "金和银是制作特殊场合精美珠宝的传统材料。"
+    ]
+  },
+  {
+    "w": "jewelry",
+    "r": "jewel(珠宝) + -ry(名词后缀,表集合) -> 珠宝的总称 -> 珠宝",
+    "c": [
+      "The local boutique sells handcrafted silver jewelry inspired by traditional cultural designs.",
+      "这家当地精品店出售受传统文化设计启发的手工银饰。"
+    ]
+  },
+  {
+    "w": "jingle",
+    "r": "联想: 拟声词, 模仿金属铃铛的丁当声 -> 丁当响",
+    "c": [
+      "The jingle of coins in his pocket reminded him of his limited budget for the semester.",
+      "他口袋里硬币的丁当声提醒他这学期预算有限。"
+    ]
+  },
+  {
+    "w": "job",
+    "r": "词源: 来自中古英语jobbe(一件工作), 原指零散的活计 -> 工作",
+    "c": null
+  },
+  {
+    "w": "jog",
+    "r": "词源: 来自中古英语joggen(摇动), 与shrug同根 -> 慢跑",
+    "c": [
+      "Many students jog around the campus track every morning to stay physically fit.",
+      "许多学生每天早晨绕着校园跑道慢跑以保持身体健康。"
+    ]
+  },
+  {
+    "w": "join",
+    "r": "词源: 来自拉丁语jungere(连接), 经由古法语joindre -> 参加、连接",
+    "c": null
+  },
+  {
+    "w": "joint",
+    "r": "join(连接) + -t(名词后缀) -> 连接之处 -> 关节、共同的",
+    "c": null
+  },
+  {
+    "w": "joke",
+    "r": "词源: 来自拉丁语jocus(玩笑), 经由古法语joc -> 笑话",
+    "c": [
+      "The professor told a joke to lighten the mood before the difficult midterm exam.",
+      "教授讲了一个笑话, 以在难度较大的期中考试前缓和气氛。"
+    ]
+  },
+  {
+    "w": "jolly",
+    "r": "jolly(古法语jolif, 快乐的) + -y(形容词后缀) -> 快乐的、非常",
+    "c": [
+      "The jolly atmosphere at the graduation ceremony made every graduate feel celebrated.",
+      "毕业典礼上欢乐的气氛让每位毕业生都感到备受庆祝。"
+    ]
+  },
+  {
+    "w": "journal",
+    "r": "journ(天, 日, 来自拉丁语dies) + -al(名词后缀) -> 每日的记录 -> 日记、期刊",
+    "c": null
+  },
+  {
+    "w": "journalist",
+    "r": "journal(日报/期刊) + -ist(人) -> 为期刊写作的人 -> 记者",
+    "c": [
+      "The freelance journalist traveled across the country to report on rural education issues.",
+      "这位自由记者走遍全国各地报道农村教育问题。"
+    ]
+  },
+  {
+    "w": "journey",
+    "r": "journ(天) + -ey(名词后缀) -> 一天的行程 -> 旅行",
+    "c": null
+  },
+  {
+    "w": "joy",
+    "r": "词源: 来自拉丁语gaudere(高兴), 经由古法语joie -> 欢乐",
+    "c": null
+  },
+  {
+    "w": "judge",
+    "r": "jud(判断, 来自拉丁语judicare) + -e -> 判断、法官",
+    "c": null
+  },
+  {
+    "w": "judgment",
+    "r": "judge(判断/法官) + -ment(名词后缀,表行为/结果) -> 判断的行为 -> 裁判、判断",
+    "c": null
+  },
+  {
+    "w": "judicial",
+    "r": "judic(判断, 来自拉丁语judex法官) + -ial(形容词后缀) -> 法官的 -> 司法的、公正的",
+    "c": [
+      "The judicial system plays a vital role in upholding the rule of law and protecting citizens' rights.",
+      "司法体系在维护法治和保护公民权利方面发挥着至关重要的作用。"
+    ]
+  },
+  {
+    "w": "jug",
+    "r": "词源: 来自中古英语jugge, 可能与古法语jug(水壶)同源 -> 罐",
+    "c": [
+      "She poured warm milk from the ceramic jug into a cup for her evening tea.",
+      "她将陶瓷罐里的温牛奶倒入杯中, 准备喝她的晚间奶茶。"
+    ]
+  },
+  {
+    "w": "juice",
+    "r": "词源: 来自拉丁语jus(汁液, 汤), 经由古法语jus -> 果汁",
+    "c": [
+      "Freshly squeezed orange juice is rich in vitamin C and popular among health-conscious students.",
+      "鲜榨橙汁富含维生素C, 在注重健康的学生中很受欢迎。"
+    ]
+  },
+  {
+    "w": "july",
+    "r": "词源: 来自拉丁语Julius, 以罗马独裁者Julius Caesar命名 -> 七月",
+    "c": [
+      "July is usually the hottest month of the year, with many students enjoying their summer vacation.",
+      "七月通常是一年中最热的月份, 许多学生享受着他们的暑假。"
+    ]
+  },
+  {
+    "w": "jump",
+    "r": "词源: 可能来自古法语jumper(抖动), 起源有争议 -> 跳",
+    "c": null
+  },
+  {
+    "w": "junction",
+    "r": "junct(连接, 来自拉丁语jungere连接) + -ion(名词后缀) -> 连接的状态 -> 连接、交叉口",
+    "c": [
+      "The construction at the highway junction caused major traffic delays during rush hour.",
+      "高速公路交叉口的施工在高峰时段造成了严重的交通延误。"
+    ]
+  },
+  {
+    "w": "june",
+    "r": "词源: 来自拉丁语Junius, 以罗马女神Juno命名 -> 六月",
+    "c": [
+      "June marks the beginning of summer and the end of the academic year for most universities.",
+      "六月标志着夏季的开始和大多数学术院校学年的结束。"
+    ]
+  },
+  {
+    "w": "jungle",
+    "r": "词源: 来自梵语jangala(荒地, 森林), 经由印地语jangal -> 丛林",
+    "c": [
+      "Researchers ventured deep into the jungle to study rare plant species and indigenous cultures.",
+      "研究人员深入丛林研究稀有植物物种和土著文化。"
+    ]
+  },
+  {
+    "w": "junior",
+    "r": "jun(年轻, 来自拉丁语juvenis年轻的) + -ior(比较级后缀) -> 更年轻的 -> 年资较浅的",
+    "c": null
+  },
+  {
+    "w": "junk",
+    "r": "词源: 来自中古英语jonke(旧缆绳), 引申为废旧物品 -> 垃圾",
+    "c": [
+      "Students should avoid eating too much junk food and maintain a balanced diet instead.",
+      "学生应避免吃太多垃圾食品, 而应保持均衡饮食。"
+    ]
+  },
+  {
+    "w": "jupiter",
+    "r": "词源: 来自拉丁语Iuppiter, 罗马神话中最高天神朱庇特 -> 木星",
+    "c": [
+      "Jupiter is the largest planet in our solar system, with dozens of known moons orbiting around it.",
+      "木星是太阳系中最大的行星, 有数十颗已知卫星围绕它运行。"
+    ]
+  },
+  {
+    "w": "jurisdiction",
+    "r": "juris(法律, 权利, 来自拉丁语jus) + dict(说, 宣称) + -ion(名词后缀) -> 依法宣告的权力 -> 管辖权",
+    "c": [
+      "The court debated whether the case fell within its jurisdiction before proceeding with the trial.",
+      "法院在开始审理前就该案是否属于其管辖权范围进行了辩论。"
+    ]
+  },
+  {
+    "w": "jury",
+    "r": "jur(发誓, 法律, 来自拉丁语jurare) + -y(名词后缀) -> 发誓裁决的人 -> 陪审团",
+    "c": [
+      "The jury deliberated for three days before reaching a verdict in the high-profile case.",
+      "陪审团在这起备受关注的案件中审议了三天才作出裁决。"
+    ]
+  },
+  {
+    "w": "just",
+    "r": "词源: 来自拉丁语justus(公正的), 源自jus(法律/权利) -> 公正的、仅仅",
+    "c": [
+      "The research team found just three participants who met all the strict inclusion criteria.",
+      "研究团队只找到了三名符合所有严格纳入标准的参与者。"
+    ]
+  },
+  {
+    "w": "justice",
+    "r": "just(公正的) + -ice(名词后缀,表性质) -> 公正的性质 -> 公平、审判",
+    "c": null
+  },
+  {
+    "w": "justifiable",
+    "r": "justify(证明正当) + -able(形容词后缀,可…的) -> 可被证明正当的 -> 理所应当的",
+    "c": null
+  },
+  {
+    "w": "justification",
+    "r": "just(公正) + -ific(使…) + -ation(名词后缀) -> 使公正的理由 -> 正当的理由",
+    "c": null
+  },
+  {
+    "w": "justified",
+    "r": "justify(证明正当) + -ed(形容词/过去分词后缀) -> 被证明正当的 -> 正当的",
+    "c": [
+      "The professor argued that stricter plagiarism rules were justified by rising academic dishonesty.",
+      "教授认为, 由于学术不端行为增加, 更严格的抄袭规定是正当的。"
+    ]
+  },
+  {
+    "w": "justify",
+    "r": "just(公正) + -ify(动词后缀,使…) -> 使公正 -> 证明…正当",
+    "c": null
+  },
+  {
+    "w": "juvenile",
+    "r": "juven(年轻, 来自拉丁语juvenis年轻的) + -ile(形容词后缀) -> 年轻的 -> 青少年",
+    "c": [
+      "Juvenile delinquency programs aim to prevent young people from entering the criminal justice system.",
+      "青少年犯罪预防项目旨在防止年轻人进入刑事司法体系。"
+    ]
+  },
+  {
+    "w": "keen",
+    "r": "词源: 来自古英语cene(聪明的, 勇敢的), 与德语kühn同源 -> 热忱的、敏锐的",
+    "c": [
+      "Many keen students volunteer for research projects to gain practical laboratory experience.",
+      "许多热忱的学生志愿参加研究项目以获得实际的实验室经验。"
+    ]
+  },
+  {
+    "w": "keep",
+    "r": "词源: 来自古英语cepan(抓住, 保持), 与荷兰语kopen(买)同源 -> 保持",
+    "c": [
+      "University libraries keep extensive collections of academic journals and rare reference books.",
+      "大学图书馆收藏了大量的学术期刊和稀有参考书籍。"
+    ]
+  },
+  {
+    "w": "kernel",
+    "r": "kern(谷粒, 来自古英语corn) + -el(指小后缀) -> 小谷粒 -> 核、谷粒",
+    "c": [
+      "The kernel of the research proposal was a novel approach to renewable energy storage.",
+      "这份研究提案的核心是一种新颖的可再生能源储存方法。"
+    ]
+  },
+  {
+    "w": "kettle",
+    "r": "词源: 来自古英语cetel(水壶), 源自拉丁语catillus(小盘) -> 水壶",
+    "c": [
+      "She boiled water in an electric kettle before preparing her morning tea and breakfast.",
+      "她用电壶烧开水, 然后准备早茶和早餐。"
+    ]
+  },
+  {
+    "w": "key",
+    "r": "词源: 来自古英语caeg(钥匙), 起源不明 -> 钥匙、关键",
+    "c": null
+  },
+  {
+    "w": "keyboard",
+    "r": "复合: key(键/钥匙) + board(板) -> 有按键的板 -> 键盘",
+    "c": [
+      "Students taking online courses rely heavily on their computer keyboard for daily assignments.",
+      "参加在线课程的学生在日常作业中高度依赖电脑键盘。"
+    ]
+  },
+  {
+    "w": "kick",
+    "r": "词源: 来自古挪威语kikna(向后弯), 引申为踢的动作 -> 踢",
+    "c": [
+      "The soccer player had to kick the ball past three defenders to score the winning goal.",
+      "足球运动员必须将球踢过三名后卫才能射入制胜一球。"
+    ]
+  },
+  {
+    "w": "kid",
+    "r": "词源: 来自古挪威语kidh(小山羊), 后引申为小孩 -> 孩子",
+    "c": null
+  },
+  {
+    "w": "kidnap",
+    "r": "复合: kid(孩子) + nap(偷, 来自nab) -> 偷走孩子 -> 绑架",
+    "c": [
+      "International law enforcement agencies cooperate to combat organized kidnap and trafficking rings.",
+      "国际执法机构合作打击有组织的绑架和贩运团伙。"
+    ]
+  },
+  {
+    "w": "kidney",
+    "r": "词源: 来自古英语cwith(肾) + ney(蛋状物), 后合为kidney -> 肾",
+    "c": [
+      "Patients with chronic kidney disease often require regular dialysis to maintain their health.",
+      "慢性肾病患者通常需要定期透析以维持健康。"
+    ]
+  },
+  {
+    "w": "kill",
+    "r": "词源: 来自古英语cwellan(杀死), 与古挪威语kvelja同源 -> 杀",
+    "c": null
+  },
+  {
+    "w": "kilogram",
+    "r": "复合: kilo(千, 来自希腊语chilioi) + gram(克) -> 一千克 -> 公斤",
+    "c": null
+  },
+  {
+    "w": "kilometre",
+    "r": "复合: kilo(千) + metre(米) -> 一千米 -> 公里",
+    "c": [
+      "The university campus spans more than one square kilometre of park-like landscape.",
+      "这所大学校园占地超过一平方公里, 有着公园般的景观。"
+    ]
+  },
+  {
+    "w": "kilowatt",
+    "r": "复合: kilo(千) + watt(瓦特, 以发明家James Watt命名) -> 千瓦",
+    "c": [
+      "An average household uses about one kilowatt of electricity per hour during the day.",
+      "普通家庭白天每小时大约使用一千瓦的电力。"
+    ]
+  },
+  {
+    "w": "kin",
+    "r": "词源: 来自古英语cynn(家族, 种族), 与kind同源 -> 亲属",
+    "c": [
+      "Students living far from home often form close friendships that feel like family kin.",
+      "离家远的学生往往建立起亲如家人的亲密友谊。"
+    ]
+  },
+  {
+    "w": "kind",
+    "r": "词源: 来自古英语gecynde(自然的, 天生的), 与kin同源 -> 仁慈的、种类",
+    "c": null
+  },
+  {
+    "w": "kindergarten",
+    "r": "复合: kinder(孩子们, 德语kind的复数) + garten(花园) -> 孩子们的花园 -> 幼儿园",
+    "c": null
+  },
+  {
+    "w": "kindle",
+    "r": "词源: 来自古北欧语kynda(点燃), 与古英语cendel(蜡烛)同源 -> 点燃",
+    "c": [
+      "The professor's passionate lecture helped kindle the students' interest in ancient philosophy.",
+      "教授激情洋溢的讲座激发了学生们对古代哲学的兴趣。"
+    ]
+  },
+  {
+    "w": "kindness",
+    "r": "kind(仁慈的) + -ness(名词后缀,表性质) -> 仁慈的性质 -> 善良",
+    "c": null
+  },
+  {
+    "w": "kinetic",
+    "r": "kinet(运动, 来自希腊语kinein移动) + -ic(形容词后缀) -> 运动的 -> 动力的",
+    "c": [
+      "The kinetic energy of a moving object depends on both its mass and its velocity.",
+      "运动物体的动能取决于其质量和速度。"
+    ]
+  },
+  {
+    "w": "king",
+    "r": "词源: 来自古英语cyning(国王), 与古北欧语konungr同源 -> 君主",
+    "c": null
+  },
+  {
+    "w": "kingdom",
+    "r": "复合: king(国王) + dom(领域, 状态) -> 国王的领域 -> 王国",
+    "c": [
+      "Scientists classify living organisms into five major kingdoms based on their cellular structure.",
+      "科学家根据细胞结构将生物体分为五大界。"
+    ]
+  },
+  {
+    "w": "kiss",
+    "r": "词源: 来自古英语cyssan(亲吻), 与古高地德语kuss同源 -> 亲吻",
+    "c": [
+      "Cultural norms regarding when and where to kiss as a greeting vary widely across societies.",
+      "关于何时何地以亲吻作为问候的文化规范在不同社会中差异很大。"
+    ]
+  },
+  {
+    "w": "kit",
+    "r": "词源: 来自中古英语kit(小木桶), 引申为装备包 -> 装备",
+    "c": [
+      "Every student in the chemistry lab receives a safety kit with goggles, gloves, and an apron.",
+      "化学实验室的每个学生都会收到一套包含护目镜、手套和围裙的安全装备。"
+    ]
+  },
+  {
+    "w": "kitchen",
+    "r": "词源: 来自拉丁语coquina(厨房), 源自coquere(烹饪), 经由古英语cycene -> 厨房",
+    "c": null
+  },
+  {
+    "w": "kite",
+    "r": "词源: 来自古英语cyta(鸢), 因风筝形似鸢鸟而得名 -> 风筝",
+    "c": [
+      "On windy spring afternoons, families gather on the lawn to fly colorful kites together.",
+      "在有风的春日下午, 家人们聚集在草坪上一起放飞彩色的风筝。"
+    ]
+  },
+  {
+    "w": "knee",
+    "r": "词源: 来自古英语cneow(膝盖), 与拉丁语genu同源 -> 膝盖",
+    "c": [
+      "Athletes who run long distances often experience knee pain from repeated impact on hard surfaces.",
+      "长跑运动员因在硬地面上反复冲击常感到膝盖疼痛。"
+    ]
+  },
+  {
+    "w": "kneel",
+    "r": "knee(膝盖) + -l(动词后缀) -> 用膝盖 -> 跪",
+    "c": [
+      "During the graduation ceremony, students kneel slightly to receive their diplomas from the dean.",
+      "在毕业典礼上, 学生们微微鞠躬从院长手中接过毕业证书。"
+    ]
+  },
+  {
+    "w": "knife",
+    "r": "词源: 来自古英语cnif(刀), 与古挪威语knifr同源 -> 刀",
+    "c": [
+      "Professional chefs must learn how to sharpen a knife properly for efficient and safe food preparation.",
+      "专业厨师必须学会正确磨刀, 以便高效安全地准备食材。"
+    ]
+  },
+  {
+    "w": "knight",
+    "r": "词源: 来自古英语cniht(侍从, 年轻人), 后指骑士 -> 骑士、爵士",
+    "c": null
+  },
+  {
+    "w": "knit",
+    "r": "词源: 来自古英语cnyttan(打结), 与knot同源 -> 编织",
+    "c": [
+      "Grandmothers often knit warm sweaters and scarves for their grandchildren during winter months.",
+      "祖母们常在冬季为孙辈编织温暖的毛衣和围巾。"
+    ]
+  },
+  {
+    "w": "knob",
+    "r": "词源: 来自中古英语knobbe(疙瘩, 球形物), 与knop同源 -> 旋钮",
+    "c": [
+      "You can adjust the volume by turning the small knob on the side of the speaker.",
+      "你可以通过转动扬声器侧面的小旋钮来调节音量。"
+    ]
+  },
+  {
+    "w": "knock",
+    "r": "联想: 拟声词, 模仿敲击硬物的声音 -> 敲",
+    "c": [
+      "Students must knock on the professor's office door before entering during consulting hours.",
+      "学生在咨询时间进入教授办公室前必须先敲门。"
+    ]
+  },
+  {
+    "w": "knot",
+    "r": "词源: 来自古英语cnotta(结), 与knit同源 -> 结",
+    "c": [
+      "Sailors must learn how to tie various types of knots to secure ropes and equipment on ships.",
+      "水手必须学会打各种结以固定船上的绳索和设备。"
+    ]
+  },
+  {
+    "w": "know",
+    "r": "词源: 来自古英语cnawan(知道), 与拉丁语noscere同源 -> 知道",
+    "c": null
+  },
+  {
+    "w": "knowledge",
+    "r": "know(知道) + ledge(名词后缀,表状态/集合) -> 知道的东西 -> 知识",
+    "c": null
+  },
+  {
+    "w": "label",
+    "r": "词源: 来自古法语label(布条, 带条), 引申为标签 -> 标签",
+    "c": null
+  },
+  {
+    "w": "labor",
+    "r": "词源: 来自拉丁语labor(劳苦, 劳作) -> 劳动力、劳动",
+    "c": null
+  },
+  {
+    "w": "laboratory",
+    "r": "labor(劳动/工作) + -atory(名词后缀,表场所) -> 工作的场所 -> 实验室",
+    "c": null
+  },
+  {
+    "w": "lace",
+    "r": "词源: 来自拉丁语laqueus(套索, 网), 经由古法语las -> 花边、系带",
+    "c": [
+      "The bride's wedding dress was decorated with delicate lace and intricate embroidery.",
+      "新娘的婚纱装饰着精致的花边和复杂的刺绣。"
+    ]
+  },
+  {
+    "w": "lack",
+    "r": "词源: 来自中古英语lak(缺失, 缺点), 与古挪威语lakr同源 -> 缺乏",
+    "c": [
+      "Many rural schools lack adequate funding for science equipment and modern textbooks.",
+      "许多农村学校缺乏足够的资金购买科学设备和现代教科书。"
+    ]
+  },
+  {
+    "w": "lad",
+    "r": "词源: 来自中古英语lad(少年, 仆人), 起源不明 -> 小伙子",
+    "c": [
+      "The young lad from a small town worked hard to earn a scholarship to the state university.",
+      "这个来自小镇的小伙子努力学习, 获得了州立大学的奖学金。"
+    ]
+  },
+  {
+    "w": "ladder",
+    "r": "词源: 来自古英语hlæder(梯子), 与古高地德语leitara同源 -> 梯子",
+    "c": null
+  },
+  {
+    "w": "lady",
+    "r": "词源: 来自古英语hlaefdige(揉面包的女人), 后演变为对女性的尊称 -> 女士",
+    "c": [
+      "The lady guest speaker shared her inspiring journey from poverty to academic success.",
+      "这位女嘉宾分享了她从贫困走向学术成功的鼓舞人心的历程。"
+    ]
+  },
+  {
+    "w": "lag",
+    "r": "词源: 可能来自中古英语laggen(延迟), 与lay同源 -> 落后、滞后",
+    "c": [
+      "Students who miss classes often lag behind their peers in understanding complex course material.",
+      "缺课的学生在理解复杂课程内容方面往往落后于同龄人。"
+    ]
+  },
+  {
+    "w": "lake",
+    "r": "词源: 来自拉丁语lacus(湖泊), 经由古法语lac -> 湖",
+    "c": [
+      "Environmental scientists monitor water quality in the lake to detect early signs of pollution.",
+      "环境科学家监测湖泊水质以发现污染的早期迹象。"
+    ]
+  },
+  {
+    "w": "lamb",
+    "r": "词源: 来自古英语lamb(羔羊), 与德语Lamm同源 -> 羔羊",
+    "c": [
+      "The shepherd led a flock of sheep and their young lambs to fresh pasture in the valley.",
+      "牧羊人领着一群羊和它们的小羊羔到山谷里新鲜的牧场。"
+    ]
+  },
+  {
+    "w": "lame",
+    "r": "词源: 来自古英语lama(跛的), 与古高地德语lam同源 -> 痛的、跛的、站不住脚的",
+    "c": [
+      "His lame excuse for missing the exam failed to convince the strict course instructor.",
+      "他错过考试的蹩脚借口没能说服严格的授课老师。"
+    ]
+  },
+  {
+    "w": "lamp",
+    "r": "词源: 来自希腊语lampas(火炬, 灯), 源自lampein(发光) -> 灯",
+    "c": [
+      "Desk lamps with adjustable brightness help reduce eye strain during long study sessions.",
+      "亮度可调的台灯有助于在长时间学习时减轻眼睛疲劳。"
+    ]
+  },
+  {
+    "w": "land",
+    "r": "词源: 来自古英语land(土地), 与德语Land同源 -> 土地、着陆",
+    "c": null
+  },
+  {
+    "w": "landlord",
+    "r": "复合: land(土地) + lord(主人) -> 土地的主人 -> 房东",
+    "c": [
+      "Off-campus students must carefully review the lease agreement before paying the landlord a deposit.",
+      "校外学生在向房东支付押金前必须仔细审查租赁协议。"
+    ]
+  }
+]

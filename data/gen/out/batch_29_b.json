@@ -1,0 +1,706 @@
+[
+  {
+    "w": "specimen",
+    "r": "spec(看, 来自拉丁语specere) + -imen(名词后缀) -> 用来观看的东西 -> 标本",
+    "c": [
+      "The biology lab stores hundreds of insect specimens collected from various field research projects.",
+      "生物实验室储存着数百个从各种实地研究项目中收集的昆虫标本。"
+    ]
+  },
+  {
+    "w": "spectacle",
+    "r": "spect(看, 来自拉丁语spectare) + -acle(名词后缀, 物) -> 可观看的东西 -> 景象、奇观",
+    "c": [
+      "The total solar eclipse was a breathtaking spectacle that drew thousands of people to the region.",
+      "日全食是一个令人叹为观止的奇观, 吸引了数千人来到该地区。"
+    ]
+  },
+  {
+    "w": "spectacular",
+    "r": "spectacul(景象, 来自spectacle) + -ar(形容词后缀) -> 像奇观一样的 -> 壮观",
+    "c": null
+  },
+  {
+    "w": "spectator",
+    "r": "spect(看) + -at(动词后缀) + -or(人) -> 观看的人 -> 观众",
+    "c": [
+      "Thousands of spectators filled the stadium to watch the opening ceremony of the sports games.",
+      "数千名观众挤满了体育场观看运动会的开幕式。"
+    ]
+  },
+  {
+    "w": "spectrum",
+    "r": "来自拉丁语spectrum(影像、幽灵), 源自specere(看) -> 光谱",
+    "c": null
+  },
+  {
+    "w": "speculate",
+    "r": "specul(看, 来自拉丁语speculari观察) + -ate(动词后缀) -> 仔细观察后思考 -> 推测",
+    "c": [
+      "Economists speculate that rising interest rates will slow down the housing market next year.",
+      "经济学家推测, 利率上升将在明年减缓房地产市场。"
+    ]
+  },
+  {
+    "w": "speech",
+    "r": "来自古英语sprac(话语), 与德语Sprache同源 -> 演讲、言语",
+    "c": null
+  },
+  {
+    "w": "speed",
+    "r": "来自古英语sped(成功、速度), 与德语Geschwindigkeit同源 -> 加速",
+    "c": [
+      "The new high-speed railway will significantly speed up travel between the two major cities.",
+      "新的高速铁路将大大加快两个主要城市之间的出行速度。"
+    ]
+  },
+  {
+    "w": "spell",
+    "r": "来自古英语spell(故事、咒语), 与德语Sprache同源 -> 拼写、咒语",
+    "c": [
+      "Students often misspell difficult academic words unless they practice writing them regularly.",
+      "学生们经常拼错难的学术词汇, 除非他们定期练习书写。"
+    ]
+  },
+  {
+    "w": "spelling",
+    "r": "spell(拼写) + -ing(名词后缀, 表行为/结果) -> 拼写",
+    "c": [
+      "Good spelling skills are essential for writing clear and professional academic papers.",
+      "良好的拼写能力对于撰写清晰专业的学术论文至关重要。"
+    ]
+  },
+  {
+    "w": "spend",
+    "r": "来自古英语spendan(花费、消耗), 与拉丁语expendere同源 -> 花",
+    "c": [
+      "Many university students spend long hours in the library preparing for their final examinations.",
+      "许多大学生在图书馆花费很长时间准备期末考试。"
+    ]
+  },
+  {
+    "w": "sphere",
+    "r": "来自拉丁语sphaera(球), 源自希腊语sphaira -> 球",
+    "c": null
+  },
+  {
+    "w": "spherical",
+    "r": "spher(球, 来自拉丁语sphaera) + -ical(形容词后缀) -> 球形的",
+    "c": [
+      "Planets have a roughly spherical shape due to the gravitational forces acting upon them.",
+      "由于引力作用, 行星具有大致球形的形状。"
+    ]
+  },
+  {
+    "w": "spice",
+    "r": "来自拉丁语species(香料、种类), 原指有特殊气味的植物 -> 香料、趣味",
+    "c": [
+      "Traders brought rare spices from distant lands, greatly enriching European cuisine and culture.",
+      "商人从遥远的土地带来稀有的香料, 极大地丰富了欧洲的美食和文化。"
+    ]
+  },
+  {
+    "w": "spicy",
+    "r": "spic(e)(香料) + -y(形容词后缀, 有…特征的) -> 有香料味的 -> 辛辣的",
+    "c": [
+      "The spicy Sichuan cuisine has become increasingly popular among young people in northern cities.",
+      "辛辣的川菜在北方城市的年轻人中越来越受欢迎。"
+    ]
+  },
+  {
+    "w": "spider",
+    "r": "来自古英语spithra(蜘蛛), 与spin(纺)同源, 因蜘蛛结网 -> 蜘蛛",
+    "c": null
+  },
+  {
+    "w": "spill",
+    "r": "来自古英语spillan(洒出、破坏), 与德语spillen同源 -> 泄漏",
+    "c": null
+  },
+  {
+    "w": "spin",
+    "r": "来自古英语spinnan(纺、旋转), 与德语spinnen同源 -> 旋转",
+    "c": null
+  },
+  {
+    "w": "spine",
+    "r": "来自拉丁语spina(刺、脊柱) -> 脊柱",
+    "c": [
+      "Sitting for long hours without proper posture can cause serious pain in the spine and neck.",
+      "长时间坐姿不正确会导致脊柱和颈部严重疼痛。"
+    ]
+  },
+  {
+    "w": "spiral",
+    "r": "来自拉丁语spiralis(螺旋的), 源自spira(卷、圈) -> 螺旋",
+    "c": [
+      "The spiral staircase in the historic library building leads up to a beautiful panoramic view.",
+      "历史悠久的图书馆建筑中的螺旋楼梯通向美丽的全景视野。"
+    ]
+  },
+  {
+    "w": "spirit",
+    "r": "来自拉丁语spiritus(呼吸、精神), 源自spirare(呼吸) -> 精神",
+    "c": [
+      "The team showed incredible spirit and determination even when facing overwhelming odds.",
+      "即使面对巨大的困难, 团队仍然表现出令人难以置信的精神和决心。"
+    ]
+  },
+  {
+    "w": "spiritual",
+    "r": "spirit(精神) + -ual(形容词后缀, 与…有关的) -> 精神的",
+    "c": [
+      "Many students find spiritual fulfillment through participation in campus cultural and artistic activities.",
+      "许多学生通过参与校园文化艺术活动获得精神上的满足。"
+    ]
+  },
+  {
+    "w": "spit",
+    "r": "来自古英语spitan(吐), 与德语spucken同源 -> 吐出、吐口水",
+    "c": [
+      "It is considered very rude to spit on the ground in public places such as university campuses.",
+      "在大学校园等公共场所随地吐痰被认为是非常粗鲁的行为。"
+    ]
+  },
+  {
+    "w": "spite",
+    "r": "来自古英语spit(恶意、怨恨), 与荷兰语spijt同源 -> 恶意、怨恨",
+    "c": null
+  },
+  {
+    "w": "splash",
+    "r": "联想: 拟声词, 模仿水溅起的声音 -> 溅泼的量、报道",
+    "c": [
+      "The young artist made quite a splash in the art world with her first major exhibition.",
+      "这位年轻艺术家的首次大型展览在艺术界引起了轰动。"
+    ]
+  },
+  {
+    "w": "splendid",
+    "r": "来自拉丁语splendere(发光), 由splend(发光) + -id(形容词后缀) -> 辉煌的",
+    "c": [
+      "The splendid opening ceremony of the university impressed all the new students and their parents.",
+      "大学辉煌的开幕式给所有新生和他们的父母留下了深刻印象。"
+    ]
+  },
+  {
+    "w": "split",
+    "r": "来自古英语splittan(劈开), 与荷兰语splitten同源 -> 分开、划分",
+    "c": [
+      "The professor asked the students to split into small groups for the classroom discussion exercise.",
+      "教授要求学生分成小组进行课堂讨论练习。"
+    ]
+  },
+  {
+    "w": "spoil",
+    "r": "来自拉丁语polire(损坏), 经由古法语espoillier -> 破坏",
+    "c": [
+      "Heavy rain can spoil outdoor graduation ceremonies if organizers fail to prepare a backup plan.",
+      "如果组织者没有准备备用方案, 大雨可能会破坏户外毕业典礼。"
+    ]
+  },
+  {
+    "w": "spokesman",
+    "r": "复合: spoke(说, speak的过去式) + -s- + man(人) -> 发言人",
+    "c": [
+      "The company spokesman issued a statement addressing the public's concerns about product safety.",
+      "公司发言人发表声明回应公众对产品安全的担忧。"
+    ]
+  },
+  {
+    "w": "sponge",
+    "r": "来自拉丁语spongia(海绵), 源自希腊语 -> 海绵",
+    "c": [
+      "Sea sponges were once harvested in large quantities for use in cleaning and personal hygiene.",
+      "海海绵曾经被大量采集用于清洁和个人卫生。"
+    ]
+  },
+  {
+    "w": "sponsor",
+    "r": "来自拉丁语spondere(承诺、担保), 指为某事担保出资的人 -> 赞助、资助",
+    "c": [
+      "Several local businesses sponsor university scholarships to support students from low-income families.",
+      "几家当地企业赞助大学奖学金以支持低收入家庭的学生。"
+    ]
+  },
+  {
+    "w": "spontaneous",
+    "r": "spont(自愿, 来自拉丁语sponte) + -aneous(形容词后缀, 有…性质的) -> 自愿产生的 -> 自然产生的",
+    "c": [
+      "The audience gave a spontaneous standing ovation after the pianist's breathtaking performance.",
+      "钢琴家令人惊叹的表演结束后, 观众自发起立鼓掌。"
+    ]
+  },
+  {
+    "w": "spoon",
+    "r": "来自古英语spon(木片、匙), 与德语Loffel同源 -> 勺子",
+    "c": [
+      "She carefully measured the sugar with a spoon before adding it to the coffee mixture.",
+      "她用勺子仔细量了糖, 然后才加到咖啡混合物中。"
+    ]
+  },
+  {
+    "w": "sport",
+    "r": "来自古法语desport(娱乐、消遣), 源自拉丁语portare(携带) -> 体育运动",
+    "c": null
+  },
+  {
+    "w": "sportsman",
+    "r": "复合: sport(运动) + -s- + man(人) -> 运动员",
+    "c": [
+      "A true sportsman values fair play and respect for opponents more than winning at all costs.",
+      "真正的运动员更看重公平竞争和对对手的尊重, 而不是不惜一切代价获胜。"
+    ]
+  },
+  {
+    "w": "spot",
+    "r": "来自古英语spot(斑点、污点), 与荷兰语spat同源 -> 发现、污点",
+    "c": null
+  },
+  {
+    "w": "spouse",
+    "r": "来自拉丁语spondere(承诺、订婚), 指做出婚姻承诺的人 -> 配偶",
+    "c": null
+  },
+  {
+    "w": "spray",
+    "r": "来自荷兰语spuiten(喷射), 与古英语spr?tan(喷)同源 -> 喷雾",
+    "c": [
+      "Farmers often use pesticide spray to protect crops from insect damage and disease.",
+      "农民经常使用农药喷雾来保护作物免受虫害和疾病侵害。"
+    ]
+  },
+  {
+    "w": "spread",
+    "r": "来自古英语spr?dan(展开), 与德语breiten同源 -> 传播",
+    "c": null
+  },
+  {
+    "w": "spring",
+    "r": "来自古英语springan(跳跃、弹起), 与德语springen同源 -> 春天、跳跃",
+    "c": [
+      "Spring is the season when many universities hold career fairs for graduating students.",
+      "春天是许多大学为即将毕业的学生举办招聘会的季节。"
+    ]
+  },
+  {
+    "w": "sprinkle",
+    "r": "sprink(撒, 来自古英语sprengan) + -le(动词后缀, 反复动作) -> 洒",
+    "c": null
+  },
+  {
+    "w": "sprout",
+    "r": "来自古英语sprutan(发芽), 与德语sprie?en同源 -> 芽",
+    "c": [
+      "The first green sprouts of spring bring a sense of renewal and hope to the campus garden.",
+      "春天的第一抹绿芽给校园花园带来了更新和希望的感觉。"
+    ]
+  },
+  {
+    "w": "spur",
+    "r": "来自古英语spura(马刺), 用马刺刺激马匹前进 -> 刺激、促进",
+    "c": [
+      "Government investment in renewable energy will spur innovation and create new job opportunities.",
+      "政府对可再生能源的投资将刺激创新并创造新的就业机会。"
+    ]
+  },
+  {
+    "w": "spy",
+    "r": "来自古法语espier(窥视), 源自拉丁语specere(看) -> 监视、间谍",
+    "c": [
+      "The novel tells the story of a spy working undercover during the height of the Cold War.",
+      "这部小说讲述了一个间谍在冷战高峰期从事卧底工作的故事。"
+    ]
+  },
+  {
+    "w": "squad",
+    "r": "来自意大利语squadra(班、队), 源自拉丁语exquadrare(使成方形) -> 班、小队、小组",
+    "c": [
+      "The university's debate squad won first place in the national intercollegiate competition last year.",
+      "大学辩论队去年在全国校际比赛中获得了第一名。"
+    ]
+  },
+  {
+    "w": "squalor",
+    "r": "来自拉丁语squalor(肮脏、粗糙), 源自squalere(肮脏的) -> 肮脏",
+    "c": [
+      "Urban poverty often forces families to live in squalor without access to basic public services.",
+      "城市贫困往往迫使家庭生活在肮脏的环境中, 无法获得基本的公共服务。"
+    ]
+  },
+  {
+    "w": "square",
+    "r": "来自拉丁语quadra(正方形), 经由古法语esquarre -> 正方形",
+    "c": [
+      "The main square of the university campus is a popular gathering place for students between classes.",
+      "大学校园的主广场是学生课间受欢迎的聚会场所。"
+    ]
+  },
+  {
+    "w": "squash",
+    "r": "来自拉丁语exquadrare(压碎、使成方形), 经由古法语esquasser -> 压碎",
+    "c": [
+      "Too many students tried to squash into the small lecture hall for the famous professor's talk.",
+      "太多学生试图挤进小演讲厅听那位著名教授的讲座。"
+    ]
+  },
+  {
+    "w": "squat",
+    "r": "来自古法语esquatir(蹲下), 源自拉丁语coactus(强迫的) -> 蹲下",
+    "c": [
+      "The archaeologist had to squat down carefully to examine the ancient pottery fragment in the dirt.",
+      "考古学家不得不小心地蹲下来检查泥土中的古代陶器碎片。"
+    ]
+  },
+  {
+    "w": "squeeze",
+    "r": "来自拉丁语excludere(挤出), 经由古英语cwysan -> 挤压",
+    "c": null
+  },
+  {
+    "w": "squirrel",
+    "r": "来自希腊语skiouros(松鼠), 由skia(影子) + oura(尾巴)组成, 意为有影子尾巴的 -> 松鼠",
+    "c": [
+      "Students often see squirrels running up and down the oak trees on the university campus.",
+      "学生们经常看到松鼠在大学校园的橡树上跑上跑下。"
+    ]
+  },
+  {
+    "w": "stab",
+    "r": "来自古英语stabbian(刺), 与挪威语staba同源 -> 刺、刺伤",
+    "c": [
+      "The sudden drop in enrollment came as a stab in the back to the university's administration.",
+      "入学人数的突然下降对大学管理层来说是一个意外的打击。"
+    ]
+  },
+  {
+    "w": "stability",
+    "r": "st(站, 来自拉丁语stare) + -ability(名词后缀, 表能力) -> 能站立的状态 -> 稳定",
+    "c": null
+  },
+  {
+    "w": "stabilize",
+    "r": "stabil(稳定的, 来自stable) + -ize(动词后缀, 使…) -> 使稳定",
+    "c": null
+  },
+  {
+    "w": "stable",
+    "r": "来自拉丁语stabilis(稳定的), 源自stare(站) -> 稳定的",
+    "c": null
+  },
+  {
+    "w": "stack",
+    "r": "来自古英语stac(堆), 与挪威语stakkr同源 -> 堆",
+    "c": [
+      "The librarian asked the students not to stack their books on the reading room tables when leaving.",
+      "图书管理员要求学生离开时不要将书堆放在阅览室的桌子上。"
+    ]
+  },
+  {
+    "w": "stadium",
+    "r": "来自希腊语stadion(赛跑场), 原指长度单位斯塔德 -> 体育场",
+    "c": [
+      "The university built a new stadium with a seating capacity of thirty thousand for athletic events.",
+      "大学建造了一个可容纳三万人的新体育场用于体育赛事。"
+    ]
+  },
+  {
+    "w": "staff",
+    "r": "来自古英语staef(杖、杆), 与德语Stab同源, 引申为工作人员 -> 员工",
+    "c": null
+  },
+  {
+    "w": "stage",
+    "r": "来自古法语estage(阶段、楼层), 源自拉丁语stare(站) -> 阶段",
+    "c": null
+  },
+  {
+    "w": "stagger",
+    "r": "来自古英语stacrian(蹒跚), 与stac(堆)相关, 走路像不稳的堆 -> 蹒跚",
+    "c": null
+  },
+  {
+    "w": "stagnant",
+    "r": "stagn(静止的水, 来自拉丁语stagnum池塘) + -ant(形容词后缀) -> 不流动的 -> 停滞的",
+    "c": [
+      "Without continuous reform and innovation, even successful universities can become stagnant over time.",
+      "没有持续的改革和创新, 即使是成功的大学也会随着时间变得停滞不前。"
+    ]
+  },
+  {
+    "w": "stagnate",
+    "r": "stagn(静止的水) + -ate(动词后缀, 使…) -> 使静止 -> 停滞不前",
+    "c": [
+      "If you do not keep learning new skills, your career may stagnate and you will fall behind.",
+      "如果你不继续学习新技能, 你的职业生涯可能会停滞不前, 你会落后。"
+    ]
+  },
+  {
+    "w": "stain",
+    "r": "来自古英语stain(染色、污点), 与拉丁语tingere(浸泡)同源 -> 污点、着色",
+    "c": [
+      "The ink stain on the library book was so large that the student had to pay for the damage.",
+      "图书馆书上的墨水污渍太大了, 学生不得不赔偿损失。"
+    ]
+  },
+  {
+    "w": "stainless",
+    "r": "stain(污点) + -less(形容词后缀, 没有…的) -> 没有污点的 -> 不锈的、纯洁的",
+    "c": [
+      "Stainless steel cutlery is widely used in university dining halls because it is durable and easy to clean.",
+      "不锈钢餐具广泛用于大学食堂, 因为它耐用且易于清洁。"
+    ]
+  },
+  {
+    "w": "stair",
+    "r": "来自古英语staeger(阶梯), 与德语Stiege同源 -> 楼梯",
+    "c": [
+      "Taking the stairs instead of the elevator is an easy way to add exercise to your daily routine.",
+      "走楼梯而不是乘电梯是在日常生活中增加锻炼的简单方法。"
+    ]
+  },
+  {
+    "w": "staircase",
+    "r": "复合: stair(楼梯) + case(箱、套) -> 楼梯间 -> 楼梯",
+    "c": [
+      "The grand staircase at the entrance of the main building is a famous landmark of the university.",
+      "主楼入口处的大楼梯是这所大学的著名地标。"
+    ]
+  },
+  {
+    "w": "stairway",
+    "r": "复合: stair(楼梯) + way(路) -> 楼梯",
+    "c": [
+      "The emergency stairway must remain clear at all times for safety and evacuation purposes.",
+      "为了安全和疏散目的, 紧急楼梯必须始终保持畅通。"
+    ]
+  },
+  {
+    "w": "stake",
+    "r": "来自古英语staca(桩), 与德语Stecken同源, 由桩引申为赌注 -> 桩、赌注",
+    "c": null
+  },
+  {
+    "w": "stale",
+    "r": "来自古英语stalu(旧的、不新鲜的), 与荷兰语stele同源 -> 陈腐的、不新鲜的",
+    "c": [
+      "Students quickly become tired of the stale cafeteria food that is served every single day.",
+      "学生们很快就厌倦了每天供应的不新鲜的食堂饭菜。"
+    ]
+  },
+  {
+    "w": "stalk",
+    "r": "来自古英语stalu(茎、柄), 与德语Stiel同源 -> 茎",
+    "c": [
+      "The tall stalk of the sunflower plant supported a large, bright yellow flower at its top.",
+      "向日葵植株的高茎顶端支撑着一朵大而明亮的黄色花朵。"
+    ]
+  },
+  {
+    "w": "stall",
+    "r": "来自古英语steall(位置、摊位), 与德语Stall同源 -> 货摊、失速、拖延",
+    "c": [
+      "Students can browse book stalls outside the campus gate to find cheap second-hand textbooks.",
+      "学生们可以在校门外浏览书摊, 寻找便宜的二手教科书。"
+    ]
+  },
+  {
+    "w": "stammer",
+    "r": "来自古英语stamerian(口吃), 与德语stammeln同源 -> 口吃地说",
+    "c": [
+      "Nervous students sometimes stammer when they must give speeches in front of the entire class.",
+      "紧张的学生在必须在全班面前演讲时有时会口吃。"
+    ]
+  },
+  {
+    "w": "stamp",
+    "r": "来自古英语stampan(跺脚、盖章), 与德语stempeln同源 -> 邮票",
+    "c": null
+  },
+  {
+    "w": "stance",
+    "r": "来自意大利语stanza(姿势、位置), 源自拉丁语stare(站) -> 立场",
+    "c": [
+      "The university administration took a firm stance against academic dishonesty and plagiarism.",
+      "大学管理层对学术不端和剽窃行为采取了坚定的立场。"
+    ]
+  },
+  {
+    "w": "stand",
+    "r": "来自古英语standan(站立), 与德语stehen同源 -> 站立",
+    "c": null
+  },
+  {
+    "w": "standard",
+    "r": "stand(站) + -ard(名词后缀, 表性质) -> 站立的标志/水准 -> 标准",
+    "c": [
+      "The university maintains high academic standards to ensure the quality of its degree programs.",
+      "大学保持高学术标准以确保其学位课程的质量。"
+    ]
+  },
+  {
+    "w": "standardize",
+    "r": "standard(标准) + -ize(动词后缀, 使…) -> 使标准化",
+    "c": [
+      "The education department is working to standardize testing procedures across all state universities.",
+      "教育部门正在努力使所有州立大学的考试程序标准化。"
+    ]
+  },
+  {
+    "w": "standpoint",
+    "r": "复合: stand(站) + point(点) -> 站立的点 -> 立场",
+    "c": [
+      "From a historical standpoint, this event marked a turning point in the development of modern science.",
+      "从历史的角度来看, 这一事件标志着现代科学发展的一个转折点。"
+    ]
+  },
+  {
+    "w": "staple",
+    "r": "来自古英语stapol(支柱、主要产品), 与staple(订书钉)同形异源 -> 主要的、订书钉",
+    "c": [
+      "Rice and wheat have been staple foods for human civilizations across Asia and Europe for thousands of years.",
+      "大米和小麦数千年来一直是亚洲和欧洲人类文明的主食。"
+    ]
+  },
+  {
+    "w": "star",
+    "r": "来自古英语steorra(星), 与德语Stern同源 -> 星、恒星",
+    "c": null
+  },
+  {
+    "w": "stare",
+    "r": "来自古英语starian(盯着看), 与德语starren同源 -> 盯着",
+    "c": [
+      "It is considered impolite to stare at people for a long time in most cultural contexts.",
+      "在大多数文化背景下, 长时间盯着别人看被认为是不礼貌的。"
+    ]
+  },
+  {
+    "w": "start",
+    "r": "来自古英语stertan(跳起、开始), 与德语starten同源 -> 开始",
+    "c": null
+  },
+  {
+    "w": "startle",
+    "r": "start(跳起) + -le(动词后缀, 反复动作) -> 使人跳起 -> 吃惊",
+    "c": [
+      "The sudden loud noise from the construction site startled students studying in the library.",
+      "建筑工地突然发出的巨大噪音吓了在图书馆学习的学生一跳。"
+    ]
+  },
+  {
+    "w": "starve",
+    "r": "来自古英语steorfan(死、饿死), 与德语sterben(死)同源 -> 挨饿",
+    "c": [
+      "Millions of people around the world continue to starve despite global efforts to reduce hunger.",
+      "尽管全球努力减少饥饿, 世界各地仍有数百万人继续挨饿。"
+    ]
+  },
+  {
+    "w": "state",
+    "r": "来自拉丁语status(状态、地位), 源自stare(站) -> 陈述、状态",
+    "c": null
+  },
+  {
+    "w": "statement",
+    "r": "state(陈述) + -ment(名词后缀, 表行为/结果) -> 声明",
+    "c": [
+      "The university president released an official statement addressing the recent tuition increase controversy.",
+      "大学校长发表了一份正式声明, 回应最近的学费上涨争议。"
+    ]
+  },
+  {
+    "w": "statesman",
+    "r": "复合: state(国家) + -s- + man(人) -> 管理国家的人 -> 政治家",
+    "c": [
+      "A wise statesman always considers the long-term interests of the nation before making decisions.",
+      "一位明智的政治家在做决定前总是考虑国家的长远利益。"
+    ]
+  },
+  {
+    "w": "static",
+    "r": "stat(站, 来自拉丁语stare) + -ic(形容词后缀, …的) -> 站立不动的 -> 静态的、静电",
+    "c": null
+  },
+  {
+    "w": "station",
+    "r": "stat(站) + -ion(名词后缀) -> 站立的位置 -> 车站",
+    "c": [
+      "The new subway station near the university campus has made commuting much easier for students.",
+      "大学校园附近的新地铁站使学生通勤变得更加容易。"
+    ]
+  },
+  {
+    "w": "stationary",
+    "r": "station(位置) + -ary(形容词后缀, 与…有关的) -> 停在原地的 -> 稳定的",
+    "c": [
+      "Unlike mobile devices, stationary desktop computers generally offer more processing power and storage.",
+      "与移动设备不同, 固定的台式电脑通常提供更强的处理能力和更大的存储空间。"
+    ]
+  },
+  {
+    "w": "stationery",
+    "r": "station(位置, 原指文具商固定摊位) + -ery(名词后缀, 表事物) -> 文具",
+    "c": [
+      "The campus bookstore sells all kinds of stationery including notebooks, pens, and folders.",
+      "校园书店出售各种文具, 包括笔记本、钢笔和文件夹。"
+    ]
+  },
+  {
+    "w": "statistics",
+    "r": "stat(状态) + -ist + -ics(学科) -> 研究状态数据的学科 -> 统计",
+    "c": [
+      "Statistics show that students who study abroad tend to have better employment opportunities.",
+      "统计数据显示, 出国留学的学生往往有更好的就业机会。"
+    ]
+  },
+  {
+    "w": "statue",
+    "r": "来自拉丁语statua(雕像), 源自statuere(竖立, 设立) -> 雕塑",
+    "c": null
+  },
+  {
+    "w": "status",
+    "r": "来自拉丁语status(状态、地位), 源自stare(站) -> 状态",
+    "c": null
+  },
+  {
+    "w": "statute",
+    "r": "来自拉丁语statutum(法令), 源自statuere(设立) -> 法规",
+    "c": [
+      "New federal statutes on data privacy will affect how universities handle student information.",
+      "关于数据隐私的新联邦法规将影响大学处理学生信息的方式。"
+    ]
+  },
+  {
+    "w": "stay",
+    "r": "来自古英语stegan(停留), 与拉丁语stare(站)同源 -> 保持、停留",
+    "c": null
+  },
+  {
+    "w": "steady",
+    "r": "来自古英语stedi(稳定的), 与德语stetig同源, 源自stede(位置) -> 稳定的",
+    "c": null
+  },
+  {
+    "w": "steak",
+    "r": "来自古英语stec(肉片), 与古诺尔斯语steik同源 -> 牛排",
+    "c": [
+      "Many students enjoy going out for steak dinner to celebrate after completing their final exams.",
+      "许多学生在期末考试结束后喜欢出去吃牛排晚餐庆祝。"
+    ]
+  },
+  {
+    "w": "steal",
+    "r": "来自古英语stelan(偷), 与德语stehlen同源 -> 偷",
+    "c": null
+  },
+  {
+    "w": "steam",
+    "r": "来自古英语steam(蒸汽), 与德语Dampf同源 -> 蒸汽",
+    "c": [
+      "The invention of the steam engine revolutionized transportation and manufacturing during the Industrial Revolution.",
+      "蒸汽机的发明在工业革命期间彻底改变了运输和制造业。"
+    ]
+  }
+]

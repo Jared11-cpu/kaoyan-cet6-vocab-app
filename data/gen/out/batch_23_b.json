@@ -1,0 +1,688 @@
+[
+  {
+    "w": "plot",
+    "r": "来自古英语plot(小块地、图), 引申为情节、密谋 -> 情节",
+    "c": null
+  },
+  {
+    "w": "plough",
+    "r": "来自古英语ploh(犁), 与德语Pflug同源 -> 犁",
+    "c": [
+      "Farmers use modern machinery to plough their fields more efficiently than traditional methods.",
+      "农民使用现代机械耕地比传统方法效率更高。"
+    ]
+  },
+  {
+    "w": "pluck",
+    "r": "来自古英语pluccian(拔、摘), 与荷兰语plukken同源 -> 鼓起(勇气)、振作",
+    "c": [
+      "She managed to pluck up the courage to present her research at the national conference.",
+      "她鼓起勇气在全国性会议上展示了自己的研究。"
+    ]
+  },
+  {
+    "w": "plug",
+    "r": "来自古英语plugge(塞子), 词源不明 -> 塞、插头",
+    "c": [
+      "Students must plug their laptops into the projectors before class presentations begin.",
+      "学生们必须在课堂展示开始前将笔记本电脑连接到投影仪上。"
+    ]
+  },
+  {
+    "w": "plumber",
+    "r": "plumb(铅, 来自拉丁语plumbum) + -er(人) -> 做铅管的人 -> 管道工",
+    "c": null
+  },
+  {
+    "w": "plump",
+    "r": "来自中古英语plump(圆的、胖的), 与荷兰语plomp同源 -> 丰满的",
+    "c": [
+      "The plump little cat became a beloved mascot among students in the library building.",
+      "那只圆滚滚的小猫成了图书馆楼里学生们最喜爱的吉祥物。"
+    ]
+  },
+  {
+    "w": "plunder",
+    "r": "来自德语plundern(抢劫), 原指抢劫家当 -> 掠夺、劫掠",
+    "c": [
+      "Historical records show that invading armies would plunder valuable artworks from conquered cities.",
+      "历史记录显示入侵军队会从被征服的城市中掠夺珍贵的艺术品。"
+    ]
+  },
+  {
+    "w": "plunge",
+    "r": "来自古法语plongier(潜入), 词源不明 -> 陷入、暴跌",
+    "c": [
+      "Stock markets can plunge suddenly when investors lose confidence in economic forecasts.",
+      "当投资者对经济预测失去信心时, 股市可能会突然暴跌。"
+    ]
+  },
+  {
+    "w": "plural",
+    "r": "来自拉丁语pluralis(多数的), 源自plus(更多) -> 复数",
+    "c": [
+      "English grammar rules for plural nouns can be tricky for language learners to master.",
+      "英语名词复数的语法规则对语言学习者来说可能很难掌握。"
+    ]
+  },
+  {
+    "w": "plus",
+    "r": "来自拉丁语plus(更多), 与希腊语pleon(更多)同源 -> 加上、正的",
+    "c": [
+      "The plus side of online learning is greater flexibility for students with busy schedules.",
+      "在线学习的优点是能为日程繁忙的学生提供更大的灵活性。"
+    ]
+  },
+  {
+    "w": "pneumatic",
+    "r": "pneum(呼吸、气, 来自希腊语pneuma) + -atic(形容词后缀) -> 与气有关的 -> 空气的、气动的",
+    "c": [
+      "Pneumatic systems use compressed air to power machinery in manufacturing facilities.",
+      "气动系统使用压缩空气为制造工厂的机械提供动力。"
+    ]
+  },
+  {
+    "w": "pneumonia",
+    "r": "pneumon(肺, 来自希腊语pneumon) + -ia(名词后缀, 疾病) -> 肺部的病 -> 肺炎",
+    "c": [
+      "Vaccination programs have significantly reduced pneumonia mortality rates among elderly populations.",
+      "疫苗接种项目大幅降低了老年人群中的肺炎死亡率。"
+    ]
+  },
+  {
+    "w": "pocket",
+    "r": "来自古法语poche(袋子、口袋), 与poke同源 -> 口袋",
+    "c": [
+      "Students often keep their student ID cards in their jacket pockets for easy access on campus.",
+      "学生们经常把学生证放在夹克口袋里以便在校园里随时取用。"
+    ]
+  },
+  {
+    "w": "poem",
+    "r": "来自希腊语poiema(被做成的东西、诗), 源自poiein(做) -> 诗",
+    "c": null
+  },
+  {
+    "w": "poet",
+    "r": "来自希腊语poetes(创作者、诗人), 源自poiein(做) -> 诗人",
+    "c": null
+  },
+  {
+    "w": "poetry",
+    "r": "poet(诗人) + -ry(名词后缀) -> 诗人的作品 -> 诗歌",
+    "c": [
+      "The university poetry society holds monthly readings open to all students and faculty members.",
+      "大学诗歌协会每月举办朗诵会, 面向所有师生开放。"
+    ]
+  },
+  {
+    "w": "point",
+    "r": "来自拉丁语punctum(点、刺), 源自pungere(刺) -> 点、指",
+    "c": null
+  },
+  {
+    "w": "poison",
+    "r": "来自拉丁语potio(饮料、药水), 后专指有毒的饮料 -> 毒药",
+    "c": null
+  },
+  {
+    "w": "poisonous",
+    "r": "poison(毒药) + -ous(形容词后缀, 充满…的) -> 有毒的",
+    "c": [
+      "Poisonous chemicals must be stored in sealed containers and clearly labeled for safety.",
+      "有毒化学品必须储存在密封容器中并清楚标注以确保安全。"
+    ]
+  },
+  {
+    "w": "poke",
+    "r": "来自中古英语poken(刺、戳), 与荷兰语poken同源 -> 戳、刺",
+    "c": [
+      "Professors often poke fun at their own mistakes to make lectures more engaging for students.",
+      "教授们经常拿自己的错误开玩笑, 让讲座对学生更有吸引力。"
+    ]
+  },
+  {
+    "w": "polar",
+    "r": "来自拉丁语polus(极), 源自希腊语polos(轴、极) -> 极性的、极地的",
+    "c": [
+      "Polar ice caps are melting at an accelerating rate due to rising global temperatures.",
+      "由于全球气温上升, 极地冰盖正在加速融化。"
+    ]
+  },
+  {
+    "w": "polarity",
+    "r": "polar(极性的) + -ity(名词后缀) -> 极性的性质 -> 极性、截然对立",
+    "c": [
+      "The growing polarity between political parties makes legislative compromise increasingly difficult.",
+      "政党之间日益加剧的对立使得立法妥协变得越来越困难。"
+    ]
+  },
+  {
+    "w": "pole",
+    "r": "来自古英语pal(杆、柱), 与拉丁语palus木桩同源 -> 杆",
+    "c": [
+      "Workers installed new street lamps on every pole along the main campus avenue.",
+      "工人们在校园主干道每根灯杆上都安装了新的路灯。"
+    ]
+  },
+  {
+    "w": "police",
+    "r": "来自拉丁语politia(政策、政府), 经由法语police -> 警察",
+    "c": null
+  },
+  {
+    "w": "policeman",
+    "r": "police(警察) + man(人) -> 警察",
+    "c": [
+      "The policeman directed traffic around the accident scene while investigators gathered evidence.",
+      "警察在事故现场周围指挥交通, 同时调查人员在收集证据。"
+    ]
+  },
+  {
+    "w": "policy",
+    "r": "来自希腊语polis(城邦), 原指城邦治理的原则 -> 政策",
+    "c": null
+  },
+  {
+    "w": "polish",
+    "r": "来自古法语polir(擦亮), 源自拉丁语polire -> 擦亮",
+    "c": [
+      "Students spent weeks polishing their research papers before submitting them for publication.",
+      "学生们花了数周时间打磨研究论文, 然后才提交发表。"
+    ]
+  },
+  {
+    "w": "polite",
+    "r": "来自拉丁语politus(磨光的、优雅的), 源自polire(擦亮) -> 礼貌的",
+    "c": null
+  },
+  {
+    "w": "political",
+    "r": "polit(城邦、政府, 来自希腊语polis) + -ical(形容词后缀) -> 与政府有关的 -> 政治的",
+    "c": null
+  },
+  {
+    "w": "politician",
+    "r": "politic(政治的) + -ian(人) -> 从事政治的人 -> 政治家",
+    "c": null
+  },
+  {
+    "w": "politics",
+    "r": "来自希腊语politika(城邦事务), 源自polis(城邦) -> 政治、政治学",
+    "c": [
+      "The university offers undergraduate courses in both international relations and comparative politics.",
+      "该大学开设国际关系和比较政治学两门本科课程。"
+    ]
+  },
+  {
+    "w": "poll",
+    "r": "来自古英语pol(头), 原指数人头(投票) -> 投票",
+    "c": null
+  },
+  {
+    "w": "pollutant",
+    "r": "pollut(污染, 来自拉丁语polluere) + -ant(名词后缀, 表物) -> 造成污染的物质 -> 污染物质",
+    "c": [
+      "Industrial pollutants released into rivers pose serious threats to aquatic ecosystems and public health.",
+      "排入河流的工业污染物对水生生态系统和公众健康构成严重威胁。"
+    ]
+  },
+  {
+    "w": "pollute",
+    "r": "来自拉丁语polluere(弄脏、玷污) -> 污染",
+    "c": [
+      "Factories that pollute the air must install emission control equipment to meet environmental standards.",
+      "污染空气的工厂必须安装排放控制设备以符合环境标准。"
+    ]
+  },
+  {
+    "w": "pollution",
+    "r": "pollut(污染) + -ion(名词后缀) -> 污染的行为或状态 -> 污染",
+    "c": null
+  },
+  {
+    "w": "polymer",
+    "r": "poly(多, 来自希腊语polys) + mer(部分) -> 由多部分组成的 -> 聚合物、多聚物",
+    "c": [
+      "Polymer materials are widely used in medical devices due to their durability and biocompatibility.",
+      "聚合物材料因其耐用性和生物相容性被广泛用于医疗器械中。"
+    ]
+  },
+  {
+    "w": "pond",
+    "r": "来自古英语pond(池塘), 与pound(围场)同源 -> 池塘",
+    "c": [
+      "Students often relax by the small pond near the library during warm spring afternoons.",
+      "在温暖的春日午后, 学生们经常在图书馆附近的小池塘边放松。"
+    ]
+  },
+  {
+    "w": "ponder",
+    "r": "来自拉丁语ponderare(称重、思量), 源自pondus(重量) -> 考虑",
+    "c": null
+  },
+  {
+    "w": "pool",
+    "r": "来自古英语pol(池塘), 与德语Pfuhl同源 -> 池塘",
+    "c": [
+      "The campus swimming pool remains open throughout the year for students and faculty use.",
+      "校园游泳池全年开放供师生使用。"
+    ]
+  },
+  {
+    "w": "poor",
+    "r": "来自古英语por(贫穷的), 源自拉丁语pauper(穷的) -> 贫穷的、可怜的",
+    "c": null
+  },
+  {
+    "w": "pop",
+    "r": "来自popular的缩写形式, 原指流行音乐 -> 流行的、突然出现",
+    "c": null
+  },
+  {
+    "w": "pope",
+    "r": "来自希腊语pappas(父亲、神父), 经由拉丁语papa -> 罗马教皇",
+    "c": [
+      "The pope annual address on world peace receives extensive media coverage around the globe.",
+      "教皇每年关于世界和平的致辞在全球范围内得到广泛的媒体报道。"
+    ]
+  },
+  {
+    "w": "popular",
+    "r": "popul(人民, 来自拉丁语populus) + -ar(形容词后缀) -> 属于人民的 -> 受欢迎的",
+    "c": null
+  },
+  {
+    "w": "popularity",
+    "r": "popular(受欢迎的) + -ity(名词后缀) -> 受欢迎的状态 -> 普及、流行、声望",
+    "c": null
+  },
+  {
+    "w": "population",
+    "r": "popul(人民) + -ation(名词后缀) -> 人的集合 -> 人口",
+    "c": null
+  },
+  {
+    "w": "porcelain",
+    "r": "来自古法语porcelle(瓷器), 源自意大利语porcellana -> 瓷",
+    "c": [
+      "The museum displays a rare collection of porcelain artifacts dating back to the Ming dynasty.",
+      "博物馆展示了一批可追溯到明代的珍稀瓷器藏品。"
+    ]
+  },
+  {
+    "w": "porch",
+    "r": "来自古法语porche(门廊), 源自拉丁语porticus(柱廊) -> 门廊",
+    "c": [
+      "Students sat on the library porch discussing their research projects late into the evening.",
+      "学生们坐在图书馆门廊上讨论研究项目直到深夜。"
+    ]
+  },
+  {
+    "w": "pore",
+    "r": "来自古英语por(毛孔), 源自拉丁语porus(孔) -> 毛孔; 作动词表仔细阅读来自拟义",
+    "c": [
+      "Scientists pore over experimental data for hours to identify patterns and draw valid conclusions.",
+      "科学家们花数小时仔细研读实验数据以识别规律并得出有效结论。"
+    ]
+  },
+  {
+    "w": "pork",
+    "r": "来自古英语porc(猪、猪肉), 源自拉丁语porcus(猪) -> 猪肉",
+    "c": [
+      "Rising demand for pork has led to increased investment in sustainable farming practices.",
+      "对猪肉需求的增长促使人们对可持续养殖方式投入更多资金。"
+    ]
+  },
+  {
+    "w": "port",
+    "r": "来自拉丁语portus(港口), 与portare(携带)同源 -> 港口",
+    "c": [
+      "The city port handles millions of tons of cargo each year, supporting thousands of local jobs.",
+      "这座城市的港口每年处理数百万吨货物, 支撑着数千个本地就业岗位。"
+    ]
+  },
+  {
+    "w": "portable",
+    "r": "port(携带, 来自拉丁语portare) + -able(可…的) -> 可携带的 -> 轻便的",
+    "c": [
+      "Portable electronic devices have transformed how students access information and study materials.",
+      "便携电子设备改变了学生获取信息和学习资料的方式。"
+    ]
+  },
+  {
+    "w": "porter",
+    "r": "port(携带) + -er(人) -> 搬东西的人 -> 搬运工",
+    "c": [
+      "Porters at the train station help travelers carry heavy luggage to and from the platforms.",
+      "火车站的搬运工帮助旅客将沉重的行李搬运到站台或从站台搬出。"
+    ]
+  },
+  {
+    "w": "portfolio",
+    "r": "来自意大利语portafoglio(文件夹), porta(携带) + foglio(页) -> 投资组合、作品集",
+    "c": [
+      "Architecture students prepare a portfolio of their best work when applying for graduate programs.",
+      "建筑系学生在申请研究生项目时会准备自己最优秀作品的作品集。"
+    ]
+  },
+  {
+    "w": "portion",
+    "r": "来自拉丁语portio(部分、份额), 与pars(部分)同源 -> 部分",
+    "c": null
+  },
+  {
+    "w": "portrait",
+    "r": "来自古法语portraict(画像), 源自portraire(描绘) -> 肖像",
+    "c": [
+      "The art gallery features portraits of prominent historical figures from the nation past.",
+      "美术馆展出了该国历史上杰出人物的肖像画。"
+    ]
+  },
+  {
+    "w": "portray",
+    "r": "来自古法语portraire(描绘、画像), 源自拉丁语protrahere -> 描绘",
+    "c": null
+  },
+  {
+    "w": "pose",
+    "r": "来自古法语poser(放置), 源自拉丁语ponere(放) -> 摆姿势、造成、提出",
+    "c": [
+      "The new policy may pose significant challenges for small businesses in the coming year.",
+      "新政策可能在来年对小企业造成重大挑战。"
+    ]
+  },
+  {
+    "w": "position",
+    "r": "posit(放置, 来自拉丁语ponere) + -ion(名词后缀) -> 放置的地方 -> 位置",
+    "c": null
+  },
+  {
+    "w": "positive",
+    "r": "posit(放置) + -ive(形容词后缀) -> 被放置好的 -> 积极的、肯定的",
+    "c": null
+  },
+  {
+    "w": "positively",
+    "r": "positive(积极的) + -ly(副词后缀) -> 积极地、确定地",
+    "c": [
+      "The research findings were positively received by the scientific community and the general public.",
+      "研究结果受到了科学界和公众的积极认可。"
+    ]
+  },
+  {
+    "w": "possess",
+    "r": "来自拉丁语possidere(占有、拥有), potis(能) + sedere(坐) -> 拥有、具有",
+    "c": null
+  },
+  {
+    "w": "possession",
+    "r": "possess(拥有) + -ion(名词后缀) -> 拥有的状态或东西 -> 所有物、财产",
+    "c": null
+  },
+  {
+    "w": "possibility",
+    "r": "possibl(e)(可能的) + -ity(名词后缀) -> 可能的性质 -> 可能、可能的事",
+    "c": null
+  },
+  {
+    "w": "possible",
+    "r": "来自拉丁语possibilis(可能的), 源自posse(能够) -> 可能的",
+    "c": [
+      "Scientists are exploring whether it is possible to reverse the effects of climate change through technology.",
+      "科学家们正在探索通过技术逆转气候变化影响是否可能。"
+    ]
+  },
+  {
+    "w": "post",
+    "r": "来自拉丁语ponere(放置), 引申为张贴、邮寄 -> 发布、张贴、邮寄",
+    "c": null
+  },
+  {
+    "w": "postage",
+    "r": "post(邮寄) + -age(名词后缀, 表费用) -> 邮寄的费用 -> 邮费",
+    "c": [
+      "International students must calculate postage costs when sending documents to universities abroad.",
+      "国际学生在向国外大学寄送文件时必须计算邮费。"
+    ]
+  },
+  {
+    "w": "postal",
+    "r": "post(邮寄) + -al(形容词后缀) -> 邮政的",
+    "c": null
+  },
+  {
+    "w": "postcard",
+    "r": "复合: post(邮寄) + card(卡片) -> 邮寄的卡片 -> 明信片",
+    "c": [
+      "Many tourists buy colorful postcards to send home as souvenirs from their travels abroad.",
+      "许多游客购买色彩鲜艳的明信片寄回家, 作为出国旅行的纪念品。"
+    ]
+  },
+  {
+    "w": "postdoctoral",
+    "r": "post-(后) + doctoral(博士的) -> 博士之后的 -> 博士后的",
+    "c": [
+      "Postdoctoral research positions allow young scholars to deepen their expertise before becoming professors.",
+      "博士后研究职位使年轻学者在成为教授之前能够深化自己的专业知识。"
+    ]
+  },
+  {
+    "w": "poster",
+    "r": "post(张贴) + -er(名词后缀, 表物) -> 张贴的东西 -> 海报",
+    "c": [
+      "Students designed creative posters to promote the upcoming campus science and technology fair.",
+      "学生们设计了创意海报来宣传即将到来的校园科技博览会。"
+    ]
+  },
+  {
+    "w": "postman",
+    "r": "复合: post(邮政) + man(人) -> 送邮件的人 -> 邮递员",
+    "c": [
+      "The postman delivers letters and packages to every dormitory building on campus each morning.",
+      "邮递员每天早上向校园里每栋宿舍楼递送信件和包裹。"
+    ]
+  },
+  {
+    "w": "postpone",
+    "r": "post-(后) + pone(放置, 来自拉丁语ponere) -> 放到后面 -> 推迟",
+    "c": [
+      "Professors may postpone office hours when they need to attend academic conferences out of town.",
+      "当教授需要去外地参加学术会议时, 他们可能会推迟办公时间。"
+    ]
+  },
+  {
+    "w": "postulate",
+    "r": "postul(要求、假设, 来自拉丁语postulare) + -ate(动词后缀) -> 假定、假设",
+    "c": [
+      "The research team postulated that sleep deprivation would negatively impact students memory retention.",
+      "研究团队假设睡眠剥夺会对学生的记忆保持产生负面影响。"
+    ]
+  },
+  {
+    "w": "posture",
+    "r": "post(放置, 来自拉丁语ponere) + -ure(名词后缀) -> 放置身体的方式 -> 姿势",
+    "c": [
+      "Maintaining good posture while studying can prevent back pain and improve concentration.",
+      "学习时保持良好姿势可以预防背痛并提高注意力。"
+    ]
+  },
+  {
+    "w": "pot",
+    "r": "来自古英语pott(壶、罐), 与荷兰语pot同源 -> 壶",
+    "c": [
+      "Students brewed tea in a ceramic pot while discussing their assignment late into the night.",
+      "学生们一边用陶瓷壶泡茶一边讨论作业直到深夜。"
+    ]
+  },
+  {
+    "w": "potato",
+    "r": "来自西班牙语patata(土豆), 源自加勒比地区语言 -> 马铃薯",
+    "c": [
+      "Potatoes are one of the most widely consumed staple crops across the entire world today.",
+      "马铃薯是当今全世界消费最广泛的主粮作物之一。"
+    ]
+  },
+  {
+    "w": "potential",
+    "r": "potent(有力的, 来自拉丁语potens) + -ial(形容词后缀) -> 有力量的 -> 潜在的",
+    "c": null
+  },
+  {
+    "w": "potentially",
+    "r": "potential(潜在的) + -ly(副词后缀) -> 潜在地",
+    "c": [
+      "Rapid advances in artificial intelligence could potentially reshape many industries and professions.",
+      "人工智能的快速发展有可能重塑许多行业和职业。"
+    ]
+  },
+  {
+    "w": "pottery",
+    "r": "pot(壶、罐) + -tery(名词后缀, 表技艺/场所) -> 制陶技艺 -> 陶器",
+    "c": [
+      "The archaeologists discovered well-preserved pottery at the excavation site near the ancient city.",
+      "考古学家在古城附近的发掘现场发现了保存完好的陶器。"
+    ]
+  },
+  {
+    "w": "poultry",
+    "r": "来自古法语pouletrie(家禽), 源自拉丁语pullus(幼禽) -> 家禽",
+    "c": [
+      "Poultry farming provides an affordable source of protein for millions of people worldwide.",
+      "家禽养殖为全球数百万人提供了经济实惠的蛋白质来源。"
+    ]
+  },
+  {
+    "w": "pound",
+    "r": "来自拉丁语pondo(磅), 与pendere(称量)同源 -> 英镑、磅",
+    "c": null
+  },
+  {
+    "w": "pour",
+    "r": "来自古英语purian(倾泻), 与德语giessen同源 -> 倾倒",
+    "c": null
+  },
+  {
+    "w": "poverty",
+    "r": "来自拉丁语paupertas(贫穷), 源自pauper(穷的) -> 贫穷",
+    "c": null
+  },
+  {
+    "w": "powder",
+    "r": "来自古法语poudre(粉), 源自拉丁语pulvis(灰尘) -> 粉",
+    "c": [
+      "The chemical powder must be stored in a dry, cool environment to maintain its effectiveness.",
+      "化学粉末必须储存在干燥阴凉的环境中以保持其效力。"
+    ]
+  },
+  {
+    "w": "power",
+    "r": "来自古法语poeir(能够), 源自拉丁语posse(能够) -> 力、功率",
+    "c": null
+  },
+  {
+    "w": "powerful",
+    "r": "power(力) + -ful(形容词后缀, 充满…的) -> 充满力量的 -> 强有力的",
+    "c": [
+      "Powerful computer algorithms can analyze vast amounts of data in a matter of seconds.",
+      "强大的计算机算法可以在短短几秒钟内分析大量数据。"
+    ]
+  },
+  {
+    "w": "practicable",
+    "r": "practic(实践, 来自希腊语praktikos) + -able(可…的) -> 可实践的 -> 可行的、适用的",
+    "c": [
+      "The committee reviewed several proposals and selected the most practicable one for implementation.",
+      "委员会审查了几项提案并选出最可行的一项予以实施。"
+    ]
+  },
+  {
+    "w": "practical",
+    "r": "practic(实践) + -al(形容词后缀) -> 与实践有关的 -> 实际的",
+    "c": [
+      "The engineering program emphasizes practical skills through hands-on laboratory and workshop activities.",
+      "工程专业通过动手实验和车间活动来强调实践技能。"
+    ]
+  },
+  {
+    "w": "practice",
+    "r": "practic(实践) + -e(名词后缀) -> 实践、做法",
+    "c": [
+      "Standard medical practice requires doctors to obtain informed consent before performing procedures.",
+      "标准医疗做法要求医生在实施手术前获得知情同意。"
+    ]
+  },
+  {
+    "w": "practise",
+    "r": "来自practice的动词形式 -> 练习",
+    "c": null
+  },
+  {
+    "w": "practitioner",
+    "r": "practic(实践) + -tion(名词后缀) + -er(人) -> 从事实践的人 -> 从业者",
+    "c": [
+      "Healthcare practitioners must complete continuing education courses to maintain their professional licenses.",
+      "医疗从业者必须完成继续教育课程才能维持其职业执照。"
+    ]
+  },
+  {
+    "w": "pragmatic",
+    "r": "pragm(行动、事务, 来自希腊语pragma) + -atic(形容词后缀) -> 与事务有关的 -> 务实的",
+    "c": null
+  },
+  {
+    "w": "prairie",
+    "r": "来自法语prarie(草地), 源自拉丁语pratum(草场) -> 大草原、牧场",
+    "c": [
+      "The vast prairie region supports a rich ecosystem of native grasses and wildlife species.",
+      "广阔的大草原地区孕育着丰富的原生草类和野生物种生态系统。"
+    ]
+  },
+  {
+    "w": "praise",
+    "r": "来自拉丁语pretium(价值、价格), 引申为评价、称赞 -> 赞美、表扬",
+    "c": null
+  },
+  {
+    "w": "pray",
+    "r": "来自拉丁语precari(请求、祈祷), 与prex(祈祷)同源 -> 祈祷",
+    "c": [
+      "Many students pray or meditate before important exams to calm their nerves and focus their minds.",
+      "许多学生在重要考试前祈祷或冥想以平复紧张情绪并集中注意力。"
+    ]
+  },
+  {
+    "w": "prayer",
+    "r": "pray(祈祷) + -er(名词后缀) -> 祈祷",
+    "c": [
+      "The quiet prayer room on campus provides a peaceful space for students of all religious backgrounds.",
+      "校园里安静的祈祷室为所有宗教背景的学生提供了一个宁静的空间。"
+    ]
+  },
+  {
+    "w": "preach",
+    "r": "来自拉丁语praedicare(宣告、宣讲), prae(前) + dicare(说) -> 说教、讲道",
+    "c": null
+  },
+  {
+    "w": "precaution",
+    "r": "pre-(预先) + caution(小心, 来自拉丁语cautio) -> 预先小心 -> 预防",
+    "c": [
+      "Taking proper safety precautions in the laboratory prevents accidents and protects students from harm.",
+      "在实验室中采取适当的安全预防措施可防止事故并保护学生免受伤害。"
+    ]
+  },
+  {
+    "w": "precede",
+    "r": "pre-(在前) + cede(走, 来自拉丁语cedere) -> 走在前面 -> 先于",
+    "c": [
+      "A brief introduction usually precedes the main lecture to provide context for the audience.",
+      "简短的介绍通常在主讲座之前进行, 为听众提供背景信息。"
+    ]
+  },
+  {
+    "w": "precedent",
+    "r": "pre-(在前) + ced(走) + -ent(名词/形容词后缀) -> 走在前面的 -> 先例",
+    "c": null
+  }
+]

@@ -1,0 +1,718 @@
+[
+  {
+    "w": "traverse",
+    "r": "tra-(横过，穿过) + vers(转) + -e -> 转过去 -> 横渡，横越",
+    "c": [
+      "The bridge was built to traverse the wide river between two cities.",
+      "这座桥的建造是为了横跨两城之间宽阔的河流。"
+    ]
+  },
+  {
+    "w": "tray",
+    "r": "词源: 来自古英语treg(木板，托盘) -> 盘",
+    "c": [
+      "She carried a wooden tray with several cups of tea for the visiting scholars.",
+      "她端着一个木托盘，上面放着给来访学者的几杯茶。"
+    ]
+  },
+  {
+    "w": "tread",
+    "r": "词源: 来自古英语tredan(踩踏) -> 踩，踏，践踏",
+    "c": null
+  },
+  {
+    "w": "treasure",
+    "r": "词源: 来自拉丁语thesaurus(宝库，宝藏)，经由古法语tresor -> 宝藏",
+    "c": [
+      "The university library houses a treasure of rare manuscripts from the Middle Ages.",
+      "这所大学图书馆藏有中世纪稀有手稿的宝藏。"
+    ]
+  },
+  {
+    "w": "treasurer",
+    "r": "treasure(财富，财宝) + -er(名词后缀，表人) -> 掌管财富的人 -> 司库，财务主管",
+    "c": [
+      "The student union elected a new treasurer to manage the annual club budget.",
+      "学生会选举了一位新的财务主管来管理社团年度预算。"
+    ]
+  },
+  {
+    "w": "treat",
+    "r": "词源: 来自拉丁语tractare(处理，对待)，经由古法语traitier -> 对待",
+    "c": [
+      "Professors should treat all students fairly regardless of their academic performance.",
+      "教授应该公平对待所有学生，不论其学业表现如何。"
+    ]
+  },
+  {
+    "w": "treaty",
+    "r": "treat(处理，协商) + -y(名词后缀) -> 协商处理的协议 -> 条约",
+    "c": [
+      "The two nations signed an environmental treaty to reduce carbon emissions together.",
+      "两国签署了环境条约，共同减少碳排放。"
+    ]
+  },
+  {
+    "w": "tree",
+    "r": "词源: 来自古英语treow(树) -> 树、爬上树",
+    "c": null
+  },
+  {
+    "w": "tremble",
+    "r": "词源: 来自拉丁语tremere(颤抖)，经由古法语trembler -> 颤抖",
+    "c": [
+      "Many students tremble with nervousness before their final thesis defense.",
+      "许多学生在毕业论文答辩前因紧张而颤抖。"
+    ]
+  },
+  {
+    "w": "tremendous",
+    "r": "trem(颤抖) + -endous(形容词后缀，表引起...的) -> 令人颤抖的 -> 巨大的",
+    "c": [
+      "The rapid growth of online education has brought tremendous changes to learning.",
+      "在线教育的快速发展给学习方式带来了巨大的变化。"
+    ]
+  },
+  {
+    "w": "trench",
+    "r": "词源: 来自古法语trenchier(切，割)，挖出的沟 -> 沟",
+    "c": [
+      "Workers dug a deep trench along the road to lay new underground cables.",
+      "工人们沿路挖了一条深沟，铺设新的地下电缆。"
+    ]
+  },
+  {
+    "w": "trend",
+    "r": "词源: 来自古英语trendan(转动，转向) -> 发展转向的方向 -> 趋势",
+    "c": null
+  },
+  {
+    "w": "trial",
+    "r": "tri(尝试，检验) + -al(名词后缀) -> 检验的过程 -> 审判，试用",
+    "c": null
+  },
+  {
+    "w": "triangle",
+    "r": "tri-(三) + angle(角) -> 有三个角的图形 -> 三角形",
+    "c": [
+      "The three top universities form a research triangle in the southern region.",
+      "这三所顶尖大学在南部地区构成了一个研究三角区。"
+    ]
+  },
+  {
+    "w": "triangular",
+    "r": "tri-(三) + angul(角) + -ar(形容词后缀) -> 有三个角的 -> 三角的；三者间的",
+    "c": [
+      "The new campus library has a striking triangular shape with glass walls.",
+      "新的校园图书馆呈引人注目的三角形状，配有玻璃幕墙。"
+    ]
+  },
+  {
+    "w": "tribe",
+    "r": "词源: 来自拉丁语tribus(部落，部族) -> 部落",
+    "c": null
+  },
+  {
+    "w": "tribute",
+    "r": "trib(给予，分配) + -ute(名词后缀) -> 给予的东西 -> 贡品；称赞",
+    "c": [
+      "The Nobel Prize is a tribute to scientists who make extraordinary contributions.",
+      "诺贝尔奖是对做出卓越贡献的科学家的称赞。"
+    ]
+  },
+  {
+    "w": "trick",
+    "r": "词源: 来自拉丁语tricari(欺骗，耍花招)，经由古法语trique -> 诡计，技巧",
+    "c": null
+  },
+  {
+    "w": "trifle",
+    "r": "词源: 来自古法语trufle(玩笑，小事) -> 琐事；浪费",
+    "c": [
+      "Don't trifle away your college years on meaningless social media scrolling.",
+      "不要把你的大学时光浪费在无意义的刷社交媒体上。"
+    ]
+  },
+  {
+    "w": "trigger",
+    "r": "词源: 来自荷兰语trekker(扳机)，源自trekken(拉) -> 扣动扳机 -> 触发",
+    "c": null
+  },
+  {
+    "w": "trim",
+    "r": "词源: 来自古英语trymman(使整齐，准备) -> 修剪，装饰",
+    "c": [
+      "The campus gardeners trim the lawn and hedges every week to keep them neat.",
+      "校园园丁每周修剪草坪和树篱，以保持整洁。"
+    ]
+  },
+  {
+    "w": "trip",
+    "r": "词源: 来自古法语triper(踩踏，跳跃)，引申为出行 -> 旅行",
+    "c": [
+      "Many graduating students take a graduation trip to celebrate their achievement.",
+      "许多应届毕业生会进行一次毕业旅行，以庆祝他们的成就。"
+    ]
+  },
+  {
+    "w": "triple",
+    "r": "tri-(三) + -ple(倍，重) -> 三倍的",
+    "c": [
+      "The university plans to triple its scholarship fund for low-income students by 2028.",
+      "该校计划到2028年将面向低收入学生的奖学金基金增加两倍。"
+    ]
+  },
+  {
+    "w": "triumph",
+    "r": "词源: 来自拉丁语triumphus(凯旋，胜利) -> 胜利",
+    "c": [
+      "The successful launch of the satellite was a triumph for Chinese aerospace science.",
+      "卫星的成功发射是中国航天科学的一次胜利。"
+    ]
+  },
+  {
+    "w": "triumphant",
+    "r": "triumph(胜利) + -ant(形容词后缀) -> 胜利的 -> 得胜的；得意洋洋的",
+    "c": [
+      "The debate team returned to campus with triumphant smiles after winning the national title.",
+      "辩论队赢得全国冠军后，带着胜利的微笑回到校园。"
+    ]
+  },
+  {
+    "w": "trivial",
+    "r": "tri-(三) + via(路) + -l -> 三条路交汇处的(常见的，普通的) -> 琐碎的",
+    "c": null
+  },
+  {
+    "w": "trolley",
+    "r": "词源: 来自古法语trolle(滚轮)，引申为带轮的车 -> 手推车",
+    "c": [
+      "Students in the library often use a trolley to carry piles of reference books.",
+      "图书馆里的学生经常用手推车搬运成堆的参考书。"
+    ]
+  },
+  {
+    "w": "troop",
+    "r": "词源: 来自古法语trope(人群，队伍) -> 军队",
+    "c": [
+      "A troop of student volunteers arrived at the rural school to teach summer classes.",
+      "一队学生志愿者抵达乡村学校，开展暑期支教。"
+    ]
+  },
+  {
+    "w": "tropic",
+    "r": "词源: 来自希腊语tropikos(转向的，回归线的)，指太阳回归的地带 -> 热带",
+    "c": [
+      "Many plant species from the tropic cannot survive the harsh winters in northern China.",
+      "许多来自热带的植物物种无法在中国北方严寒的冬天存活。"
+    ]
+  },
+  {
+    "w": "tropical",
+    "r": "tropic(热带) + -al(形容词后缀) -> 热带的",
+    "c": [
+      "The university botanical garden has a greenhouse full of tropical plants.",
+      "这所大学的植物园有一个种满热带植物的温室。"
+    ]
+  },
+  {
+    "w": "trot",
+    "r": "词源: 来自古法语trotter(小跑) -> （马）小跑；慢跑",
+    "c": [
+      "The professor would trot across the campus to make it to his morning lecture on time.",
+      "教授会小跑着穿过校园，以便准时赶上上午的讲座。"
+    ]
+  },
+  {
+    "w": "trouble",
+    "r": "词源: 来自拉丁语turbare(扰乱，使混乱)，经由古法语truble -> 麻烦",
+    "c": null
+  },
+  {
+    "w": "troublesome",
+    "r": "trouble(麻烦) + -some(形容词后缀，引起...的) -> 引起麻烦的 -> 讨厌的",
+    "c": null
+  },
+  {
+    "w": "trousers",
+    "r": "词源: 来自爱尔兰语triubhas(紧身裤)，经由苏格兰英语演变 -> 裤子",
+    "c": [
+      "Most career fairs require students to wear formal trousers and a shirt.",
+      "大多数招聘会要求学生穿正式的长裤和衬衫。"
+    ]
+  },
+  {
+    "w": "truck",
+    "r": "词源: 来自希腊语trochos(轮子，车轮)，引申为轮式货运车辆 -> 卡车",
+    "c": null
+  },
+  {
+    "w": "true",
+    "r": "词源: 来自古英语treowe(忠诚的，真实的) -> 真实",
+    "c": null
+  },
+  {
+    "w": "trumpet",
+    "r": "trump(喇叭，号) + -et(名词后缀，指小) -> 小号，喇叭；引申为鼓吹",
+    "c": [
+      "The university band trumpet section performed brilliantly at the opening ceremony.",
+      "大学乐队的小号声部在开幕式上演奏得非常精彩。"
+    ]
+  },
+  {
+    "w": "trunk",
+    "r": "词源: 来自拉丁语truncus(树干，躯干) -> 树干",
+    "c": [
+      "The thick trunk of the old banyan tree has stood on campus for over a hundred years.",
+      "那棵老榕树粗壮的树干已经在校园里矗立了一百多年。"
+    ]
+  },
+  {
+    "w": "trust",
+    "r": "词源: 来自古英语treow(信任，忠诚)，与true同源 -> 信任",
+    "c": null
+  },
+  {
+    "w": "truth",
+    "r": "true(真实的) + -th(名词后缀，表状态) -> 真实的状态 -> 真相",
+    "c": null
+  },
+  {
+    "w": "try",
+    "r": "词源: 来自法语trier(挑选，检验) -> 尝试",
+    "c": null
+  },
+  {
+    "w": "tub",
+    "r": "词源: 来自古英语tub(桶，盆) -> 浴盆，桶",
+    "c": [
+      "The old dormitory had only one shared tub for all students on the floor.",
+      "那栋旧宿舍楼每层只有一个共用浴盆供所有学生使用。"
+    ]
+  },
+  {
+    "w": "tube",
+    "r": "词源: 来自拉丁语tubus(管子) -> 管子",
+    "c": [
+      "The physics experiment required students to measure liquid volume with a glass tube.",
+      "这个物理实验要求学生用玻璃管测量液体体积。"
+    ]
+  },
+  {
+    "w": "tuberculosis",
+    "r": "tuber(肿块，结节) + -cul(小) + -osis(名词后缀，表疾病) -> 小结节病 -> 结核病",
+    "c": [
+      "The public health lecture focused on the prevention and treatment of tuberculosis.",
+      "这场公共卫生讲座聚焦于结核病的预防与治疗。"
+    ]
+  },
+  {
+    "w": "tuck",
+    "r": "词源: 来自古英语tucian(挤压，推) -> 卷起，藏起",
+    "c": [
+      "Students often tuck their library cards into their textbook covers for easy access.",
+      "学生们常把借书卡塞进课本封皮里，方便取用。"
+    ]
+  },
+  {
+    "w": "tuesday",
+    "r": "复合: Tiu(日耳曼战神蒂乌) + s + day(日子) -> 蒂乌之日 -> 星期二",
+    "c": null
+  },
+  {
+    "w": "tug",
+    "r": "词源: 来自古英语teon(拉，拖) -> 拖，拖船",
+    "c": null
+  },
+  {
+    "w": "tuition",
+    "r": "tuit(看，监护，教导) + -ion(名词后缀) -> 教导(的费用) -> 学费，教学",
+    "c": null
+  },
+  {
+    "w": "tulip",
+    "r": "词源: 来自土耳其语tulbent(头巾)，因花形似头巾而得名 -> 郁金香",
+    "c": [
+      "The campus tulip garden attracts hundreds of visitors every spring when it blooms.",
+      "每年春天校园郁金香园盛开时，都会吸引数百名游客。"
+    ]
+  },
+  {
+    "w": "tumble",
+    "r": "词源: 来自古英语tumbian(翻滚，跌倒) -> 跌倒，暴跌",
+    "c": [
+      "Share prices of educational companies can tumble when new policies are announced.",
+      "当新政策出台时，教育公司的股价可能会暴跌。"
+    ]
+  },
+  {
+    "w": "tumor",
+    "r": "tumor(肿胀,来自拉丁语tumor) -> 肿胀物 -> 肿块",
+    "c": [
+      "The benign tumor was successfully removed during a routine surgical operation last month.",
+      "那个良性肿块在上个月的常规外科手术中被成功切除。"
+    ]
+  },
+  {
+    "w": "tuna",
+    "r": "词源: 来自西班牙语tuna, 源自拉丁语thunnus -> 金枪鱼",
+    "c": [
+      "Tuna is a popular source of protein for fitness enthusiasts.",
+      "金枪鱼是健身爱好者喜爱的蛋白质来源。"
+    ]
+  },
+  {
+    "w": "tune",
+    "r": "词源: 来自古法语ton(音调), 源自拉丁语tonus -> 曲调",
+    "c": null
+  },
+  {
+    "w": "tunnel",
+    "r": "词源: 来自古法语tonel(圆筒), 指圆筒状通道 -> 隧道",
+    "c": [
+      "The train emerged from the tunnel into the bright sunlight.",
+      "火车从隧道中驶出，进入明亮的阳光下。"
+    ]
+  },
+  {
+    "w": "turbine",
+    "r": "turb(旋转,搅动) + -ine(名词后缀,表物) -> 旋转的机器 -> 涡轮",
+    "c": null
+  },
+  {
+    "w": "turbulence",
+    "r": "turb(搅动,混乱) + -ul- + -ence(名词后缀,表状态) -> 搅动的状态 -> 气流；骚乱",
+    "c": [
+      "The passenger flight encountered severe turbulence while flying over the Pacific Ocean.",
+      "这架客运航班在飞越太平洋时遭遇了强烈的气流颠簸。"
+    ]
+  },
+  {
+    "w": "turbulent",
+    "r": "turb(搅动,混乱) + -ul- + -ent(形容词后缀) -> 混乱搅动的 -> 动荡的、狂暴的",
+    "c": [
+      "The turbulent political situation in the region has raised serious concerns among global investors.",
+      "该地区动荡的政治局势引发了全球投资者的严重担忧。"
+    ]
+  },
+  {
+    "w": "turkey",
+    "r": "词源: 因最初经土耳其传入欧洲而得名Turkey -> 火鸡",
+    "c": [
+      "Roast turkey is the traditional main dish served at American Thanksgiving dinner celebrations.",
+      "烤火鸡是美国感恩节晚餐庆祝活动中的传统主菜。"
+    ]
+  },
+  {
+    "w": "turmoil",
+    "r": "tur(=toss,搅) + moil(劳苦,翻腾) -> 翻腾搅动 -> 混乱",
+    "c": [
+      "The company was in turmoil after the CEO suddenly resigned.",
+      "CEO突然辞职后，公司陷入了混乱。"
+    ]
+  },
+  {
+    "w": "turn",
+    "r": "词源: 来自古英语turnian, 源自拉丁语tornare(旋,车削) -> 翻转",
+    "c": null
+  },
+  {
+    "w": "turnover",
+    "r": "复合: turn(转动) + over(越过) -> 周转过去的量 -> 营业额",
+    "c": null
+  },
+  {
+    "w": "turtle",
+    "r": "词源: 来自古法语tortue, 源自拉丁语turtur -> 海龟，玳瑁",
+    "c": [
+      "Sea turtles are endangered marine species protected by strict international environmental laws.",
+      "海龟是受严格国际环境法保护的濒危海洋物种。"
+    ]
+  },
+  {
+    "w": "tutor",
+    "r": "tut(看护,教导) + -or(名词后缀,表人) -> 教导的人 -> 导师",
+    "c": [
+      "Her dedicated personal tutor helped her prepare thoroughly for the challenging final examination.",
+      "她那位尽心尽力的私人导师帮助她为难度很大的期末考试做了充分准备。"
+    ]
+  },
+  {
+    "w": "twelve",
+    "r": "词源: 来自古英语twelf, 由two(二)+left(剩下)构成, 即十剩二 -> 十二",
+    "c": [
+      "The annual research seminar is strictly limited to twelve invited participants from each university.",
+      "年度研究研讨会严格限制每所大学邀请十二名参与者参加。"
+    ]
+  },
+  {
+    "w": "twenty",
+    "r": "词源: 来自古英语twentig, 即two(二)个ten(十) -> 二十",
+    "c": [
+      "Nearly twenty outstanding students applied for the prestigious national scholarship program this year.",
+      "今年有近二十名优秀学生申请了这项享有盛誉的国家级奖学金项目。"
+    ]
+  },
+  {
+    "w": "twice",
+    "r": "tw(i)(二,两) + -ce(副词后缀) -> 两次地 -> 两次",
+    "c": null
+  },
+  {
+    "w": "twilight",
+    "r": "复合: twi(二,两) + light(光) -> 两种光之间(明与暗之间) -> 黄昏",
+    "c": [
+      "The campus looks beautiful in the twilight of a summer evening.",
+      "夏日黄昏时分的校园看起来很美。"
+    ]
+  },
+  {
+    "w": "twin",
+    "r": "词源: 来自古英语getwinn(双生), 与two同源 -> 双胞胎",
+    "c": [
+      "The twin sisters both majored in psychology at the university.",
+      "这对双胞胎姐妹都在大学主修心理学。"
+    ]
+  },
+  {
+    "w": "twinkle",
+    "r": "词源: 来自古英语twincan, 反复眨眼的意思 -> 闪烁",
+    "c": [
+      "Stars twinkle brightly in the clear night sky above the city.",
+      "星星在城市上空晴朗的夜空中闪烁着。"
+    ]
+  },
+  {
+    "w": "twist",
+    "r": "词源: 来自古英语twist(二股线), 引申为捻、扭 -> 扭曲、捻",
+    "c": [
+      "The artist used metal wires to twist into abstract sculptures.",
+      "艺术家用金属线扭曲成抽象雕塑。"
+    ]
+  },
+  {
+    "w": "two",
+    "r": "词源: 来自古英语twa, 原始印欧语词根*duo -> 二",
+    "c": [
+      "Two prominent researchers from the university collaborated on the groundbreaking climate study.",
+      "两位来自该大学的杰出研究人员合作开展了这项开创性的气候研究。"
+    ]
+  },
+  {
+    "w": "type",
+    "r": "词源: 来自希腊语typos(印象,模型), 经由拉丁语typum -> 类型、输入",
+    "c": [
+      "This type of qualitative research requires extensive data collection and careful thematic analysis.",
+      "这种类型的定性研究需要大量的数据收集和仔细的主题分析。"
+    ]
+  },
+  {
+    "w": "typewriter",
+    "r": "复合: type(打字) + writer(书写器) -> 打字的机器 -> 打字机",
+    "c": [
+      "Before personal computers became widespread, university students wrote essays on a mechanical typewriter.",
+      "在个人电脑普及之前，大学生们用机械打字机来撰写论文。"
+    ]
+  },
+  {
+    "w": "typhoon",
+    "r": "词源: 来自汉语台风, 经阿拉伯语和希腊语传入 -> 台风",
+    "c": [
+      "The powerful typhoon forced the entire university system to cancel all classes for three days.",
+      "强台风迫使整个大学系统取消了为期三天的所有课程。"
+    ]
+  },
+  {
+    "w": "typical",
+    "r": "typ(类型,模型) + -ical(形容词后缀,…的) -> 符合某一类型的 -> 典型的",
+    "c": [
+      "This passage is a typical example of formal academic writing style in social science journals.",
+      "这篇文章是社会科学期刊中正式学术写作风格的一个典型例子。"
+    ]
+  },
+  {
+    "w": "typist",
+    "r": "typ(打字) + -ist(名词后缀,表从事…的人) -> 打字的人 -> 打字员",
+    "c": [
+      "The typist entered the data into the database with great speed.",
+      "打字员以极快的速度将数据录入数据库。"
+    ]
+  },
+  {
+    "w": "tyranny",
+    "r": "tyrann(暴君) + -y(名词后缀,表状态或行为) -> 暴君的统治 -> 暴政，专制；残暴",
+    "c": [
+      "Modern history books extensively document the tyranny of various ancient dictators and rulers.",
+      "现代历史书籍广泛记载了古代各种独裁者和统治者的暴政行径。"
+    ]
+  },
+  {
+    "w": "tyrant",
+    "r": "tyran(压制,僭主,来自希腊语tyrannos) + -t(后缀) -> 暴君；专制君主",
+    "c": [
+      "The ruthless tyrant brutally suppressed all forms of political opposition within his kingdom.",
+      "这位残忍的暴君在其王国境内残酷地压制了所有形式的政治反对声音。"
+    ]
+  },
+  {
+    "w": "ugly",
+    "r": "词源: 来自古挪威语ugglig(可怕的), 与fear同源 -> 丑陋的",
+    "c": [
+      "The newly built ugly building was widely criticized by architecture students and faculty members.",
+      "那栋新建成的丑陋建筑受到了建筑学专业学生和教职员工的广泛批评。"
+    ]
+  },
+  {
+    "w": "ultimate",
+    "r": "ultim(最后,最远) + -ate(形容词后缀) -> 最后的 -> 终极",
+    "c": null
+  },
+  {
+    "w": "ultrasonic",
+    "r": "ultra(超过,超出) + son(声音) + -ic(形容词后缀) -> 超出声音的 -> 超声的；超声波",
+    "c": [
+      "Hospital doctors use advanced ultrasonic technology to examine patients internal organs safely.",
+      "医院的医生使用先进的超声波技术安全地检查病人的内脏器官。"
+    ]
+  },
+  {
+    "w": "ultraviolet",
+    "r": "ultra(超过,超出) + violet(紫色) -> 超出紫色的(光) -> 紫外线",
+    "c": [
+      "Prolonged exposure to strong ultraviolet rays from the sun can seriously damage human skin.",
+      "长时间暴露在太阳的强紫外线下会严重损伤人体皮肤。"
+    ]
+  },
+  {
+    "w": "umbrella",
+    "r": "umbr(阴影,影子) + -ella(名词后缀,表小) -> 小阴影物 -> 伞",
+    "c": null
+  },
+  {
+    "w": "unanimous",
+    "r": "un-(一,单一) + anim(精神,心灵) + -ous(形容词后缀) -> 同心的 -> 全体一致的",
+    "c": [
+      "The committee reached a unanimous decision on the new policy.",
+      "委员会就新政策达成了全体一致的决定。"
+    ]
+  },
+  {
+    "w": "unbiased",
+    "r": "un-(不,无) + bias(偏见) + -ed(形容词后缀) -> 无偏见的 -> 公正的",
+    "c": [
+      "A good professional journalist should remain unbiased when reporting complex political news events.",
+      "一位优秀的职业记者在报道复杂的政治新闻事件时应保持公正客观。"
+    ]
+  },
+  {
+    "w": "uncertain",
+    "r": "un-(不,无) + certain(确定的) -> 不确定的 -> 不定的；无常的",
+    "c": null
+  },
+  {
+    "w": "uncle",
+    "r": "词源: 来自拉丁语avunculus(母亲的兄弟), 后扩展为叔伯舅等 -> 叔",
+    "c": [
+      "Her uncle works as a professor at a prestigious university.",
+      "她的叔叔在一所知名大学担任教授。"
+    ]
+  },
+  {
+    "w": "uncover",
+    "r": "un-(去除,相反) + cover(覆盖) -> 去除覆盖 -> 揭开",
+    "c": [
+      "Scientists hope to uncover the secrets of the ancient civilization.",
+      "科学家希望揭开那个古文明的秘密。"
+    ]
+  },
+  {
+    "w": "undecided",
+    "r": "un-(不,未) + decide(决定) + -ed(形容词后缀) -> 未决定的 -> 不确定的",
+    "c": [
+      "Many graduating students are still undecided about their future career paths after college.",
+      "许多应届毕业生仍然不确定大学毕业后未来的职业道路该如何选择。"
+    ]
+  },
+  {
+    "w": "under",
+    "r": "词源: 来自古英语under, 原始印欧语*ndher -> 在…之下",
+    "c": [
+      "The university main library is located under the central main academic building on campus.",
+      "大学的主图书馆位于校园内中央主教学楼的地下一层。"
+    ]
+  },
+  {
+    "w": "underestimate",
+    "r": "under-(不足,低于) + estimate(估计) -> 估计不足 -> 低估",
+    "c": null
+  },
+  {
+    "w": "underfunded",
+    "r": "under-(不足,低于) + fund(资金) + -ed(形容词后缀) -> 资金不足的",
+    "c": [
+      "Many rural public schools remain severely underfunded despite steadily growing student enrollment.",
+      "尽管学生入学人数稳步增长，许多农村公立学校仍然严重资金不足。"
+    ]
+  },
+  {
+    "w": "undergo",
+    "r": "under-(在…之下,向下) + go(走) -> 走在下面/经历 -> 经历",
+    "c": null
+  },
+  {
+    "w": "undergraduate",
+    "r": "under-(在…之下,未达到) + graduate(毕业生) -> 还未毕业的学生 -> 本科的、本科生",
+    "c": [
+      "Each full-time undergraduate must complete at least 120 credits before they can graduate.",
+      "每位全日制本科生必须至少修满一百二十个学分才能顺利毕业。"
+    ]
+  },
+  {
+    "w": "underground",
+    "r": "复合: under(在…之下) + ground(地面) -> 地面之下的 -> 地下",
+    "c": [
+      "The modern city has an extensive underground subway system connecting all major districts.",
+      "这座现代化城市拥有发达的地下地铁系统，连接着所有主要城区。"
+    ]
+  },
+  {
+    "w": "underlie",
+    "r": "under-(在…之下) + lie(躺,位于) -> 位于下面 -> 构成...的基础、在...之下",
+    "c": [
+      "Several interrelated factors underlie the recent decline in college enrollment rates nationwide.",
+      "几个相互关联的因素构成了近期全国大学入学率下降的基础原因。"
+    ]
+  },
+  {
+    "w": "underline",
+    "r": "under-(在…之下) + line(线) -> 在下面画线 -> 下划线、强调",
+    "c": [
+      "She used a red pen to underline the key points in the text.",
+      "她用红笔标出了文中的要点。"
+    ]
+  },
+  {
+    "w": "underlying",
+    "r": "under-(在…之下) + ly(=lay,放置) + -ing(形容词后缀) -> 位于下面的 -> 潜在的",
+    "c": [
+      "The true underlying cause of this social problem remains unclear to most researchers and analysts.",
+      "这个社会问题真正的潜在原因对大多数研究者和分析人士来说仍然不清楚。"
+    ]
+  },
+  {
+    "w": "undermine",
+    "r": "under-(在…之下) + mine(挖,采矿) -> 在下面挖洞使坍塌 -> 逐渐削弱",
+    "c": [
+      "Chronic lack of sleep can seriously undermine college students academic performance and mental health.",
+      "长期睡眠不足会严重削弱大学生的学业表现和心理健康水平。"
+    ]
+  },
+  {
+    "w": "underneath",
+    "r": "under-(在…之下) + neath(之下,来自古英语neothan) -> 在下面",
+    "c": [
+      "The answers are written underneath each question on the sheet.",
+      "答案写在试卷上每个问题的下方。"
+    ]
+  }
+]

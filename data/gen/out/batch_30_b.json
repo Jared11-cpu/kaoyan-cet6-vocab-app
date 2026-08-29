@@ -1,0 +1,658 @@
+[
+  {
+    "w": "subsidiary",
+    "r": "sub-(下) + sid(坐) + -iary(形容词后缀) -> 坐在下面辅助的 -> 辅助的、子公司",
+    "c": [
+      "The company established a subsidiary in Shanghai to expand its operations in the Chinese market.",
+      "该公司在上海设立了一家子公司以拓展中国市场业务。"
+    ]
+  },
+  {
+    "w": "subsidy",
+    "r": "sub-(下) + sid(坐) + -y(名词后缀) -> 从下面坐/支撑的东西 -> 津贴",
+    "c": [
+      "Government subsidy programs help low-income students afford higher education tuition fees.",
+      "政府津贴项目帮助低收入学生支付高等教育学费。"
+    ]
+  },
+  {
+    "w": "substance",
+    "r": "sub-(下) + sta(站) + -nce(名词后缀) -> 站在下面支撑的东西 -> 物质",
+    "c": null
+  },
+  {
+    "w": "substantial",
+    "r": "sub-(下) + sta(站) + -ntial(形容词后缀) -> 有实质支撑的 -> 大量的",
+    "c": null
+  },
+  {
+    "w": "substitute",
+    "r": "sub-(下,代替) + stit(站) + -ute(动词后缀) -> 站在下面替代 -> 代替",
+    "c": null
+  },
+  {
+    "w": "subtle",
+    "r": "来自拉丁语subtilis, 由sub(下) + tela(织物)组成, 原指布的细密纹理 -> 微妙的",
+    "c": [
+      "The researcher noticed a subtle difference between the two experimental groups that others had missed.",
+      "研究者注意到了两个实验组之间其他人都忽略的细微差别。"
+    ]
+  },
+  {
+    "w": "subtract",
+    "r": "sub-(下) + tract(拉) -> 向下拉走 -> 减去",
+    "c": [
+      "Students learned to subtract fractions with different denominators during the mathematics lesson.",
+      "学生们在数学课上学习了分母不同的分数减法。"
+    ]
+  },
+  {
+    "w": "suburb",
+    "r": "sub-(下,附近) + urb(城市) -> 城市下方/附近 -> 市郊",
+    "c": [
+      "Many young professionals choose to live in the suburb and commute to the city center daily.",
+      "许多年轻专业人士选择住在市郊, 每天通勤到市中心。"
+    ]
+  },
+  {
+    "w": "suburban",
+    "r": "suburb(市郊) + -an(形容词后缀) -> 郊区的",
+    "c": null
+  },
+  {
+    "w": "subway",
+    "r": "复合: sub(下) + way(路) -> 地下的路 -> 地铁",
+    "c": [
+      "The new subway line significantly reduced travel time between the eastern and western districts.",
+      "新地铁线路显著缩短了东部和西部城区之间的出行时间。"
+    ]
+  },
+  {
+    "w": "succeed",
+    "r": "suc-(下,跟随) + ceed(走) -> 跟在后面走 -> 接替、成功",
+    "c": null
+  },
+  {
+    "w": "success",
+    "r": "suc-(跟随) + cess(走) -> 跟在后面走的结果 -> 成功",
+    "c": null
+  },
+  {
+    "w": "successful",
+    "r": "success(成功) + -ful(形容词后缀,充满…的) -> 充满成功的",
+    "c": null
+  },
+  {
+    "w": "succession",
+    "r": "suc-(跟随) + cess(走) + -ion(名词后缀) -> 一个跟着一个走 -> 连续",
+    "c": [
+      "A succession of policy reforms has gradually improved the country's economic performance.",
+      "一系列的政策改革逐步改善了该国的经济表现。"
+    ]
+  },
+  {
+    "w": "successive",
+    "r": "suc-(跟随) + cess(走) + -ive(形容词后缀) -> 一个跟着一个走的 -> 连续的",
+    "c": [
+      "The team won three successive championships, demonstrating their consistent competitive strength.",
+      "该队连续三次获得冠军, 展现了其稳定的竞技实力。"
+    ]
+  },
+  {
+    "w": "successively",
+    "r": "successive(连续的) + -ly(副词后缀) -> 接连着地",
+    "c": [
+      "She successively published three influential papers on climate change within a single year.",
+      "她在短短一年内接连发表了三篇关于气候变化的有影响力的论文。"
+    ]
+  },
+  {
+    "w": "successor",
+    "r": "suc-(跟随) + cess(走) + -or(人) -> 跟着走的人 -> 接班人",
+    "c": [
+      "The university president announced his retirement and introduced his successor at the ceremony.",
+      "大学校长在典礼上宣布退休并介绍了他的接班人。"
+    ]
+  },
+  {
+    "w": "such",
+    "r": "来自古英语suc(如此的), 与德语solch同源 -> 这样的",
+    "c": [
+      "Such academic achievements require consistent effort and a genuine passion for learning.",
+      "这样的学术成就需要持续的努力和对学习真正的热情。"
+    ]
+  },
+  {
+    "w": "suck",
+    "r": "来自古英语sucan(吮吸), 与拉丁语sugere同源 -> 吸",
+    "c": [
+      "Plants suck water and nutrients from the soil through their extensive root systems.",
+      "植物通过其广泛的根系从土壤中吸收水分和养分。"
+    ]
+  },
+  {
+    "w": "sudden",
+    "r": "来自拉丁语subitaneus, 由sub(下) + ire(走)组成 -> 从下面突然走出来 -> 突然的",
+    "c": null
+  },
+  {
+    "w": "sue",
+    "r": "来自拉丁语sequi(跟随), 原指跟随/追求, 后引申为起诉 -> 起诉",
+    "c": [
+      "Employees may sue their employer if they believe they have been unfairly dismissed from work.",
+      "如果员工认为自己被不公正解雇, 可以起诉雇主。"
+    ]
+  },
+  {
+    "w": "suffer",
+    "r": "suf-(下) + fer(带, 承载) -> 从下面承受 -> 遭受",
+    "c": null
+  },
+  {
+    "w": "suffice",
+    "r": "suf-(下,足够) + fic(做) + -e -> 做到足够 -> 足够",
+    "c": [
+      "A brief explanation will suffice for students who already understand the basic theory.",
+      "对于已经理解基本理论的学生来说, 简要的解释就足够了。"
+    ]
+  },
+  {
+    "w": "sufficient",
+    "r": "suf-(足够) + ficient(做的) -> 做得足够的 -> 足够的",
+    "c": null
+  },
+  {
+    "w": "sugar",
+    "r": "来自梵语sarkara(砂糖), 经阿拉伯语、拉丁语、古法语传入 -> 糖",
+    "c": null
+  },
+  {
+    "w": "suggest",
+    "r": "sug-(下) + gest(带, 运) -> 从下面带上来 -> 建议",
+    "c": null
+  },
+  {
+    "w": "suggestion",
+    "r": "suggest(建议) + -ion(名词后缀) -> 建议的行为/内容 -> 建议",
+    "c": null
+  },
+  {
+    "w": "suicide",
+    "r": "sui(自己) + cid(杀) + -e -> 自己杀死自己 -> 自杀",
+    "c": null
+  },
+  {
+    "w": "suit",
+    "r": "来自拉丁语sequi(跟随), 原指跟随/适合, 后引申为套装 -> 适合",
+    "c": null
+  },
+  {
+    "w": "suitable",
+    "r": "suit(适合) + -able(形容词后缀,能…的) -> 能适合的 -> 合适的",
+    "c": null
+  },
+  {
+    "w": "suitcase",
+    "r": "复合: suit(套装) + case(箱子) -> 装套装的箱子 -> 手提箱",
+    "c": [
+      "She packed her suitcase carefully the night before her academic conference trip to Beijing.",
+      "她在去北京参加学术会议前的晚上仔细收拾了手提箱。"
+    ]
+  },
+  {
+    "w": "suite",
+    "r": "来自古法语suite(跟随, 一套), 源自拉丁语sequi -> 套房、一套",
+    "c": [
+      "The hotel suite includes a separate living room and bedroom for visiting scholars and executives.",
+      "酒店套房为来访的学者和高管提供独立的客厅和卧室。"
+    ]
+  },
+  {
+    "w": "sulfur",
+    "r": "来自拉丁语sulfur(硫磺), 可能源自闪族语言 -> 硫",
+    "c": [
+      "Sulfur dioxide emissions from industrial factories contribute significantly to air pollution and acid rain.",
+      "工厂排放的二氧化硫是造成空气污染和酸雨的重要原因。"
+    ]
+  },
+  {
+    "w": "sullen",
+    "r": "来自古法语solin(孤独的), 与sole(单独)同源, 引申为闷闷不乐的 -> 绷着脸不高兴的",
+    "c": [
+      "The sullen student sat quietly in the library corner, refusing to participate in group discussions.",
+      "那个闷闷不乐的学生静静地坐在图书馆角落, 拒绝参与小组讨论。"
+    ]
+  },
+  {
+    "w": "sulphur",
+    "r": "sulfur的英式拼法, 来自拉丁语sulfur(硫磺) -> 硫",
+    "c": [
+      "Burning coal releases sulphur compounds that can cause respiratory problems in nearby communities.",
+      "燃烧煤炭释放的硫化物会给附近社区居民带来呼吸系统问题。"
+    ]
+  },
+  {
+    "w": "sum",
+    "r": "来自拉丁语summa(总和, 最高处), 原指顶部 -> 总和",
+    "c": [
+      "The sum of all research grants awarded this year exceeds the total budget from five years ago.",
+      "今年颁发的所有科研资助总额超过了五年前的总预算。"
+    ]
+  },
+  {
+    "w": "summarise",
+    "r": "summar(y)(摘要) + -ise(动词后缀,使…) -> 使成为摘要 -> 概括",
+    "c": [
+      "At the end of the lecture, the professor asked students to summarise the main arguments in writing.",
+      "讲座结束时, 教授要求学生以书面形式概括主要论点。"
+    ]
+  },
+  {
+    "w": "summary",
+    "r": "来自拉丁语summa(总和) + -ary(名词后缀) -> 总和出来的东西 -> 摘要",
+    "c": null
+  },
+  {
+    "w": "summer",
+    "r": "来自古英语sumor(夏天), 与德语Sommer同源 -> 夏天",
+    "c": null
+  },
+  {
+    "w": "summit",
+    "r": "来自拉丁语summum(最高处), 源自summus(最高的) -> 顶点",
+    "c": [
+      "The two presidents met at the economic summit to discuss trade policies and climate cooperation.",
+      "两国元首在经济峰会上会晤, 讨论贸易政策和气候合作。"
+    ]
+  },
+  {
+    "w": "summon",
+    "r": "s-(加强) + ummon(提示, 来自拉丁语monere警告) -> 召唤、传唤",
+    "c": [
+      "The committee decided to summon the witness to provide testimony about the research misconduct.",
+      "委员会决定传唤证人就科研不端行为提供证词。"
+    ]
+  },
+  {
+    "w": "sun",
+    "r": "来自古英语sunne(太阳), 与德语Sonne同源 -> 太阳",
+    "c": null
+  },
+  {
+    "w": "sunday",
+    "r": "复合: sun(太阳) + day(日子) -> 太阳之日 -> 星期日",
+    "c": [
+      "Most university libraries remain open on Sunday for students preparing for final examinations.",
+      "大多数大学图书馆在星期日仍然开放, 供学生准备期末考试。"
+    ]
+  },
+  {
+    "w": "sunrise",
+    "r": "复合: sun(太阳) + rise(升起) -> 太阳升起 -> 日出",
+    "c": [
+      "Early risers on campus often gather by the lake to watch the sunrise and practice meditation.",
+      "校园里早起的人常聚集在湖边看日出并练习冥想。"
+    ]
+  },
+  {
+    "w": "sunset",
+    "r": "复合: sun(太阳) + set(落下) -> 太阳落下 -> 日落",
+    "c": null
+  },
+  {
+    "w": "sunshine",
+    "r": "复合: sun(太阳) + shine(光) -> 太阳的光 -> 阳光",
+    "c": [
+      "The south-facing classroom receives plenty of morning sunshine, creating a pleasant learning environment.",
+      "朝南的教室早晨阳光充足, 营造出宜人的学习环境。"
+    ]
+  },
+  {
+    "w": "super",
+    "r": "来自拉丁语super(在…上面, 超过) -> 超级的、极好的",
+    "c": null
+  },
+  {
+    "w": "superb",
+    "r": "super-(超过) + -b(来自拉丁语superbus骄傲的) -> 超群的 -> 极好的",
+    "c": [
+      "The student delivered a superb presentation that impressed every member of the review committee.",
+      "那位学生做了精彩的报告, 给评审委员会每位成员都留下了深刻印象。"
+    ]
+  },
+  {
+    "w": "superficial",
+    "r": "super-(上) + fic(面, 来自facies脸/面) + -ial(形容词后缀) -> 在表面上的 -> 肤浅的",
+    "c": [
+      "Students should avoid superficial analysis and dig deeper into the underlying causes of social issues.",
+      "学生应避免肤浅的分析, 更深入地挖掘社会问题的根本原因。"
+    ]
+  },
+  {
+    "w": "superfluous",
+    "r": "super-(超过) + flu(流) + -ous(形容词后缀) -> 流得过多的 -> 多余的",
+    "c": [
+      "The editor advised removing superfluous details to make the research paper more concise and focused.",
+      "编辑建议删除多余的细节, 使研究论文更加简洁和聚焦。"
+    ]
+  },
+  {
+    "w": "superintendent",
+    "r": "super-(在上面) + intend(打算, 管理) + -ent(人) -> 在上面管理的人 -> 主管人、监管人",
+    "c": null
+  },
+  {
+    "w": "superior",
+    "r": "super-(在上面) + -ior(形容词后缀,比较级) -> 在上面的 -> 优良的",
+    "c": [
+      "Students with superior critical thinking skills tend to perform better in complex problem-solving tasks.",
+      "具有较强批判性思维能力的学生在复杂问题解决任务中往往表现更好。"
+    ]
+  },
+  {
+    "w": "superiority",
+    "r": "superior(优良的) + -ity(名词后缀) -> 优良的性质 -> 优势",
+    "c": null
+  },
+  {
+    "w": "supermarket",
+    "r": "复合: super(超级) + market(市场) -> 超级市场",
+    "c": null
+  },
+  {
+    "w": "supersonic",
+    "r": "super-(超过) + son(声音) + -ic(形容词后缀) -> 超过声音的 -> 超音速的",
+    "c": [
+      "Supersonic aircraft can travel faster than the speed of sound, creating distinctive sonic booms.",
+      "超音速飞机可以以超过音速的速度飞行, 产生独特的音爆。"
+    ]
+  },
+  {
+    "w": "superstition",
+    "r": "super-(超过) + stit(站) + -ion(名词后缀) -> 站在(理性)之上/超越理性 -> 迷信",
+    "c": [
+      "Many traditional superstitions about lucky numbers still influence people's daily decisions today.",
+      "许多关于幸运数字的传统迷信至今仍影响着人们的日常决策。"
+    ]
+  },
+  {
+    "w": "supervise",
+    "r": "super-(在上面) + vise(看, 来自拉丁语videre) -> 在上面看 -> 监督",
+    "c": [
+      "Teaching assistants supervise laboratory sessions to ensure students follow proper safety procedures.",
+      "助教监督实验课以确保学生遵守正确的安全规程。"
+    ]
+  },
+  {
+    "w": "supervisor",
+    "r": "super-(在上面) + vis(看) + -or(人) -> 在上面看的人 -> 督导",
+    "c": null
+  },
+  {
+    "w": "supper",
+    "r": "来自古法语soper(晚餐), 原指晚上吃的一顿饭 -> 晚餐",
+    "c": [
+      "Graduate students often work late in the lab and grab a quick supper at the campus cafeteria.",
+      "研究生经常在实验室工作到很晚, 在校园食堂匆忙吃一顿晚餐。"
+    ]
+  },
+  {
+    "w": "supplement",
+    "r": "sup-(下) + ple(填, 满) + -ment(名词后缀) -> 从下面填满 -> 补充",
+    "c": null
+  },
+  {
+    "w": "supplementary",
+    "r": "supplement(补充) + -ary(形容词后缀) -> 增补的、补充的",
+    "c": [
+      "The professor provided supplementary reading materials for students who wanted to explore the topic further.",
+      "教授为希望进一步探讨该主题的学生提供了补充阅读材料。"
+    ]
+  },
+  {
+    "w": "supply",
+    "r": "sup-(下) + ply(填, 来自拉丁语plere填) -> 从下面填补 -> 供应",
+    "c": null
+  },
+  {
+    "w": "support",
+    "r": "sup-(下) + port(携带, 承载) -> 从下面承载 -> 支持",
+    "c": null
+  },
+  {
+    "w": "suppose",
+    "r": "sup-(下) + pos(放) + -e -> 放在下面(作为前提) -> 假设",
+    "c": null
+  },
+  {
+    "w": "suppress",
+    "r": "sup-(下) + press(压) -> 压下去 -> 压制、镇压",
+    "c": [
+      "The government's attempt to suppress scientific research raised concerns among the academic community.",
+      "政府压制科学研究的企图引起了学术界的关注。"
+    ]
+  },
+  {
+    "w": "supreme",
+    "r": "来自拉丁语supremus(最高的), 是super(在上)的最高级 -> 最高的",
+    "c": [
+      "The supreme court ruling established a legal precedent that affected future environmental policies.",
+      "最高法院的裁决确立了影响未来环境政策的法律先例。"
+    ]
+  },
+  {
+    "w": "sure",
+    "r": "来自拉丁语securus(安全的, 无虑的), 由se(无) + cura(关心)组成 -> 肯定的",
+    "c": null
+  },
+  {
+    "w": "surface",
+    "r": "sur-(上) + face(面) -> 在面上 -> 表面",
+    "c": null
+  },
+  {
+    "w": "surge",
+    "r": "来自拉丁语surgere(升起), 由sub(下) + regere(直/引)组成 -> 激增",
+    "c": null
+  },
+  {
+    "w": "surgeon",
+    "r": "来自希腊语cheirourgos(手工的), 由cheir(手) + ergon(工作)组成, 指动手工作的人 -> 外科医生",
+    "c": null
+  },
+  {
+    "w": "surgery",
+    "r": "surgeon(外科医生) + -y(名词后缀) -> 外科手术",
+    "c": null
+  },
+  {
+    "w": "surgical",
+    "r": "surg(外科) + -ical(形容词后缀) -> 手术的",
+    "c": [
+      "The surgical team prepared the operating room before performing the complex heart procedure.",
+      "手术团队在进行复杂的心脏手术前准备了手术室。"
+    ]
+  },
+  {
+    "w": "surname",
+    "r": "sur-(上, 超) + name(名字) -> 名字之上的名字 -> 姓",
+    "c": [
+      "In many East Asian cultures, the surname comes before the given name when addressing people formally.",
+      "在许多东亚文化中, 正式称呼他人时姓氏放在名字之前。"
+    ]
+  },
+  {
+    "w": "surpass",
+    "r": "sur-(超过) + pass(走) -> 走过了 -> 超越",
+    "c": [
+      "The young scientist's research findings surpass those of many senior scholars in her field.",
+      "这位年轻科学家的研究成果超越了她所在领域许多资深学者的成果。"
+    ]
+  },
+  {
+    "w": "surplus",
+    "r": "sur-(超过) + plus(更多) -> 超过更多的 -> 盈余、过剩",
+    "c": [
+      "Agricultural surplus allows countries to export food products and generate foreign exchange income.",
+      "农业盈余使各国能够出口粮食产品并创造外汇收入。"
+    ]
+  },
+  {
+    "w": "surprise",
+    "r": "sur-(超) + prise(拿, 取, 来自拉丁语prehendere) -> 突然拿到/出其不意 -> 惊讶",
+    "c": null
+  },
+  {
+    "w": "surrender",
+    "r": "sur-(上) + render(给予) -> 交上去 -> 投降",
+    "c": [
+      "The defeated army was forced to surrender after running out of ammunition and food supplies.",
+      "战败的军队在弹尽粮绝后被迫投降。"
+    ]
+  },
+  {
+    "w": "surround",
+    "r": "sur-(周围) + round(圆) -> 围成一圈 -> 围绕、周围",
+    "c": null
+  },
+  {
+    "w": "surroundings",
+    "r": "surround(围绕) + -ings(名词后缀,表复数) -> 周围的事物 -> 环境",
+    "c": [
+      "The natural surroundings of the mountain campus provide an ideal setting for environmental research.",
+      "山中校园的自然环境为环境研究提供了理想的场所。"
+    ]
+  },
+  {
+    "w": "surveillance",
+    "r": "sur-(上) + veil(看, 来自拉丁语vigilare) + -ance(名词后缀) -> 从上往下看 -> 监视",
+    "c": null
+  },
+  {
+    "w": "survey",
+    "r": "sur-(上) + vey(看, 来自拉丁语videre) -> 从上往下看 -> 调查、测量",
+    "c": null
+  },
+  {
+    "w": "survival",
+    "r": "sur-(超过) + viv(活) + -al(名词后缀) -> 活过(灾难) -> 幸存",
+    "c": null
+  },
+  {
+    "w": "survive",
+    "r": "sur-(超过) + vive(活, 来自拉丁语vivere) -> 活过 -> 幸存",
+    "c": null
+  },
+  {
+    "w": "susceptible",
+    "r": "sus-(下) + cept(拿, 取) + -ible(形容词后缀,能…的) -> 能从下面被带入的 -> 易受感染的",
+    "c": null
+  },
+  {
+    "w": "suspect",
+    "r": "sus-(下) + spect(看) -> 从下面偷偷看 -> 怀疑",
+    "c": null
+  },
+  {
+    "w": "suspend",
+    "r": "sus-(下) + pend(挂, 悬) -> 悬挂在下面 -> 暂停",
+    "c": null
+  },
+  {
+    "w": "suspension",
+    "r": "sus-(下) + pens(挂) + -ion(名词后缀) -> 悬挂的状态 -> 暂停、悬浮",
+    "c": [
+      "The temporary suspension of classes during the pandemic disrupted the normal academic calendar.",
+      "疫情期间临时停课打乱了正常的校历安排。"
+    ]
+  },
+  {
+    "w": "suspicion",
+    "r": "sus-(下) + spic(看) + -ion(名词后缀) -> 从下面偷看 -> 怀疑",
+    "c": null
+  },
+  {
+    "w": "suspicious",
+    "r": "sus-(下) + spic(看) + -ious(形容词后缀) -> 从下面偷看的 -> 可疑的",
+    "c": [
+      "Campus security noticed suspicious activity near the research building and reported it immediately.",
+      "校园保安注意到研究楼附近有可疑活动并立即报告。"
+    ]
+  },
+  {
+    "w": "sustain",
+    "r": "sus-(下) + tain(拿, 持) -> 从下面拿住 -> 支撑、忍受",
+    "c": null
+  },
+  {
+    "w": "swallow",
+    "r": "来自古英语swelgan(吞咽); 燕子义来自古英语swealwe -> 吞下、燕子",
+    "c": [
+      "Students often swallow their meals quickly when they are running late for morning lectures.",
+      "学生们赶早课迟到时常会快速吞下饭菜。"
+    ]
+  },
+  {
+    "w": "swamp",
+    "r": "来自古英语swamp(沼泽), 与古高地德语sumpf同源 -> 沼泽",
+    "c": [
+      "The construction project was delayed because the site was located on protected wetland swamp area.",
+      "由于选址在受保护的湿地沼泽区, 该建设项目被推迟了。"
+    ]
+  },
+  {
+    "w": "swan",
+    "r": "来自古英语swan(天鹅), 与德语Schwan同源 -> 天鹅",
+    "c": [
+      "A graceful swan glided across the university lake, attracting the attention of students walking nearby.",
+      "一只优雅的天鹅在大学湖面上滑过, 吸引了附近散步学生的注意。"
+    ]
+  },
+  {
+    "w": "swap",
+    "r": "来自中古英语swap(交换, 击打), 可能为拟声词 -> 交换",
+    "c": null
+  },
+  {
+    "w": "swarm",
+    "r": "来自古英语sweorm(蜂群), 与德语Schwarm同源 -> 群",
+    "c": [
+      "A swarm of students gathered in the main hall to hear the Nobel Prize winner's public lecture.",
+      "一群学生聚集在主厅聆听诺贝尔奖获得者的公开演讲。"
+    ]
+  },
+  {
+    "w": "sway",
+    "r": "来自古英语swegan(移动, 声音), 引申为摇摆 -> 影响、摇摆",
+    "c": null
+  },
+  {
+    "w": "swear",
+    "r": "来自古英语swerian(发誓), 与德语schwören同源 -> 赌咒、发誓",
+    "c": [
+      "Witnesses in court must swear to tell the truth before giving testimony about the case.",
+      "法庭上的证人在就案件作证前必须发誓说出真相。"
+    ]
+  },
+  {
+    "w": "sweat",
+    "r": "来自古英语swat(汗水), 与德语Schweiß同源 -> 汗水",
+    "c": null
+  },
+  {
+    "w": "sweater",
+    "r": "sweat(出汗) + -er(物) -> 使人出汗的衣服 -> 毛衣",
+    "c": [
+      "The student wore a thick wool sweater to stay warm during the long winter library sessions.",
+      "学生穿着厚羊毛衫在图书馆漫长的冬季学习中保暖。"
+    ]
+  },
+  {
+    "w": "sweep",
+    "r": "来自古英语swapan(扫, 挥动), 与德语schwemmen同源 -> 扫地",
+    "c": [
+      "Volunteers helped sweep the campus grounds before the opening ceremony of the new semester.",
+      "志愿者们在新学期开学典礼前帮忙清扫校园场地。"
+    ]
+  }
+]

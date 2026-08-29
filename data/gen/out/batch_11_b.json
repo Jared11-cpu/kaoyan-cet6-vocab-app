@@ -1,0 +1,530 @@
+[
+{
+"w": "erupt",
+"r": "e-(出) + rupt(破裂) -> 破裂而出 -> 爆发"
+},
+{
+"w": "escalate",
+"r": "e-(向上) + scal(梯子,阶梯) + -ate(动词后缀) -> 登上阶梯 -> 升级",
+"c": [
+"Trade disputes can quickly escalate into broader economic conflicts.",
+"贸易争端可能迅速升级为更广泛的经济冲突。"
+]
+},
+{
+"w": "escape",
+"r": "es-(=ex,出) + cape(斗篷,头) -> 从斗篷中脱出 -> 逃跑"
+},
+{
+"w": "escort",
+"r": "es-(=ex,出) + cort(=cor,心,核心) -> 护送核心人物 -> 护送",
+"c": [
+"Security personnel escort diplomats during international summits and negotiations.",
+"安保人员在国际峰会和谈判期间护送外交官。"
+]
+},
+{
+"w": "especially",
+"r": "especial(特别的) + -ly(副词后缀) -> 尤其",
+"c": [
+"Remote work has improved work-life balance, especially for working parents.",
+"远程工作改善了工作与生活的平衡，尤其对在职父母而言。"
+]
+},
+{
+"w": "essay",
+"r": "es-(=ex,出) + say(说,试) -> 试说出来的文章 -> 论文；散文"
+},
+{
+"w": "essence",
+"r": "ess(=esse,存在) + -ence(名词后缀) -> 存在的根本 -> 本质"
+},
+{
+"w": "essential",
+"r": "essence(本质) + -ial(形容词后缀) -> 本质上的 -> 重要的；必要的"
+},
+{
+"w": "establish",
+"r": "e-(使) + stabl(=stable,稳定的) + -ish(动词后缀) -> 使稳定下来 -> 建立；查实"
+},
+{
+"w": "estate",
+"r": "e-(状态) + stat(站,立) + -e -> 站立着的财产 -> 地产；遗产"
+},
+{
+"w": "esteem",
+"r": "e-(=a,表强调) + steem(=estim,价值,评价) -> 高度评价 -> 尊敬",
+"c": [
+"Scholars widely esteem her contributions to the field of behavioral economics.",
+"学者们普遍尊敬她对行为经济学领域的贡献。"
+]
+},
+{
+"w": "esthetic",
+"r": "aesthet(感觉,感知) + -ic(形容词后缀) -> 关于美的感知 -> 美学的",
+"c": [
+"The esthetic appeal of modern architecture divides public opinion sharply.",
+"现代建筑的美学吸引力引发了公众意见的尖锐分歧。"
+]
+},
+{
+"w": "estimate",
+"r": "estim(价值,评价) + -ate(动词后缀) -> 估价 -> 估计"
+},
+{
+"w": "eternal",
+"r": "etern(=aev,年龄,时间) + -al(形容词后缀) -> 超越时间的 -> 永恒的",
+"c": [
+"Philosophers have debated the nature of eternal truth for centuries.",
+"哲学家们几个世纪以来一直在辩论永恒真理的本质。"
+]
+},
+{
+"w": "ethic",
+"r": "eth(风俗,习惯) + -ic(名词后缀) -> 道德规范 -> 伦理"
+},
+{
+"w": "ethnic",
+"r": "ethn(民族,种族) + -ic(形容词后缀) -> 民族的",
+"c": [
+"Ethnic diversity enriches cultural life and fosters social innovation.",
+"民族多样性丰富了文化生活并促进了社会创新。"
+]
+},
+{
+"w": "evacuate",
+"r": "e-(出) + vacu(空) + -ate(动词后缀) -> 使空出来 -> 疏散",
+"c": [
+"Residents must evacuate coastal areas before the hurricane makes landfall.",
+"居民必须在飓风登陆前疏散沿海地区。"
+]
+},
+{
+"w": "evade",
+"r": "e-(出,离开) + vad(走) + -e -> 走出去避开 -> 逃避"
+},
+{
+"w": "evaluate",
+"r": "e-(出) + valu(价值) + -ate(动词后缀) -> 估出价值 -> 评估"
+},
+{
+"w": "evaluation",
+"r": "evaluate(评估) + -ion(名词后缀) -> 评价",
+"c": [
+"Program evaluation helps policymakers assess the effectiveness of social interventions.",
+"项目评估帮助政策制定者评估社会干预措施的有效性。"
+]
+},
+{
+"w": "evaporate",
+"r": "e-(出) + vapor(蒸汽) + -ate(动词后缀) -> 变成蒸汽出去 -> 蒸发",
+"c": [
+"Rising temperatures cause water reservoirs to evaporate faster than anticipated.",
+"气温上升导致水库蒸发速度快于预期。"
+]
+},
+{
+"w": "eve",
+"r": "联想: 圣诞前夕(Eve)是前夜 -> 前夕"
+},
+{
+"w": "even",
+"r": "联想: evening 的前半部分，夜晚「平」静 -> 甚至；平坦的"
+},
+{
+"w": "evening",
+"r": "even(傍晚的) + -ing(名词后缀) -> 傍晚"
+},
+{
+"w": "evenly",
+"r": "even(平坦的,一致的) + -ly(副词后缀) -> 一致地；平静地",
+"c": [
+"Wealth must be distributed evenly to promote long-term social stability.",
+"财富必须均匀分配以促进长期社会稳定。"
+]
+},
+{
+"w": "event",
+"r": "e-(出) + vent(来) -> 到来的事 -> 事件"
+},
+{
+"w": "eventually",
+"r": "event(事件,结果) + -ual(形容词后缀) + -ly(副词后缀) -> 最终"
+},
+{
+"w": "ever",
+"r": "联想: for ever 永远 -> 从来；曾经"
+},
+{
+"w": "everlasting",
+"r": "ever(永远) + last(持续) + -ing(形容词后缀) -> 永久的；持久的",
+"c": [
+"The artist left behind an everlasting legacy in modern abstract painting.",
+"这位艺术家在现代抽象绘画中留下了永恒的遗产。"
+]
+},
+{
+"w": "every",
+"r": "复合: ever(永远) + y -> 每一个都 -> 每个"
+},
+{
+"w": "everybody",
+"r": "every(每个) + body(人,身体) -> 每人"
+},
+{
+"w": "everyday",
+"r": "every(每) + day(天) -> 每日的"
+},
+{
+"w": "everyone",
+"r": "every(每个) + one(一个人) -> 每人"
+},
+{
+"w": "everything",
+"r": "every(每个) + thing(事物) -> 每件事"
+},
+{
+"w": "everywhere",
+"r": "every(每个) + where(地方) -> 到处"
+},
+{
+"w": "evidence",
+"r": "e-(出) + vid(看) + -ence(名词后缀) -> 看出的东西 -> 证据"
+},
+{
+"w": "evident",
+"r": "e-(出) + vid(看) + -ent(形容词后缀) -> 能看出来的 -> 明显的",
+"c": [
+"The economic benefits of renewable energy are evident in recent studies.",
+"可再生能源的经济效益在近期研究中是显而易见的。"
+]
+},
+{
+"w": "evil",
+"r": "联想: live(生活)反过来就是evil，生活颠倒就是邪恶 -> 邪恶的"
+},
+{
+"w": "evoke",
+"r": "e-(出) + vok(叫,声音) + -e -> 叫出来 -> 唤起",
+"c": [
+"Certain melodies can evoke vivid memories of childhood experiences.",
+"某些旋律能唤起童年经历的生动回忆。"
+]
+},
+{
+"w": "evolution",
+"r": "e-(出) + volut(滚,转) + -ion(名词后缀) -> 滚展出来 -> 进化"
+},
+{
+"w": "evolve",
+"r": "e-(出) + volv(滚,转) + -e -> 逐渐展开 -> 使发展；进化",
+"c": [
+"Digital technologies continue to evolve rapidly, reshaping industries worldwide.",
+"数字技术持续快速发展，重塑着全球各行各业。"
+]
+},
+{
+"w": "exact",
+"r": "ex-(出) + act(做,驱使) -> 逼出来的 -> 确切的；特定的"
+},
+{
+"w": "exaggerate",
+"r": "ex-(出,过度) + agger(堆积) + -ate(动词后缀) -> 堆积过多 -> 夸大"
+},
+{
+"w": "exaggeration",
+"r": "exaggerate(夸大) + -ion(名词后缀) -> 夸张；夸大之词",
+"c": [
+"Exaggeration in media reports can distort public understanding of scientific findings.",
+"媒体报道中的夸张会扭曲公众对科学发现的理解。"
+]
+},
+{
+"w": "examination",
+"r": "examine(检查) + -ation(名词后缀) -> 考试；检查"
+},
+{
+"w": "examine",
+"r": "ex-(出) + amin(=exam,试验) + -e -> 检查；考察"
+},
+{
+"w": "example",
+"r": "ex-(出) + ampl(拿,取) + -e -> 拿出来做示范 -> 例子"
+},
+{
+"w": "exceed",
+"r": "ex-(超出) + ceed(走) -> 走出去 -> 超过；越过",
+"c": [
+"Renewable energy capacity now exceeds fossil fuels in several European countries.",
+"在几个欧洲国家，可再生能源装机容量现已超过化石燃料。"
+]
+},
+{
+"w": "exceedingly",
+"r": "exceed(超过) + -ing(形容词后缀) + -ly(副词后缀) -> 极度地；非常",
+"c": [
+"The problem of plastic pollution has become exceedingly urgent in recent years.",
+"塑料污染问题近年来变得异常紧迫。"
+]
+},
+{
+"w": "excel",
+"r": "ex-(出) + cel(=cels,高) -> 高出别人 -> 优于；擅长"
+},
+{
+"w": "excellent",
+"r": "ex-(出) + cell(=cels,高) + -ent(形容词后缀) -> 高出的 -> 优秀的"
+},
+{
+"w": "except",
+"r": "ex-(出) + cept(拿,抓) -> 拿出去 -> 除了……之外"
+},
+{
+"w": "exception",
+"r": "ex-(出) + cept(拿) + -ion(名词后缀) -> 拿出去的东西 -> 例外",
+"c": [
+"No scientific theory is beyond challenge, and no rule has no exception.",
+"没有科学理论是不容挑战的，也没有规则是没有例外的。"
+]
+},
+{
+"w": "exceptional",
+"r": "exception(例外) + -al(形容词后缀) -> 例外的；非凡的"
+},
+{
+"w": "excerpt",
+"r": "ex-(出) + cerp(=cap,拿,摘) + -t -> 摘出来 -> 摘录",
+"c": [
+"The professor read an excerpt from the original manuscript to the class.",
+"教授向全班朗读了原始手稿中的一段摘录。"
+]
+},
+{
+"w": "excess",
+"r": "ex-(超出) + cess(走) -> 走过了 -> 过剩；过量"
+},
+{
+"w": "excessive",
+"r": "ex-(超出) + cess(走) + -ive(形容词后缀) -> 走得过头的 -> 过多的"
+},
+{
+"w": "excessively",
+"r": "excessive(过多的) + -ly(副词后缀) -> 过分，极端地",
+"c": [
+"Excessively long working hours harm both productivity and employee well-being.",
+"过长的工作时间既损害生产力也损害员工的幸福感。"
+]
+},
+{
+"w": "exchange",
+"r": "ex-(互相) + change(变换) -> 互相变换 -> 交换"
+},
+{
+"w": "excite",
+"r": "ex-(出) + cit(召唤,动) + -e -> 召唤出来 -> 刺激；激起",
+"c": [
+"Scientific discoveries often excite public imagination and inspire further research.",
+"科学发现常常激发公众的想象力并推动进一步研究。"
+]
+},
+{
+"w": "excitement",
+"r": "excite(激起) + -ment(名词后缀) -> 兴奋"
+},
+{
+"w": "exciting",
+"r": "excite(使兴奋) + -ing(形容词后缀) -> 令人兴奋的"
+},
+{
+"w": "exclaim",
+"r": "ex-(出) + claim(喊,叫) -> 喊出来 -> 呼喊",
+"c": [
+"Scientists could not help but exclaim at the unexpected breakthrough.",
+"科学家们对这一出乎意料的突破忍不住惊呼。"
+]
+},
+{
+"w": "exclamation",
+"r": "exclaim(呼喊) + -ation(名词后缀) -> 呼喊，惊叫；感叹",
+"c": [
+"The exclamation mark in the title signals the author's passionate tone.",
+"标题中的感叹号标志着作者充满激情的语气。"
+]
+},
+{
+"w": "exclude",
+"r": "ex-(出) + clud(关,闭) + -e -> 关在外面 -> 不包括"
+},
+{
+"w": "exclusive",
+"r": "ex-(出) + clus(关闭) + -ive(形容词后缀) -> 把别人关在外面的 -> 独有的"
+},
+{
+"w": "excursion",
+"r": "ex-(出) + curs(跑,流) + -ion(名词后缀) -> 跑出去 -> 远足",
+"c": [
+"Students went on a weekend excursion to study local geological formations.",
+"学生们周末进行了一次远足，研究当地的地质构造。"
+]
+},
+{
+"w": "excuse",
+"r": "ex-(出) + cuse(=caus,原因) -> 说出原因辩解 -> 借口"
+},
+{
+"w": "execute",
+"r": "ex-(出,完全) + secu(跟随,追随) + -te -> 贯彻到底 -> 执行",
+"c": [
+"Project managers must execute plans efficiently while managing risks.",
+"项目经理必须在管理风险的同时高效执行计划。"
+]
+},
+{
+"w": "execution",
+"r": "execute(执行) + -ion(名词后缀) -> 死刑；实行，执行；演奏"
+},
+{
+"w": "executive",
+"r": "ex-(完全) + secu(跟随) + -tive(形容词/名词后缀) -> 执行的；经理"
+},
+{
+"w": "exemplary",
+"r": "ex-(出) + empl(拿,榜样) + -ary(形容词后缀) -> 可做榜样的 -> 典范的",
+"c": [
+"Her exemplary research methodology has been widely adopted by other scholars.",
+"她的典范研究方法已被其他学者广泛采用。"
+]
+},
+{
+"w": "exemplify",
+"r": "ex-(出) + empl(拿,榜样) + -ify(动词后缀) -> 作为榜样 -> 例证"
+},
+{
+"w": "exempt",
+"r": "ex-(出) + empt(拿,取) -> 拿出去免除 -> 免除；被豁免的"
+},
+{
+"w": "exercise",
+"r": "ex-(出) + erc(=erg,工作,练习) + -ise -> 锻炼；练习"
+},
+{
+"w": "exert",
+"r": "ex-(出) + ert(=sert,加入,用力) -> 使出力量 -> 用；运用"
+},
+{
+"w": "exertion",
+"r": "exert(运用) + -ion(名词后缀) -> 运用；努力",
+"c": [
+"Physical exertion releases endorphins that improve mood and reduce stress.",
+"体力活动会释放内啡肽，改善情绪并减轻压力。"
+]
+},
+{
+"w": "exhaust",
+"r": "ex-(出) + haust(抽,拉) -> 抽干 -> 耗尽；排气"
+},
+{
+"w": "exhibit",
+"r": "ex-(出) + hibit(拿,给) -> 拿出来给人看 -> 展览；显示"
+},
+{
+"w": "exhibition",
+"r": "exhibit(展览) + -ion(名词后缀) -> 展览会；陈列",
+"c": [
+"The art exhibition attracted thousands of visitors from around the world.",
+"这场艺术展览吸引了来自世界各地的数千名参观者。"
+]
+},
+{
+"w": "exile",
+"r": "ex-(出) + ile(=solum,土地) -> 离开故土 -> 流放",
+"c": [
+"Political dissidents often face exile or imprisonment under authoritarian regimes.",
+"政治异见人士在威权政权下常常面临流放或监禁。"
+]
+},
+{
+"w": "exist",
+"r": "ex-(出) + sist(站立) -> 站出来 -> 存在"
+},
+{
+"w": "existence",
+"r": "exist(存在) + -ence(名词后缀) -> 存在"
+},
+{
+"w": "exit",
+"r": "ex-(出) + it(走) -> 走出去 -> 退出；出口"
+},
+{
+"w": "exotic",
+"r": "exo-(外面) + -tic(形容词后缀) -> 外来的 -> 奇异的；外来的"
+},
+{
+"w": "expand",
+"r": "ex-(出) + pand(伸展,张开) -> 向外张开 -> 扩大"
+},
+{
+"w": "expansion",
+"r": "expand(扩大) + -sion(名词后缀) -> 扩张"
+},
+{
+"w": "expect",
+"r": "ex-(出) + spect(看) -> 向外看(期待) -> 预料；期待"
+},
+{
+"w": "expectancy",
+"r": "expect(期待) + -ancy(名词后缀) -> 预料；期待；盼望"
+},
+{
+"w": "expectation",
+"r": "expect(期待) + -ation(名词后缀) -> 预期"
+},
+{
+"w": "expedition",
+"r": "ex-(出) + ped(脚) + -ition(名词后缀) -> 走出去 -> 探险队；远征",
+"c": [
+"The scientific expedition collected valuable data from the Arctic region.",
+"科学考察队从北极地区收集了宝贵的数据。"
+]
+},
+{
+"w": "expel",
+"r": "ex-(出) + pel(推,驱使) -> 推出去 -> 驱逐"
+},
+{
+"w": "expend",
+"r": "ex-(出) + pend(称,支付) -> 支付出去 -> 花费"
+},
+{
+"w": "expenditure",
+"r": "expend(花费) + -iture(名词后缀) -> 开支",
+"c": [
+"Government expenditure on education has significant long-term economic benefits.",
+"政府在教育上的开支具有重大的长期经济效益。"
+]
+},
+{
+"w": "expense",
+"r": "ex-(出) + pens(支付) + -e -> 花费；费用"
+},
+{
+"w": "expensive",
+"r": "ex-(出) + pens(支付) + -ive(形容词后缀) -> 要花很多钱的 -> 贵的"
+},
+{
+"w": "experience",
+"r": "ex-(出) + peri(尝试,试验) + -ence(名词后缀) -> 尝试出来的东西 -> 经历；经验"
+},
+{
+"w": "experiment",
+"r": "ex-(出) + peri(尝试) + -ment(名词后缀) -> 实验"
+},
+{
+"w": "experimentally",
+"r": "experimental(实验的) + -ly(副词后缀) -> 实验上，实验性地",
+"c": [
+"The hypothesis was tested experimentally across three independent research groups.",
+"该假设在三个独立研究小组中进行了实验性验证。"
+]
+}
+]

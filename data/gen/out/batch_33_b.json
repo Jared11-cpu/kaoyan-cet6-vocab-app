@@ -1,0 +1,676 @@
+[
+  {
+    "w": "vanish",
+    "r": "van(空,来自拉丁语vanus) + -ish(动词后缀,使…) -> 使变空 -> 消失",
+    "c": null
+  },
+  {
+    "w": "vanity",
+    "r": "van(空,来自拉丁语vanus) + -ity(名词后缀) -> 空虚 -> 虚荣心",
+    "c": [
+      "Excessive focus on social media likes can foster vanity and harm students' psychological well-being.",
+      "过度关注社交媒体点赞会滋长虚荣心并损害学生的心理健康。"
+    ]
+  },
+  {
+    "w": "vapor",
+    "r": "来自拉丁语vapor(蒸汽,水汽) -> 蒸汽",
+    "c": [
+      "Water vapor rises into the atmosphere and eventually condenses to form clouds and precipitation.",
+      "水蒸气上升到大气中，最终凝结形成云和降水。"
+    ]
+  },
+  {
+    "w": "variable",
+    "r": "vari(变化) + -able(形容词后缀,可…的) -> 可变的 -> 变量,多变的",
+    "c": null
+  },
+  {
+    "w": "variance",
+    "r": "vari(变化) + -ance(名词后缀) -> 变化的状态 -> 变化",
+    "c": [
+      "The high variance in test scores suggests that students had very different levels of preparation.",
+      "考试成绩的巨大差异表明学生的准备水平差异很大。"
+    ]
+  },
+  {
+    "w": "variation",
+    "r": "vari(变化) + -ation(名词后缀) -> 变化的结果 -> 变化",
+    "c": null
+  },
+  {
+    "w": "variety",
+    "r": "vari(变化) + -ety(名词后缀) -> 变化的种类 -> 多样化,种类",
+    "c": null
+  },
+  {
+    "w": "various",
+    "r": "vari(变化) + -ous(形容词后缀,充满…的) -> 各种各样的",
+    "c": [
+      "University libraries offer various resources including e-books, journals, and research databases.",
+      "大学图书馆提供各种各样的资源，包括电子书、期刊和研究数据库。"
+    ]
+  },
+  {
+    "w": "vary",
+    "r": "来自拉丁语variare(变化) -> 改变",
+    "c": null
+  },
+  {
+    "w": "vase",
+    "r": "来自拉丁语vas(器皿,容器), 经由古法语 -> 花瓶",
+    "c": [
+      "The ceramic vase displayed in the university museum dates back to the Ming Dynasty.",
+      "大学博物馆展出的陶瓷花瓶可以追溯到明朝。"
+    ]
+  },
+  {
+    "w": "vast",
+    "r": "来自拉丁语vastus(空阔的,巨大的) -> 巨大的,大量的",
+    "c": null
+  },
+  {
+    "w": "vault",
+    "r": "来自拉丁语volvere(转,拱), 拱顶是弧形的 -> 拱顶,地下墓室",
+    "c": [
+      "The historic cathedral's stone vault was regarded as an architectural masterpiece of the Middle Ages.",
+      "这座历史大教堂的石制拱顶被视为中世纪建筑的杰作。"
+    ]
+  },
+  {
+    "w": "vector",
+    "r": "vect(携带,运送) + -or(名词后缀,物) -> 携带方向的量 -> 矢量",
+    "c": [
+      "In physics class, students learned to calculate the velocity vector of a moving projectile.",
+      "在物理课上，学生们学习计算运动抛射体的速度矢量。"
+    ]
+  },
+  {
+    "w": "vegetable",
+    "r": "veget(生长,植物) + -able(名词后缀) -> 生长的植物 -> 蔬菜",
+    "c": [
+      "The campus cafeteria now serves a wider selection of fresh vegetable dishes for health-conscious students.",
+      "校园食堂现在为注重健康的学生提供更多种类的新鲜蔬菜菜肴。"
+    ]
+  },
+  {
+    "w": "vegetarian",
+    "r": "veget(植物) + -arian(名词后缀,…的人) -> 吃植物的人 -> 素食者",
+    "c": null
+  },
+  {
+    "w": "vegetation",
+    "r": "veget(生长,植物) + -ation(名词后缀) -> 植物总称 -> 植物",
+    "c": [
+      "Dense tropical vegetation provides habitat for countless species of insects, birds, and mammals.",
+      "茂密的热带植被为无数种昆虫、鸟类和哺乳动物提供栖息地。"
+    ]
+  },
+  {
+    "w": "vehicle",
+    "r": "veh(运送,承载) + -icle(名词后缀,小的) -> 运送的工具 -> 交通工具",
+    "c": null
+  },
+  {
+    "w": "veil",
+    "r": "来自拉丁语velum(帆,幕布) -> 面纱",
+    "c": null
+  },
+  {
+    "w": "vein",
+    "r": "来自拉丁语vena(血管,脉) -> 静脉",
+    "c": null
+  },
+  {
+    "w": "velocity",
+    "r": "veloc(快,来自拉丁语velox) + -ity(名词后缀) -> 快的程度 -> 速度",
+    "c": [
+      "The physics experiment measured the velocity of a falling object at different time intervals.",
+      "物理实验测量了下落物体在不同时间间隔的速度。"
+    ]
+  },
+  {
+    "w": "velvet",
+    "r": "来自拉丁语villus(绒毛), 指有绒毛的织物 -> 天鹅绒",
+    "c": null
+  },
+  {
+    "w": "vengeance",
+    "r": "veng(惩罚,报仇) + -eance(名词后缀) -> 报仇的行为 -> 报复，复仇",
+    "c": [
+      "The novel explores how vengeance can consume a person and destroy their relationships with others.",
+      "这部小说探讨了复仇如何吞噬一个人并破坏其与他人的关系。"
+    ]
+  },
+  {
+    "w": "vent",
+    "r": "来自拉丁语ventus(风), 引申为通风口 -> 通风口,发泄",
+    "c": [
+      "Students often turn to close friends to vent their frustrations about academic pressure.",
+      "学生们经常向亲密朋友发泄学业压力带来的挫败感。"
+    ]
+  },
+  {
+    "w": "ventilate",
+    "r": "ventil(风,通风) + -ate(动词后缀) -> 使通风 -> 通风",
+    "c": [
+      "Classrooms should be properly ventilated to maintain air quality and support students' concentration.",
+      "教室应适当通风以保持空气质量并帮助学生集中注意力。"
+    ]
+  },
+  {
+    "w": "venture",
+    "r": "vent(来,来自拉丁语venire) + -ure(名词后缀) -> 冒险而来 -> 冒险,敢于",
+    "c": null
+  },
+  {
+    "w": "venue",
+    "r": "来自拉丁语venire(来), 原指人们前来的地方 -> 审判地,会场",
+    "c": [
+      "The university announced the main venue for the annual academic conference on sustainable development.",
+      "大学公布了年度可持续发展学术会议的主会场。"
+    ]
+  },
+  {
+    "w": "venus",
+    "r": "词源: 来自罗马神话爱与美之女神Venus -> 金星,美人",
+    "c": [
+      "Venus, the second planet from the Sun, is often called Earth's sister planet due to similar size.",
+      "金星是离太阳第二近的行星，由于大小相近常被称为地球的姐妹行星。"
+    ]
+  },
+  {
+    "w": "verb",
+    "r": "来自拉丁语verbum(词,动词) -> 动词",
+    "c": [
+      "In English grammar, a verb typically expresses an action, occurrence, or state of being.",
+      "在英语语法中，动词通常表示动作、发生或存在状态。"
+    ]
+  },
+  {
+    "w": "verbal",
+    "r": "verb(词,言) + -al(形容词后缀) -> 言语的 -> 语言的",
+    "c": null
+  },
+  {
+    "w": "verdict",
+    "r": "ver(真实) + dict(说) -> 说真话 -> 裁决",
+    "c": [
+      "The jury reached a verdict of not guilty after carefully reviewing all the evidence presented.",
+      "陪审团在仔细审查所有提交的证据后作出了无罪裁决。"
+    ]
+  },
+  {
+    "w": "verge",
+    "r": "来自拉丁语virga(杆,杖), 引申为边界 -> 边缘",
+    "c": [
+      "Many species of rainforest plants are on the verge of extinction due to deforestation.",
+      "由于森林砍伐，许多雨林植物物种濒临灭绝。"
+    ]
+  },
+  {
+    "w": "verify",
+    "r": "ver(真实) + -ify(动词后缀,使…) -> 使真实(查证) -> 核实",
+    "c": [
+      "Before publishing, researchers must verify their data through repeated experiments and analysis.",
+      "在发表之前，研究人员必须通过反复实验和分析来核实数据。"
+    ]
+  },
+  {
+    "w": "versatile",
+    "r": "vers(转) + -atile(形容词后缀,易于…的) -> 易于转向的 -> 多才多艺的,通用的",
+    "c": [
+      "A versatile student who excels in both sciences and arts has more career options after graduation.",
+      "文理兼优的多才多艺的学生毕业后有更多的职业选择。"
+    ]
+  },
+  {
+    "w": "verse",
+    "r": "vers(转) + -e -> 来回转的诗行 -> 诗",
+    "c": [
+      "The literature professor asked students to analyze a verse from Shakespeare's sonnets.",
+      "文学教授要求学生分析莎士比亚十四行诗中的一行诗。"
+    ]
+  },
+  {
+    "w": "version",
+    "r": "vers(转) + -ion(名词后缀) -> 转过来的样式 -> 版本",
+    "c": null
+  },
+  {
+    "w": "versus",
+    "r": "vers(转) + -us -> 转向对立面 -> 对抗",
+    "c": [
+      "The debate focused on online learning versus traditional classroom teaching methods.",
+      "这场辩论聚焦于在线学习与传统课堂教学方法的对比。"
+    ]
+  },
+  {
+    "w": "vertical",
+    "r": "vert(转) + -ical(形容词后缀) -> 转到顶上的(垂直) -> 垂直的",
+    "c": [
+      "The engineering team designed a vertical garden on the campus building wall to promote green space.",
+      "工程团队在校园建筑墙上设计了一个垂直花园以增加绿色空间。"
+    ]
+  },
+  {
+    "w": "very",
+    "r": "来自拉丁语verus(真实的), 引申为非常 -> 非常",
+    "c": [
+      "The professor's lecture on quantum mechanics was very engaging and inspired many students.",
+      "教授关于量子力学的讲座非常引人入胜，启发了许多学生。"
+    ]
+  },
+  {
+    "w": "vessel",
+    "r": "来自拉丁语vas(器皿,容器), 引申为船(载人的容器) -> 船,容器",
+    "c": null
+  },
+  {
+    "w": "vest",
+    "r": "来自拉丁语vestis(衣服), 后专指背心 -> 背心",
+    "c": [
+      "The university bookstore sells logo vests that students often wear during campus events.",
+      "大学书店出售带有校徽的背心，学生常在校园活动中穿着。"
+    ]
+  },
+  {
+    "w": "veteran",
+    "r": "veter(老) + -an(名词后缀,人) -> 老人,老兵 -> 老兵",
+    "c": [
+      "The university invited a military veteran to share his experiences with the student body.",
+      "大学邀请了一位退伍军人向学生分享他的经历。"
+    ]
+  },
+  {
+    "w": "veto",
+    "r": "来自拉丁语veto(我禁止), 古罗马保民官用语 -> 否决",
+    "c": [
+      "The student council used its veto to block the proposed increase in campus parking fees.",
+      "学生会使用否决权阻止了拟议的校园停车费上涨。"
+    ]
+  },
+  {
+    "w": "via",
+    "r": "来自拉丁语via(道路), 引申为经过 -> 经过",
+    "c": null
+  },
+  {
+    "w": "viable",
+    "r": "vi(生命,来自拉丁语vita) + -able(形容词后缀,可…的) -> 能活的 -> 可行的",
+    "c": null
+  },
+  {
+    "w": "vibrate",
+    "r": "vibr(震动,来自拉丁语vibrare) + -ate(动词后缀) -> 震动 -> 颤动",
+    "c": [
+      "The strings of a guitar vibrate when plucked, producing sound waves that travel through the air.",
+      "吉他的弦在被拨动时振动，产生在空气中传播的声波。"
+    ]
+  },
+  {
+    "w": "vice",
+    "r": "来自拉丁语vitium(缺陷,罪恶) -> 恶习,邪恶",
+    "c": [
+      "Procrastination is a common vice among university students that can harm academic performance.",
+      "拖延是大学生中常见的恶习，会损害学业表现。"
+    ]
+  },
+  {
+    "w": "vicinity",
+    "r": "vicin(邻近,来自拉丁语vicinus) + -ity(名词后缀) -> 邻近的状态 -> 邻近",
+    "c": [
+      "Several coffee shops in the vicinity of the campus are popular study spots for students.",
+      "校园附近的几家咖啡店是学生们喜爱的学习场所。"
+    ]
+  },
+  {
+    "w": "vicious",
+    "r": "vice(邪恶) + -ious(形容词后缀,充满…的) -> 充满邪恶的 -> 恶毒的",
+    "c": [
+      "The vicious cycle of poverty and poor education can be difficult to break without external support.",
+      "贫困和教育落后的恶性循环如果没有外部支持很难打破。"
+    ]
+  },
+  {
+    "w": "victim",
+    "r": "来自拉丁语victima(祭品,牺牲) -> 受害者",
+    "c": null
+  },
+  {
+    "w": "victory",
+    "r": "vict(征服) + -ory(名词后缀) -> 征服的结果 -> 胜利",
+    "c": [
+      "The university debate team celebrated their victory in the national intercollegiate competition.",
+      "大学辩论队庆祝他们在全国校际比赛中的胜利。"
+    ]
+  },
+  {
+    "w": "video",
+    "r": "vid(看) + -eo -> 可看的东西 -> 录像",
+    "c": null
+  },
+  {
+    "w": "view",
+    "r": "来自拉丁语videre(看), 经古法语veue -> 景观,观点",
+    "c": null
+  },
+  {
+    "w": "viewpoint",
+    "r": "复合: view(看) + point(点) -> 看的角度 -> 观点",
+    "c": null
+  },
+  {
+    "w": "vigorous",
+    "r": "vigor(活力,来自拉丁语vigor) + -ous(形容词后缀,充满…的) -> 充满活力的",
+    "c": [
+      "Vigorous debate in the classroom encourages students to think critically and defend their ideas.",
+      "课堂上激烈的辩论鼓励学生批判性思考并捍卫自己的观点。"
+    ]
+  },
+  {
+    "w": "vigour",
+    "r": "来自拉丁语vigor(活力), 源自vigeo(有活力) -> 活力，精力",
+    "c": [
+      "The young researcher approached every experiment with great vigour and intellectual curiosity.",
+      "这位年轻的研究者以极大的精力和求知欲对待每一个实验。"
+    ]
+  },
+  {
+    "w": "villa",
+    "r": "来自拉丁语villa(乡间住宅,农庄) -> 别墅",
+    "c": [
+      "The university's conference villa at the lake is used for academic workshops and retreats.",
+      "大学湖边的会议别墅用于举办学术研讨会和进修活动。"
+    ]
+  },
+  {
+    "w": "village",
+    "r": "来自拉丁语villa(农庄) + -age(名词后缀) -> 村庄",
+    "c": null
+  },
+  {
+    "w": "vine",
+    "r": "来自拉丁语vinea(葡萄藤), 源自vinum(酒) -> 蔓，藤",
+    "c": [
+      "The garden club planted a vine along the south wall of the campus greenhouse to provide shade.",
+      "园艺社在校园温室的南墙边种了一株藤本植物以提供遮荫。"
+    ]
+  },
+  {
+    "w": "vinegar",
+    "r": "vin(酒,来自拉丁语vinum) + egar(酸的) -> 酸了的酒 -> 醋",
+    "c": [
+      "Vinegar is commonly used in salad dressings and as a natural cleaning agent in households.",
+      "醋常用于沙拉酱中，也作为家庭中的天然清洁剂使用。"
+    ]
+  },
+  {
+    "w": "violate",
+    "r": "viol(力量,暴力) + -ate(动词后缀) -> 用强力破坏 -> 违背,侵犯",
+    "c": null
+  },
+  {
+    "w": "violation",
+    "r": "violate(违背) + -ion(名词后缀) -> 违背的行为 -> 违犯,侵犯",
+    "c": [
+      "Any violation of the university's academic integrity policy may result in suspension or expulsion.",
+      "任何违反大学学术诚信政策的行为都可能导致停学或开除。"
+    ]
+  },
+  {
+    "w": "violence",
+    "r": "viol(力量,暴力) + -ence(名词后缀) -> 暴力行为 -> 暴力",
+    "c": null
+  },
+  {
+    "w": "violent",
+    "r": "viol(暴力) + -ent(形容词后缀) -> 暴力的",
+    "c": [
+      "Violent video games have been the subject of much debate about their impact on young people.",
+      "暴力电子游戏一直是关于其对年轻人影响的大量争论的主题。"
+    ]
+  },
+  {
+    "w": "violet",
+    "r": "来自拉丁语viola(紫罗兰), 指紫色小花 -> 紫色,紫罗兰",
+    "c": null
+  },
+  {
+    "w": "violin",
+    "r": "来自拉丁语vitula(弦乐器), 经意大利语violino -> 小提琴",
+    "c": [
+      "The student violinist will perform a solo concert at the university auditorium next Friday.",
+      "这位学生小提琴手将于下周五在大学礼堂举行独奏音乐会。"
+    ]
+  },
+  {
+    "w": "virgin",
+    "r": "来自拉丁语virgo(处女,少女) -> 处女",
+    "c": [
+      "The virgin forest in the national park has never been logged and remains ecologically intact.",
+      "国家公园里的原始森林从未被砍伐，生态系统保持完整。"
+    ]
+  },
+  {
+    "w": "virtual",
+    "r": "virt(力量,本质) + -ual(形容词后缀) -> 具有本质力量的 -> 实际上的,虚拟的",
+    "c": null
+  },
+  {
+    "w": "virtually",
+    "r": "virtual(实际上的) + -ly(副词后缀) -> 事实上",
+    "c": [
+      "Virtually all universities now offer some form of online learning for their students.",
+      "几乎所有大学现在都为学生提供某种形式的在线学习。"
+    ]
+  },
+  {
+    "w": "virtue",
+    "r": "来自拉丁语virtus(男子气概,美德), 源自vir(男人) -> 美德,优点",
+    "c": null
+  },
+  {
+    "w": "virus",
+    "r": "来自拉丁语virus(毒,毒液) -> 病毒",
+    "c": null
+  },
+  {
+    "w": "visa",
+    "r": "来自拉丁语videre(看), 原指在护照上看过(盖章) -> 签证",
+    "c": [
+      "International students must apply for a student visa before they can study abroad.",
+      "国际学生必须申请学生签证才能出国留学。"
+    ]
+  },
+  {
+    "w": "visceral",
+    "r": "viscer(内脏,来自拉丁语viscera) + -al(形容词后缀) -> 内脏的,出自内心的",
+    "c": [
+      "The documentary about poverty evoked a visceral response from the audience of university students.",
+      "这部关于贫困的纪录片引发了大学生观众发自肺腑的反应。"
+    ]
+  },
+  {
+    "w": "viscous",
+    "r": "visc(粘,来自拉丁语viscum) + -ous(形容词后缀,充满…的) -> 粘滞的",
+    "c": [
+      "The viscous liquid flowed slowly through the narrow tube, as observed in the chemistry lab.",
+      "正如在化学实验室观察到的那样，这种粘稠的液体缓慢地流过细管。"
+    ]
+  },
+  {
+    "w": "visible",
+    "r": "vis(看) + -ible(形容词后缀,可…的) -> 可见的",
+    "c": null
+  },
+  {
+    "w": "vision",
+    "r": "vis(看) + -ion(名词后缀) -> 看的能力 -> 视力,想象",
+    "c": null
+  },
+  {
+    "w": "visit",
+    "r": "来自拉丁语visitare(看望,访问) -> 参观、访问",
+    "c": null
+  },
+  {
+    "w": "visitor",
+    "r": "visit(访问) + -or(名词后缀,人) -> 访问者",
+    "c": null
+  },
+  {
+    "w": "visual",
+    "r": "vis(看) + -ual(形容词后缀) -> 看的",
+    "c": null
+  },
+  {
+    "w": "visualize",
+    "r": "visual(视觉的) + -ize(动词后缀,使…) -> 使形象化 -> 想象",
+    "c": null
+  },
+  {
+    "w": "vital",
+    "r": "vit(生命) + -al(形容词后缀) -> 生命攸关的 -> 重要的",
+    "c": null
+  },
+  {
+    "w": "vitality",
+    "r": "vital(生命的) + -ity(名词后缀) -> 生命力 -> 活力",
+    "c": [
+      "The vitality of the campus community comes from its diverse student body and active student clubs.",
+      "校园社区的活力来自其多元化的学生群体和活跃的学生社团。"
+    ]
+  },
+  {
+    "w": "vitamin",
+    "r": "vit(生命) + amin(胺) -> 生命所需的胺 -> 维生素",
+    "c": [
+      "Vitamin D deficiency is common among students who spend most of their time indoors studying.",
+      "维生素D缺乏在大部分时间都在室内学习的学生中很常见。"
+    ]
+  },
+  {
+    "w": "vivid",
+    "r": "viv(活) + -id(形容词后缀) -> 生动的",
+    "c": [
+      "The professor used vivid examples to make complex economic theories easier to understand.",
+      "教授用生动的例子使复杂的经济理论更容易理解。"
+    ]
+  },
+  {
+    "w": "vocabulary",
+    "r": "voc(叫,声音) + -abul(小) + -ary(名词后缀) -> 词的集合 -> 词汇",
+    "c": null
+  },
+  {
+    "w": "vocal",
+    "r": "voc(叫,声音) + -al(形容词后缀) -> 声音的, 声乐的",
+    "c": null
+  },
+  {
+    "w": "vocation",
+    "r": "voc(叫) + -ation(名词后缀) -> 被召唤去做的事 -> 职业",
+    "c": [
+      "Choosing a vocation that aligns with one's values can lead to greater long-term career satisfaction.",
+      "选择与个人价值观相符的职业能带来更高的长期职业满意度。"
+    ]
+  },
+  {
+    "w": "vocational",
+    "r": "vocation(职业) + -al(形容词后缀) -> 职业的",
+    "c": null
+  },
+  {
+    "w": "voice",
+    "r": "来自拉丁语vox(声音) -> 声音",
+    "c": null
+  },
+  {
+    "w": "void",
+    "r": "来自拉丁语viduus(空的,失去的) -> 空的,无效的,空虚",
+    "c": [
+      "Many students feel a sense of void after graduation as they leave familiar campus life behind.",
+      "许多学生在毕业后会感到一种空虚，因为他们告别了熟悉的校园生活。"
+    ]
+  },
+  {
+    "w": "volatile",
+    "r": "volat(飞,来自拉丁语volare) + -ile(形容词后缀,易于…的) -> 易飞的 -> 不稳定的,挥发物",
+    "c": null
+  },
+  {
+    "w": "volcano",
+    "r": "来自罗马神话火神Vulcan, 火山是他的熔炉 -> 火山",
+    "c": [
+      "The geology class studied the formation and eruption patterns of an active volcano in the Pacific.",
+      "地质课研究了太平洋一座活火山的形成和喷发模式。"
+    ]
+  },
+  {
+    "w": "volleyball",
+    "r": "复合: volley(截击) + ball(球) -> 截击球 -> 排球",
+    "c": [
+      "The university's women's volleyball team won the regional championship for the third consecutive year.",
+      "大学女子排球队连续第三年赢得了地区锦标赛冠军。"
+    ]
+  },
+  {
+    "w": "volt",
+    "r": "词源: 来自意大利物理学家伏特Volta的名字 -> 伏特",
+    "c": [
+      "The physics lab required students to measure the volt output of various battery configurations.",
+      "物理实验要求学生测量各种电池配置的伏特输出。"
+    ]
+  },
+  {
+    "w": "voltage",
+    "r": "volt(伏特) + -age(名词后缀,状态) -> 电压",
+    "c": [
+      "High voltage power lines are used to transmit electricity efficiently over long distances.",
+      "高压输电线用于长距离高效输送电力。"
+    ]
+  },
+  {
+    "w": "volume",
+    "r": "vol(卷,转动) + -ume(名词后缀) -> 一卷 -> 容积,音量",
+    "c": null
+  },
+  {
+    "w": "voluntary",
+    "r": "volunt(意愿,来自拉丁语voluntas) + -ary(形容词后缀) -> 自愿的",
+    "c": [
+      "Voluntary community service is encouraged as part of the university's civic education program.",
+      "自愿社区服务被鼓励作为大学公民教育项目的一部分。"
+    ]
+  },
+  {
+    "w": "volunteer",
+    "r": "volunt(意愿) + -eer(名词后缀,做…的人) -> 自愿做的人 -> 志愿者",
+    "c": [
+      "Many university students work as volunteer tutors to help children from low-income families.",
+      "许多大学生作为志愿辅导员帮助低收入家庭的孩子。"
+    ]
+  },
+  {
+    "w": "vote",
+    "r": "来自拉丁语vovere(宣誓,许愿), 引申为投票 -> 投票,选票",
+    "c": null
+  },
+  {
+    "w": "vow",
+    "r": "来自拉丁语vovere(宣誓,许愿) -> 誓言,誓约",
+    "c": [
+      "The graduating students made a vow to contribute to society and uphold the university's values.",
+      "毕业生们宣誓要为社会做贡献并维护大学的价值观。"
+    ]
+  },
+  {
+    "w": "vowel",
+    "r": "来自拉丁语vocalis(发声的), 元音是发声的音 -> 元音",
+    "c": [
+      "In English, each vowel letter can represent multiple different sounds depending on the word.",
+      "在英语中，每个元音字母根据单词不同可以代表多种不同的发音。"
+    ]
+  }
+]

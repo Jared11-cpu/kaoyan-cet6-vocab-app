@@ -1,0 +1,703 @@
+[
+  {
+    "w": "minute",
+    "r": "min(小) + -ute(形容词后缀,表性质) -> 非常小的 -> 微小的、分钟",
+    "c": [
+      "A minute adjustment to the experiment's parameters can significantly affect the final results.",
+      "对实验参数的微小调整可能会显著影响最终结果。"
+    ]
+  },
+  {
+    "w": "miracle",
+    "r": "mir(惊奇, 来自拉丁语mirari) + -acle(名词后缀,表物) -> 令人惊奇的事物 -> 奇迹",
+    "c": null
+  },
+  {
+    "w": "mirror",
+    "r": "mir(看, 来自拉丁语mirari) + -or(名词后缀) -> 能照见人的东西 -> 镜子",
+    "c": null
+  },
+  {
+    "w": "mischief",
+    "r": "mis-(错误) + chief(头, 来自古法语chef) -> 错误的头脑/坏主意 -> 恶作剧",
+    "c": [
+      "The teacher warned the students that such mischief would not be tolerated in the classroom.",
+      "老师警告学生们, 这种恶作剧在课堂上是不能容忍的。"
+    ]
+  },
+  {
+    "w": "miser",
+    "r": "mis(吝啬, 来自拉丁语miser) + -er(人) -> 吝啬的人 -> 守财奴",
+    "c": [
+      "The old miser refused to donate any money to the university scholarship fund.",
+      "那个老守财奴拒绝向大学奖学金基金捐一分钱。"
+    ]
+  },
+  {
+    "w": "miserable",
+    "r": "miser(痛苦, 来自拉丁语miser) + -able(形容词后缀) -> 痛苦的 -> 悲惨的",
+    "c": null
+  },
+  {
+    "w": "misery",
+    "r": "miser(痛苦) + -y(名词后缀) -> 痛苦的状态 -> 痛苦",
+    "c": [
+      "The charity organization aims to alleviate the misery of people displaced by the conflict.",
+      "该慈善组织旨在减轻因冲突而流离失所的人们的痛苦。"
+    ]
+  },
+  {
+    "w": "misfortune",
+    "r": "mis-(坏, 错误) + fortune(运气) -> 坏运气 -> 不幸",
+    "c": [
+      "Despite his misfortune, the student maintained a positive attitude toward his studies.",
+      "尽管遭遇不幸, 这名学生仍对学业保持积极态度。"
+    ]
+  },
+  {
+    "w": "misinterpret",
+    "r": "mis-(错误) + interpret(解释) -> 错误地解释 -> 误解",
+    "c": null
+  },
+  {
+    "w": "mislead",
+    "r": "mis-(错误) + lead(引导) -> 错误地引导 -> 误导",
+    "c": null
+  },
+  {
+    "w": "misled",
+    "r": "mis-(错误) + led(lead的过去式) -> 被错误引导的 -> 被误导",
+    "c": [
+      "The misled consumers demanded a full refund after discovering the product's false advertising.",
+      "被误导的消费者在发现产品虚假广告后要求全额退款。"
+    ]
+  },
+  {
+    "w": "mismanagement",
+    "r": "mis-(错误) + management(管理) -> 错误的管理 -> 管理不当",
+    "c": [
+      "The company's financial crisis was primarily caused by years of mismanagement at the executive level.",
+      "公司的财务危机主要是由管理层多年的管理不当造成的。"
+    ]
+  },
+  {
+    "w": "miss",
+    "r": "来自古英语missan(未击中, 未得到), 引申为错过、想念",
+    "c": [
+      "Many international students miss their families deeply during their first semester abroad.",
+      "许多国际学生在出国的第一个学期里非常想念家人。"
+    ]
+  },
+  {
+    "w": "missile",
+    "r": "miss(发送, 来自拉丁语mittere) + -ile(名词后缀) -> 被发射出去的东西 -> 导弹",
+    "c": [
+      "The defense system can detect and intercept incoming missiles within seconds.",
+      "该防御系统可以在几秒钟内探测并拦截来袭导弹。"
+    ]
+  },
+  {
+    "w": "missing",
+    "r": "miss(丢失) + -ing(形容词后缀) -> 丢失了的 -> 失踪的",
+    "c": [
+      "The university campus police issued a statement about the missing student last week.",
+      "校警方上周发布了关于失踪学生的声明。"
+    ]
+  },
+  {
+    "w": "mission",
+    "r": "miss(发送, 来自拉丁语mittere) + -ion(名词后缀) -> 被派送的任务 -> 任务、使命",
+    "c": null
+  },
+  {
+    "w": "missionary",
+    "r": "mission(使命) + -ary(人) -> 负有使命的人 -> 传教士",
+    "c": [
+      "The missionary dedicated his life to providing education in remote rural communities.",
+      "这位传教士毕生致力于偏远农村社区的教育事业。"
+    ]
+  },
+  {
+    "w": "mist",
+    "r": "来自古英语mist(浓雾), 与德语Nebel同源 -> 雾",
+    "c": [
+      "The morning mist made it difficult for students to find their way across the large campus.",
+      "晨雾使学生们难以在偌大的校园里找到方向。"
+    ]
+  },
+  {
+    "w": "mistake",
+    "r": "mis-(错误) + take(拿) -> 拿错了 -> 错误",
+    "c": null
+  },
+  {
+    "w": "mistress",
+    "r": "mis-(错误) + tress(女士, 来自古法语) -> 有不正当关系的女人 -> 情妇",
+    "c": [
+      "The public scandal about the politician and his mistress dominated the news for weeks.",
+      "关于那位政客及其情妇的公众丑闻连续数周占据新闻头条。"
+    ]
+  },
+  {
+    "w": "misunderstand",
+    "r": "mis-(错误) + understand(理解) -> 错误地理解 -> 误解",
+    "c": null
+  },
+  {
+    "w": "mitten",
+    "r": "mit(手, 来自拉丁语manus) + -ten(后缀) -> 套在手上的东西 -> 连指手套",
+    "c": [
+      "She knitted a warm pair of mitten for her younger brother before the winter semester began.",
+      "冬季学期开始前, 她为弟弟织了一双温暖的连指手套。"
+    ]
+  },
+  {
+    "w": "mix",
+    "r": "来自古英语mixian(混合), 源自拉丁语miscere -> 混合",
+    "c": null
+  },
+  {
+    "w": "mixer",
+    "r": "mix(混合) + -er(物, 做…的器具) -> 用于混合的器具 -> 搅拌器",
+    "c": [
+      "The new electric mixer can prepare cake batter in less than two minutes.",
+      "这台新的电动搅拌器可以在不到两分钟内搅拌好蛋糕面糊。"
+    ]
+  },
+  {
+    "w": "mixture",
+    "r": "mix(混合) + -ture(名词后缀) -> 混合的结果 -> 混合",
+    "c": [
+      "The experiment requires a precise mixture of chemicals to achieve the desired reaction.",
+      "该实验需要精确的化学混合物才能达到预期的反应。"
+    ]
+  },
+  {
+    "w": "moan",
+    "r": "来自古英语manan(呻吟), 与拉丁语murmur同源 -> 呻吟、抱怨",
+    "c": [
+      "Residents continue to moan about the poor public transportation services in the area.",
+      "居民们不断抱怨该地区糟糕的公共交通服务。"
+    ]
+  },
+  {
+    "w": "mob",
+    "r": "来自拉丁语mobile(移动的), 引申为流动的人群 -> 暴民",
+    "c": [
+      "The police had to intervene when the mob threatened to storm the government building.",
+      "当暴民威胁要冲进政府大楼时, 警方不得不介入。"
+    ]
+  },
+  {
+    "w": "mobile",
+    "r": "mob(移动) + -ile(形容词后缀,能…的) -> 能移动的 -> 移动的",
+    "c": null
+  },
+  {
+    "w": "mobilise",
+    "r": "mob(移动) + -il(e) + -ise(动词后缀) -> 使移动起来 -> 动员",
+    "c": [
+      "The government plans to mobilise thousands of volunteers for the environmental cleanup campaign.",
+      "政府计划动员数千名志愿者参与环境清洁运动。"
+    ]
+  },
+  {
+    "w": "mobility",
+    "r": "mob(移动) + -ility(名词后缀,表性质) -> 移动的性质 -> 流动性",
+    "c": null
+  },
+  {
+    "w": "mobilize",
+    "r": "mob(移动) + -il(e) + -ize(动词后缀,使…) -> 使移动起来 -> 动员",
+    "c": [
+      "The university will mobilize all available resources to support the new research initiative.",
+      "大学将调动所有可用资源来支持这项新的研究计划。"
+    ]
+  },
+  {
+    "w": "mock",
+    "r": "来自古法语mocquer(嘲笑), 源自日耳曼语 -> 嘲笑、模仿",
+    "c": [
+      "Students should not mock their classmates who struggle with difficult academic subjects.",
+      "学生们不应该嘲笑那些在难学科目上吃力的同学。"
+    ]
+  },
+  {
+    "w": "mode",
+    "r": "来自拉丁语modus(量度, 方式) -> 模式、方式",
+    "c": [
+      "The university offers different mode of instruction, including online and in-person classes.",
+      "大学提供不同的教学模式, 包括在线和面授课程。"
+    ]
+  },
+  {
+    "w": "model",
+    "r": "mod(尺度, 模型) + -el(名词后缀,指小) -> 小尺度的东西 -> 模型",
+    "c": null
+  },
+  {
+    "w": "moderate",
+    "r": "mod(尺度, 克制) + -erate(形容词后缀,有…性质的) -> 有尺度的 -> 温和的、适度的",
+    "c": null
+  },
+  {
+    "w": "moderately",
+    "r": "moderate(适度的) + -ly(副词后缀) -> 适度地",
+    "c": [
+      "Moderately exercising three times a week can significantly improve overall cardiovascular health.",
+      "每周适度锻炼三次可以显著改善整体心血管健康。"
+    ]
+  },
+  {
+    "w": "modern",
+    "r": "mod(方式, 模式) + -ern(形容词后缀) -> 属于当下模式的 -> 现代的",
+    "c": null
+  },
+  {
+    "w": "modernisation",
+    "r": "modern(现代的) + -isation(名词后缀,使…化) -> 现代化",
+    "c": [
+      "The modernisation of the university library has greatly improved access to digital resources.",
+      "大学图书馆的现代化极大地改善了数字资源的获取途径。"
+    ]
+  },
+  {
+    "w": "modernize",
+    "r": "modern(现代的) + -ize(动词后缀,使…) -> 使现代化",
+    "c": [
+      "The city plans to modernize its public transportation system over the next five years.",
+      "该市计划在未来五年内使公共交通系统现代化。"
+    ]
+  },
+  {
+    "w": "modest",
+    "r": "mod(尺度, 克制) + -est(形容词后缀,最…的) -> 最有分寸的 -> 谦虚的",
+    "c": [
+      "Despite his outstanding academic achievements, the professor remained modest and approachable.",
+      "尽管学术成就卓著, 这位教授仍然谦虚且平易近人。"
+    ]
+  },
+  {
+    "w": "modesty",
+    "r": "modest(谦虚的) + -y(名词后缀) -> 谦虚的品质 -> 谦虚",
+    "c": [
+      "Traditional Chinese culture values modesty as one of the most important personal virtues.",
+      "中国传统文化将谦虚视为最重要的个人品德之一。"
+    ]
+  },
+  {
+    "w": "modification",
+    "r": "modif(y)(修改) + -ication(名词后缀) -> 修改的行为或结果 -> 修改",
+    "c": null
+  },
+  {
+    "w": "modify",
+    "r": "mod(尺度, 方式) + -ify(动词后缀,使…) -> 使改变尺度 -> 修改、缓和",
+    "c": null
+  },
+  {
+    "w": "modulate",
+    "r": "mod(尺度, 方式) + -ul- + -ate(动词后缀) -> 调整尺度 -> 调整，调节",
+    "c": [
+      "The speaker had to modulate his voice so that everyone in the large lecture hall could hear.",
+      "演讲者必须调节自己的声音, 以便大演讲厅里的每个人都能听到。"
+    ]
+  },
+  {
+    "w": "module",
+    "r": "mod(模式) + -ule(指小后缀) -> 小模式/小单元 -> 模块",
+    "c": null
+  },
+  {
+    "w": "moist",
+    "r": "来自拉丁语muccidus(潮湿的), 与mucus(粘液)同源 -> 潮湿的",
+    "c": [
+      "The moist climate in the southern region is ideal for growing rice and other crops.",
+      "南方地区潮湿的气候非常适合种植水稻和其他作物。"
+    ]
+  },
+  {
+    "w": "moisture",
+    "r": "moist(潮湿的) + -ure(名词后缀) -> 潮湿的状态 -> 水分",
+    "c": [
+      "Plants absorb moisture from the soil through their roots to carry out photosynthesis.",
+      "植物通过根部从土壤中吸收水分来进行光合作用。"
+    ]
+  },
+  {
+    "w": "mold",
+    "r": "来自古英语mold(模子), 与拉丁语modus(尺度)同源 -> 模子、模型",
+    "c": [
+      "The factory uses a metal mold to shape the plastic components for electronic devices.",
+      "工厂使用金属模具来塑造电子设备的塑料部件。"
+    ]
+  },
+  {
+    "w": "molecular",
+    "r": "molec(分子, mole一小堆 + cule指小) + -ar(形容词后缀) -> 分子的",
+    "c": null
+  },
+  {
+    "w": "molecule",
+    "r": "来自拉丁语moles(堆, 团) + cula(指小后缀) -> 一小堆物质 -> 分子",
+    "c": [
+      "Each water molecule consists of two hydrogen atoms and one oxygen atom bonded together.",
+      "每个水分子由两个氢原子和一个氧原子结合而成。"
+    ]
+  },
+  {
+    "w": "moment",
+    "r": "来自拉丁语momentum(移动, 瞬间), 由movere(移动)派生 -> 时刻",
+    "c": null
+  },
+  {
+    "w": "momentary",
+    "r": "moment(片刻) + -ary(形容词后缀) -> 只有片刻的 -> 瞬息间的",
+    "c": [
+      "The momentary power outage disrupted the computer lab's research experiment.",
+      "短暂的停电打断了计算机实验室的研究实验。"
+    ]
+  },
+  {
+    "w": "momentum",
+    "r": "来自拉丁语momentum(运动, 冲力), 由movere(移动)派生 -> 势头",
+    "c": [
+      "The student movement gained momentum as more universities joined the climate change protest.",
+      "随着更多大学加入气候变化抗议活动, 学生运动势头渐增。"
+    ]
+  },
+  {
+    "w": "monarch",
+    "r": "mon(单一, 独自) + arch(统治, 首领) -> 独自统治者 -> 君主",
+    "c": [
+      "The constitutional monarch serves as a symbolic head of state with limited political power.",
+      "立宪君主作为国家象征性元首, 政治权力有限。"
+    ]
+  },
+  {
+    "w": "monday",
+    "r": "moon(月亮) + day(日) -> 月亮的日子 -> 星期一",
+    "c": null
+  },
+  {
+    "w": "monetary",
+    "r": "monet(钱, 来自拉丁语moneta) + -ary(形容词后缀) -> 与钱有关的 -> 货币的",
+    "c": [
+      "The central bank announced new monetary policies to control inflation and stabilize prices.",
+      "央行宣布了新的货币政策以控制通胀并稳定物价。"
+    ]
+  },
+  {
+    "w": "money",
+    "r": "来自古英语mone(钱), 源自拉丁语moneta(铸币厂) -> 钱",
+    "c": null
+  },
+  {
+    "w": "monitor",
+    "r": "monit(警告, 来自拉丁语monere) + -or(物/人) -> 用来警告/观察的东西 -> 监视器",
+    "c": null
+  },
+  {
+    "w": "monk",
+    "r": "来自希腊语monachos(独居的), monos(单一) -> 独居修行的人 -> 和尚、僧侣",
+    "c": [
+      "The Buddhist monk spent years studying ancient scriptures in the mountain temple.",
+      "这位佛教僧侣花了多年时间在山寺中研习古代经文。"
+    ]
+  },
+  {
+    "w": "monkey",
+    "r": "来自古英语monc(猴子), 源自古西班牙语mona -> 猴子",
+    "c": [
+      "Researchers observed the behavior of monkey groups in their natural habitat for the study.",
+      "研究人员在自然栖息地观察猴群的行为以进行这项研究。"
+    ]
+  },
+  {
+    "w": "monopolize",
+    "r": "mono(单一) + pol(卖) + -ize(动词后缀) -> 独家卖 -> 垄断",
+    "c": [
+      "Critics argue that the tech giant continues to monopolize the global digital advertising market.",
+      "批评者认为这家科技巨头继续垄断着全球数字广告市场。"
+    ]
+  },
+  {
+    "w": "monopoly",
+    "r": "mono(单一) + pol(卖) + -y(名词后缀) -> 独家卖 -> 垄断",
+    "c": [
+      "The government introduced new regulations to prevent monopoly in the telecommunications industry.",
+      "政府出台了新规定以防止电信行业出现垄断。"
+    ]
+  },
+  {
+    "w": "monotonous",
+    "r": "mono(单一) + ton(音调) + -ous(形容词后缀) -> 只有一种音调的 -> 单调的",
+    "c": [
+      "The monotonous lecture made it difficult for students to stay focused during the two-hour class.",
+      "单调乏味的讲座让学生们在两小时的课程中难以保持专注。"
+    ]
+  },
+  {
+    "w": "monster",
+    "r": "来自拉丁语monstrum(怪物, 异象), 由monere(警告)派生 -> 怪物",
+    "c": null
+  },
+  {
+    "w": "monstrous",
+    "r": "monster(怪物) + -ous(形容词后缀,充满…的) -> 像怪物一样的 -> 极大的、可怕的",
+    "c": [
+      "The earthquake caused monstrous damage to the city's infrastructure and residential buildings.",
+      "地震对城市的基础设施和居民楼造成了巨大的破坏。"
+    ]
+  },
+  {
+    "w": "month",
+    "r": "来自古英语mona(月亮)+th, 原指月亮的一个周期 -> 月",
+    "c": null
+  },
+  {
+    "w": "monument",
+    "r": "mon(提醒, 来自拉丁语monere) + -ument(名词后缀) -> 用来提醒/纪念之物 -> 纪念碑",
+    "c": [
+      "The historic monument was built to commemorate the soldiers who died in the war.",
+      "这座历史纪念碑是为纪念在战争中牺牲的士兵而建造的。"
+    ]
+  },
+  {
+    "w": "mood",
+    "r": "来自古英语mod(心情, 勇气), 与德语Mut同源 -> 情绪、心情",
+    "c": [
+      "Research shows that regular exercise can significantly improve mood and reduce stress levels.",
+      "研究表明, 规律运动可以显著改善情绪并减轻压力。"
+    ]
+  },
+  {
+    "w": "moon",
+    "r": "来自古英语mona(月亮), 与德语Mond同源 -> 月球、月亮",
+    "c": [
+      "Scientists continue to study the moon's surface to learn more about the solar system's formation.",
+      "科学家们继续研究月球表面以更多地了解太阳系的形成。"
+    ]
+  },
+  {
+    "w": "moor",
+    "r": "来自古英语marian(固定), 与拉丁语murus(墙)同源 -> 使停泊、使固定",
+    "c": [
+      "The cargo ship had to moor at the port for three days due to the severe weather conditions.",
+      "由于恶劣的天气条件, 货船不得不在港口停泊三天。"
+    ]
+  },
+  {
+    "w": "mop",
+    "r": "来自古英语mappe(布巾), 与拉丁语mappa同源 -> 拖把",
+    "c": [
+      "The janitor used a wet mop to clean the spilled coffee from the library floor.",
+      "管理员用湿拖把清理图书馆地板上洒出的咖啡。"
+    ]
+  },
+  {
+    "w": "moral",
+    "r": "来自拉丁语moralis(道德的), 由mos(习俗)派生 -> 道德的",
+    "c": null
+  },
+  {
+    "w": "morality",
+    "r": "moral(道德的) + -ity(名词后缀) -> 道德的品质 -> 道德",
+    "c": null
+  },
+  {
+    "w": "more",
+    "r": "来自古英语mara(更多的), 与德语mehr同源 -> 更多的",
+    "c": [
+      "Universities are offering more online courses to accommodate students with different schedules.",
+      "大学正在提供更多在线课程以适应不同时间安排的学生。"
+    ]
+  },
+  {
+    "w": "moreover",
+    "r": "more(更多) + over(在…之上) -> 在此之上还有 -> 而且、此外",
+    "c": [
+      "The scholarship covers full tuition fees; moreover, it provides a monthly living allowance.",
+      "该奖学金涵盖全额学费; 此外, 它还提供每月生活费。"
+    ]
+  },
+  {
+    "w": "morning",
+    "r": "morn(早晨, 来自古英语morgen) + -ing(名词后缀) -> 早晨",
+    "c": [
+      "Many students prefer to study in the library during the morning when it is quiet and peaceful.",
+      "许多学生喜欢在早晨安静平和的时候去图书馆学习。"
+    ]
+  },
+  {
+    "w": "mortal",
+    "r": "来自拉丁语mors(死亡) + -al(形容词后缀) -> 注定要死的 -> 凡人、致命的",
+    "c": [
+      "The ancient Greeks believed that even gods could not change the fate of mortal beings.",
+      "古希腊人认为, 即使是神也无法改变凡人的命运。"
+    ]
+  },
+  {
+    "w": "mortality",
+    "r": "mortal(致命的) + -ity(名词后缀) -> 死亡的比率 -> 死亡率",
+    "c": null
+  },
+  {
+    "w": "mortgage",
+    "r": "mort(死, 来自拉丁语mors) + -gage(承诺, 来自古法语gage) -> 以死承诺/终身承诺 -> 抵押",
+    "c": [
+      "Many young families struggle to afford a mortgage while paying for their children's education.",
+      "许多年轻家庭在支付子女教育费用的同时难以承担房贷。"
+    ]
+  },
+  {
+    "w": "mosaic",
+    "r": "来自希腊语mousa(缪斯女神), 原指艺术作品, 后指镶嵌工艺 -> 马赛克",
+    "c": [
+      "The ancient Roman floor mosaic depicted scenes from daily life and mythological stories.",
+      "古罗马地板马赛克描绘了日常生活场景和神话故事。"
+    ]
+  },
+  {
+    "w": "moslem",
+    "r": "来自阿拉伯语muslim(顺从真主的人) -> 穆斯林",
+    "c": [
+      "The Moslem community in the city has established several cultural centers to promote interfaith dialogue.",
+      "该市的穆斯林社区建立了几个文化中心以促进宗教间对话。"
+    ]
+  },
+  {
+    "w": "mosque",
+    "r": "来自阿拉伯语masjid(清真寺), 意为礼拜的地方 -> 清真寺",
+    "c": [
+      "The historic mosque in the city center attracts tourists and scholars from around the world.",
+      "市中心的历史清真寺吸引着来自世界各地的游客和学者。"
+    ]
+  },
+  {
+    "w": "mosquito",
+    "r": "来自西班牙语mosca(苍蝇), 因蚊子像小苍蝇而得名 -> 蚊子",
+    "c": [
+      "Public health officials warn that mosquito can spread dangerous diseases like malaria and dengue.",
+      "公共卫生官员警告说, 蚊子会传播疟疾和登革热等危险疾病。"
+    ]
+  },
+  {
+    "w": "moss",
+    "r": "来自古英语meos(苔藓), 与德语Moos同源 -> 苔藓",
+    "c": null
+  },
+  {
+    "w": "most",
+    "r": "来自古英语maest(最多的), 与德语meist同源 -> 最多的、大多数的",
+    "c": [
+      "Most university students work part-time jobs to help cover their tuition and living expenses.",
+      "大多数大学生做兼职工作以帮助支付学费和生活费。"
+    ]
+  },
+  {
+    "w": "mostly",
+    "r": "most(最) + -ly(副词后缀) -> 大部分地、主要地",
+    "c": [
+      "The research study was mostly conducted by graduate students under the professor's supervision.",
+      "这项研究主要是由研究生在教授的指导下进行的。"
+    ]
+  },
+  {
+    "w": "motel",
+    "r": "motor(汽车) + hotel(旅馆) -> 汽车旅馆",
+    "c": [
+      "The motel near the highway provides affordable accommodation for travelers passing through the town.",
+      "高速公路旁的汽车旅馆为经过该镇的旅行者提供价格实惠的住宿。"
+    ]
+  },
+  {
+    "w": "mother",
+    "r": "来自古英语modor(母亲), 与德语Mutter同源 -> 妈妈",
+    "c": null
+  },
+  {
+    "w": "motion",
+    "r": "mot(移动) + -ion(名词后缀) -> 移动的动作 -> 动、提议",
+    "c": [
+      "The student representative proposed a motion to extend the library's operating hours on weekends.",
+      "学生代表提出了一项延长图书馆周末开放时间的动议。"
+    ]
+  },
+  {
+    "w": "motivate",
+    "r": "mot(移动) + -iv- + -ate(动词后缀) -> 使行动起来 -> 激发",
+    "c": null
+  },
+  {
+    "w": "motivation",
+    "r": "mot(移动) + -ivation(名词后缀) -> 促使行动的力量 -> 动力、积极性",
+    "c": null
+  },
+  {
+    "w": "motive",
+    "r": "mot(移动) + -ive(名词/形容词后缀) -> 促使行动的原因 -> 动机",
+    "c": [
+      "Psychologists study human behavior to understand the motive behind people's decisions and actions.",
+      "心理学家研究人类行为以了解人们决策和行动背后的动机。"
+    ]
+  },
+  {
+    "w": "motor",
+    "r": "mot(移动) + -or(物, 使动的东西) -> 使移动的机器 -> 发动机",
+    "c": null
+  },
+  {
+    "w": "motorway",
+    "r": "motor(汽车) + way(路) -> 汽车行驶的路 -> 汽车道、快车道",
+    "c": [
+      "The new motorway reduced travel time between the two cities by nearly forty percent.",
+      "新高速公路将两座城市之间的通行时间缩短了近百分之四十。"
+    ]
+  },
+  {
+    "w": "mount",
+    "r": "来自古英语munt(山), 源自拉丁语mons -> 山",
+    "c": [
+      "The research team had to mount the expensive equipment on the roof of the observatory.",
+      "研究团队必须将昂贵的设备安装在天文台的屋顶上。"
+    ]
+  },
+  {
+    "w": "mountain",
+    "r": "来自古英语munt(山), 源自拉丁语montanus -> 山",
+    "c": [
+      "The mountain region is home to many rare plant and animal species found nowhere else on Earth.",
+      "这个山区是许多地球上其他地方找不到的稀有动植物物种的家园。"
+    ]
+  },
+  {
+    "w": "mountainous",
+    "r": "mountain(山) + -ous(形容词后缀) -> 多山的",
+    "c": [
+      "The mountainous terrain made it difficult to build roads and infrastructure in the region.",
+      "多山的地形使得在该地区修建道路和基础设施十分困难。"
+    ]
+  },
+  {
+    "w": "mourn",
+    "r": "来自古英语murnen(悲伤), 与德语mournen同源 -> 哀悼",
+    "c": [
+      "The entire university community came together to mourn the passing of the beloved president.",
+      "整个大学社区齐聚一堂, 悼念敬爱的校长去世。"
+    ]
+  },
+  {
+    "w": "mournful",
+    "r": "mourn(哀悼) + -ful(形容词后缀,充满…的) -> 充满悲哀的",
+    "c": [
+      "The mournful music at the memorial service reflected the deep sadness of all who attended.",
+      "追悼会上悲伤的音乐反映了所有出席者的深切哀思。"
+    ]
+  },
+  {
+    "w": "mouse",
+    "r": "来自古英语mus(老鼠), 与德语Maus同源 -> 鼠",
+    "c": null
+  }
+]

@@ -1,102 +1,642 @@
 [
-{"w":"attempt","r":"at-(朝向) + tempt(尝试) → 朝向…去试 → 试图、企图"},
-{"w":"attend","r":"at-(朝向) + tend(伸展) → 把注意力伸向 → 出席、照看"},
-{"w":"attendance","r":"at-(朝向) + tend(伸展) + -ance(名词后缀) → 到场；出席人数","c":["The university has seen a steady decline in class attendance over the past decade.","在过去十年里，这所大学的课堂出勤率持续下降。"]},
-{"w":"attendant","r":"at-(朝向) + tend(伸展) + -ant(表人) → 随侍在侧的人 → 服务员","c":["Flight attendants must undergo rigorous training in emergency procedures and customer service.","空乘人员必须接受紧急程序和客户服务方面的严格培训。"]},
-{"w":"attention","r":"at-(朝向) + tent(伸展) + -ion(名词后缀) → 注意力伸向 → 注意"},
-{"w":"attitude","r":"apt(适合) + -itude(名词后缀，表状态) → 姿态、态度","c":["Research shows that a positive attitude can significantly improve one's physical and mental health.","研究表明，积极的态度能显著改善人的身心健康。"]},
-{"w":"attorney","r":"at-(朝向) + torn(转动) + -ey(名词后缀) → 代人转办事务者 → 律师","c":["The defense attorney presented compelling evidence that challenged the prosecution's case.","辩护律师出示了令人信服的证据，对检方的指控提出了质疑。"]},
-{"w":"attract","r":"at-(朝向) + tract(拉) → 把…拉向自己 → 吸引"},
-{"w":"attractive","r":"at-(朝向) + tract(拉) + -ive(形容词后缀) → 有吸引力的 → 吸引人的、动人的"},
-{"w":"attribute","r":"at-(朝向) + tribute(给予) → 把…归于 → 属性","c":["Psychologists often attribute creative breakthroughs to periods of unconscious mental processing.","心理学家常将创造性突破归因于无意识的心理加工阶段。"]},
-{"w":"auction","r":"augct(增加) + -ion(名词后缀) → 价格不断增加 → 拍卖"},
-{"w":"audience","r":"aud(听) + -ience(名词后缀) → 听的人群 → 观众"},
-{"w":"audio","r":"aud(听) + -io(名词后缀) → 与听相关的 → 音频"},
-{"w":"audit","r":"aud(听) + -it(名词后缀) → 旁听查账 → 审计","c":["The government ordered a comprehensive audit of all public spending in the education sector.","政府下令对教育领域的所有公共支出进行全面审计。"]},
-{"w":"auditorium","r":"audit(旁听) + -orium(场所) → 听众所在场所 → 礼堂","c":["The university's main auditorium can accommodate over two thousand people for graduation ceremonies.","这所大学的主礼堂可容纳两千多人参加毕业典礼。"]},
-{"w":"augment","r":"aug(增加) + -ment(名词后缀) → 增加"},
-{"w":"august","r":"联想: 八月(August)得名于罗马皇帝奥古斯都(Augustus)，象征威严盛大","c":["The August heat wave forced many cities to implement emergency water conservation measures.","八月的热浪迫使许多城市实施了紧急节水措施。"]},
-{"w":"aunt","r":"联想: 发音接近「昂特」，昂首挺胸的长辈女性 → 姑、姨","c":["Her aunt, a retired professor, left her entire collection of rare books to the local library.","她的姨妈是一位退休教授，将全部珍本藏书捐给了当地图书馆。"]},
-{"w":"aural","r":"aur(耳朵，来自拉丁语auris) + -al(形容词后缀) → 听觉的","c":["The study examined how aural stimulation affects cognitive performance in elderly adults.","这项研究考察了听觉刺激如何影响老年人的认知表现。"]},
-{"w":"authentic","r":"aut(自己) + hent(做) + -ic(形容词后缀) → 自己亲手做的 → 真实的、真正的"},
-{"w":"author","r":"auth(产生、创造) + -or(表人) → 创作作品的人 → 作者"},
-{"w":"authoritative","r":"author(作者) + -itativ(复合后缀) → 像作者一样有定论的 → 有权威性的，可信的；专断的","c":["The report is widely regarded as the most authoritative source on climate change economics.","这份报告被广泛认为是气候变化经济学领域最权威的资料来源。"]},
-{"w":"authorities","r":"author(作者) + -ities(复数名词后缀) → 掌权威的机构 → 当局","c":["Local authorities have imposed strict restrictions on public gatherings to curb the spread of the virus.","地方当局对公众集会实施了严格限制，以遏制病毒传播。"]},
-{"w":"authority","r":"author(作者) + -ity(名词后缀) → 作者的定论权 → 权力、权威人士","c":["The manager delegated considerable authority to her team members to foster independent decision-making.","经理赋予团队成员相当大的权力，以培养独立决策能力。"]},
-{"w":"authorization","r":"authorize(授权) + -ation(名词后缀) → 授权","c":["The project cannot proceed without explicit authorization from the board of directors.","没有董事会的明确授权，该项目无法推进。"]},
-{"w":"authorize","r":"author(作者) + -ize(动词后缀，使…化) → 赋予权威 → 授权，批准","c":["The committee voted unanimously to authorize the use of federal funds for infrastructure repairs.","委员会一致投票批准动用联邦资金进行基础设施维修。"]},
-{"w":"automate","r":"auto(自己) + mat(动) + -e(动词后缀) → 使自己动 → 使自动化"},
-{"w":"automatic","r":"auto(自己) + mat(动) + -ic(形容词后缀) → 自己动的 → 自动的"},
-{"w":"automatically","r":"automatic(自动的) + -ally(副词后缀) → 自动地；不经思考地","c":["The software automatically updates its database every twenty-four hours without manual intervention.","该软件每二十四小时自动更新数据库，无需人工干预。"]},
-{"w":"automation","r":"auto(自己) + mat(动) + -ion(名词后缀) → 自动化 → 自动"},
-{"w":"automobile","r":"auto(自己) + mob(动) + -ile(名词后缀) → 自己会动的车 → 汽车"},
-{"w":"autonomous","r":"auto(自己) + nom(法则) + -ous(形容词后缀) → 自己立法的 → 自治的；独立自主的","c":["Autonomous vehicles rely on sophisticated sensors and algorithms to navigate complex urban environments.","自动驾驶汽车依靠精密的传感器和算法在复杂的城市环境中导航。"]},
-{"w":"autonomy","r":"auto(自己) + nom(法则) + -y(名词后缀) → 自己管理自己 → 自治","c":["Employees who are granted greater autonomy at work tend to report higher levels of job satisfaction.","获得更大工作自主权的员工往往表现出更高的工作满意度。"]},
-{"w":"autumn","r":"联想: 「凹特姆」——太阳凹下去、温度特姆(突然)降 → 秋天"},
-{"w":"auxiliary","r":"aux(增加、帮助，来自拉丁语auxilium帮助) + -iliary(形容词后缀) → 辅助的 → 助动词、辅助的","c":["The hospital activated its auxiliary power supply when the main electrical grid failed during the storm.","暴风雨期间主电网瘫痪时，医院启动了备用电源。"]},
-{"w":"avail","r":"a-(加强) + vail(价值，强壮) → 有价值、有作用 → 利益、有利于","c":["All their efforts to reverse the declining sales figures proved to be of little avail.","他们为扭转销量下滑所做的一切努力几乎都无济于事。"]},
-{"w":"availability","r":"available(可用的) + -ity(名词后缀) → 有效（性）；可得性","c":["The widespread availability of high-speed internet has transformed how people access information and services.","高速互联网的广泛普及改变了人们获取信息和服务的方式。"]},
-{"w":"available","r":"a-(加强) + vail(价值) + -able(可…的) → 有价值可用的 → 可行的","c":["Only a limited number of scholarships are available to international students each academic year.","每个学年仅有数量有限的奖学金可供国际学生申请。"]},
-{"w":"avenue","r":"a-(朝向) + ven(来) + -ue(名词后缀) → 可通向某处的路 → 大街"},
-{"w":"average","r":"aver(损坏) + -age(名词后缀) → 海上损失按比例分摊 → 平均的"},
-{"w":"avert","r":"a-(离开) + vert(转) → 转开去、避开 → 避免"},
-{"w":"aviation","r":"avi(鸟) + -ation(名词后缀) → 像鸟一样飞 → 航空"},
-{"w":"avoid","r":"a-(离开) + void(空) → 转向空处离开 → 避免"},
-{"w":"await","r":"a-(加强) + wait(等待) → 等候","c":["Major policy changes await the new administration as it prepares to take office next month.","新一届政府下月即将上任，重大的政策变革正在等待着它。"]},
-{"w":"awake","r":"a-(加强) + wake(醒) → 使醒来 → 醒着的、醒来"},
-{"w":"award","r":"a-(加强) + ward(看守) → 看守后授予 → 颁奖、奖励"},
-{"w":"aware","r":"a-(加强) + ware(谨慎、注意) → 留意到的 → 意识的"},
-{"w":"awareness","r":"aware(意识的) + -ness(名词后缀) → 意识"},
-{"w":"away","r":"a-(在…状态) + way(路) → 在路上、走了 → 离开"},
-{"w":"awe","r":"联想: 发音似「噢」——见到令人敬畏之物发出的惊叹 → 敬畏","c":["The ancient architectural complex inspires awe in every visitor who walks through its gates.","这座古建筑群让每一位穿过大门的游客都心生敬畏。"]},
-{"w":"awesome","r":"awe(敬畏) + -some(充满…的) → 令人敬畏的,令人赞叹的；极好的","c":["The documentary captures the awesome power of nature through stunning aerial photography.","这部纪录片通过令人震撼的航拍捕捉到了大自然的惊人力量。"]},
-{"w":"awful","r":"awe(敬畏) + -ful(充满…的) → 充满威严令人害怕的 → 可怕的"},
-{"w":"awkward","r":"awk(方向错误，反的) + -ward(朝向) → 方向不对的 → 笨拙的、令人尴尬的","c":["The job interview became awkward when the candidate could not answer basic questions about the company.","当求职者无法回答关于公司的基本问题时，面试变得尴尬起来。"]},
-{"w":"ax","r":"联想: 斧头砍下去「唉克斯」一声 → 斧子、削减","c":["The company announced plans to ax nearly two hundred positions as part of its restructuring efforts.","该公司宣布计划削减近两百个岗位，作为其重组工作的一部分。"]},
-{"w":"axial","r":"ax(轴) + -ial(形容词后缀，与…有关的) → 轴的；轴向的","c":["The axial rotation of the Earth determines the length of a day and the pattern of seasons.","地球的轴向自转决定了一天的长度和季节的更替模式。"]},
-{"w":"axis","r":"ax(轴) + -is(名词后缀) → 轴","c":["The Earth tilts on its axis at an angle of approximately twenty-three point five degrees.","地球以约二十三点五度的倾角绕地轴倾斜。"]},
-{"w":"axle","r":"ax(轴) + -le(小的，指小后缀) → 轮轴、车轴","c":["The rear axle of the truck failed under the heavy load, causing a serious accident on the highway.","卡车的后轴在重载下断裂，导致高速公路上发生了严重事故。"]},
-{"w":"baby","r":"联想: 拟声词，婴儿发出的「贝贝」声 → 宝贝"},
-{"w":"bachelor","r":"bac(小) + -alor(表人) → 年轻的未婚男子 → 学士、单身汉","c":["A bachelor's degree has become a basic requirement for entry into many professional careers.","学士学位已成为进入许多职业领域的基本要求。"]},
-{"w":"back","r":"联想: 背(back)在后面 → 背面、后退"},
-{"w":"background","r":"复合: back(后面) + ground(地面、场地) → 后面的场地 → 背景","c":["Students from diverse cultural backgrounds often bring unique perspectives to classroom discussions.","来自不同文化背景的学生常常为课堂讨论带来独特的视角。"]},
-{"w":"backup","r":"复合: back(后面) + up(向上) → 从后支援 → 后补，援助","c":["It is essential to maintain a backup of all important digital files in a secure off-site location.","将所有重要数字文件的备份保存在安全的异地位置至关重要。"]},
-{"w":"backward","r":"back(后) + -ward(朝向) → 朝后 → 向后的、落后的","c":["The backward regions of the country suffer from inadequate infrastructure and limited economic opportunities.","该国的落后地区饱受基础设施不足和经济机会有限之苦。"]},
-{"w":"bacon","r":"bac(背) + -on(名词后缀) → 猪背部的肉腌制而成 → 培根、熏肉","c":["Nutritionists warn that excessive consumption of processed meats like bacon increases cancer risk.","营养学家警告说，过量食用培根等加工肉类会增加患癌风险。"]},
-{"w":"bacteria","r":"bacter(杆，细菌形如杆状) + -ia(复数后缀) → 细菌"},
-{"w":"bacterium","r":"bacter(杆) + -ium(名词后缀，单数) → 细菌"},
-{"w":"bad","r":"联想: 发音「败的」——失败的就是坏的 → 坏的","c":["Prolonged exposure to air pollution can have bad effects on respiratory and cardiovascular health.","长期暴露于空气污染会对呼吸和心血管健康产生不良影响。"]},
-{"w":"badge","r":"ba-(绑定) + dge(名词后缀) → 别在身上的标识 → 徽章、象征"},
-{"w":"badly","r":"bad(坏的) + -ly(副词后缀) → 糟糕、严重地、非常","c":["The rural healthcare system is badly underfunded and lacks sufficient medical personnel.","农村医疗保健系统资金严重不足，也缺乏足够的医务人员。"]},
-{"w":"badminton","r":"联想: 音译自地名Badminton(巴德明顿庄园)，羽毛球运动发源地 → 羽毛球","c":["Competitive badminton requires exceptional agility, hand-eye coordination, and cardiovascular endurance.","竞技羽毛球需要出色的敏捷性、手眼协调能力和心血管耐力。"]},
-{"w":"baffle","r":"baf(打耳光) + -le(动词后缀) → 给一耳光打懵 → 使挫折 n. 迷惑","c":["The sudden shift in consumer behavior has baffled marketing analysts and retail experts alike.","消费者行为的突然转变让营销分析师和零售专家都感到困惑。"]},
-{"w":"bag","r":"联想: 发音「败格」——装东西败(摆)在格子里 → 包、袋"},
-{"w":"baggage","r":"bag(包) + -gage(集合名词后缀) → 一包一包的东西 → 行李"},
-{"w":"bail","r":"联想: 「保释」的英文bail音似「保哦」——保出来哦 → 保释","c":["The judge set bail at five hundred thousand dollars, citing the defendant's flight risk.","法官鉴于被告有潜逃风险，将保释金定为五十万美元。"]},
-{"w":"bait","r":"联想: 音似「被它」——鱼被它(饵)吸引上钩 → 饵","c":["Scammers often use promises of quick financial gains as bait to lure unsuspecting victims.","骗子常以快速获利的承诺为诱饵，引诱毫无戒心的受害者。"]},
-{"w":"bake","r":"联想: 烘焙时发出「呗克」的烘烤声 → 烤","c":["Researchers have found that baking can reduce stress and improve overall psychological well-being.","研究人员发现，烘焙可以减轻压力并改善整体心理健康。"]},
-{"w":"balance","r":"bal(两个秤盘) + -ance(名词后缀) → 两个盘等重 → 平衡","c":["Maintaining a healthy work-life balance is crucial for long-term productivity and mental health.","保持健康的工作与生活平衡对长期生产力和心理健康至关重要。"]},
-{"w":"balcony","r":"balc(梁、横梁) + -ony(名词后缀) → 架在横梁上的平台 → 阳台","c":["Many urban dwellers grow vegetables and herbs on their balconies to supplement their diets.","许多城市居民在阳台上种植蔬菜和香草，以补充日常饮食。"]},
-{"w":"bald","r":"联想: 发音「抱的」——头光溜溜好抱 → 秃头的、单调的","c":["Studies suggest that male pattern baldness may be linked to increased risk of certain heart conditions.","研究表明，男性型秃顶可能与某些心脏疾病风险的增加有关。"]},
-{"w":"ball","r":"联想: 拟声，球弹跳时发出「啵」声 → 球","c":["The ball lightning phenomenon remains one of the most poorly understood mysteries in atmospheric physics.","球状闪电现象仍然是大气物理学中最难以理解的谜团之一。"]},
-{"w":"ballet","r":"ball(舞) + -et(小的) → 小型舞蹈 → 芭蕾舞"},
-{"w":"balloon","r":"ball(球) + -oon(大的，增大词后缀) → 大气球 → 气球","c":["Hot air balloon rides offer tourists a breathtaking panoramic view of the valley below.","乘坐热气球为游客提供了令人惊叹的下方山谷全景视野。"]},
-{"w":"ballot","r":"ball(球) + -ot(小的) → 古希腊用小球投票 → 投票"},
-{"w":"bamboo","r":"联想: 音译「斑布」，斑竹纹理像布 → 竹，竹子","c":["Bamboo forests play a critical role in maintaining biodiversity and preventing soil erosion in mountainous regions.","竹林在维护山区生物多样性和防止水土流失方面发挥着关键作用。"]},
-{"w":"ban","r":"联想: 「颁」布禁令 → 禁止"},
-{"w":"banana","r":"联想: 拟声词，手指剥香蕉「叭呐呐」的声音 → 香蕉","c":["Banana production worldwide has been threatened by a fungal disease known as Panama disease.","全球香蕉生产一直受到一种名为巴拿马病的真菌病害的威胁。"]},
-{"w":"band","r":"bind(绑)的名词形式 → 绑在一起的带子或人群 → 乐队、带子"},
-{"w":"bandage","r":"band(带子) + -age(名词后缀) → 用带子包扎 → 绷带","c":["The nurse applied a sterile bandage to the patient's wound to prevent infection.","护士给病人的伤口敷上无菌绷带以防止感染。"]},
-{"w":"bandit","r":"band(一伙) + -it(表人) → 一伙抢劫的人 → 土匪，盗匪，歹徒","c":["The remote mountain pass was notorious for bandit attacks on traveling merchants and caravans.","这条偏远的山口以盗匪袭击行商和商队而臭名昭著。"]},
-{"w":"bang","r":"联想: 拟声词「砰」——巨响 → 巨响、刘海","c":["The big bang theory describes the origin and evolution of the universe from an initial singularity.","大爆炸理论描述了宇宙从初始奇点开始的起源和演化过程。"]},
-{"w":"bank","r":"banc(长凳) → 放钱的长凳/柜台 → 银行"},
-{"w":"banker","r":"bank(银行) + -er(表人) → 银行家","c":["Investment bankers play a central role in facilitating mergers, acquisitions, and corporate financing.","投资银行家在推动并购和企业融资方面发挥着核心作用。"]},
-{"w":"bankrupt","r":"bank(银行/长凳) + rupt(断) → 钱柜断了、没钱了 → 破产的","c":["Several major retail chains went bankrupt as consumer spending shifted dramatically toward online platforms.","随着消费支出大幅转向线上平台，几家大型连锁零售企业破产了。"]},
-{"w":"banner","r":"band(带子) + -er(名词后缀) → 长条形的布 → 旗帜","c":["Protesters carried banners demanding greater government transparency and accountability.","抗议者举着标语，要求提高政府透明度和问责制。"]},
-{"w":"banquet","r":"banq(长凳、桌子) + -et(小的) → 摆小桌子宴请 → 宴会","c":["The annual charity banquet raised over two million dollars for local children's hospitals.","年度慈善宴会为当地儿童医院筹集了超过两百万美元的善款。"]},
-{"w":"bar","r":"联想: 条状物→木条吧台→酒吧 → 条、酒吧"},
-{"w":"barbecue","r":"barb(胡须、倒钩) + -ecue(名词后缀) → 架在叉上烤 → 烧烤","c":["Summer barbecue parties are a popular social tradition in many suburban communities across the country.","夏季烧烤派对是该国许多郊区社区流行的社交传统。"]},
-{"w":"barber","r":"barb(胡须) + -er(表人) → 打理胡须的人 → 理发师","c":["The local barber shop has been a neighborhood gathering place for over three generations.","这家当地理发店已经成为三代人以上的邻里聚会场所。"]},
-{"w":"bare","r":"联想: 「呗」——没穿衣服呗 → 赤裸的、空的","c":["The bare mountainside revealed the devastating impact of deforestation on the local ecosystem.","光秃秃的山坡揭示了森林砍伐对当地生态系统的毁灭性影响。"]},
-{"w":"barely","r":"bare(赤裸的、空的) + -ly(副词后缀) → 几乎空空如也 → 几乎不","c":["Rural students in remote areas barely have access to high-quality educational resources and facilities.","偏远地区的农村学生几乎无法获得优质的教育资源和设施。"]}
+  {
+    "w": "attempt",
+    "r": "at-(朝向) + tempt(尝试) → 朝向…去试 → 试图、企图"
+  },
+  {
+    "w": "attend",
+    "r": "at-(朝向) + tend(伸展) → 把注意力伸向 → 出席、照看"
+  },
+  {
+    "w": "attendance",
+    "r": "at-(朝向) + tend(伸展) + -ance(名词后缀) → 到场；出席人数",
+    "c": [
+      "The university has seen a steady decline in class attendance over the past decade.",
+      "在过去十年里，这所大学的课堂出勤率持续下降。"
+    ]
+  },
+  {
+    "w": "attendant",
+    "r": "at-(朝向) + tend(伸展) + -ant(表人) → 随侍在侧的人 → 服务员",
+    "c": [
+      "Flight attendants must undergo rigorous training in emergency procedures and customer service.",
+      "空乘人员必须接受紧急程序和客户服务方面的严格培训。"
+    ]
+  },
+  {
+    "w": "attention",
+    "r": "at-(朝向) + tent(伸展) + -ion(名词后缀) → 注意力伸向 → 注意"
+  },
+  {
+    "w": "attitude",
+    "r": "apt(适合) + -itude(名词后缀，表状态) → 姿态、态度",
+    "c": [
+      "Research shows that a positive attitude can significantly improve one's physical and mental health.",
+      "研究表明，积极的态度能显著改善人的身心健康。"
+    ]
+  },
+  {
+    "w": "attorney",
+    "r": "at-(朝向) + torn(转动) + -ey(名词后缀) → 代人转办事务者 → 律师",
+    "c": [
+      "The defense attorney presented compelling evidence that challenged the prosecution's case.",
+      "辩护律师出示了令人信服的证据，对检方的指控提出了质疑。"
+    ]
+  },
+  {
+    "w": "attract",
+    "r": "at-(朝向) + tract(拉) → 把…拉向自己 → 吸引"
+  },
+  {
+    "w": "attractive",
+    "r": "at-(朝向) + tract(拉) + -ive(形容词后缀) → 有吸引力的 → 吸引人的、动人的"
+  },
+  {
+    "w": "attribute",
+    "r": "at-(朝向) + tribute(给予) → 把…归于 → 属性",
+    "c": [
+      "Psychologists often attribute creative breakthroughs to periods of unconscious mental processing.",
+      "心理学家常将创造性突破归因于无意识的心理加工阶段。"
+    ]
+  },
+  {
+    "w": "auction",
+    "r": "augct(增加) + -ion(名词后缀) → 价格不断增加 → 拍卖"
+  },
+  {
+    "w": "audience",
+    "r": "aud(听) + -ience(名词后缀) → 听的人群 → 观众"
+  },
+  {
+    "w": "audio",
+    "r": "aud(听) + -io(名词后缀) → 与听相关的 → 音频"
+  },
+  {
+    "w": "audit",
+    "r": "aud(听) + -it(名词后缀) → 旁听查账 → 审计",
+    "c": [
+      "The government ordered a comprehensive audit of all public spending in the education sector.",
+      "政府下令对教育领域的所有公共支出进行全面审计。"
+    ]
+  },
+  {
+    "w": "auditorium",
+    "r": "audit(旁听) + -orium(场所) → 听众所在场所 → 礼堂",
+    "c": [
+      "The university's main auditorium can accommodate over two thousand people for graduation ceremonies.",
+      "这所大学的主礼堂可容纳两千多人参加毕业典礼。"
+    ]
+  },
+  {
+    "w": "augment",
+    "r": "aug(增加) + -ment(名词后缀) → 增加"
+  },
+  {
+    "w": "august",
+    "r": "联想: 八月(August)得名于罗马皇帝奥古斯都(Augustus)，象征威严盛大",
+    "c": [
+      "The August heat wave forced many cities to implement emergency water conservation measures.",
+      "八月的热浪迫使许多城市实施了紧急节水措施。"
+    ]
+  },
+  {
+    "w": "aunt",
+    "r": "联想: 发音接近「昂特」，昂首挺胸的长辈女性 → 姑、姨",
+    "c": [
+      "Her aunt, a retired professor, left her entire collection of rare books to the local library.",
+      "她的姨妈是一位退休教授，将全部珍本藏书捐给了当地图书馆。"
+    ]
+  },
+  {
+    "w": "aural",
+    "r": "aur(耳朵，来自拉丁语auris) + -al(形容词后缀) → 听觉的",
+    "c": [
+      "The study examined how aural stimulation affects cognitive performance in elderly adults.",
+      "这项研究考察了听觉刺激如何影响老年人的认知表现。"
+    ]
+  },
+  {
+    "w": "authentic",
+    "r": "aut(自己) + hent(做) + -ic(形容词后缀) → 自己亲手做的 → 真实的、真正的"
+  },
+  {
+    "w": "author",
+    "r": "auth(产生、创造) + -or(表人) → 创作作品的人 → 作者"
+  },
+  {
+    "w": "authoritative",
+    "r": "author(作者) + -itativ(复合后缀) → 像作者一样有定论的 → 有权威性的，可信的；专断的",
+    "c": [
+      "The report is widely regarded as the most authoritative source on climate change economics.",
+      "这份报告被广泛认为是气候变化经济学领域最权威的资料来源。"
+    ]
+  },
+  {
+    "w": "authorities",
+    "r": "author(作者) + -ities(复数名词后缀) → 掌权威的机构 → 当局",
+    "c": [
+      "Local authorities have imposed strict restrictions on public gatherings to curb the spread of the virus.",
+      "地方当局对公众集会实施了严格限制，以遏制病毒传播。"
+    ]
+  },
+  {
+    "w": "authority",
+    "r": "author(作者) + -ity(名词后缀) → 作者的定论权 → 权力、权威人士",
+    "c": [
+      "The manager delegated considerable authority to her team members to foster independent decision-making.",
+      "经理赋予团队成员相当大的权力，以培养独立决策能力。"
+    ]
+  },
+  {
+    "w": "authorization",
+    "r": "authorize(授权) + -ation(名词后缀) → 授权",
+    "c": [
+      "The project cannot proceed without explicit authorization from the board of directors.",
+      "没有董事会的明确授权，该项目无法推进。"
+    ]
+  },
+  {
+    "w": "authorize",
+    "r": "author(作者) + -ize(动词后缀，使…化) → 赋予权威 → 授权，批准",
+    "c": [
+      "The committee voted unanimously to authorize the use of federal funds for infrastructure repairs.",
+      "委员会一致投票批准动用联邦资金进行基础设施维修。"
+    ]
+  },
+  {
+    "w": "automate",
+    "r": "auto(自己) + mat(动) + -e(动词后缀) → 使自己动 → 使自动化"
+  },
+  {
+    "w": "automatic",
+    "r": "auto(自己) + mat(动) + -ic(形容词后缀) → 自己动的 → 自动的"
+  },
+  {
+    "w": "automatically",
+    "r": "automatic(自动的) + -ally(副词后缀) → 自动地；不经思考地",
+    "c": [
+      "The software automatically updates its database every twenty-four hours without manual intervention.",
+      "该软件每二十四小时自动更新数据库，无需人工干预。"
+    ]
+  },
+  {
+    "w": "automation",
+    "r": "auto(自己) + mat(动) + -ion(名词后缀) → 自动化 → 自动"
+  },
+  {
+    "w": "automobile",
+    "r": "auto(自己) + mob(动) + -ile(名词后缀) → 自己会动的车 → 汽车"
+  },
+  {
+    "w": "autonomous",
+    "r": "auto(自己) + nom(法则) + -ous(形容词后缀) → 自己立法的 → 自治的；独立自主的",
+    "c": [
+      "Autonomous vehicles rely on sophisticated sensors and algorithms to navigate complex urban environments.",
+      "自动驾驶汽车依靠精密的传感器和算法在复杂的城市环境中导航。"
+    ]
+  },
+  {
+    "w": "autonomy",
+    "r": "auto(自己) + nom(法则) + -y(名词后缀) → 自己管理自己 → 自治",
+    "c": [
+      "Employees who are granted greater autonomy at work tend to report higher levels of job satisfaction.",
+      "获得更大工作自主权的员工往往表现出更高的工作满意度。"
+    ]
+  },
+  {
+    "w": "autumn",
+    "r": "联想: 「凹特姆」——太阳凹下去、温度特姆(突然)降 → 秋天"
+  },
+  {
+    "w": "auxiliary",
+    "r": "aux(增加、帮助，来自拉丁语auxilium帮助) + -iliary(形容词后缀) → 辅助的 → 助动词、辅助的",
+    "c": [
+      "The hospital activated its auxiliary power supply when the main electrical grid failed during the storm.",
+      "暴风雨期间主电网瘫痪时，医院启动了备用电源。"
+    ]
+  },
+  {
+    "w": "avail",
+    "r": "a-(加强) + vail(价值，强壮) → 有价值、有作用 → 利益、有利于",
+    "c": [
+      "All their efforts to reverse the declining sales figures proved to be of little avail.",
+      "他们为扭转销量下滑所做的一切努力几乎都无济于事。"
+    ]
+  },
+  {
+    "w": "availability",
+    "r": "available(可用的) + -ity(名词后缀) → 有效（性）；可得性",
+    "c": [
+      "The widespread availability of high-speed internet has transformed how people access information and services.",
+      "高速互联网的广泛普及改变了人们获取信息和服务的方式。"
+    ]
+  },
+  {
+    "w": "available",
+    "r": "a-(加强) + vail(价值) + -able(可…的) → 有价值可用的 → 可行的",
+    "c": [
+      "Only a limited number of scholarships are available to international students each academic year.",
+      "每个学年仅有数量有限的奖学金可供国际学生申请。"
+    ]
+  },
+  {
+    "w": "avenue",
+    "r": "a-(朝向) + ven(来) + -ue(名词后缀) → 可通向某处的路 → 大街"
+  },
+  {
+    "w": "average",
+    "r": "aver(损坏) + -age(名词后缀) → 海上损失按比例分摊 → 平均的"
+  },
+  {
+    "w": "avert",
+    "r": "a-(离开) + vert(转) → 转开去、避开 → 避免"
+  },
+  {
+    "w": "aviation",
+    "r": "avi(鸟) + -ation(名词后缀) → 像鸟一样飞 → 航空"
+  },
+  {
+    "w": "avoid",
+    "r": "a-(离开) + void(空) → 转向空处离开 → 避免"
+  },
+  {
+    "w": "await",
+    "r": "a-(加强) + wait(等待) → 等候",
+    "c": [
+      "Major policy changes await the new administration as it prepares to take office next month.",
+      "新一届政府下月即将上任，重大的政策变革正在等待着它。"
+    ]
+  },
+  {
+    "w": "awake",
+    "r": "a-(加强) + wake(醒) → 使醒来 → 醒着的、醒来"
+  },
+  {
+    "w": "award",
+    "r": "a-(加强) + ward(看守) → 看守后授予 → 颁奖、奖励"
+  },
+  {
+    "w": "aware",
+    "r": "a-(加强) + ware(谨慎、注意) → 留意到的 → 意识的"
+  },
+  {
+    "w": "awareness",
+    "r": "aware(意识的) + -ness(名词后缀) → 意识"
+  },
+  {
+    "w": "away",
+    "r": "a-(在…状态) + way(路) → 在路上、走了 → 离开"
+  },
+  {
+    "w": "awe",
+    "r": "联想: 发音似「噢」——见到令人敬畏之物发出的惊叹 → 敬畏",
+    "c": [
+      "The ancient architectural complex inspires awe in every visitor who walks through its gates.",
+      "这座古建筑群让每一位穿过大门的游客都心生敬畏。"
+    ]
+  },
+  {
+    "w": "awesome",
+    "r": "awe(敬畏) + -some(充满…的) → 令人敬畏的,令人赞叹的；极好的",
+    "c": [
+      "The documentary captures the awesome power of nature through stunning aerial photography.",
+      "这部纪录片通过令人震撼的航拍捕捉到了大自然的惊人力量。"
+    ]
+  },
+  {
+    "w": "awful",
+    "r": "awe(敬畏) + -ful(充满…的) → 充满威严令人害怕的 → 可怕的"
+  },
+  {
+    "w": "awkward",
+    "r": "awk(方向错误，反的) + -ward(朝向) → 方向不对的 → 笨拙的、令人尴尬的",
+    "c": [
+      "The job interview became awkward when the candidate could not answer basic questions about the company.",
+      "当求职者无法回答关于公司的基本问题时，面试变得尴尬起来。"
+    ]
+  },
+  {
+    "w": "ax",
+    "r": "联想: 斧头砍下去「唉克斯」一声 → 斧子、削减",
+    "c": [
+      "The company announced plans to ax nearly two hundred positions as part of its restructuring efforts.",
+      "该公司宣布计划削减近两百个岗位，作为其重组工作的一部分。"
+    ]
+  },
+  {
+    "w": "axial",
+    "r": "ax(轴) + -ial(形容词后缀，与…有关的) → 轴的；轴向的",
+    "c": [
+      "The axial rotation of the Earth determines the length of a day and the pattern of seasons.",
+      "地球的轴向自转决定了一天的长度和季节的更替模式。"
+    ]
+  },
+  {
+    "w": "axis",
+    "r": "ax(轴) + -is(名词后缀) → 轴",
+    "c": [
+      "The Earth tilts on its axis at an angle of approximately twenty-three point five degrees.",
+      "地球以约二十三点五度的倾角绕地轴倾斜。"
+    ]
+  },
+  {
+    "w": "axle",
+    "r": "ax(轴) + -le(小的，指小后缀) → 轮轴、车轴",
+    "c": [
+      "The rear axle of the truck failed under the heavy load, causing a serious accident on the highway.",
+      "卡车的后轴在重载下断裂，导致高速公路上发生了严重事故。"
+    ]
+  },
+  {
+    "w": "baby",
+    "r": "联想: 拟声词，婴儿发出的「贝贝」声 → 宝贝"
+  },
+  {
+    "w": "bachelor",
+    "r": "bac(小) + -alor(表人) → 年轻的未婚男子 → 学士、单身汉",
+    "c": [
+      "A bachelor's degree has become a basic requirement for entry into many professional careers.",
+      "学士学位已成为进入许多职业领域的基本要求。"
+    ]
+  },
+  {
+    "w": "back",
+    "r": "联想: 背(back)在后面 → 背面、后退"
+  },
+  {
+    "w": "background",
+    "r": "复合: back(后面) + ground(地面、场地) → 后面的场地 → 背景",
+    "c": [
+      "Students from diverse cultural backgrounds often bring unique perspectives to classroom discussions.",
+      "来自不同文化背景的学生常常为课堂讨论带来独特的视角。"
+    ]
+  },
+  {
+    "w": "backup",
+    "r": "复合: back(后面) + up(向上) → 从后支援 → 后补，援助",
+    "c": [
+      "It is essential to maintain a backup of all important digital files in a secure off-site location.",
+      "将所有重要数字文件的备份保存在安全的异地位置至关重要。"
+    ]
+  },
+  {
+    "w": "backward",
+    "r": "back(后) + -ward(朝向) → 朝后 → 向后的、落后的",
+    "c": [
+      "The backward regions of the country suffer from inadequate infrastructure and limited economic opportunities.",
+      "该国的落后地区饱受基础设施不足和经济机会有限之苦。"
+    ]
+  },
+  {
+    "w": "bacon",
+    "r": "bac(背) + -on(名词后缀) → 猪背部的肉腌制而成 → 培根、熏肉",
+    "c": [
+      "Nutritionists warn that excessive consumption of processed meats like bacon increases cancer risk.",
+      "营养学家警告说，过量食用培根等加工肉类会增加患癌风险。"
+    ]
+  },
+  {
+    "w": "bacteria",
+    "r": "bacter(杆，细菌形如杆状) + -ia(复数后缀) → 细菌"
+  },
+  {
+    "w": "bacterium",
+    "r": "bacter(杆) + -ium(名词后缀，单数) → 细菌"
+  },
+  {
+    "w": "bad",
+    "r": "联想: 发音「败的」——失败的就是坏的 → 坏的",
+    "c": [
+      "Prolonged exposure to air pollution can have bad effects on respiratory and cardiovascular health.",
+      "长期暴露于空气污染会对呼吸和心血管健康产生不良影响。"
+    ]
+  },
+  {
+    "w": "badge",
+    "r": "ba-(绑定) + dge(名词后缀) → 别在身上的标识 → 徽章、象征"
+  },
+  {
+    "w": "badly",
+    "r": "bad(坏的) + -ly(副词后缀) → 糟糕、严重地、非常",
+    "c": [
+      "The rural healthcare system is badly underfunded and lacks sufficient medical personnel.",
+      "农村医疗保健系统资金严重不足，也缺乏足够的医务人员。"
+    ]
+  },
+  {
+    "w": "badminton",
+    "r": "联想: 音译自地名Badminton(巴德明顿庄园)，羽毛球运动发源地 → 羽毛球",
+    "c": [
+      "Competitive badminton requires exceptional agility, hand-eye coordination, and cardiovascular endurance.",
+      "竞技羽毛球需要出色的敏捷性、手眼协调能力和心血管耐力。"
+    ]
+  },
+  {
+    "w": "baffle",
+    "r": "baf(打耳光) + -le(动词后缀) → 给一耳光打懵 → 使挫折 n. 迷惑",
+    "c": [
+      "The sudden shift in consumer behavior has baffled marketing analysts and retail experts alike.",
+      "消费者行为的突然转变让营销分析师和零售专家都感到困惑。"
+    ]
+  },
+  {
+    "w": "bag",
+    "r": "联想: 发音「败格」——装东西败(摆)在格子里 → 包、袋"
+  },
+  {
+    "w": "baggage",
+    "r": "bag(包) + -gage(集合名词后缀) → 一包一包的东西 → 行李"
+  },
+  {
+    "w": "bail",
+    "r": "联想: 「保释」的英文bail音似「保哦」——保出来哦 → 保释",
+    "c": [
+      "The judge set bail at five hundred thousand dollars, citing the defendant's flight risk.",
+      "法官鉴于被告有潜逃风险，将保释金定为五十万美元。"
+    ]
+  },
+  {
+    "w": "bait",
+    "r": "联想: 音似「被它」——鱼被它(饵)吸引上钩 → 饵",
+    "c": [
+      "Scammers often use promises of quick financial gains as bait to lure unsuspecting victims.",
+      "骗子常以快速获利的承诺为诱饵，引诱毫无戒心的受害者。"
+    ]
+  },
+  {
+    "w": "bake",
+    "r": "联想: 烘焙时发出「呗克」的烘烤声 → 烤",
+    "c": [
+      "Researchers have found that baking can reduce stress and improve overall psychological well-being.",
+      "研究人员发现，烘焙可以减轻压力并改善整体心理健康。"
+    ]
+  },
+  {
+    "w": "balance",
+    "r": "bal(两个秤盘) + -ance(名词后缀) → 两个盘等重 → 平衡",
+    "c": [
+      "Maintaining a healthy work-life balance is crucial for long-term productivity and mental health.",
+      "保持健康的工作与生活平衡对长期生产力和心理健康至关重要。"
+    ]
+  },
+  {
+    "w": "balcony",
+    "r": "balc(梁、横梁) + -ony(名词后缀) → 架在横梁上的平台 → 阳台",
+    "c": [
+      "Many urban dwellers grow vegetables and herbs on their balconies to supplement their diets.",
+      "许多城市居民在阳台上种植蔬菜和香草，以补充日常饮食。"
+    ]
+  },
+  {
+    "w": "bald",
+    "r": "联想: 发音「抱的」——头光溜溜好抱 → 秃头的、单调的",
+    "c": [
+      "Studies suggest that male pattern baldness may be linked to increased risk of certain heart conditions.",
+      "研究表明，男性型秃顶可能与某些心脏疾病风险的增加有关。"
+    ]
+  },
+  {
+    "w": "ball",
+    "r": "联想: 拟声，球弹跳时发出「啵」声 → 球",
+    "c": [
+      "The ball lightning phenomenon remains one of the most poorly understood mysteries in atmospheric physics.",
+      "球状闪电现象仍然是大气物理学中最难以理解的谜团之一。"
+    ]
+  },
+  {
+    "w": "ballet",
+    "r": "ball(舞) + -et(小的) → 小型舞蹈 → 芭蕾舞"
+  },
+  {
+    "w": "balloon",
+    "r": "ball(球) + -oon(大的，增大词后缀) → 大气球 → 气球",
+    "c": [
+      "Hot air balloon rides offer tourists a breathtaking panoramic view of the valley below.",
+      "乘坐热气球为游客提供了令人惊叹的下方山谷全景视野。"
+    ]
+  },
+  {
+    "w": "ballot",
+    "r": "ball(球) + -ot(小的) → 古希腊用小球投票 → 投票"
+  },
+  {
+    "w": "bamboo",
+    "r": "联想: 音译「斑布」，斑竹纹理像布 → 竹，竹子",
+    "c": [
+      "Bamboo forests play a critical role in maintaining biodiversity and preventing soil erosion in mountainous regions.",
+      "竹林在维护山区生物多样性和防止水土流失方面发挥着关键作用。"
+    ]
+  },
+  {
+    "w": "ban",
+    "r": "联想: 「颁」布禁令 → 禁止"
+  },
+  {
+    "w": "banana",
+    "r": "联想: 拟声词，手指剥香蕉「叭呐呐」的声音 → 香蕉",
+    "c": [
+      "Banana production worldwide has been threatened by a fungal disease known as Panama disease.",
+      "全球香蕉生产一直受到一种名为巴拿马病的真菌病害的威胁。"
+    ]
+  },
+  {
+    "w": "band",
+    "r": "bind(绑)的名词形式 → 绑在一起的带子或人群 → 乐队、带子"
+  },
+  {
+    "w": "bandage",
+    "r": "band(带子) + -age(名词后缀) → 用带子包扎 → 绷带",
+    "c": [
+      "The nurse applied a sterile bandage to the patient's wound to prevent infection.",
+      "护士给病人的伤口敷上无菌绷带以防止感染。"
+    ]
+  },
+  {
+    "w": "bandit",
+    "r": "band(一伙) + -it(表人) → 一伙抢劫的人 → 土匪，盗匪，歹徒",
+    "c": [
+      "The remote mountain pass was notorious for bandit attacks on traveling merchants and caravans.",
+      "这条偏远的山口以盗匪袭击行商和商队而臭名昭著。"
+    ]
+  },
+  {
+    "w": "bang",
+    "r": "联想: 拟声词「砰」——巨响 → 巨响、刘海",
+    "c": [
+      "The big bang theory describes the origin and evolution of the universe from an initial singularity.",
+      "大爆炸理论描述了宇宙从初始奇点开始的起源和演化过程。"
+    ]
+  },
+  {
+    "w": "bank",
+    "r": "banc(长凳) → 放钱的长凳/柜台 → 银行"
+  },
+  {
+    "w": "banker",
+    "r": "bank(银行) + -er(表人) → 银行家",
+    "c": [
+      "Investment bankers play a central role in facilitating mergers, acquisitions, and corporate financing.",
+      "投资银行家在推动并购和企业融资方面发挥着核心作用。"
+    ]
+  },
+  {
+    "w": "bankrupt",
+    "r": "bank(银行/长凳) + rupt(断) → 钱柜断了、没钱了 → 破产的",
+    "c": [
+      "Several major retail chains went bankrupt as consumer spending shifted dramatically toward online platforms.",
+      "随着消费支出大幅转向线上平台，几家大型连锁零售企业破产了。"
+    ]
+  },
+  {
+    "w": "banner",
+    "r": "band(带子) + -er(名词后缀) → 长条形的布 → 旗帜",
+    "c": [
+      "Thousands of protesters carried colorful banners demanding greater government transparency and accountability.",
+      "数千名抗议者举着五颜六色的标语，要求提高政府透明度和问责制。"
+    ]
+  },
+  {
+    "w": "banquet",
+    "r": "banq(长凳、桌子) + -et(小的) → 摆小桌子宴请 → 宴会",
+    "c": [
+      "The annual charity banquet raised over two million dollars for local children's hospitals.",
+      "年度慈善宴会为当地儿童医院筹集了超过两百万美元的善款。"
+    ]
+  },
+  {
+    "w": "bar",
+    "r": "联想: 条状物→木条吧台→酒吧 → 条、酒吧"
+  },
+  {
+    "w": "barbecue",
+    "r": "barb(胡须、倒钩) + -ecue(名词后缀) → 架在叉上烤 → 烧烤",
+    "c": [
+      "Summer barbecue parties are a popular social tradition in many suburban communities across the country.",
+      "夏季烧烤派对是该国许多郊区社区流行的社交传统。"
+    ]
+  },
+  {
+    "w": "barber",
+    "r": "barb(胡须) + -er(表人) → 打理胡须的人 → 理发师",
+    "c": [
+      "The local barber shop has been a neighborhood gathering place for over three generations.",
+      "这家当地理发店已经成为三代人以上的邻里聚会场所。"
+    ]
+  },
+  {
+    "w": "bare",
+    "r": "联想: 「呗」——没穿衣服呗 → 赤裸的、空的",
+    "c": [
+      "The bare mountainside revealed the devastating impact of deforestation on the local ecosystem.",
+      "光秃秃的山坡揭示了森林砍伐对当地生态系统的毁灭性影响。"
+    ]
+  },
+  {
+    "w": "barely",
+    "r": "bare(赤裸的、空的) + -ly(副词后缀) → 几乎空空如也 → 几乎不",
+    "c": [
+      "Rural students in remote areas barely have access to high-quality educational resources and facilities.",
+      "偏远地区的农村学生几乎无法获得优质的教育资源和设施。"
+    ]
+  }
 ]
