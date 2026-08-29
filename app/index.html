@@ -55,18 +55,28 @@
     <!-- 卡片正面 -->
     <div class="card-front" id="card-front">
       <div class="word-tags" id="word-tags"></div>
-      <div class="word" id="word-text"></div>
+      <div class="word-line">
+        <div class="word" id="word-text"></div>
+        <button class="speak-btn" id="btn-speak-front" title="发音">🔊</button>
+      </div>
+      <div class="phonetic" id="word-ph"></div>
       <div class="freq-line" id="word-freq"></div>
       <div class="tap-hint">点击查看释义</div>
     </div>
     <!-- 卡片背面 -->
     <div class="card-back" id="card-back">
-      <div class="word-small" id="word-text2"></div>
+      <div class="word-line">
+        <div class="word-small" id="word-text2"></div>
+        <button class="speak-btn" id="btn-speak-back" title="发音">🔊</button>
+      </div>
+      <div class="phonetic" id="word-ph2"></div>
       <div class="def" id="word-def"></div>
       <div class="divider"></div>
       <div class="section-label">词根词缀</div>
       <div class="root-line" id="word-root"></div>
-      <div class="section-label">情景例句</div>
+      <div class="section-label ex-label">情景例句
+        <button class="speak-btn small" id="btn-speak-ex" title="例句发音">🔊</button>
+      </div>
       <div class="example" id="word-example"></div>
       <div class="example-zh" id="word-example-zh"></div>
     </div>
@@ -108,6 +118,10 @@
     <div class="setting-row">
       <div class="setting-label">包含初中基础词<br><span class="sub">the、apple 这类过简单的词</span></div>
       <button class="toggle" id="set-basic"></button>
+    </div>
+    <div class="setting-row">
+      <div class="setting-label">显示单词时自动发音<br><span class="sub">美音朗读单词</span></div>
+      <button class="toggle" id="set-autospeak"></button>
     </div>
     <div class="setting-divider"></div>
     <button class="wide-btn" id="btn-export">导出学习记录</button>

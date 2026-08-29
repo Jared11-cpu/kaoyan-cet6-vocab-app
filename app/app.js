@@ -2,7 +2,7 @@
 'use strict';
 
 /* ================= 数据 ================= */
-// WORDS 由 words-data.js 提供: [{w,t,ky,c6,kyF,c6F,imp,bs,ex,r,c}]
+// WORDS 由 words-data.js 提供: [{w,ph,t,ky,c6,kyF,c6F,imp,bs,ex,r,c}]
 
 const STORE_KEY = 'vocabApp.v1';
 const TAG_NAMES = { 3: '双重点', 2: '考研重点', 1: '六级重点', 0: '普通词' };
@@ -11,11 +11,12 @@ const state = loadState();
 let studyQueue = [];      // 本次学习队列: {word, isNew}
 let studyIndex = 0;
 let studyTotal = 0;
+let curExampleEn = '';    // 当前卡的英文例句(供发音)
 
 /* ================= 状态管理 ================= */
 function defaultState() {
   return {
-    settings: { daily: 20, scope: 'key', basic: false },
+    settings: { daily: 20, scope: 'key', basic: false, autoSpeak: true },
     progress: {},          // w -> {ef, ivl, reps, due(ts)}
     daily: { date: today(), newDone: 0, revDone: 0 },
     streak: { last: '', count: 0 },
@@ -146,6 +147,47 @@ function renderHome() {
     '已学 ' + learned + ' 词 · 已掌握 ' + mastered + ' 词 · 连续 ' + state.streak.count + ' 天';
 }
 
+/* ================= 发音 (美音) ================= */
+const hasTTS = typeof speechSynthesis !== 'undefined'
+  && typeof SpeechSynthesisUtterance !== 'undefined';
+let usVoice = undefined;   // undefined=未选, null=无可用美音
+
+function pickVoice() {
+  if (!hasTTS) return null;
+  if (usVoice !== undefined) return usVoice;
+  const vs = speechSynthesis.getVoices() || [];
+  const us = vs.filter(v => (v.lang || '').replace('_', '-').toLowerCase().startsWith('en-us'));
+  // 优先自然语音, 其次Google/Microsoft系统语音
+  usVoice = us.find(v => /natural|neural|online/i.test(v.name))
+    || us.find(v => /google/i.test(v.name))
+    || us[0] || null;
+  return usVoice;
+}
+if (hasTTS) {
+  speechSynthesis.onvoiceschanged = () => { usVoice = undefined; pickVoice(); };
+  pickVoice(); // 部分浏览器同步即有
+}
+
+function speak(text, rate) {
+  if (!hasTTS || !text) return;
+  try {
+    speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = 'en-US';
+    u.rate = rate || 0.92;
+    const v = pickVoice();
+    if (v) u.voice = v;
+    speechSynthesis.speak(u);
+  } catch (e) { /* 个别浏览器拒绝合成 */ }
+}
+
+function speakWord() { speak(studyQueue[studyIndex] ? studyQueue[studyIndex].word.w : ''); }
+function speakExample() { speak(curExampleEn, 0.88); }
+
+document.getElementById('btn-speak-front').addEventListener('click', ev => { ev.stopPropagation(); speakWord(); });
+document.getElementById('btn-speak-back').addEventListener('click', speakWord);
+document.getElementById('btn-speak-ex').addEventListener('click', speakExample);
+
 /* ================= 学习流程 ================= */
 document.getElementById('btn-start').addEventListener('click', startStudy);
 document.getElementById('btn-exit').addEventListener('click', () => { studyQueue = []; nav('home'); });
@@ -180,11 +222,13 @@ function showCard() {
   tags.appendChild(tag);
   if (word.bs) { const b = document.createElement('span'); b.className = 'tag tag-basic'; b.textContent = '基础词'; tags.appendChild(b); }
   document.getElementById('word-text').textContent = word.w;
+  document.getElementById('word-ph').textContent = word.ph ? '/' + word.ph + '/' : '';
   document.getElementById('word-freq').textContent =
     (word.ky ? '考研词频 ' + word.kyF : '') + (word.ky && word.c6 ? ' · ' : '') + (word.c6 ? '六级词频 ' + word.c6F : '');
 
   // 背面
   document.getElementById('word-text2').textContent = word.w;
+  document.getElementById('word-ph2').textContent = word.ph ? '/' + word.ph + '/' : '';
   document.getElementById('word-def').textContent = word.t || '';
   document.getElementById('word-root').textContent = word.r || '（暂无拆解）';
   const exampleEl = document.getElementById('word-example');
@@ -192,13 +236,20 @@ function showCard() {
   if (word.c && word.c.length === 2) {
     exampleEl.textContent = word.c[0];
     exampleZhEl.textContent = word.c[1];
+    curExampleEn = word.c[0];
   } else if (word.ex) {
     exampleEl.textContent = word.ex + '（六级真题）';
     exampleZhEl.textContent = '';
+    curExampleEn = word.ex;
   } else {
     exampleEl.textContent = '（暂无例句）';
     exampleZhEl.textContent = '';
+    curExampleEn = '';
   }
+  document.getElementById('btn-speak-ex').style.visibility = curExampleEn ? 'visible' : 'hidden';
+
+  // 显示正面时自动读单词(美音)
+  if (state.settings.autoSpeak) speakWord();
 
   // 先显示正面
   document.getElementById('card-front').style.display = 'flex';
@@ -257,9 +308,15 @@ function renderSettings() {
   }));
   const tog = document.getElementById('set-basic');
   tog.classList.toggle('on', state.settings.basic);
+  const tog2 = document.getElementById('set-autospeak');
+  tog2.classList.toggle('on', !!state.settings.autoSpeak);
 }
 document.getElementById('set-basic').addEventListener('click', () => {
   state.settings.basic = !state.settings.basic;
+  saveState(); renderSettings();
+});
+document.getElementById('set-autospeak').addEventListener('click', () => {
+  state.settings.autoSpeak = !state.settings.autoSpeak;
   saveState(); renderSettings();
 });
 
@@ -328,6 +385,7 @@ searchInput.addEventListener('input', () => {
   const hits = WORDS.filter(w => w.w.startsWith(q) || w.w.includes(q)).slice(0, 8);
   box.innerHTML = hits.map(w =>
     '<div class="sr-item"><div class="sr-word">' + w.w +
+    (w.ph ? ' <span class="sr-ph">/' + w.ph + '/</span>' : '') +
     ' <span class="tag tag-' + w.imp + '" style="font-size:10px">' + TAG_NAMES[w.imp] + '</span></div>' +
     '<div class="sr-def">' + (w.t || '') + '</div>' +
     '<div class="sr-root">' + (w.r || '') + '</div></div>'

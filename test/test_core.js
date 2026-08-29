@@ -23,8 +23,11 @@ function makeEl(id) {
       contains(c) { return this._set.has(c); },
     },
     addEventListener(type, fn) { (listeners[type] = listeners[type] || []).push(fn); },
-    click() { (listeners.click || []).forEach(f => f()); },
-    fire(type) { (listeners[type] || []).forEach(f => f()); },
+    click() { this.fire('click'); },
+    fire(type) {
+      const ev = { stopPropagation() {}, preventDefault() {} };
+      (listeners[type] || []).forEach(f => f(ev));
+    },
     appendChild() {},
   };
 }
@@ -72,6 +75,11 @@ console.log('== 1. 数据完整性 ==');
 const words = get('WORDS');
 check('词库已加载', Array.isArray(words) && words.length > 6000, 'len=' + words.length);
 check('字段齐全', words.every(w => w.w && w.t && typeof w.imp === 'number'));
+check('音标全覆盖', words.every(w => typeof w.ph === 'string' && w.ph.length > 0),
+  'missing: ' + words.filter(w => !w.ph).slice(0, 5).map(w => w.w).join(','));
+check('音标为合法IPA(无大写/数字)', words.every(w => /^[^A-Z0-9]+$/.test(w.ph)));
+const stressRatio = words.filter(w => w.ph.includes('ˈ')).length / words.length;
+check('主重音符覆盖率>90%', stressRatio > 0.9, 'ratio=' + stressRatio.toFixed(3));
 const impDist = {};
 words.forEach(w => { impDist[w.imp] = (impDist[w.imp] || 0) + 1; });
 check('重点分布合理(双重点>800)', (impDist[3] || 0) > 800, JSON.stringify(impDist));
@@ -90,6 +98,13 @@ check('队列无基础词', get('studyQueue').every(c => c.word.bs === 0));
 
 // 走完一张卡: 显示 -> 认识
 check('显示卡正面', els['card-front'].style.display !== 'none');
+check('正面显示音标', /^\/.*\/$/.test(els['word-ph'].textContent), 'ph=' + els['word-ph'].textContent);
+check('自动发音无TTS环境不崩溃', (() => { try { get('speak("hello")'); return true; } catch (e) { return false; } })());
+check('发音按钮点击不报错不翻面', (() => {
+  const before = els['card-front'].style.display;
+  try { els['btn-speak-front'].fire('click'); } catch (e) { return false; }
+  return els['card-front'].style.display === before;
+})());
 els['btn-reveal'].click();
 check('翻面后显示释义', els['card-back'].style.display !== 'none');
 const firstWord = get('studyQueue')[0].word.w;
