@@ -152,8 +152,8 @@ const hasTTS = typeof speechSynthesis !== 'undefined'
   && typeof SpeechSynthesisUtterance !== 'undefined';
 let usVoice = undefined;      // undefined=未选, null=无可用美音
 let voicesReady = false;      // 声音列表是否已加载(Chrome首次为空)
-let speakTimer = null;        // cancel->speak 延迟定时器(规避Chrome竞态)
-let speakRetryTimer = null;   // speak被cancel竞态静默吞掉后的兜底重试定时器
+let lastUtter = null;         // 上一条入队utterance的事件状态 {started, ended}
+let speakRetryTimer = null;   // speak被引擎竞态静默吞掉后的兜底重试定时器
 let pendingSpeak = null;      // 声音未就绪时暂存的待读内容
 let warnedTTS = false;        // 只提示一次错误
 
@@ -202,41 +202,35 @@ function doSpeak(text, rate) {
     u.volume = 1;
     const v = pickVoice();
     if (v) u.voice = v;
-    let done = false; // 正常播完/被打断后置位, 避免兜底重试造成重复朗读
-    u.onend = () => { done = true; };
+    // 自己跟踪utterance状态。不信任speechSynthesis.speaking/pending——
+    // Windows Chrome/Edge上它们经常在朗读结束后仍卡在true, 一旦卡住,
+    // 后续每次朗读都会走cancel路径被吞掉且兜底重试也被挡住, 表现为永久静默。
+    const st = { started: false, ended: false };
+    u.onstart = () => { st.started = true; };
+    u.onend = () => { st.ended = true; };
     u.onerror = ev => {
-      if (ev.error === 'interrupted' || ev.error === 'canceled') { done = true; return; }
-      if (ev.error && !warnedTTS) {
+      st.ended = true;
+      if (ev.error && ev.error !== 'interrupted' && ev.error !== 'canceled' && !warnedTTS) {
         warnedTTS = true;
         toast('朗读失败(' + ev.error + '), 请检查浏览器语音设置');
       }
     };
-    clearTimeout(speakTimer);
     clearTimeout(speakRetryTimer);
-    // Chrome/Edge引擎空闲时调用cancel()会进入清理状态, 紧随其后的speak()会被
-    // 静默吞掉且之后一直无声(表现为"第一个词能读, 第二个起全哑")。
-    // 因此空闲时直接speak; 只有正在朗读时才cancel(补resume解除卡死)并延迟一拍。
-    const busy = speechSynthesis.speaking || speechSynthesis.pending;
-    // speak()后500ms引擎仍未开始(被竞态静默吞掉, 无任何事件)则重试一次
-    const armRetry = () => {
-      clearTimeout(speakRetryTimer);
-      speakRetryTimer = setTimeout(() => {
-        if (!done && !speechSynthesis.speaking && !speechSynthesis.pending) {
-          try { speechSynthesis.speak(u); } catch (e) { /* 个别浏览器拒绝合成 */ }
-        }
-      }, 500);
-    };
-    if (busy) {
+    // 仅当上一条还没结束(在播或排队中)才cancel, 避免排队堆积;
+    // 引擎空闲时绝不cancel——空闲cancel正是Chrome吞音bug的触发条件。
+    if (lastUtter && !lastUtter.ended) {
       try { speechSynthesis.cancel(); } catch (e) { /* 个别浏览器拒绝合成 */ }
-      try { speechSynthesis.resume(); } catch (e) { /* 个别浏览器拒绝合成 */ }
-      speakTimer = setTimeout(() => {
-        try { speechSynthesis.speak(u); } catch (e) { /* 个别浏览器拒绝合成 */ }
-        armRetry();
-      }, 80);
-    } else {
-      try { speechSynthesis.speak(u); } catch (e) { /* 个别浏览器拒绝合成 */ }
-      armRetry();
     }
+    lastUtter = st;
+    try { speechSynthesis.speak(u); } catch (e) { /* 个别浏览器拒绝合成 */ }
+    // 兜底自愈: 600ms内连onstart/onend/onerror都没触发(被竞态静默吞掉),
+    // cancel后重读一次。只看自己的事件, 不看引擎标志。
+    speakRetryTimer = setTimeout(() => {
+      if (!st.started && !st.ended) {
+        try { speechSynthesis.cancel(); } catch (e) { /* 个别浏览器拒绝合成 */ }
+        try { speechSynthesis.speak(u); } catch (e) { /* 个别浏览器拒绝合成 */ }
+      }
+    }, 600);
   } catch (e) { /* 个别浏览器拒绝合成 */ }
 }
 
