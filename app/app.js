@@ -153,6 +153,7 @@ const hasTTS = typeof speechSynthesis !== 'undefined'
 let usVoice = undefined;      // undefined=未选, null=无可用美音
 let voicesReady = false;      // 声音列表是否已加载(Chrome首次为空)
 let speakTimer = null;        // cancel->speak 延迟定时器(规避Chrome竞态)
+let speakRetryTimer = null;   // speak被cancel竞态静默吞掉后的兜底重试定时器
 let pendingSpeak = null;      // 声音未就绪时暂存的待读内容
 let warnedTTS = false;        // 只提示一次错误
 
@@ -201,19 +202,41 @@ function doSpeak(text, rate) {
     u.volume = 1;
     const v = pickVoice();
     if (v) u.voice = v;
+    let done = false; // 正常播完/被打断后置位, 避免兜底重试造成重复朗读
+    u.onend = () => { done = true; };
     u.onerror = ev => {
-      // interrupted/canceled 是正常的中断, 其余错误提示一次
-      if (ev.error && ev.error !== 'interrupted' && ev.error !== 'canceled' && !warnedTTS) {
+      if (ev.error === 'interrupted' || ev.error === 'canceled') { done = true; return; }
+      if (ev.error && !warnedTTS) {
         warnedTTS = true;
         toast('朗读失败(' + ev.error + '), 请检查浏览器语音设置');
       }
     };
-    // cancel()后立即speak()在Chrome有竞态会被吞掉, 延迟一拍再读
     clearTimeout(speakTimer);
-    speechSynthesis.cancel();
-    speakTimer = setTimeout(() => {
+    clearTimeout(speakRetryTimer);
+    // Chrome/Edge引擎空闲时调用cancel()会进入清理状态, 紧随其后的speak()会被
+    // 静默吞掉且之后一直无声(表现为"第一个词能读, 第二个起全哑")。
+    // 因此空闲时直接speak; 只有正在朗读时才cancel(补resume解除卡死)并延迟一拍。
+    const busy = speechSynthesis.speaking || speechSynthesis.pending;
+    // speak()后500ms引擎仍未开始(被竞态静默吞掉, 无任何事件)则重试一次
+    const armRetry = () => {
+      clearTimeout(speakRetryTimer);
+      speakRetryTimer = setTimeout(() => {
+        if (!done && !speechSynthesis.speaking && !speechSynthesis.pending) {
+          try { speechSynthesis.speak(u); } catch (e) { /* 个别浏览器拒绝合成 */ }
+        }
+      }, 500);
+    };
+    if (busy) {
+      try { speechSynthesis.cancel(); } catch (e) { /* 个别浏览器拒绝合成 */ }
+      try { speechSynthesis.resume(); } catch (e) { /* 个别浏览器拒绝合成 */ }
+      speakTimer = setTimeout(() => {
+        try { speechSynthesis.speak(u); } catch (e) { /* 个别浏览器拒绝合成 */ }
+        armRetry();
+      }, 80);
+    } else {
       try { speechSynthesis.speak(u); } catch (e) { /* 个别浏览器拒绝合成 */ }
-    }, 50);
+      armRetry();
+    }
   } catch (e) { /* 个别浏览器拒绝合成 */ }
 }
 
@@ -335,18 +358,20 @@ function finishStudy() {
 /* ================= 设置页 ================= */
 function renderSettings() {
   document.getElementById('set-daily').textContent = state.settings.daily;
-  document.querySelectorAll('.step-btn').forEach(b => b.addEventListener('click', () => {
-    state.settings.daily = Math.min(200, Math.max(5, state.settings.daily + parseInt(b.dataset.step)));
-    saveState(); renderSettings();
-  }));
-  document.querySelectorAll('.seg-btn').forEach(b => b.addEventListener('click', () => {
-    state.settings.scope = b.dataset.scope; saveState(); renderSettings();
-  }));
-  const tog = document.getElementById('set-basic');
-  tog.classList.toggle('on', state.settings.basic);
-  const tog2 = document.getElementById('set-autospeak');
-  tog2.classList.toggle('on', !!state.settings.autoSpeak);
+  document.querySelectorAll('.seg-btn').forEach(b =>
+    b.classList.toggle('on', b.dataset.scope === state.settings.scope));
+  document.getElementById('set-basic').classList.toggle('on', state.settings.basic);
+  document.getElementById('set-autospeak').classList.toggle('on', !!state.settings.autoSpeak);
 }
+// 事件只绑一次。不能放进renderSettings(每次进设置页/每点一次按钮都会重跑),
+// 否则addEventListener会不断叠加监听器, 点几次后数值一步跳好几十、卡在上下限。
+document.querySelectorAll('.step-btn').forEach(b => b.addEventListener('click', () => {
+  state.settings.daily = Math.min(200, Math.max(5, state.settings.daily + parseInt(b.dataset.step)));
+  saveState(); renderSettings();
+}));
+document.querySelectorAll('.seg-btn').forEach(b => b.addEventListener('click', () => {
+  state.settings.scope = b.dataset.scope; saveState(); renderSettings();
+}));
 document.getElementById('set-basic').addEventListener('click', () => {
   state.settings.basic = !state.settings.basic;
   saveState(); renderSettings();
